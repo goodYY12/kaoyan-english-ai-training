@@ -1,0 +1,71 @@
+[
+  {
+    "id": "reading-1",
+    "type": "细节题",
+    "passage": "Many students believe that longer study hours guarantee better results. Yet research suggests that focused sessions followed by short breaks often produce stronger memory than continuous, distracted study.",
+    "question": "What does the research suggest about effective study?",
+    "options": [
+      { "label": "A", "text": "Longer study always leads to better memory." },
+      { "label": "B", "text": "Short breaks can support focused learning." },
+      { "label": "C", "text": "Students should avoid all forms of distraction." },
+      { "label": "D", "text": "Memory mainly depends on total study time." }
+    ],
+    "correctAnswer": "B",
+    "analysis": {
+      "questionType": "细节题：答案可以在原文中直接定位。",
+      "intent": "检查考生能否识别作者用研究结论修正大众直觉。",
+      "location": "定位到 Yet research suggests 后的完整句子。",
+      "correct": "B。原文指出专注学习后安排短暂休息，记忆效果往往更好。",
+      "paraphrase": "short breaks can support focused learning 对应 focused sessions followed by short breaks produce stronger memory。",
+      "distractors": "A、D 把研究否定的观点说成结论；C 使用 all，范围过度扩大。",
+      "rule": "转折词后的研究结论常是命题重点。",
+      "reminder": "看到 yet、however 等词，优先比较转折前后的观点。"
+    }
+  },
+  {
+    "id": "reading-2",
+    "type": "主旨题",
+    "passage": "Public libraries are no longer merely quiet rooms filled with books. Many now offer digital workshops, career guidance and shared workspaces. These services show how libraries are adapting while preserving their central mission of making knowledge accessible.",
+    "question": "Which title best summarizes the passage?",
+    "options": [
+      { "label": "A", "text": "Why Printed Books Are Disappearing" },
+      { "label": "B", "text": "The Cost of Modern Public Services" },
+      { "label": "C", "text": "Libraries Adapt to New Community Needs" },
+      { "label": "D", "text": "How Shared Offices Replace Libraries" }
+    ],
+    "correctAnswer": "C",
+    "analysis": {
+      "questionType": "主旨题：需要概括全文共同指向。",
+      "intent": "检查考生能否把多个服务例子上升为总体变化。",
+      "location": "首句提出变化，末句总结 libraries are adapting。",
+      "correct": "C。它同时覆盖图书馆的新服务和服务社会的核心目标。",
+      "paraphrase": "adapt to new community needs 对应 offer new services while preserving access to knowledge。",
+      "distractors": "A 只抓住书籍；B 原文未讨论成本；D 把补充服务误写成取代关系。",
+      "rule": "最佳标题通常覆盖全文，而不是只复述一个例子。",
+      "reminder": "主旨选项要同时通过范围测试和态度测试。"
+    }
+  },
+  {
+    "id": "reading-3",
+    "type": "推理题",
+    "passage": "A company introduced a four-day workweek but kept its performance targets unchanged. After six months, output remained stable and employee absences declined. Managers are therefore considering extending the trial.",
+    "question": "It can be inferred that the managers view the trial as",
+    "options": [
+      { "label": "A", "text": "too expensive to continue." },
+      { "label": "B", "text": "promising enough for further evaluation." },
+      { "label": "C", "text": "a complete replacement for performance targets." },
+      { "label": "D", "text": "successful only because output increased sharply." }
+    ],
+    "correctAnswer": "B",
+    "analysis": {
+      "questionType": "推理题：答案不是原句复刻，但必须由事实推出。",
+      "intent": "检查考生能否根据继续试验的行动判断管理者态度。",
+      "location": "最后一句 considering extending the trial。",
+      "correct": "B。考虑延长试验说明管理者认为结果值得继续观察。",
+      "paraphrase": "promising enough for further evaluation 对应 considering extending the trial。",
+      "distractors": "A 与延长试验相反；C 偷换为取消目标；D 虚构产出大幅增长。",
+      "rule": "推理必须保持克制，选择比原文只多走一步的答案。",
+      "reminder": "警惕 complete、only、sharply 等绝对或夸张词。"
+    }
+  }
+]

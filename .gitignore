@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vite/
+.superpowers/
+docs/superpowers/
+.vercel/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vite-dev.log
+.vite-dev-error.log
+*.log

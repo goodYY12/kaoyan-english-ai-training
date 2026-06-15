@@ -1,0 +1,16 @@
+[
+  {
+    "type": "小作文",
+    "title": "建议信基础结构",
+    "template": ["说明写信目的", "给出两至三条具体建议", "表达期待与祝愿"],
+    "sentences": ["I am writing to offer a few practical suggestions.", "It would be helpful to consider..."],
+    "replacements": ["helpful → beneficial", "consider → take into account"]
+  },
+  {
+    "type": "大作文",
+    "title": "图画作文基础结构",
+    "template": ["准确描述图画", "解释象征意义", "分析影响并提出建议"],
+    "sentences": ["The drawing highlights a phenomenon that deserves attention.", "What matters most is that..."],
+    "replacements": ["important → significant", "show → illustrate"]
+  }
+]

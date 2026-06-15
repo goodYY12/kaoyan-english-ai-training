@@ -1,0 +1,14 @@
+[
+  {
+    "id": "translation-1",
+    "sentence": "A useful theory does more than explain what has already happened; it also helps us ask better questions about what may happen next.",
+    "reference": "一个有用的理论不仅能解释已经发生的事情，还能帮助我们针对接下来可能发生的事情提出更好的问题。",
+    "deductions": ["漏译 does more than", "没有译出分号后的递进关系", "把 may 误译成必然"]
+  },
+  {
+    "id": "translation-2",
+    "sentence": "The value of disagreement lies partly in its ability to reveal assumptions that would otherwise remain unnoticed.",
+    "reference": "分歧的价值，部分在于它能够揭示那些原本不会被注意到的假设。",
+    "deductions": ["lie in 译为位于而非在于", "漏译 partly", "otherwise 的逻辑处理错误"]
+  }
+]

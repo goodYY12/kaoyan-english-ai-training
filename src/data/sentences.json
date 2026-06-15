@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sentence-1",
+    "sentence": "The skills that students develop while questioning an argument often matter more than the conclusion they finally reach.",
+    "core": "The skills often matter more than the conclusion.",
+    "clauses": "that students develop 修饰 skills；they finally reach 修饰 conclusion。",
+    "modifiers": "while questioning an argument 表示在质疑论证的过程中。",
+    "keywords": ["develop", "question an argument", "matter more than"],
+    "translation": "学生在质疑一个论证时培养的能力，往往比他们最终得出的结论更重要。"
+  },
+  {
+    "id": "sentence-2",
+    "sentence": "What makes the policy difficult to evaluate is not the lack of data but the different standards by which success is measured.",
+    "core": "What makes the policy difficult is not A but B.",
+    "clauses": "What 引导主语从句；by which success is measured 修饰 standards。",
+    "modifiers": "not A but B 表示真正困难不在数据，而在标准。",
+    "keywords": ["evaluate", "not...but...", "measure success"],
+    "translation": "使这项政策难以评估的，并不是缺少数据，而是衡量成功的标准各不相同。"
+  }
+]

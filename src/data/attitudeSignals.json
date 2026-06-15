@@ -1,0 +1,17 @@
+[
+  {
+    "title": "谨慎肯定",
+    "summary": "作者认可方向，但保留条件。",
+    "details": ["may", "suggest", "promising", "potential"]
+  },
+  {
+    "title": "明确批评",
+    "summary": "作者指出做法存在明显缺陷。",
+    "details": ["misleading", "flawed", "unjustified", "fail to"]
+  },
+  {
+    "title": "客观中立",
+    "summary": "作者主要呈现事实或不同观点。",
+    "details": ["report", "describe", "according to", "while"]
+  }
+]
