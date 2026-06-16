@@ -35,8 +35,8 @@ test("2026 reading papers have one full passage and five complete questions", ()
   }
 });
 
-test("Text 1 has structured vocabulary for the word self-test", () => {
-  assert.ok(text1.vocabulary.length >= 5);
+test("Text 1 has enough structured vocabulary for the word self-test", () => {
+  assert.ok(text1.vocabulary.length >= 30);
 
   for (const item of text1.vocabulary) {
     assert.equal(typeof item.word, "string");
