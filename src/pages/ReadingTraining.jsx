@@ -14,6 +14,10 @@ function getQuestionId(paper, question) {
   return `${paper.year}-${paper.textNumber.toLowerCase().replace(" ", "-")}-${question.questionNumber}`;
 }
 
+function getQuestionType(question) {
+  return question.type ?? question.questionType ?? "未分类";
+}
+
 function getStructuredVocabulary(paper) {
   return paper.vocabulary.filter((item) => typeof item === "object");
 }
@@ -21,9 +25,7 @@ function getStructuredVocabulary(paper) {
 function highlightWord(sentence, word) {
   const index = sentence.toLowerCase().indexOf(word.toLowerCase());
 
-  if (index === -1) {
-    return sentence;
-  }
+  if (index === -1) return sentence;
 
   return (
     <>
@@ -36,6 +38,22 @@ function highlightWord(sentence, word) {
   );
 }
 
+function getVocabularyOptions(wordItem, vocabulary) {
+  if (wordItem.options) return wordItem.options;
+
+  const distractors = vocabulary
+    .filter((item) => item.word !== wordItem.word)
+    .map((item) => item.meaning)
+    .slice(0, 3);
+
+  return {
+    A: wordItem.meaning,
+    B: distractors[0] ?? "无关含义",
+    C: distractors[1] ?? "相反含义",
+    D: distractors[2] ?? "扩大含义",
+  };
+}
+
 export default function ReadingTraining() {
   const [selectedYear, setSelectedYear] = useState(years[0]);
   const [selectedTextNumber, setSelectedTextNumber] = useState("Text 1");
@@ -44,7 +62,7 @@ export default function ReadingTraining() {
   const [showAnalysis, setShowAnalysis] = useState(true);
   const [mode, setMode] = useState("reading");
   const [wordIndex, setWordIndex] = useState(0);
-  const [wordResults, setWordResults] = useState({});
+  const [wordAnswers, setWordAnswers] = useState({});
   const [savedIds, setSavedIds] = useState(
     () => new Set(getMistakes().map((item) => item.id)),
   );
@@ -64,13 +82,16 @@ export default function ReadingTraining() {
       ? total + 1
       : total;
   }, 0);
-  const wordSummary = vocabulary.reduce(
-    (summary, item) => {
-      const value = wordResults[item.word];
-      return value ? { ...summary, [value]: summary[value] + 1 } : summary;
-    },
-    { know: 0, vague: 0, unknown: 0 },
+  const wrongQuestions = currentPaper.questions.filter(
+    (question) => answers[question.questionNumber] !== question.answer,
   );
+  const wrongTypeCounts = wrongQuestions.reduce((counts, question) => {
+    const type = getQuestionType(question);
+    return { ...counts, [type]: (counts[type] ?? 0) + 1 };
+  }, {});
+  const wordScore = vocabulary.reduce((total, item) => {
+    return wordAnswers[item.word] === (item.answer ?? "A") ? total + 1 : total;
+  }, 0);
 
   function chooseYear(year) {
     const firstPaper = papers.find((paper) => paper.year === Number(year));
@@ -87,7 +108,7 @@ export default function ReadingTraining() {
   function resetVocabulary() {
     setMode("reading");
     setWordIndex(0);
-    setWordResults({});
+    setWordAnswers({});
   }
 
   function resetTraining() {
@@ -100,14 +121,11 @@ export default function ReadingTraining() {
   function startVocabularyTest() {
     setMode("vocabulary");
     setWordIndex(0);
-    setWordResults({});
+    setWordAnswers({});
   }
 
-  function chooseFamiliarity(value) {
-    setWordResults((current) => ({
-      ...current,
-      [currentWord.word]: value,
-    }));
+  function chooseWordAnswer(label) {
+    setWordAnswers((current) => ({ ...current, [currentWord.word]: label }));
   }
 
   function goToNextWord() {
@@ -120,7 +138,7 @@ export default function ReadingTraining() {
 
     addMistake({
       id,
-      type: question.questionType,
+      type: getQuestionType(question),
       question: `${currentPaper.year} ${currentPaper.textNumber} - ${question.questionNumber}. ${question.questionText}`,
       userAnswer: selected,
       correctAnswer: question.answer,
@@ -131,6 +149,16 @@ export default function ReadingTraining() {
 
   if (mode === "vocabulary") {
     const finished = wordIndex >= vocabulary.length;
+    const currentOptions = currentWord
+      ? getVocabularyOptions(currentWord, vocabulary)
+      : {};
+    const selectedWordAnswer = currentWord ? wordAnswers[currentWord.word] : "";
+    const correctWordAnswer = currentWord?.answer ?? "A";
+    const isWordAnswered = Boolean(selectedWordAnswer);
+    const accuracy =
+      vocabulary.length === 0
+        ? 0
+        : Math.round((wordScore / vocabulary.length) * 100);
 
     return (
       <div>
@@ -139,8 +167,7 @@ export default function ReadingTraining() {
           本篇单词自测
         </h1>
         <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-500">
-          {currentPaper.year} {currentPaper.textNumber} 的核心词汇。一次只看一个词，
-          结合原文例句判断自己是否真正认识。
+          每次只看一个词，结合原文句子选择它在本文中的中文释义。
         </p>
 
         <div className="mt-6">
@@ -153,16 +180,14 @@ export default function ReadingTraining() {
           >
             {finished ? (
               <div>
-                <div className="grid gap-3 sm:grid-cols-3">
-                  <p className="rounded-2xl bg-emerald-50 p-5 text-center text-emerald-700">
-                    认识 <strong className="text-2xl">{wordSummary.know}</strong> 个
+                <div className="rounded-3xl bg-blue-50 p-6 text-center">
+                  <p className="text-sm font-semibold text-blue-700">
+                    本次单词正确率
                   </p>
-                  <p className="rounded-2xl bg-amber-50 p-5 text-center text-amber-700">
-                    模糊 <strong className="text-2xl">{wordSummary.vague}</strong> 个
+                  <p className="mt-2 text-4xl font-bold text-slate-900">
+                    {wordScore}/{vocabulary.length}
                   </p>
-                  <p className="rounded-2xl bg-rose-50 p-5 text-center text-rose-700">
-                    不认识 <strong className="text-2xl">{wordSummary.unknown}</strong> 个
-                  </p>
+                  <p className="mt-1 text-sm text-slate-500">{accuracy}%</p>
                 </div>
                 <div className="mt-6 flex flex-wrap gap-3">
                   <button
@@ -190,16 +215,13 @@ export default function ReadingTraining() {
                         {currentWord.word}
                       </h2>
                       <p className="mt-2 text-sm text-slate-500">
-                        {currentWord.phonetic} · {currentWord.partOfSpeech} · {currentWord.difficulty}
+                        {currentWord.phonetic} · {currentWord.partOfSpeech}
                       </p>
                     </div>
                     <span className="rounded-full bg-white px-3 py-1 text-xs font-semibold text-blue-700">
                       第 {currentWord.sourceParagraph} 段
                     </span>
                   </div>
-                  <p className="mt-5 text-lg font-semibold text-blue-800">
-                    {currentWord.meaning}
-                  </p>
                 </div>
 
                 <div className="mt-5 rounded-2xl bg-slate-50 p-5 text-sm leading-7 text-slate-700">
@@ -207,36 +229,56 @@ export default function ReadingTraining() {
                   <p className="mt-2 text-base">
                     {highlightWord(currentWord.sentence, currentWord.word)}
                   </p>
-                  <p className="mt-3 text-slate-500">
-                    {currentWord.sentenceTranslation}
-                  </p>
-                  {currentWord.note && (
-                    <p className="mt-3 rounded-xl bg-white p-3 text-blue-700">
-                      提醒：{currentWord.note}
-                    </p>
-                  )}
                 </div>
 
-                <div className="mt-5 grid gap-2 sm:grid-cols-3">
-                  {[
-                    ["know", "认识", "bg-emerald-50 text-emerald-700"],
-                    ["vague", "模糊", "bg-amber-50 text-amber-700"],
-                    ["unknown", "不认识", "bg-rose-50 text-rose-700"],
-                  ].map(([value, label, style]) => (
-                    <button
-                      key={value}
-                      type="button"
-                      onClick={() => chooseFamiliarity(value)}
-                      className={`rounded-xl px-4 py-3 text-sm font-semibold ${style} ${
-                        wordResults[currentWord.word] === value
-                          ? "ring-2 ring-blue-400"
-                          : ""
-                      }`}
-                    >
-                      {label}
-                    </button>
-                  ))}
+                <div className="mt-5 grid gap-3">
+                  {Object.entries(currentOptions).map(([label, text]) => {
+                    const isSelected = selectedWordAnswer === label;
+                    const isCorrect = isWordAnswered && correctWordAnswer === label;
+                    const isWrong = isWordAnswered && isSelected && !isCorrect;
+                    let style =
+                      "border-slate-200 bg-white text-slate-700 hover:border-blue-300 hover:bg-blue-50";
+
+                    if (isCorrect) {
+                      style = "border-emerald-300 bg-emerald-50 text-emerald-800";
+                    } else if (isWrong) {
+                      style = "border-rose-300 bg-rose-50 text-rose-800";
+                    } else if (isSelected) {
+                      style = "border-blue-300 bg-blue-50 text-blue-800";
+                    }
+
+                    return (
+                      <button
+                        key={label}
+                        type="button"
+                        disabled={isWordAnswered}
+                        onClick={() => chooseWordAnswer(label)}
+                        className={`rounded-xl border px-4 py-3 text-left text-sm transition disabled:cursor-default ${style}`}
+                      >
+                        <span className="mr-2 font-bold">{label}.</span>
+                        {text}
+                      </button>
+                    );
+                  })}
                 </div>
+
+                {isWordAnswered && (
+                  <div className="mt-5 rounded-2xl bg-slate-50 p-5 text-sm leading-7 text-slate-700">
+                    <p>
+                      正确答案：
+                      <strong className="text-emerald-700">
+                        {correctWordAnswer}. {currentOptions[correctWordAnswer]}
+                      </strong>
+                    </p>
+                    <p className="mt-2">
+                      本文语境义：
+                      <strong>{currentWord.meaningInContext ?? currentWord.meaning}</strong>
+                    </p>
+                    <p className="mt-2">
+                      {currentWord.explanation ?? currentWord.note}
+                    </p>
+                  </div>
+                )}
 
                 <div className="mt-5 flex flex-wrap justify-between gap-3">
                   <button
@@ -248,7 +290,7 @@ export default function ReadingTraining() {
                   </button>
                   <button
                     type="button"
-                    disabled={!wordResults[currentWord.word]}
+                    disabled={!isWordAnswered}
                     onClick={goToNextWord}
                     className="rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white disabled:cursor-not-allowed disabled:bg-slate-300"
                   >
@@ -269,7 +311,7 @@ export default function ReadingTraining() {
       <h1 className="mt-2 text-3xl font-bold text-slate-900">完整阅读训练</h1>
       <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-500">
         选择年份和 Text，先完整读完一篇文章，再连续完成 5 道选择题。
-        提交后统一查看得分、定位、解析和做题思路。
+        提交后统一查看得分、题型、错因和解析。
       </p>
 
       <div className="mt-6 grid gap-4 rounded-2xl border border-blue-100 bg-white p-4 shadow-sm md:grid-cols-[1fr_2fr]">
@@ -431,7 +473,7 @@ export default function ReadingTraining() {
                           正确答案：<strong>{question.answer}</strong>
                         </p>
                         <p className="rounded-xl bg-blue-50 p-3 text-blue-700">
-                          题型：<strong>{question.questionType}</strong>
+                          题型：<strong>{getQuestionType(question)}</strong>
                         </p>
                       </div>
 
@@ -445,9 +487,15 @@ export default function ReadingTraining() {
                           {question.explanation}
                         </p>
                         <p className="mt-2">
-                          <strong>做题思路：</strong>
-                          {question.thinkingMethod}
+                          <strong>干扰项分析：</strong>
+                          {question.trapAnalysis ?? question.thinkingMethod}
                         </p>
+                        {isWrong && (
+                          <p className="mt-2 rounded-xl bg-rose-50 p-3 text-rose-700">
+                            <strong>本题错因：</strong>
+                            {question.commonMistake ?? "本题可能存在定位错误或同义替换没识别。"}
+                          </p>
+                        )}
                       </div>
 
                       <button
@@ -468,10 +516,20 @@ export default function ReadingTraining() {
           <div className="sticky bottom-4 mt-6 rounded-2xl border border-blue-100 bg-white/95 p-4 shadow-lg backdrop-blur">
             {submitted ? (
               <div className="flex flex-wrap items-center justify-between gap-3">
-                <p className="text-lg font-bold text-slate-900">
-                  本篇得分：
-                  <span className="text-blue-600">{score}/5</span>
-                </p>
+                <div>
+                  <p className="text-lg font-bold text-slate-900">
+                    本篇得分：
+                    <span className="text-blue-600">{score}/5</span>
+                  </p>
+                  <div className="mt-2 text-sm text-slate-500">
+                    <p>你本篇错了 {wrongQuestions.length} 题</p>
+                    {Object.entries(wrongTypeCounts).map(([type, count]) => (
+                      <p key={type}>
+                        {type}错 {count} 题
+                      </p>
+                    ))}
+                  </div>
+                </div>
                 <div className="flex flex-wrap gap-2">
                   <button
                     type="button"
@@ -494,7 +552,7 @@ export default function ReadingTraining() {
                     className="rounded-xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700 disabled:cursor-not-allowed disabled:bg-slate-300"
                   >
                     {vocabulary.length > 0
-                      ? "开始本篇单词自测"
+                      ? "进入单词自测"
                       : "本篇暂未整理词汇"}
                   </button>
                 </div>

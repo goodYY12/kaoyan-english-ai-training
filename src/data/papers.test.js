@@ -35,6 +35,15 @@ test("2026 reading papers have one full passage and five complete questions", ()
   }
 });
 
+test("Text 1 questions include trap and mistake analysis", () => {
+  for (const question of text1.questions) {
+    assert.equal(typeof question.trapAnalysis, "string");
+    assert.ok(question.trapAnalysis.length > 10);
+    assert.equal(typeof question.commonMistake, "string");
+    assert.ok(question.commonMistake.length > 10);
+  }
+});
+
 test("Text 1 has enough structured vocabulary for the word self-test", () => {
   assert.ok(text1.vocabulary.length >= 30);
 
@@ -46,6 +55,10 @@ test("Text 1 has enough structured vocabulary for the word self-test", () => {
     assert.equal(typeof item.sentenceTranslation, "string");
     assert.equal(typeof item.difficulty, "string");
     assert.equal(typeof item.sourceParagraph, "number");
+    assert.deepEqual(Object.keys(item.options), ["A", "B", "C", "D"]);
+    assert.match(item.answer, /^[A-D]$/);
+    assert.equal(typeof item.meaningInContext, "string");
+    assert.equal(typeof item.explanation, "string");
     assert.equal(item.meaning.includes("?"), false);
     assert.equal(item.sentenceTranslation.includes("?"), false);
     assert.equal(item.note.includes("?"), false);

@@ -19,7 +19,9 @@
       "explanation": "Paragraph 1 says where and when donkeys first became intertwined with humans has been a mystery.",
       "questionType": "细节题",
       "location": "Paragraph 1: where and when these animals first became intertwined with humans has been a mystery.",
-      "thinkingMethod": "定位 paragraph 1，抓住 mystery 这个核心信息。"
+      "thinkingMethod": "定位 paragraph 1，抓住 mystery 这个核心信息。",
+      "trapAnalysis": "C 项抓住了 earlier than horses 的数字比较，但题干问 paragraph 1 可知的核心信息，重点是 mystery。",
+      "commonMistake": "定位错误：只看到 3,000 years before horses，却忽略题干段落中的 mystery。"
     },
     {
       "questionNumber": 22,
@@ -34,7 +36,9 @@
       "explanation": "Brooks stresses that DNA lets the animals tell their own history.",
       "questionType": "细节题",
       "location": "Paragraph 2: Through their DNA, the animals are telling their history themselves.",
-      "thinkingMethod": "引号题要概括引语主旨，DNA/history 对应 genetic analysis。"
+      "thinkingMethod": "引号题要概括引语主旨，DNA/history 对应 genetic analysis。",
+      "trapAnalysis": "C 项提到 written accounts，但 Brooks 实际上是在说明文字记录不足，DNA 能提供新证据。",
+      "commonMistake": "同义替换没识别：没有把 DNA 和 genetic analysis 对应起来。"
     },
     {
       "questionNumber": 23,
@@ -49,7 +53,9 @@
       "explanation": "The researchers traced how donkeys spread across Africa and into Europe and Asia.",
       "questionType": "细节题",
       "location": "Paragraph 3: traced how the animals spread across the rest of the continent and into Europe and Asia.",
-      "thinkingMethod": "spread 与 dispersed 是同义替换。"
+      "thinkingMethod": "spread 与 dispersed 是同义替换。",
+      "trapAnalysis": "D 项看似与环境有关，但原文第三段重点是扩散路径，不是适应环境。",
+      "commonMistake": "同义替换没识别：spread across 与 dispersed widely 是同义表达。"
     },
     {
       "questionNumber": 24,
@@ -64,7 +70,9 @@
       "explanation": "Orlando suggests prehistoric humans may have used donkeys to navigate the expanding Sahara.",
       "questionType": "推理题",
       "location": "Paragraph 4: Prehistoric humans may have enlisted donkeys' help in navigating the expanding Sahara.",
-      "thinkingMethod": "may have 表明是可能解释，不是确定结论。"
+      "thinkingMethod": "may have 表明是可能解释，不是确定结论。",
+      "trapAnalysis": "A、C、D 都把 Orlando 的话拔高成反驳、索证或不同观点；原文只是给出一种可能解释。",
+      "commonMistake": "过度推理：把 may have 的可能性读成确定结论或观点冲突。"
     },
     {
       "questionNumber": 25,
@@ -79,40 +87,612 @@
       "explanation": "The final paragraph says the research might improve donkey management in the future.",
       "questionType": "细节题",
       "location": "Last paragraph: it also might improve their management in the future.",
-      "thinkingMethod": "目的题直接找 could help / might improve。"
+      "thinkingMethod": "目的题直接找 could help / might improve。",
+      "trapAnalysis": "A、C、D 都是根据 wildlife、early donkeys、climate change 做扩大联想，原文明确落在 management。",
+      "commonMistake": "选项范围扩大：把原文 better management of donkeys 扩大成 wildlife 或 climate change awareness。"
     }
   ],
   "vocabulary": [
-    {"word": "critical", "phonetic": "/ˈkrɪtɪkl/", "partOfSpeech": "adj.", "meaning": "关键的；至关重要的", "sentence": "For thousands of years, donkeys have been critical for propelling human civilizations forward.", "sentenceTranslation": "数千年来，驴一直是推动人类文明前进的关键力量。", "difficulty": "easy", "sourceParagraph": 1, "note": "critical for/to 表示“对……至关重要”。"},
-    {"word": "propel", "phonetic": "/prəˈpel/", "partOfSpeech": "v.", "meaning": "推动；推进", "sentence": "For thousands of years, donkeys have been critical for propelling human civilizations forward.", "sentenceTranslation": "数千年来，驴一直是推动人类文明前进的关键力量。", "difficulty": "medium", "sourceParagraph": 1, "note": "常用于抽象意义：推动发展、进步。"},
-    {"word": "civilization", "phonetic": "/ˌsɪvələˈzeɪʃn/", "partOfSpeech": "n.", "meaning": "文明；文明社会", "sentence": "For thousands of years, donkeys have been critical for propelling human civilizations forward.", "sentenceTranslation": "数千年来，驴一直是推动人类文明前进的关键力量。", "difficulty": "easy", "sourceParagraph": 1, "note": "历史文化类文章高频词。"},
-    {"word": "intertwine", "phonetic": "/ˌɪntərˈtwaɪn/", "partOfSpeech": "v.", "meaning": "交织；紧密联系", "sentence": "But where and when these animals first became intertwined with humans has been a mystery.", "sentenceTranslation": "但这些动物最早在何时何地与人类紧密联系在一起，一直是个谜。", "difficulty": "medium", "sourceParagraph": 1, "note": "intertwined with 表示“与……交织或关联”。"},
-    {"word": "mystery", "phonetic": "/ˈmɪstəri/", "partOfSpeech": "n.", "meaning": "谜；神秘之事", "sentence": "But where and when these animals first became intertwined with humans has been a mystery.", "sentenceTranslation": "但这些动物最早在何时何地与人类紧密联系在一起，一直是个谜。", "difficulty": "easy", "sourceParagraph": 1, "note": "本篇第21题定位词。"},
-    {"word": "genome", "phonetic": "/ˈdʒiːnoʊm/", "partOfSpeech": "n.", "meaning": "基因组", "sentence": "Now, researchers have used the genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa.", "sentenceTranslation": "如今，研究人员利用200多头驴的基因组，将其驯化追溯到约7000年前东非的一次单一事件。", "difficulty": "medium", "sourceParagraph": 1, "note": "科学研究类文章常见词。"},
-    {"word": "trace", "phonetic": "/treɪs/", "partOfSpeech": "v./n.", "meaning": "追溯；踪迹", "sentence": "Now, researchers have used the genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa.", "sentenceTranslation": "如今，研究人员利用200多头驴的基因组，将其驯化追溯到约7000年前东非的一次单一事件。", "difficulty": "medium", "sourceParagraph": 1, "note": "trace...back to... 表示“把……追溯到……”。"},
-    {"word": "domestication", "phonetic": "/dəˌmestɪˈkeɪʃn/", "partOfSpeech": "n.", "meaning": "驯化；家养化", "sentence": "Now, researchers have used the genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa.", "sentenceTranslation": "如今，研究人员利用200多头驴的基因组，将其驯化追溯到约7000年前东非的一次单一事件。", "difficulty": "hard", "sourceParagraph": 1, "note": "domestic 是“家养的；国内的”。"},
-    {"word": "single", "phonetic": "/ˈsɪŋɡl/", "partOfSpeech": "adj.", "meaning": "单一的；唯一的", "sentence": "Now, researchers have used the genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa.", "sentenceTranslation": "如今，研究人员利用200多头驴的基因组，将其驯化追溯到约7000年前东非的一次单一事件。", "difficulty": "easy", "sourceParagraph": 1, "note": "与 multiple 形成常见反义干扰。"},
-    {"word": "tame", "phonetic": "/teɪm/", "partOfSpeech": "v./adj.", "meaning": "驯服；温顺的", "sentence": "The finding dates to about 3,000 years before humans tamed horses.", "sentenceTranslation": "这一发现的时间比人类驯服马匹早约3000年。", "difficulty": "easy", "sourceParagraph": 1, "note": "tamed horses 是第21题干扰信息来源。"},
-    {"word": "co-author", "phonetic": "/ˌkoʊ ˈɔːθər/", "partOfSpeech": "n.", "meaning": "合著者；共同作者", "sentence": "Through their DNA, the animals are telling their history themselves, co-author Samantha Brooks says in a statement.", "sentenceTranslation": "合著者 Samantha Brooks 在声明中说，通过它们的DNA，这些动物正在自己讲述自己的历史。", "difficulty": "easy", "sourceParagraph": 2, "note": "新闻和研究报道中常见。"},
-    {"word": "equine", "phonetic": "/ˈiːkwaɪn/", "partOfSpeech": "adj./n.", "meaning": "马科动物的；马科动物", "sentence": "Co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.", "sentenceTranslation": "合著者、佛罗里达大学马科动物研究员 Samantha Brooks 在声明中说。", "difficulty": "hard", "sourceParagraph": 2, "note": "本文中包括驴等马科动物。"},
-    {"word": "statement", "phonetic": "/ˈsteɪtmənt/", "partOfSpeech": "n.", "meaning": "声明；陈述", "sentence": "Co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.", "sentenceTranslation": "合著者、佛罗里达大学马科动物研究员 Samantha Brooks 在声明中说。", "difficulty": "easy", "sourceParagraph": 2, "note": "题干 Brooks' statement 直接对应。"},
-    {"word": "account", "phonetic": "/əˈkaʊnt/", "partOfSpeech": "n./v.", "meaning": "叙述；账户；解释", "sentence": "We usually only get the human's side of history through written accounts.", "sentenceTranslation": "我们通常只能通过文字记载了解人类一方的历史。", "difficulty": "medium", "sourceParagraph": 2, "note": "written accounts 表示“文字记录”。"},
-    {"word": "sequence", "phonetic": "/ˈsiːkwəns/", "partOfSpeech": "n.", "meaning": "序列；顺序", "sentence": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in.", "sentenceTranslation": "通过研究这些DNA序列，我们获得了关于这些动物生活环境的生物学证据。", "difficulty": "medium", "sourceParagraph": 2, "note": "DNA sequence 是固定搭配。"},
-    {"word": "testimony", "phonetic": "/ˈtestɪmoʊni/", "partOfSpeech": "n.", "meaning": "证据；证词；证明", "sentence": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.", "sentenceTranslation": "通过研究这些DNA序列，我们获得了关于这些动物生活环境和生存经历的生物学证据。", "difficulty": "medium", "sourceParagraph": 2, "note": "这里不是法庭证词，而是“证据、证明”。"},
-    {"word": "examine", "phonetic": "/ɪɡˈzæmɪn/", "partOfSpeech": "v.", "meaning": "检查；研究；审查", "sentence": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe.", "sentenceTranslation": "研究人员检查了来自全球31个国家的207个现代驴基因组。", "difficulty": "easy", "sourceParagraph": 3, "note": "研究类文章中常表示“研究、考察”。"},
-    {"word": "globe", "phonetic": "/ɡloʊb/", "partOfSpeech": "n.", "meaning": "地球；全球", "sentence": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe.", "sentenceTranslation": "研究人员检查了来自全球31个国家的207个现代驴基因组。", "difficulty": "easy", "sourceParagraph": 3, "note": "across the globe = across the world。"},
-    {"word": "equid", "phonetic": "/ˈekwɪd/", "partOfSpeech": "n.", "meaning": "马科动物", "sentence": "They also looked at genomes from 15 wild equids and 31 earlier donkeys.", "sentenceTranslation": "他们还研究了15个野生马科动物和31头更早期驴的基因组。", "difficulty": "hard", "sourceParagraph": 3, "note": "比 equine 更偏学术。"},
-    {"word": "reconstruct", "phonetic": "/ˌriːkənˈstrʌkt/", "partOfSpeech": "v.", "meaning": "重建；重构", "sentence": "The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event.", "sentenceTranslation": "研究团队重建了这些动物的进化树，并使用计算机模型精确确定驯化事件。", "difficulty": "medium", "sourceParagraph": 3, "note": "re- 前缀表示“再次、重新”。"},
-    {"word": "evolutionary", "phonetic": "/ˌevəˈluːʃəneri/", "partOfSpeech": "adj.", "meaning": "进化的；演化的", "sentence": "The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event.", "sentenceTranslation": "研究团队重建了这些动物的进化树，并使用计算机模型精确确定驯化事件。", "difficulty": "medium", "sourceParagraph": 3, "note": "evolution 的形容词。"},
-    {"word": "pinpoint", "phonetic": "/ˈpɪnpɔɪnt/", "partOfSpeech": "v.", "meaning": "精确确定；准确指出", "sentence": "The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event.", "sentenceTranslation": "研究团队重建了这些动物的进化树，并使用计算机模型精确确定驯化事件。", "difficulty": "medium", "sourceParagraph": 3, "note": "常表示准确定位原因、时间或位置。"},
-    {"word": "spread", "phonetic": "/spred/", "partOfSpeech": "v./n.", "meaning": "传播；扩散；展开", "sentence": "They then traced how the animals spread across the rest of the continent and into Europe and Asia about 2,500 years later.", "sentenceTranslation": "随后他们追踪了这些动物约2500年后如何扩散到非洲大陆其他地区并进入欧洲和亚洲。", "difficulty": "easy", "sourceParagraph": 3, "note": "第23题 dispersed 的同义替换。"},
-    {"word": "continent", "phonetic": "/ˈkɑːntɪnənt/", "partOfSpeech": "n.", "meaning": "大陆；洲", "sentence": "They then traced how the animals spread across the rest of the continent and into Europe and Asia about 2,500 years later.", "sentenceTranslation": "随后他们追踪了这些动物约2500年后如何扩散到非洲大陆其他地区并进入欧洲和亚洲。", "difficulty": "easy", "sourceParagraph": 3, "note": "地理类文章高频词。"},
-    {"word": "original", "phonetic": "/əˈrɪdʒənl/", "partOfSpeech": "adj./n.", "meaning": "最初的；原始的；原件", "sentence": "Though it is still unclear why the original domestication happened, the event coincided with the Sahara growing larger and drier.", "sentenceTranslation": "尽管最初的驯化为何发生仍不清楚，但这一事件与撒哈拉沙漠变得更大、更干旱同时发生。", "difficulty": "easy", "sourceParagraph": 4, "note": "第24题直接出现。"},
-    {"word": "coincide", "phonetic": "/ˌkoʊɪnˈsaɪd/", "partOfSpeech": "v.", "meaning": "同时发生；相一致", "sentence": "Science News' Freda Kreier reports that the event coincided with the Sahara growing larger and drier.", "sentenceTranslation": "《科学新闻》的Freda Kreier报道称，这一事件与撒哈拉沙漠变得更大、更干旱同时发生。", "difficulty": "medium", "sourceParagraph": 4, "note": "coincide with 是常考搭配。"},
-    {"word": "navigate", "phonetic": "/ˈnævɪɡeɪt/", "partOfSpeech": "v.", "meaning": "导航；穿越；应对", "sentence": "Prehistoric humans may have enlisted donkeys' help in navigating the expanding Sahara.", "sentenceTranslation": "史前人类可能曾借助驴的帮助穿越不断扩张的撒哈拉沙漠。", "difficulty": "medium", "sourceParagraph": 4, "note": "既可指实际导航，也可指处理复杂处境。"},
-    {"word": "spotlight", "phonetic": "/ˈspɑːtlaɪt/", "partOfSpeech": "n./v.", "meaning": "聚光灯；关注中心；突出显示", "sentence": "Researchers say these findings could help put donkeys in the spotlight.", "sentenceTranslation": "研究人员表示，这些发现可能有助于让驴受到更多关注。", "difficulty": "medium", "sourceParagraph": 5, "note": "put...in the spotlight = 让……成为关注焦点。"},
-    {"word": "archaeologist", "phonetic": "/ˌɑːrkiˈɑːlədʒɪst/", "partOfSpeech": "n.", "meaning": "考古学家", "sentence": "Understanding where the animals were first domesticated could guide archaeologists to a narrow region to search for insights.", "sentenceTranslation": "了解这些动物最初在哪里被驯化，可以引导考古学家到更窄的区域寻找线索。", "difficulty": "hard", "sourceParagraph": 5, "note": "archaeology 是“考古学”。"},
-    {"word": "management", "phonetic": "/ˈmænɪdʒmənt/", "partOfSpeech": "n.", "meaning": "管理；经营", "sentence": "It also might improve their management in the future, as climate change alters the planet's environment.", "sentenceTranslation": "随着气候变化改变地球环境，这也可能改善未来对它们的管理。", "difficulty": "easy", "sourceParagraph": 5, "note": "第25题 better management 的原文对应。"}
+    {
+      "word": "critical",
+      "phonetic": "/ˈkrɪtɪkl/",
+      "partOfSpeech": "adj.",
+      "meaning": "关键的；至关重要的",
+      "sentence": "For thousands of years, donkeys have been critical for propelling human civilizations forward.",
+      "sentenceTranslation": "数千年来，驴一直是推动人类文明前进的关键力量。",
+      "difficulty": "easy",
+      "sourceParagraph": 1,
+      "note": "critical for/to 表示“对……至关重要”。",
+      "options": {
+        "A": "关键的；至关重要的",
+        "B": "推动；推进",
+        "C": "文明；文明社会",
+        "D": "交织；紧密联系"
+      },
+      "answer": "A",
+      "meaningInContext": "关键的；至关重要的",
+      "explanation": "critical for/to 表示“对……至关重要”。"
+    },
+    {
+      "word": "propel",
+      "phonetic": "/prəˈpel/",
+      "partOfSpeech": "v.",
+      "meaning": "推动；推进",
+      "sentence": "For thousands of years, donkeys have been critical for propelling human civilizations forward.",
+      "sentenceTranslation": "数千年来，驴一直是推动人类文明前进的关键力量。",
+      "difficulty": "medium",
+      "sourceParagraph": 1,
+      "note": "常用于抽象意义：推动发展、进步。",
+      "options": {
+        "A": "推动；推进",
+        "B": "文明；文明社会",
+        "C": "交织；紧密联系",
+        "D": "谜；神秘之事"
+      },
+      "answer": "A",
+      "meaningInContext": "推动；推进",
+      "explanation": "常用于抽象意义：推动发展、进步。"
+    },
+    {
+      "word": "civilization",
+      "phonetic": "/ˌsɪvələˈzeɪʃn/",
+      "partOfSpeech": "n.",
+      "meaning": "文明；文明社会",
+      "sentence": "For thousands of years, donkeys have been critical for propelling human civilizations forward.",
+      "sentenceTranslation": "数千年来，驴一直是推动人类文明前进的关键力量。",
+      "difficulty": "easy",
+      "sourceParagraph": 1,
+      "note": "历史文化类文章高频词。",
+      "options": {
+        "A": "文明；文明社会",
+        "B": "交织；紧密联系",
+        "C": "谜；神秘之事",
+        "D": "基因组"
+      },
+      "answer": "A",
+      "meaningInContext": "文明；文明社会",
+      "explanation": "历史文化类文章高频词。"
+    },
+    {
+      "word": "intertwine",
+      "phonetic": "/ˌɪntərˈtwaɪn/",
+      "partOfSpeech": "v.",
+      "meaning": "交织；紧密联系",
+      "sentence": "But where and when these animals first became intertwined with humans has been a mystery.",
+      "sentenceTranslation": "但这些动物最早在何时何地与人类紧密联系在一起，一直是个谜。",
+      "difficulty": "medium",
+      "sourceParagraph": 1,
+      "note": "intertwined with 表示“与……交织或关联”。",
+      "options": {
+        "A": "交织；紧密联系",
+        "B": "谜；神秘之事",
+        "C": "基因组",
+        "D": "追溯；踪迹"
+      },
+      "answer": "A",
+      "meaningInContext": "交织；紧密联系",
+      "explanation": "intertwined with 表示“与……交织或关联”。"
+    },
+    {
+      "word": "mystery",
+      "phonetic": "/ˈmɪstəri/",
+      "partOfSpeech": "n.",
+      "meaning": "谜；神秘之事",
+      "sentence": "But where and when these animals first became intertwined with humans has been a mystery.",
+      "sentenceTranslation": "但这些动物最早在何时何地与人类紧密联系在一起，一直是个谜。",
+      "difficulty": "easy",
+      "sourceParagraph": 1,
+      "note": "本篇第21题定位词。",
+      "options": {
+        "A": "谜；神秘之事",
+        "B": "基因组",
+        "C": "追溯；踪迹",
+        "D": "驯化；家养化"
+      },
+      "answer": "A",
+      "meaningInContext": "谜；神秘之事",
+      "explanation": "本篇第21题定位词。"
+    },
+    {
+      "word": "genome",
+      "phonetic": "/ˈdʒiːnoʊm/",
+      "partOfSpeech": "n.",
+      "meaning": "基因组",
+      "sentence": "Now, researchers have used the genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa.",
+      "sentenceTranslation": "如今，研究人员利用200多头驴的基因组，将其驯化追溯到约7000年前东非的一次单一事件。",
+      "difficulty": "medium",
+      "sourceParagraph": 1,
+      "note": "科学研究类文章常见词。",
+      "options": {
+        "A": "基因组",
+        "B": "追溯；踪迹",
+        "C": "驯化；家养化",
+        "D": "单一的；唯一的"
+      },
+      "answer": "A",
+      "meaningInContext": "基因组",
+      "explanation": "科学研究类文章常见词。"
+    },
+    {
+      "word": "trace",
+      "phonetic": "/treɪs/",
+      "partOfSpeech": "v./n.",
+      "meaning": "追溯；踪迹",
+      "sentence": "Now, researchers have used the genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa.",
+      "sentenceTranslation": "如今，研究人员利用200多头驴的基因组，将其驯化追溯到约7000年前东非的一次单一事件。",
+      "difficulty": "medium",
+      "sourceParagraph": 1,
+      "note": "trace...back to... 表示“把……追溯到……”。",
+      "options": {
+        "A": "追溯；踪迹",
+        "B": "驯化；家养化",
+        "C": "单一的；唯一的",
+        "D": "驯服；温顺的"
+      },
+      "answer": "A",
+      "meaningInContext": "追溯；踪迹",
+      "explanation": "trace...back to... 表示“把……追溯到……”。"
+    },
+    {
+      "word": "domestication",
+      "phonetic": "/dəˌmestɪˈkeɪʃn/",
+      "partOfSpeech": "n.",
+      "meaning": "驯化；家养化",
+      "sentence": "Now, researchers have used the genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa.",
+      "sentenceTranslation": "如今，研究人员利用200多头驴的基因组，将其驯化追溯到约7000年前东非的一次单一事件。",
+      "difficulty": "hard",
+      "sourceParagraph": 1,
+      "note": "domestic 是“家养的；国内的”。",
+      "options": {
+        "A": "驯化；家养化",
+        "B": "关键的；至关重要的",
+        "C": "推动；推进",
+        "D": "文明；文明社会"
+      },
+      "answer": "A",
+      "meaningInContext": "驯化；家养化",
+      "explanation": "domestic 是“家养的；国内的”。"
+    },
+    {
+      "word": "single",
+      "phonetic": "/ˈsɪŋɡl/",
+      "partOfSpeech": "adj.",
+      "meaning": "单一的；唯一的",
+      "sentence": "Now, researchers have used the genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa.",
+      "sentenceTranslation": "如今，研究人员利用200多头驴的基因组，将其驯化追溯到约7000年前东非的一次单一事件。",
+      "difficulty": "easy",
+      "sourceParagraph": 1,
+      "note": "与 multiple 形成常见反义干扰。",
+      "options": {
+        "A": "单一的；唯一的",
+        "B": "推动；推进",
+        "C": "文明；文明社会",
+        "D": "交织；紧密联系"
+      },
+      "answer": "A",
+      "meaningInContext": "单一的；唯一的",
+      "explanation": "与 multiple 形成常见反义干扰。"
+    },
+    {
+      "word": "tame",
+      "phonetic": "/teɪm/",
+      "partOfSpeech": "v./adj.",
+      "meaning": "驯服；温顺的",
+      "sentence": "The finding dates to about 3,000 years before humans tamed horses.",
+      "sentenceTranslation": "这一发现的时间比人类驯服马匹早约3000年。",
+      "difficulty": "easy",
+      "sourceParagraph": 1,
+      "note": "tamed horses 是第21题干扰信息来源。",
+      "options": {
+        "A": "驯服；温顺的",
+        "B": "文明；文明社会",
+        "C": "交织；紧密联系",
+        "D": "谜；神秘之事"
+      },
+      "answer": "A",
+      "meaningInContext": "驯服；温顺的",
+      "explanation": "tamed horses 是第21题干扰信息来源。"
+    },
+    {
+      "word": "co-author",
+      "phonetic": "/ˌkoʊ ˈɔːθər/",
+      "partOfSpeech": "n.",
+      "meaning": "合著者；共同作者",
+      "sentence": "Through their DNA, the animals are telling their history themselves, co-author Samantha Brooks says in a statement.",
+      "sentenceTranslation": "合著者 Samantha Brooks 在声明中说，通过它们的DNA，这些动物正在自己讲述自己的历史。",
+      "difficulty": "easy",
+      "sourceParagraph": 2,
+      "note": "新闻和研究报道中常见。",
+      "options": {
+        "A": "合著者；共同作者",
+        "B": "交织；紧密联系",
+        "C": "谜；神秘之事",
+        "D": "基因组"
+      },
+      "answer": "A",
+      "meaningInContext": "合著者；共同作者",
+      "explanation": "新闻和研究报道中常见。"
+    },
+    {
+      "word": "equine",
+      "phonetic": "/ˈiːkwaɪn/",
+      "partOfSpeech": "adj./n.",
+      "meaning": "马科动物的；马科动物",
+      "sentence": "Co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.",
+      "sentenceTranslation": "合著者、佛罗里达大学马科动物研究员 Samantha Brooks 在声明中说。",
+      "difficulty": "hard",
+      "sourceParagraph": 2,
+      "note": "本文中包括驴等马科动物。",
+      "options": {
+        "A": "马科动物的；马科动物",
+        "B": "谜；神秘之事",
+        "C": "基因组",
+        "D": "追溯；踪迹"
+      },
+      "answer": "A",
+      "meaningInContext": "马科动物的；马科动物",
+      "explanation": "本文中包括驴等马科动物。"
+    },
+    {
+      "word": "statement",
+      "phonetic": "/ˈsteɪtmənt/",
+      "partOfSpeech": "n.",
+      "meaning": "声明；陈述",
+      "sentence": "Co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement.",
+      "sentenceTranslation": "合著者、佛罗里达大学马科动物研究员 Samantha Brooks 在声明中说。",
+      "difficulty": "easy",
+      "sourceParagraph": 2,
+      "note": "题干 Brooks' statement 直接对应。",
+      "options": {
+        "A": "声明；陈述",
+        "B": "基因组",
+        "C": "追溯；踪迹",
+        "D": "驯化；家养化"
+      },
+      "answer": "A",
+      "meaningInContext": "声明；陈述",
+      "explanation": "题干 Brooks' statement 直接对应。"
+    },
+    {
+      "word": "account",
+      "phonetic": "/əˈkaʊnt/",
+      "partOfSpeech": "n./v.",
+      "meaning": "叙述；账户；解释",
+      "sentence": "We usually only get the human's side of history through written accounts.",
+      "sentenceTranslation": "我们通常只能通过文字记载了解人类一方的历史。",
+      "difficulty": "medium",
+      "sourceParagraph": 2,
+      "note": "written accounts 表示“文字记录”。",
+      "options": {
+        "A": "叙述；账户；解释",
+        "B": "追溯；踪迹",
+        "C": "驯化；家养化",
+        "D": "单一的；唯一的"
+      },
+      "answer": "A",
+      "meaningInContext": "叙述；账户；解释",
+      "explanation": "written accounts 表示“文字记录”。"
+    },
+    {
+      "word": "sequence",
+      "phonetic": "/ˈsiːkwəns/",
+      "partOfSpeech": "n.",
+      "meaning": "序列；顺序",
+      "sentence": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in.",
+      "sentenceTranslation": "通过研究这些DNA序列，我们获得了关于这些动物生活环境的生物学证据。",
+      "difficulty": "medium",
+      "sourceParagraph": 2,
+      "note": "DNA sequence 是固定搭配。",
+      "options": {
+        "A": "序列；顺序",
+        "B": "关键的；至关重要的",
+        "C": "推动；推进",
+        "D": "文明；文明社会"
+      },
+      "answer": "A",
+      "meaningInContext": "序列；顺序",
+      "explanation": "DNA sequence 是固定搭配。"
+    },
+    {
+      "word": "testimony",
+      "phonetic": "/ˈtestɪmoʊni/",
+      "partOfSpeech": "n.",
+      "meaning": "证据；证词；证明",
+      "sentence": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.",
+      "sentenceTranslation": "通过研究这些DNA序列，我们获得了关于这些动物生活环境和生存经历的生物学证据。",
+      "difficulty": "medium",
+      "sourceParagraph": 2,
+      "note": "这里不是法庭证词，而是“证据、证明”。",
+      "options": {
+        "A": "证据；证词；证明",
+        "B": "推动；推进",
+        "C": "文明；文明社会",
+        "D": "交织；紧密联系"
+      },
+      "answer": "A",
+      "meaningInContext": "证据；证词；证明",
+      "explanation": "这里不是法庭证词，而是“证据、证明”。"
+    },
+    {
+      "word": "examine",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "partOfSpeech": "v.",
+      "meaning": "检查；研究；审查",
+      "sentence": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe.",
+      "sentenceTranslation": "研究人员检查了来自全球31个国家的207个现代驴基因组。",
+      "difficulty": "easy",
+      "sourceParagraph": 3,
+      "note": "研究类文章中常表示“研究、考察”。",
+      "options": {
+        "A": "检查；研究；审查",
+        "B": "文明；文明社会",
+        "C": "交织；紧密联系",
+        "D": "谜；神秘之事"
+      },
+      "answer": "A",
+      "meaningInContext": "检查；研究；审查",
+      "explanation": "研究类文章中常表示“研究、考察”。"
+    },
+    {
+      "word": "globe",
+      "phonetic": "/ɡloʊb/",
+      "partOfSpeech": "n.",
+      "meaning": "地球；全球",
+      "sentence": "The researchers examined 207 genomes from modern donkeys living in 31 countries across the globe.",
+      "sentenceTranslation": "研究人员检查了来自全球31个国家的207个现代驴基因组。",
+      "difficulty": "easy",
+      "sourceParagraph": 3,
+      "note": "across the globe = across the world。",
+      "options": {
+        "A": "地球；全球",
+        "B": "交织；紧密联系",
+        "C": "谜；神秘之事",
+        "D": "基因组"
+      },
+      "answer": "A",
+      "meaningInContext": "地球；全球",
+      "explanation": "across the globe = across the world。"
+    },
+    {
+      "word": "equid",
+      "phonetic": "/ˈekwɪd/",
+      "partOfSpeech": "n.",
+      "meaning": "马科动物",
+      "sentence": "They also looked at genomes from 15 wild equids and 31 earlier donkeys.",
+      "sentenceTranslation": "他们还研究了15个野生马科动物和31头更早期驴的基因组。",
+      "difficulty": "hard",
+      "sourceParagraph": 3,
+      "note": "比 equine 更偏学术。",
+      "options": {
+        "A": "马科动物",
+        "B": "谜；神秘之事",
+        "C": "基因组",
+        "D": "追溯；踪迹"
+      },
+      "answer": "A",
+      "meaningInContext": "马科动物",
+      "explanation": "比 equine 更偏学术。"
+    },
+    {
+      "word": "reconstruct",
+      "phonetic": "/ˌriːkənˈstrʌkt/",
+      "partOfSpeech": "v.",
+      "meaning": "重建；重构",
+      "sentence": "The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event.",
+      "sentenceTranslation": "研究团队重建了这些动物的进化树，并使用计算机模型精确确定驯化事件。",
+      "difficulty": "medium",
+      "sourceParagraph": 3,
+      "note": "re- 前缀表示“再次、重新”。",
+      "options": {
+        "A": "重建；重构",
+        "B": "基因组",
+        "C": "追溯；踪迹",
+        "D": "驯化；家养化"
+      },
+      "answer": "A",
+      "meaningInContext": "重建；重构",
+      "explanation": "re- 前缀表示“再次、重新”。"
+    },
+    {
+      "word": "evolutionary",
+      "phonetic": "/ˌevəˈluːʃəneri/",
+      "partOfSpeech": "adj.",
+      "meaning": "进化的；演化的",
+      "sentence": "The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event.",
+      "sentenceTranslation": "研究团队重建了这些动物的进化树，并使用计算机模型精确确定驯化事件。",
+      "difficulty": "medium",
+      "sourceParagraph": 3,
+      "note": "evolution 的形容词。",
+      "options": {
+        "A": "进化的；演化的",
+        "B": "追溯；踪迹",
+        "C": "驯化；家养化",
+        "D": "单一的；唯一的"
+      },
+      "answer": "A",
+      "meaningInContext": "进化的；演化的",
+      "explanation": "evolution 的形容词。"
+    },
+    {
+      "word": "pinpoint",
+      "phonetic": "/ˈpɪnpɔɪnt/",
+      "partOfSpeech": "v.",
+      "meaning": "精确确定；准确指出",
+      "sentence": "The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event.",
+      "sentenceTranslation": "研究团队重建了这些动物的进化树，并使用计算机模型精确确定驯化事件。",
+      "difficulty": "medium",
+      "sourceParagraph": 3,
+      "note": "常表示准确定位原因、时间或位置。",
+      "options": {
+        "A": "精确确定；准确指出",
+        "B": "关键的；至关重要的",
+        "C": "推动；推进",
+        "D": "文明；文明社会"
+      },
+      "answer": "A",
+      "meaningInContext": "精确确定；准确指出",
+      "explanation": "常表示准确定位原因、时间或位置。"
+    },
+    {
+      "word": "spread",
+      "phonetic": "/spred/",
+      "partOfSpeech": "v./n.",
+      "meaning": "传播；扩散；展开",
+      "sentence": "They then traced how the animals spread across the rest of the continent and into Europe and Asia about 2,500 years later.",
+      "sentenceTranslation": "随后他们追踪了这些动物约2500年后如何扩散到非洲大陆其他地区并进入欧洲和亚洲。",
+      "difficulty": "easy",
+      "sourceParagraph": 3,
+      "note": "第23题 dispersed 的同义替换。",
+      "options": {
+        "A": "传播；扩散；展开",
+        "B": "推动；推进",
+        "C": "文明；文明社会",
+        "D": "交织；紧密联系"
+      },
+      "answer": "A",
+      "meaningInContext": "传播；扩散；展开",
+      "explanation": "第23题 dispersed 的同义替换。"
+    },
+    {
+      "word": "continent",
+      "phonetic": "/ˈkɑːntɪnənt/",
+      "partOfSpeech": "n.",
+      "meaning": "大陆；洲",
+      "sentence": "They then traced how the animals spread across the rest of the continent and into Europe and Asia about 2,500 years later.",
+      "sentenceTranslation": "随后他们追踪了这些动物约2500年后如何扩散到非洲大陆其他地区并进入欧洲和亚洲。",
+      "difficulty": "easy",
+      "sourceParagraph": 3,
+      "note": "地理类文章高频词。",
+      "options": {
+        "A": "大陆；洲",
+        "B": "文明；文明社会",
+        "C": "交织；紧密联系",
+        "D": "谜；神秘之事"
+      },
+      "answer": "A",
+      "meaningInContext": "大陆；洲",
+      "explanation": "地理类文章高频词。"
+    },
+    {
+      "word": "original",
+      "phonetic": "/əˈrɪdʒənl/",
+      "partOfSpeech": "adj./n.",
+      "meaning": "最初的；原始的；原件",
+      "sentence": "Though it is still unclear why the original domestication happened, the event coincided with the Sahara growing larger and drier.",
+      "sentenceTranslation": "尽管最初的驯化为何发生仍不清楚，但这一事件与撒哈拉沙漠变得更大、更干旱同时发生。",
+      "difficulty": "easy",
+      "sourceParagraph": 4,
+      "note": "第24题直接出现。",
+      "options": {
+        "A": "最初的；原始的；原件",
+        "B": "交织；紧密联系",
+        "C": "谜；神秘之事",
+        "D": "基因组"
+      },
+      "answer": "A",
+      "meaningInContext": "最初的；原始的；原件",
+      "explanation": "第24题直接出现。"
+    },
+    {
+      "word": "coincide",
+      "phonetic": "/ˌkoʊɪnˈsaɪd/",
+      "partOfSpeech": "v.",
+      "meaning": "同时发生；相一致",
+      "sentence": "Science News' Freda Kreier reports that the event coincided with the Sahara growing larger and drier.",
+      "sentenceTranslation": "《科学新闻》的Freda Kreier报道称，这一事件与撒哈拉沙漠变得更大、更干旱同时发生。",
+      "difficulty": "medium",
+      "sourceParagraph": 4,
+      "note": "coincide with 是常考搭配。",
+      "options": {
+        "A": "同时发生；相一致",
+        "B": "谜；神秘之事",
+        "C": "基因组",
+        "D": "追溯；踪迹"
+      },
+      "answer": "A",
+      "meaningInContext": "同时发生；相一致",
+      "explanation": "coincide with 是常考搭配。"
+    },
+    {
+      "word": "navigate",
+      "phonetic": "/ˈnævɪɡeɪt/",
+      "partOfSpeech": "v.",
+      "meaning": "导航；穿越；应对",
+      "sentence": "Prehistoric humans may have enlisted donkeys' help in navigating the expanding Sahara.",
+      "sentenceTranslation": "史前人类可能曾借助驴的帮助穿越不断扩张的撒哈拉沙漠。",
+      "difficulty": "medium",
+      "sourceParagraph": 4,
+      "note": "既可指实际导航，也可指处理复杂处境。",
+      "options": {
+        "A": "导航；穿越；应对",
+        "B": "基因组",
+        "C": "追溯；踪迹",
+        "D": "驯化；家养化"
+      },
+      "answer": "A",
+      "meaningInContext": "导航；穿越；应对",
+      "explanation": "既可指实际导航，也可指处理复杂处境。"
+    },
+    {
+      "word": "spotlight",
+      "phonetic": "/ˈspɑːtlaɪt/",
+      "partOfSpeech": "n./v.",
+      "meaning": "聚光灯；关注中心；突出显示",
+      "sentence": "Researchers say these findings could help put donkeys in the spotlight.",
+      "sentenceTranslation": "研究人员表示，这些发现可能有助于让驴受到更多关注。",
+      "difficulty": "medium",
+      "sourceParagraph": 5,
+      "note": "put...in the spotlight = 让……成为关注焦点。",
+      "options": {
+        "A": "聚光灯；关注中心；突出显示",
+        "B": "追溯；踪迹",
+        "C": "驯化；家养化",
+        "D": "单一的；唯一的"
+      },
+      "answer": "A",
+      "meaningInContext": "聚光灯；关注中心；突出显示",
+      "explanation": "put...in the spotlight = 让……成为关注焦点。"
+    },
+    {
+      "word": "archaeologist",
+      "phonetic": "/ˌɑːrkiˈɑːlədʒɪst/",
+      "partOfSpeech": "n.",
+      "meaning": "考古学家",
+      "sentence": "Understanding where the animals were first domesticated could guide archaeologists to a narrow region to search for insights.",
+      "sentenceTranslation": "了解这些动物最初在哪里被驯化，可以引导考古学家到更窄的区域寻找线索。",
+      "difficulty": "hard",
+      "sourceParagraph": 5,
+      "note": "archaeology 是“考古学”。",
+      "options": {
+        "A": "考古学家",
+        "B": "关键的；至关重要的",
+        "C": "推动；推进",
+        "D": "文明；文明社会"
+      },
+      "answer": "A",
+      "meaningInContext": "考古学家",
+      "explanation": "archaeology 是“考古学”。"
+    },
+    {
+      "word": "management",
+      "phonetic": "/ˈmænɪdʒmənt/",
+      "partOfSpeech": "n.",
+      "meaning": "管理；经营",
+      "sentence": "It also might improve their management in the future, as climate change alters the planet's environment.",
+      "sentenceTranslation": "随着气候变化改变地球环境，这也可能改善未来对它们的管理。",
+      "difficulty": "easy",
+      "sourceParagraph": 5,
+      "note": "第25题 better management 的原文对应。",
+      "options": {
+        "A": "管理；经营",
+        "B": "推动；推进",
+        "C": "文明；文明社会",
+        "D": "交织；紧密联系"
+      },
+      "answer": "A",
+      "meaningInContext": "管理；经营",
+      "explanation": "第25题 better management 的原文对应。"
+    }
   ],
   "longSentences": [
     {
