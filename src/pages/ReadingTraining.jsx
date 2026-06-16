@@ -1,32 +1,21 @@
 import { useMemo, useState } from "react";
 import SectionCard from "../components/SectionCard";
 import questionTypes from "../data/questionTypes.json";
-import text1 from "../data/papers/2026/text1.json";
-import text2 from "../data/papers/2026/text2.json";
-import text3 from "../data/papers/2026/text3.json";
-import text4 from "../data/papers/2026/text4.json";
-import { addMistake, getMistakes } from "../utils/storage";
+import {
+  getAllReadings,
+  getReadingsByYear,
+  getSimilarQuestionsByType,
+  normalizeVocabulary,
+} from "../utils/dataAdapter";
+import { saveReadingRecord } from "../utils/trainingStorage";
 
-const papers = [text1, text2, text3, text4];
-const years = [...new Set(papers.map((paper) => paper.year))];
-
-function getQuestionId(paper, question) {
-  return `${paper.year}-${paper.textNumber.toLowerCase().replace(" ", "-")}-${question.questionNumber}`;
-}
-
-function getQuestionType(question) {
-  return question.type ?? question.questionType ?? "未分类";
-}
-
-function getStructuredVocabulary(paper) {
-  return paper.vocabulary.filter((item) => typeof item === "object");
-}
+const years = [...new Set(getAllReadings().map((reading) => reading.year))].sort(
+  (a, b) => b - a,
+);
 
 function highlightWord(sentence, word) {
   const index = sentence.toLowerCase().indexOf(word.toLowerCase());
-
   if (index === -1) return sentence;
-
   return (
     <>
       {sentence.slice(0, index)}
@@ -38,19 +27,42 @@ function highlightWord(sentence, word) {
   );
 }
 
-function getVocabularyOptions(wordItem, vocabulary) {
-  if (wordItem.options) return wordItem.options;
+function buildSummary(wrongQuestions) {
+  if (wrongQuestions.length === 0) {
+    return "本篇阅读全对，建议继续进行词汇自测和长难句复盘。";
+  }
 
-  const distractors = vocabulary
-    .filter((item) => item.word !== wordItem.word)
-    .map((item) => item.meaning)
-    .slice(0, 3);
+  const mainType = wrongQuestions[0]?.type ?? "阅读题";
+  const mainReason = wrongQuestions[0]?.commonMistake ?? "错因待补充";
+  return `你本篇主要问题是：${mainType}上暴露出${mainReason}。建议优先复盘错题定位句，并进行同类题训练。`;
+}
 
+function countBy(items, getter) {
+  return items.reduce((result, item) => {
+    const key = getter(item) || "待补充";
+    return { ...result, [key]: (result[key] ?? 0) + 1 };
+  }, {});
+}
+
+function createMistake(reading, question, selected) {
   return {
-    A: wordItem.meaning,
-    B: distractors[0] ?? "无关含义",
-    C: distractors[1] ?? "相反含义",
-    D: distractors[2] ?? "扩大含义",
+    id: question.id,
+    year: reading.year,
+    textNumber: reading.textNumber,
+    questionNumber: question.questionNumber,
+    question: question.questionText,
+    options: question.options,
+    type: question.type,
+    userAnswer: selected ?? "未作答",
+    correctAnswer: question.answer,
+    wrongReason: question.commonMistake,
+    location: question.location,
+    explanation: question.explanation,
+    trapAnalysis: question.trapAnalysis,
+    examinerThinking: question.examinerThinking,
+    sourceSentenceAnalysis: question.sourceSentenceAnalysis,
+    completedAt: new Date().toISOString(),
+    mastered: false,
   };
 }
 
@@ -63,145 +75,113 @@ export default function ReadingTraining() {
   const [mode, setMode] = useState("reading");
   const [wordIndex, setWordIndex] = useState(0);
   const [wordAnswers, setWordAnswers] = useState({});
-  const [savedIds, setSavedIds] = useState(
-    () => new Set(getMistakes().map((item) => item.id)),
-  );
+  const [savedRecordId, setSavedRecordId] = useState(null);
 
   const availableTexts = useMemo(
-    () => papers.filter((paper) => paper.year === Number(selectedYear)),
+    () => getReadingsByYear(selectedYear),
     [selectedYear],
   );
-
   const currentPaper =
     availableTexts.find((paper) => paper.textNumber === selectedTextNumber) ??
     availableTexts[0];
-  const vocabulary = getStructuredVocabulary(currentPaper);
+  const vocabulary = normalizeVocabulary(currentPaper);
   const currentWord = vocabulary[wordIndex];
-  const score = currentPaper.questions.reduce((total, question) => {
-    return answers[question.questionNumber] === question.answer
-      ? total + 1
-      : total;
-  }, 0);
+  const score = currentPaper.questions.filter(
+    (question) => answers[question.questionNumber] === question.answer,
+  ).length;
   const wrongQuestions = currentPaper.questions.filter(
-    (question) => answers[question.questionNumber] !== question.answer,
+    (question) => submitted && answers[question.questionNumber] !== question.answer,
   );
-  const wrongTypeCounts = wrongQuestions.reduce((counts, question) => {
-    const type = getQuestionType(question);
-    return { ...counts, [type]: (counts[type] ?? 0) + 1 };
-  }, {});
-  const wordScore = vocabulary.reduce((total, item) => {
-    return wordAnswers[item.word] === (item.answer ?? "A") ? total + 1 : total;
-  }, 0);
+  const typeStats = countBy(wrongQuestions, (question) => question.type);
+  const reasonStats = countBy(wrongQuestions, (question) => question.commonMistake);
+  const similarQuestions = submitted
+    ? getSimilarQuestionsByType({
+        allReadings: getAllReadings(),
+        wrongQuestionTypes: wrongQuestions.map((question) => question.type),
+        wrongReasons: wrongQuestions.map((question) => question.commonMistake),
+        currentQuestionIds: currentPaper.questions.map((question) => question.id),
+        limit: 3,
+      })
+    : [];
 
-  function chooseYear(year) {
-    const firstPaper = papers.find((paper) => paper.year === Number(year));
-    setSelectedYear(Number(year));
-    setSelectedTextNumber(firstPaper?.textNumber ?? "Text 1");
-    resetTraining();
-  }
-
-  function chooseText(textNumber) {
-    setSelectedTextNumber(textNumber);
-    resetTraining();
-  }
-
-  function resetVocabulary() {
-    setMode("reading");
-    setWordIndex(0);
-    setWordAnswers({});
-  }
+  const wordScore = vocabulary.filter(
+    (item) => wordAnswers[item.word] === (item.answer ?? "A"),
+  ).length;
 
   function resetTraining() {
     setAnswers({});
     setSubmitted(false);
     setShowAnalysis(true);
-    resetVocabulary();
-  }
-
-  function startVocabularyTest() {
-    setMode("vocabulary");
+    setMode("reading");
     setWordIndex(0);
     setWordAnswers({});
+    setSavedRecordId(null);
   }
 
-  function chooseWordAnswer(label) {
-    setWordAnswers((current) => ({ ...current, [currentWord.word]: label }));
+  function chooseYear(year) {
+    const nextYear = Number(year);
+    const firstPaper = getReadingsByYear(nextYear)[0];
+    setSelectedYear(nextYear);
+    setSelectedTextNumber(firstPaper?.textNumber ?? "Text 1");
+    resetTraining();
   }
 
-  function goToNextWord() {
-    setWordIndex((current) => Math.min(current + 1, vocabulary.length));
-  }
+  function submitAnswers() {
+    const mistakes = currentPaper.questions
+      .filter((question) => answers[question.questionNumber] !== question.answer)
+      .map((question) =>
+        createMistake(currentPaper, question, answers[question.questionNumber]),
+      );
+    const record = {
+      id: `${currentPaper.id}-${Date.now()}`,
+      year: currentPaper.year,
+      textNumber: currentPaper.textNumber,
+      readingId: currentPaper.id,
+      total: currentPaper.questions.length,
+      correct: score,
+      accuracy: Math.round((score / currentPaper.questions.length) * 100),
+      submittedAt: new Date().toISOString(),
+      answers,
+      mistakes,
+    };
 
-  function saveQuestion(question) {
-    const id = getQuestionId(currentPaper, question);
-    const selected = answers[question.questionNumber] ?? "未作答";
-
-    addMistake({
-      id,
-      type: getQuestionType(question),
-      question: `${currentPaper.year} ${currentPaper.textNumber} - ${question.questionNumber}. ${question.questionText}`,
-      userAnswer: selected,
-      correctAnswer: question.answer,
-      reviewed: false,
-    });
-    setSavedIds((current) => new Set([...current, id]));
+    saveReadingRecord(record);
+    setSavedRecordId(record.id);
+    setSubmitted(true);
   }
 
   if (mode === "vocabulary") {
     const finished = wordIndex >= vocabulary.length;
-    const currentOptions = currentWord
-      ? getVocabularyOptions(currentWord, vocabulary)
-      : {};
-    const selectedWordAnswer = currentWord ? wordAnswers[currentWord.word] : "";
-    const correctWordAnswer = currentWord?.answer ?? "A";
-    const isWordAnswered = Boolean(selectedWordAnswer);
+    const selected = currentWord ? wordAnswers[currentWord.word] : "";
+    const options = currentWord?.options ?? {};
+    const answer = currentWord?.answer ?? "A";
     const accuracy =
-      vocabulary.length === 0
-        ? 0
-        : Math.round((wordScore / vocabulary.length) * 100);
+      vocabulary.length === 0 ? 0 : Math.round((wordScore / vocabulary.length) * 100);
 
     return (
       <div>
         <p className="text-sm font-semibold text-blue-600">VOCABULARY TEST</p>
-        <h1 className="mt-2 text-3xl font-bold text-slate-900">
-          本篇单词自测
-        </h1>
-        <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-500">
-          每次只看一个词，结合原文句子选择它在本文中的中文释义。
+        <h1 className="mt-2 text-3xl font-bold text-slate-900">本篇单词自测</h1>
+        <p className="mt-3 text-sm leading-6 text-slate-500">
+          结合原文例句选择单词在本文中的语境义。
         </p>
 
         <div className="mt-6">
-          <SectionCard
-            title={
-              finished
-                ? "自测结果"
-                : `词汇进度 ${wordIndex + 1}/${vocabulary.length}`
-            }
-          >
+          <SectionCard title={finished ? "自测结果" : `词汇进度 ${wordIndex + 1}/${vocabulary.length}`}>
             {finished ? (
-              <div>
+              <div className="space-y-5">
                 <div className="rounded-3xl bg-blue-50 p-6 text-center">
-                  <p className="text-sm font-semibold text-blue-700">
-                    本次单词正确率
-                  </p>
+                  <p className="text-sm font-semibold text-blue-700">本次单词正确率</p>
                   <p className="mt-2 text-4xl font-bold text-slate-900">
                     {wordScore}/{vocabulary.length}
                   </p>
                   <p className="mt-1 text-sm text-slate-500">{accuracy}%</p>
                 </div>
-                <div className="mt-6 flex flex-wrap gap-3">
-                  <button
-                    type="button"
-                    onClick={startVocabularyTest}
-                    className="rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white"
-                  >
+                <div className="flex flex-wrap gap-3">
+                  <button type="button" onClick={() => { setWordIndex(0); setWordAnswers({}); }} className="rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white">
                     重新测试
                   </button>
-                  <button
-                    type="button"
-                    onClick={resetVocabulary}
-                    className="rounded-xl bg-slate-100 px-5 py-2.5 text-sm font-semibold text-slate-700"
-                  >
+                  <button type="button" onClick={() => setMode("reading")} className="rounded-xl bg-slate-100 px-5 py-2.5 text-sm font-semibold text-slate-700">
                     返回阅读解析
                   </button>
                 </div>
@@ -209,93 +189,48 @@ export default function ReadingTraining() {
             ) : (
               <div className="mx-auto max-w-3xl">
                 <div className="rounded-3xl border border-blue-100 bg-blue-50/60 p-6">
-                  <div className="flex flex-wrap items-start justify-between gap-3">
-                    <div>
-                      <h2 className="text-4xl font-bold text-slate-900">
-                        {currentWord.word}
-                      </h2>
-                      <p className="mt-2 text-sm text-slate-500">
-                        {currentWord.phonetic} · {currentWord.partOfSpeech}
-                      </p>
-                    </div>
-                    <span className="rounded-full bg-white px-3 py-1 text-xs font-semibold text-blue-700">
-                      第 {currentWord.sourceParagraph} 段
-                    </span>
-                  </div>
+                  <h2 className="text-4xl font-bold text-slate-900">{currentWord.word}</h2>
+                  <p className="mt-2 text-sm text-slate-500">
+                    {currentWord.phonetic ?? ""} · {currentWord.partOfSpeech ?? "词性待补充"}
+                  </p>
                 </div>
 
                 <div className="mt-5 rounded-2xl bg-slate-50 p-5 text-sm leading-7 text-slate-700">
                   <p className="font-semibold text-slate-900">原文例句</p>
-                  <p className="mt-2 text-base">
-                    {highlightWord(currentWord.sentence, currentWord.word)}
-                  </p>
+                  <p className="mt-2 text-base">{highlightWord(currentWord.sentence ?? "", currentWord.word)}</p>
                 </div>
 
                 <div className="mt-5 grid gap-3">
-                  {Object.entries(currentOptions).map(([label, text]) => {
-                    const isSelected = selectedWordAnswer === label;
-                    const isCorrect = isWordAnswered && correctWordAnswer === label;
-                    const isWrong = isWordAnswered && isSelected && !isCorrect;
-                    let style =
-                      "border-slate-200 bg-white text-slate-700 hover:border-blue-300 hover:bg-blue-50";
-
-                    if (isCorrect) {
-                      style = "border-emerald-300 bg-emerald-50 text-emerald-800";
-                    } else if (isWrong) {
-                      style = "border-rose-300 bg-rose-50 text-rose-800";
-                    } else if (isSelected) {
-                      style = "border-blue-300 bg-blue-50 text-blue-800";
-                    }
-
+                  {Object.entries(options).map(([label, text]) => {
+                    const isSelected = selected === label;
+                    const isAnswer = selected && answer === label;
+                    const isWrong = selected && isSelected && !isAnswer;
+                    const style = isAnswer
+                      ? "border-emerald-300 bg-emerald-50 text-emerald-800"
+                      : isWrong
+                        ? "border-rose-300 bg-rose-50 text-rose-800"
+                        : isSelected
+                          ? "border-blue-300 bg-blue-50 text-blue-800"
+                          : "border-slate-200 bg-white text-slate-700 hover:border-blue-300 hover:bg-blue-50";
                     return (
-                      <button
-                        key={label}
-                        type="button"
-                        disabled={isWordAnswered}
-                        onClick={() => chooseWordAnswer(label)}
-                        className={`rounded-xl border px-4 py-3 text-left text-sm transition disabled:cursor-default ${style}`}
-                      >
-                        <span className="mr-2 font-bold">{label}.</span>
-                        {text}
+                      <button key={label} type="button" disabled={Boolean(selected)} onClick={() => setWordAnswers((current) => ({ ...current, [currentWord.word]: label }))} className={`rounded-xl border px-4 py-3 text-left text-sm transition disabled:cursor-default ${style}`}>
+                        <span className="mr-2 font-bold">{label}.</span>{text}
                       </button>
                     );
                   })}
                 </div>
 
-                {isWordAnswered && (
+                {selected && (
                   <div className="mt-5 rounded-2xl bg-slate-50 p-5 text-sm leading-7 text-slate-700">
-                    <p>
-                      正确答案：
-                      <strong className="text-emerald-700">
-                        {correctWordAnswer}. {currentOptions[correctWordAnswer]}
-                      </strong>
-                    </p>
-                    <p className="mt-2">
-                      本文语境义：
-                      <strong>{currentWord.meaningInContext ?? currentWord.meaning}</strong>
-                    </p>
-                    <p className="mt-2">
-                      {currentWord.explanation ?? currentWord.note}
-                    </p>
+                    <p>正确答案：<strong className="text-emerald-700">{answer}. {options[answer]}</strong></p>
+                    <p className="mt-2">本文语境义：<strong>{currentWord.meaningInContext ?? "待补充"}</strong></p>
+                    <p className="mt-2">{currentWord.explanation ?? "解释待补充"}</p>
                   </div>
                 )}
 
                 <div className="mt-5 flex flex-wrap justify-between gap-3">
-                  <button
-                    type="button"
-                    onClick={resetVocabulary}
-                    className="rounded-xl bg-slate-100 px-5 py-2.5 text-sm font-semibold text-slate-700"
-                  >
-                    返回阅读解析
-                  </button>
-                  <button
-                    type="button"
-                    disabled={!isWordAnswered}
-                    onClick={goToNextWord}
-                    className="rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white disabled:cursor-not-allowed disabled:bg-slate-300"
-                  >
-                    下一个单词
-                  </button>
+                  <button type="button" onClick={() => setMode("reading")} className="rounded-xl bg-slate-100 px-5 py-2.5 text-sm font-semibold text-slate-700">返回阅读解析</button>
+                  <button type="button" disabled={!selected} onClick={() => setWordIndex((current) => Math.min(current + 1, vocabulary.length))} className="rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white disabled:cursor-not-allowed disabled:bg-slate-300">下一个单词</button>
                 </div>
               </div>
             )}
@@ -310,86 +245,47 @@ export default function ReadingTraining() {
       <p className="text-sm font-semibold text-blue-600">READING TRAINING</p>
       <h1 className="mt-2 text-3xl font-bold text-slate-900">完整阅读训练</h1>
       <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-500">
-        选择年份和 Text，先完整读完一篇文章，再连续完成 5 道选择题。
-        提交后统一查看得分、题型、错因和解析。
+        做题、诊断错因、归位出题人思维，再进入词汇和长难句复盘。
       </p>
 
       <div className="mt-6 grid gap-4 rounded-2xl border border-blue-100 bg-white p-4 shadow-sm md:grid-cols-[1fr_2fr]">
         <label className="text-sm font-semibold text-slate-700">
           年份
-          <select
-            value={selectedYear}
-            onChange={(event) => chooseYear(event.target.value)}
-            className="mt-2 w-full rounded-xl border border-slate-200 bg-slate-50 px-3 py-2 text-sm text-slate-700 outline-none focus:border-blue-400"
-          >
-            {years.map((year) => (
-              <option key={year} value={year}>
-                {year} 考研英语一
-              </option>
-            ))}
+          <select value={selectedYear} onChange={(event) => chooseYear(event.target.value)} className="mt-2 w-full rounded-xl border border-slate-200 bg-slate-50 px-3 py-2 text-sm text-slate-700 outline-none focus:border-blue-400">
+            {years.map((year) => <option key={year} value={year}>{year} 考研英语一</option>)}
           </select>
         </label>
-
         <div>
           <p className="text-sm font-semibold text-slate-700">选择篇目</p>
           <div className="mt-2 flex flex-wrap gap-2">
-            {availableTexts.map((paper) => {
-              const isActive = paper.textNumber === currentPaper.textNumber;
-              return (
-                <button
-                  key={paper.textNumber}
-                  type="button"
-                  onClick={() => chooseText(paper.textNumber)}
-                  className={`rounded-xl px-4 py-2 text-sm font-semibold transition ${
-                    isActive
-                      ? "bg-blue-600 text-white"
-                      : "bg-blue-50 text-blue-700 hover:bg-blue-100"
-                  }`}
-                >
-                  {paper.textNumber}
-                </button>
-              );
-            })}
+            {availableTexts.map((paper) => (
+              <button key={paper.id} type="button" onClick={() => { setSelectedTextNumber(paper.textNumber); resetTraining(); }} className={`rounded-xl px-4 py-2 text-sm font-semibold transition ${paper.textNumber === currentPaper.textNumber ? "bg-blue-600 text-white" : "bg-blue-50 text-blue-700 hover:bg-blue-100"}`}>
+                {paper.textNumber}
+              </button>
+            ))}
           </div>
         </div>
       </div>
 
       <div className="mt-6 flex gap-2 overflow-x-auto pb-2">
         {questionTypes.map((type) => (
-          <span
-            key={type.name}
-            title={type.detail}
-            className="shrink-0 rounded-full border border-blue-100 bg-blue-50 px-3 py-1.5 text-xs font-semibold text-blue-700"
-          >
+          <span key={type.name} title={type.detail} className="shrink-0 rounded-full border border-blue-100 bg-blue-50 px-3 py-1.5 text-xs font-semibold text-blue-700">
             {type.name}
           </span>
         ))}
       </div>
 
       <div className="mt-6 grid gap-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,0.95fr)]">
-        <SectionCard
-          title={`${currentPaper.year} ${currentPaper.textNumber}｜${currentPaper.title}`}
-        >
+        <SectionCard title={`${currentPaper.year} ${currentPaper.textNumber}｜${currentPaper.title || "阅读文章"}`}>
           <div className="max-h-[72vh] overflow-y-auto rounded-2xl bg-slate-50 p-4 text-sm leading-7 text-slate-700 md:p-5">
             {currentPaper.passage.split("\n\n").map((paragraph) => (
-              <p key={paragraph} className="mb-4 last:mb-0">
-                {paragraph}
-              </p>
+              <p key={paragraph} className="mb-4 last:mb-0">{paragraph}</p>
             ))}
           </div>
-
           <div className="mt-5 grid gap-3 text-sm text-slate-600 sm:grid-cols-3">
-            <p className="rounded-xl bg-blue-50 p-3">
-              篇章结构：{currentPaper.articleStructure}
-            </p>
-            <p className="rounded-xl bg-emerald-50 p-3">
-              核心词：
-              {vocabulary.map((item) => item.word).slice(0, 5).join(" / ") ||
-                "暂未整理"}
-            </p>
-            <p className="rounded-xl bg-amber-50 p-3">
-              长难句：{currentPaper.longSentences[0]?.analysis}
-            </p>
+            <p className="rounded-xl bg-blue-50 p-3">篇章结构：{currentPaper.articleStructure ?? "待补充"}</p>
+            <p className="rounded-xl bg-emerald-50 p-3">核心词：{vocabulary.map((item) => item.word).slice(0, 5).join(" / ") || "待补充"}</p>
+            <p className="rounded-xl bg-amber-50 p-3">长难句：{currentPaper.longSentences?.[0]?.analysis ?? "待补充"}</p>
           </div>
         </SectionCard>
 
@@ -399,113 +295,64 @@ export default function ReadingTraining() {
               const selected = answers[question.questionNumber];
               const isCorrect = submitted && selected === question.answer;
               const isWrong = submitted && selected !== question.answer;
-              const mistakeId = getQuestionId(currentPaper, question);
-              const isSaved = savedIds.has(mistakeId);
-
               return (
-                <article
-                  key={question.questionNumber}
-                  className="rounded-2xl border border-slate-200 bg-white p-4"
-                >
+                <article key={question.id} className="rounded-2xl border border-slate-200 bg-white p-4">
                   <div className="flex flex-wrap items-start justify-between gap-3">
-                    <h2 className="max-w-xl text-sm font-bold leading-6 text-slate-900">
-                      {question.questionNumber}. {question.questionText}
-                    </h2>
-                    {submitted && (
-                      <span
-                        className={`rounded-full px-2.5 py-1 text-xs font-semibold ${
-                          isCorrect
-                            ? "bg-emerald-50 text-emerald-700"
-                            : "bg-rose-50 text-rose-700"
-                        }`}
-                      >
-                        {isCorrect ? "正确" : "错误"}
-                      </span>
-                    )}
+                    <h2 className="max-w-xl text-sm font-bold leading-6 text-slate-900">{question.questionNumber}. {question.questionText}</h2>
+                    {submitted && <span className={`rounded-full px-2.5 py-1 text-xs font-semibold ${isCorrect ? "bg-emerald-50 text-emerald-700" : "bg-rose-50 text-rose-700"}`}>{isCorrect ? "正确" : "错误"}</span>}
                   </div>
-
                   <div className="mt-3 grid gap-2">
                     {Object.entries(question.options).map(([label, text]) => {
                       const isSelected = selected === label;
                       const isAnswer = submitted && question.answer === label;
-                      let style =
-                        "border-slate-200 bg-white text-slate-700 hover:border-blue-300 hover:bg-blue-50";
-
-                      if (isAnswer) {
-                        style =
-                          "border-emerald-300 bg-emerald-50 text-emerald-800";
-                      } else if (submitted && isSelected) {
-                        style = "border-rose-300 bg-rose-50 text-rose-800";
-                      } else if (isSelected) {
-                        style = "border-blue-300 bg-blue-50 text-blue-800";
-                      }
-
-                      return (
-                        <button
-                          key={label}
-                          type="button"
-                          disabled={submitted}
-                          onClick={() =>
-                            setAnswers((current) => ({
-                              ...current,
-                              [question.questionNumber]: label,
-                            }))
-                          }
-                          className={`rounded-xl border px-3 py-2 text-left text-sm transition disabled:cursor-default ${style}`}
-                        >
-                          <span className="mr-2 font-bold">{label}.</span>
-                          {text}
-                        </button>
-                      );
+                      const style = isAnswer
+                        ? "border-emerald-300 bg-emerald-50 text-emerald-800"
+                        : submitted && isSelected
+                          ? "border-rose-300 bg-rose-50 text-rose-800"
+                          : isSelected
+                            ? "border-blue-300 bg-blue-50 text-blue-800"
+                            : "border-slate-200 bg-white text-slate-700 hover:border-blue-300 hover:bg-blue-50";
+                      return <button key={label} type="button" disabled={submitted} onClick={() => setAnswers((current) => ({ ...current, [question.questionNumber]: label }))} className={`rounded-xl border px-3 py-2 text-left text-sm transition disabled:cursor-default ${style}`}><span className="mr-2 font-bold">{label}.</span>{text}</button>;
                     })}
                   </div>
 
                   {submitted && showAnalysis && (
                     <div className="mt-4 space-y-3 border-t border-slate-200 pt-4">
                       <div className="grid gap-2 text-sm sm:grid-cols-3">
-                        <p className="rounded-xl bg-slate-50 p-3 text-slate-600">
-                          你的选择：
-                          <strong className={isWrong ? "text-rose-700" : ""}>
-                            {selected ?? "未作答"}
-                          </strong>
-                        </p>
-                        <p className="rounded-xl bg-emerald-50 p-3 text-emerald-700">
-                          正确答案：<strong>{question.answer}</strong>
-                        </p>
-                        <p className="rounded-xl bg-blue-50 p-3 text-blue-700">
-                          题型：<strong>{getQuestionType(question)}</strong>
-                        </p>
+                        <p className="rounded-xl bg-slate-50 p-3 text-slate-600">你的选择：<strong className={isWrong ? "text-rose-700" : ""}>{selected ?? "未作答"}</strong></p>
+                        <p className="rounded-xl bg-emerald-50 p-3 text-emerald-700">正确答案：<strong>{question.answer}</strong></p>
+                        <p className="rounded-xl bg-blue-50 p-3 text-blue-700">题型：<strong>{question.type}</strong></p>
                       </div>
-
                       <div className="rounded-xl bg-slate-50 p-3 text-sm leading-6 text-slate-600">
-                        <p>
-                          <strong>原文定位：</strong>
-                          {question.location}
-                        </p>
-                        <p className="mt-2">
-                          <strong>解析：</strong>
-                          {question.explanation}
-                        </p>
-                        <p className="mt-2">
-                          <strong>干扰项分析：</strong>
-                          {question.trapAnalysis ?? question.thinkingMethod}
-                        </p>
-                        {isWrong && (
-                          <p className="mt-2 rounded-xl bg-rose-50 p-3 text-rose-700">
-                            <strong>本题错因：</strong>
-                            {question.commonMistake ?? "本题可能存在定位错误或同义替换没识别。"}
-                          </p>
-                        )}
+                        <p><strong>原文定位：</strong>{question.location}</p>
+                        <p className="mt-2"><strong>解析：</strong>{question.explanation}</p>
+                        <p className="mt-2"><strong>干扰项分析：</strong>{question.trapAnalysis}</p>
+                        {isWrong && <p className="mt-2 rounded-xl bg-rose-50 p-3 text-rose-700"><strong>本题错因：</strong>{question.commonMistake}</p>}
                       </div>
 
-                      <button
-                        type="button"
-                        disabled={isSaved}
-                        onClick={() => saveQuestion(question)}
-                        className="rounded-xl bg-blue-600 px-4 py-2 text-sm font-semibold text-white disabled:cursor-not-allowed disabled:bg-slate-300"
-                      >
-                        {isSaved ? "已加入错题本" : "加入错题本"}
-                      </button>
+                      {isWrong && (
+                        <div className="grid gap-3 md:grid-cols-2">
+                          <div className="rounded-xl bg-blue-50 p-4 text-sm leading-6 text-slate-700">
+                            <p className="font-bold text-blue-700">归位出题人思维</p>
+                            {question.examinerThinking ? (
+                              <>
+                                <p className="mt-2">考查点：{question.examinerThinking.testPoint}</p>
+                                <p>干扰套路：{question.examinerThinking.trap}</p>
+                                <p>下次策略：{question.examinerThinking.nextTimeStrategy}</p>
+                              </>
+                            ) : <p className="mt-2">该题出题人思维分析待补充</p>}
+                          </div>
+                          <div className="rounded-xl bg-amber-50 p-4 text-sm leading-6 text-slate-700">
+                            <p className="font-bold text-amber-700">错题定位句长难句训练</p>
+                            {question.sourceSentenceAnalysis ? (
+                              <>
+                                <p className="mt-2">{question.sourceSentenceAnalysis.sentence}</p>
+                                <p>主干：{question.sourceSentenceAnalysis.coreStructure}</p>
+                              </>
+                            ) : <p className="mt-2">该题长难句分析待补充</p>}
+                          </div>
+                        </div>
+                      )}
                     </div>
                   )}
                 </article>
@@ -515,60 +362,49 @@ export default function ReadingTraining() {
 
           <div className="sticky bottom-4 mt-6 rounded-2xl border border-blue-100 bg-white/95 p-4 shadow-lg backdrop-blur">
             {submitted ? (
-              <div className="flex flex-wrap items-center justify-between gap-3">
-                <div>
-                  <p className="text-lg font-bold text-slate-900">
-                    本篇得分：
-                    <span className="text-blue-600">{score}/5</span>
-                  </p>
-                  <div className="mt-2 text-sm text-slate-500">
-                    <p>你本篇错了 {wrongQuestions.length} 题</p>
-                    {Object.entries(wrongTypeCounts).map(([type, count]) => (
-                      <p key={type}>
-                        {type}错 {count} 题
-                      </p>
-                    ))}
+              <div className="space-y-4">
+                <div className="rounded-2xl bg-blue-50 p-4">
+                  <p className="text-lg font-bold text-slate-900">本篇诊断报告：{score}/{currentPaper.questions.length}，正确率 {Math.round((score / currentPaper.questions.length) * 100)}%</p>
+                  <p className="mt-2 text-sm text-slate-600">{buildSummary(wrongQuestions)}</p>
+                  {savedRecordId && <p className="mt-1 text-xs text-blue-600">已保存本次训练记录</p>}
+                  <div className="mt-3 grid gap-3 text-sm sm:grid-cols-2">
+                    <div>
+                      <p className="font-bold text-slate-700">题型统计</p>
+                      {Object.entries(typeStats).length === 0 ? <p className="text-slate-500">本篇无错题</p> : Object.entries(typeStats).map(([key, value]) => <p key={key}>{key}错 {value} 题</p>)}
+                    </div>
+                    <div>
+                      <p className="font-bold text-slate-700">错因统计</p>
+                      {Object.entries(reasonStats).length === 0 ? <p className="text-slate-500">本篇无错因</p> : Object.entries(reasonStats).map(([key, value]) => <p key={key}>{key}：{value} 次</p>)}
+                    </div>
                   </div>
                 </div>
+
+                {wrongQuestions.length > 0 && (
+                  <div className="rounded-2xl bg-white p-4">
+                    <p className="font-bold text-slate-900">同类题推荐</p>
+                    {similarQuestions.length === 0 ? <p className="mt-2 text-sm text-slate-500">当前同类真题数量较少，后续录入更多年份后会自动补充。</p> : (
+                      <div className="mt-3 grid gap-3">
+                        {similarQuestions.map(({ reading, question, reason }) => (
+                          <div key={question.id} className="rounded-xl border border-slate-200 p-3 text-sm">
+                            <p className="font-semibold">{reading.year} {reading.textNumber} 第 {question.questionNumber} 题 · {question.type}</p>
+                            <p className="text-slate-500">{reason}</p>
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )}
+
                 <div className="flex flex-wrap gap-2">
-                  <button
-                    type="button"
-                    onClick={() => setShowAnalysis((value) => !value)}
-                    className="rounded-xl bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-200"
-                  >
-                    {showAnalysis ? "隐藏解析" : "查看解析"}
-                  </button>
-                  <button
-                    type="button"
-                    onClick={resetTraining}
-                    className="rounded-xl bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700"
-                  >
-                    重新作答
-                  </button>
-                  <button
-                    type="button"
-                    disabled={vocabulary.length === 0}
-                    onClick={startVocabularyTest}
-                    className="rounded-xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700 disabled:cursor-not-allowed disabled:bg-slate-300"
-                  >
-                    {vocabulary.length > 0
-                      ? "进入单词自测"
-                      : "本篇暂未整理词汇"}
-                  </button>
+                  <button type="button" onClick={() => setShowAnalysis((value) => !value)} className="rounded-xl bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-200">{showAnalysis ? "隐藏解析" : "查看解析"}</button>
+                  <button type="button" onClick={resetTraining} className="rounded-xl bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700">重新作答</button>
+                  <button type="button" disabled={vocabulary.length === 0} onClick={() => setMode("vocabulary")} className="rounded-xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700 disabled:cursor-not-allowed disabled:bg-slate-300">{vocabulary.length > 0 ? "进入单词自测" : "本篇暂未整理词汇"}</button>
                 </div>
               </div>
             ) : (
               <div className="flex flex-wrap items-center justify-between gap-3">
-                <p className="text-sm text-slate-500">
-                  已作答 {Object.keys(answers).length}/5。提交后才会显示解析。
-                </p>
-                <button
-                  type="button"
-                  onClick={() => setSubmitted(true)}
-                  className="rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white hover:bg-blue-700"
-                >
-                  提交答案
-                </button>
+                <p className="text-sm text-slate-500">已作答 {Object.keys(answers).length}/5。提交后生成诊断报告。</p>
+                <button type="button" onClick={submitAnswers} className="rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white hover:bg-blue-700">提交答案</button>
               </div>
             )}
           </div>

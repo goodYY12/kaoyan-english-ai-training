@@ -1,20 +1,46 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import EmptyState from "../components/EmptyState";
+import SectionCard from "../components/SectionCard";
 import {
-  getMistakes,
-  removeMistake,
-  toggleReviewed,
-} from "../utils/storage";
+  clearTrainingData,
+  getStoredMistakes,
+  markMistakeMastered,
+} from "../utils/trainingStorage";
+
+function uniqueValues(items, key) {
+  return [...new Set(items.map((item) => item[key]).filter(Boolean))];
+}
 
 export default function MistakeBook() {
-  const [mistakes, setMistakes] = useState(() => getMistakes());
+  const [mistakes, setMistakes] = useState(() => getStoredMistakes());
+  const [year, setYear] = useState("全部");
+  const [type, setType] = useState("全部");
+  const [reason, setReason] = useState("全部");
 
-  function handleRemove(id) {
-    setMistakes(removeMistake(id));
+  const years = useMemo(() => uniqueValues(mistakes, "year").sort((a, b) => b - a), [mistakes]);
+  const types = useMemo(() => uniqueValues(mistakes, "type"), [mistakes]);
+  const reasons = useMemo(() => uniqueValues(mistakes, "wrongReason"), [mistakes]);
+
+  const filteredMistakes = useMemo(
+    () =>
+      mistakes.filter((item) => {
+        const yearMatch = year === "全部" || String(item.year) === String(year);
+        const typeMatch = type === "全部" || item.type === type;
+        const reasonMatch = reason === "全部" || item.wrongReason === reason;
+        return yearMatch && typeMatch && reasonMatch;
+      }),
+    [mistakes, reason, type, year],
+  );
+
+  function handleMastered(id) {
+    setMistakes(markMistakeMastered(id));
   }
 
-  function handleToggle(id) {
-    setMistakes(toggleReviewed(id));
+  function handleClear() {
+    if (window.confirm("确定清空本地训练记录吗？这个操作主要用于测试。")) {
+      clearTrainingData();
+      setMistakes([]);
+    }
   }
 
   return (
@@ -22,65 +48,130 @@ export default function MistakeBook() {
       <p className="text-sm font-semibold text-blue-600">MISTAKE BOOK</p>
       <h1 className="mt-2 text-3xl font-bold text-slate-900">错题本</h1>
       <p className="mt-3 text-sm leading-6 text-slate-500">
-        数据只保存在当前浏览器中，刷新页面后仍会保留。
+        阅读提交后，做错的题会自动进入这里。记录只保存在当前浏览器中，刷新页面不会丢失。
       </p>
 
-      <div className="mt-7">
-        {mistakes.length === 0 ? (
-          <EmptyState />
-        ) : (
-          <div className="space-y-4">
-            {mistakes.map((mistake) => (
-              <article
-                key={mistake.id}
-                className={`rounded-2xl border bg-white p-5 shadow-sm ${
-                  mistake.reviewed
-                    ? "border-emerald-200"
-                    : "border-slate-200"
-                }`}
+      <div className="mt-6 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
+        <div className="grid gap-3 md:grid-cols-4">
+          {[
+            ["年份", year, setYear, years],
+            ["题型", type, setType, types],
+            ["错因", reason, setReason, reasons],
+          ].map(([label, value, setter, options]) => (
+            <label key={label} className="text-sm font-semibold text-slate-700">
+              {label}
+              <select
+                value={value}
+                onChange={(event) => setter(event.target.value)}
+                className="mt-2 w-full rounded-xl border border-slate-200 px-3 py-2 text-sm outline-none focus:border-blue-400 focus:ring-4 focus:ring-blue-100"
               >
-                <div className="flex flex-wrap items-start justify-between gap-3">
-                  <div>
-                    <div className="flex flex-wrap items-center gap-2">
-                      <span className="rounded-full bg-blue-50 px-2.5 py-1 text-xs font-semibold text-blue-700">
-                        {mistake.type}
-                      </span>
-                      {mistake.reviewed && (
-                        <span className="rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-700">
-                          已复习
-                        </span>
-                      )}
-                    </div>
-                    <h2 className="mt-3 font-bold leading-7 text-slate-900">
-                      {mistake.question}
-                    </h2>
-                  </div>
-                  <div className="flex gap-2">
-                    <button
-                      type="button"
-                      onClick={() => handleToggle(mistake.id)}
-                      className="rounded-lg bg-emerald-50 px-3 py-2 text-xs font-semibold text-emerald-700 hover:bg-emerald-100"
-                    >
-                      {mistake.reviewed ? "取消已复习" : "标记已复习"}
-                    </button>
-                    <button
-                      type="button"
-                      onClick={() => handleRemove(mistake.id)}
-                      className="rounded-lg bg-rose-50 px-3 py-2 text-xs font-semibold text-rose-700 hover:bg-rose-100"
-                    >
-                      删除
-                    </button>
-                  </div>
+                <option value="全部">全部</option>
+                {options.map((option) => (
+                  <option key={option} value={option}>
+                    {option}
+                  </option>
+                ))}
+              </select>
+            </label>
+          ))}
+          <button
+            type="button"
+            onClick={handleClear}
+            className="self-end rounded-xl bg-rose-50 px-4 py-2.5 text-sm font-semibold text-rose-700 hover:bg-rose-100"
+          >
+            清空本地记录
+          </button>
+        </div>
+      </div>
+
+      <div className="mt-7">
+        {filteredMistakes.length === 0 ? (
+          <EmptyState
+            title="还没有匹配的错题"
+            description="完成一篇阅读并提交答案后，错题会自动保存到这里。"
+          />
+        ) : (
+          <div className="space-y-5">
+            {filteredMistakes.map((mistake) => (
+              <SectionCard
+                key={mistake.id}
+                title={`${mistake.year} ${mistake.textNumber} · 第 ${mistake.questionNumber} 题`}
+                description={mistake.question}
+                action={
+                  <span
+                    className={`rounded-full px-3 py-1 text-xs font-semibold ${
+                      mistake.mastered
+                        ? "bg-emerald-50 text-emerald-700"
+                        : "bg-amber-50 text-amber-700"
+                    }`}
+                  >
+                    {mistake.mastered ? "已掌握" : "待复盘"}
+                  </span>
+                }
+              >
+                <div className="flex flex-wrap gap-2">
+                  <span className="rounded-full bg-blue-50 px-2.5 py-1 text-xs font-semibold text-blue-700">
+                    {mistake.type ?? "待补充"}
+                  </span>
+                  <span className="rounded-full bg-rose-50 px-2.5 py-1 text-xs font-semibold text-rose-700">
+                    {mistake.wrongReason ?? "待补充"}
+                  </span>
                 </div>
+
                 <div className="mt-5 grid gap-3 sm:grid-cols-2">
                   <p className="rounded-xl bg-rose-50 p-3 text-sm text-rose-700">
-                    你的答案：<strong>{mistake.userAnswer}</strong>
+                    你的答案：<strong>{mistake.userAnswer || "未作答"}</strong>
                   </p>
                   <p className="rounded-xl bg-emerald-50 p-3 text-sm text-emerald-700">
                     正确答案：<strong>{mistake.correctAnswer}</strong>
                   </p>
                 </div>
-              </article>
+
+                <div className="mt-5 grid gap-4 lg:grid-cols-2">
+                  <div className="rounded-xl bg-slate-50 p-4">
+                    <h3 className="font-bold text-slate-900">查看解析</h3>
+                    <p className="mt-2 text-sm leading-6 text-slate-600">
+                      {mistake.explanation ?? "待补充"}
+                    </p>
+                  </div>
+                  <div className="rounded-xl bg-blue-50 p-4">
+                    <h3 className="font-bold text-blue-800">原文定位句</h3>
+                    <p className="mt-2 text-sm leading-6 text-slate-600">
+                      {mistake.location ?? "待补充"}
+                    </p>
+                  </div>
+                  <div className="rounded-xl bg-indigo-50 p-4">
+                    <h3 className="font-bold text-indigo-800">查看出题人思维</h3>
+                    {mistake.examinerThinking ? (
+                      <ul className="mt-2 space-y-1 text-sm leading-6 text-slate-600">
+                        <li>考查点：{mistake.examinerThinking.testPoint ?? "待补充"}</li>
+                        <li>干扰项：{mistake.examinerThinking.trap ?? "待补充"}</li>
+                        <li>下次策略：{mistake.examinerThinking.nextTimeStrategy ?? "待补充"}</li>
+                      </ul>
+                    ) : (
+                      <p className="mt-2 text-sm text-slate-500">该题出题人思维分析待补充</p>
+                    )}
+                  </div>
+                  <div className="rounded-xl bg-cyan-50 p-4">
+                    <h3 className="font-bold text-cyan-800">查看长难句分析</h3>
+                    {mistake.sourceSentenceAnalysis ? (
+                      <p className="mt-2 text-sm leading-6 text-slate-600">
+                        {mistake.sourceSentenceAnalysis.translation ?? "待补充"}
+                      </p>
+                    ) : (
+                      <p className="mt-2 text-sm text-slate-500">该题长难句分析待补充</p>
+                    )}
+                  </div>
+                </div>
+
+                <button
+                  type="button"
+                  onClick={() => handleMastered(mistake.id)}
+                  className="mt-5 rounded-xl bg-emerald-600 px-4 py-2.5 text-sm font-semibold text-white hover:bg-emerald-700"
+                >
+                  {mistake.mastered ? "取消已掌握" : "标记为已掌握"}
+                </button>
+              </SectionCard>
             ))}
           </div>
         )}
