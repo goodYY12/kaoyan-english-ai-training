@@ -46,5 +46,8 @@ test("Text 1 has enough structured vocabulary for the word self-test", () => {
     assert.equal(typeof item.sentenceTranslation, "string");
     assert.equal(typeof item.difficulty, "string");
     assert.equal(typeof item.sourceParagraph, "number");
+    assert.equal(item.meaning.includes("?"), false);
+    assert.equal(item.sentenceTranslation.includes("?"), false);
+    assert.equal(item.note.includes("?"), false);
   }
 });
