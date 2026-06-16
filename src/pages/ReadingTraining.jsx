@@ -14,12 +14,37 @@ function getQuestionId(paper, question) {
   return `${paper.year}-${paper.textNumber.toLowerCase().replace(" ", "-")}-${question.questionNumber}`;
 }
 
+function getStructuredVocabulary(paper) {
+  return paper.vocabulary.filter((item) => typeof item === "object");
+}
+
+function highlightWord(sentence, word) {
+  const index = sentence.toLowerCase().indexOf(word.toLowerCase());
+
+  if (index === -1) {
+    return sentence;
+  }
+
+  return (
+    <>
+      {sentence.slice(0, index)}
+      <mark className="rounded bg-amber-200 px-1 font-bold text-slate-900">
+        {sentence.slice(index, index + word.length)}
+      </mark>
+      {sentence.slice(index + word.length)}
+    </>
+  );
+}
+
 export default function ReadingTraining() {
   const [selectedYear, setSelectedYear] = useState(years[0]);
   const [selectedTextNumber, setSelectedTextNumber] = useState("Text 1");
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
   const [showAnalysis, setShowAnalysis] = useState(true);
+  const [mode, setMode] = useState("reading");
+  const [wordIndex, setWordIndex] = useState(0);
+  const [wordResults, setWordResults] = useState({});
   const [savedIds, setSavedIds] = useState(
     () => new Set(getMistakes().map((item) => item.id)),
   );
@@ -32,12 +57,20 @@ export default function ReadingTraining() {
   const currentPaper =
     availableTexts.find((paper) => paper.textNumber === selectedTextNumber) ??
     availableTexts[0];
-
+  const vocabulary = getStructuredVocabulary(currentPaper);
+  const currentWord = vocabulary[wordIndex];
   const score = currentPaper.questions.reduce((total, question) => {
     return answers[question.questionNumber] === question.answer
       ? total + 1
       : total;
   }, 0);
+  const wordSummary = vocabulary.reduce(
+    (summary, item) => {
+      const value = wordResults[item.word];
+      return value ? { ...summary, [value]: summary[value] + 1 } : summary;
+    },
+    { know: 0, vague: 0, unknown: 0 },
+  );
 
   function chooseYear(year) {
     const firstPaper = papers.find((paper) => paper.year === Number(year));
@@ -51,10 +84,34 @@ export default function ReadingTraining() {
     resetTraining();
   }
 
+  function resetVocabulary() {
+    setMode("reading");
+    setWordIndex(0);
+    setWordResults({});
+  }
+
   function resetTraining() {
     setAnswers({});
     setSubmitted(false);
     setShowAnalysis(true);
+    resetVocabulary();
+  }
+
+  function startVocabularyTest() {
+    setMode("vocabulary");
+    setWordIndex(0);
+    setWordResults({});
+  }
+
+  function chooseFamiliarity(value) {
+    setWordResults((current) => ({
+      ...current,
+      [currentWord.word]: value,
+    }));
+  }
+
+  function goToNextWord() {
+    setWordIndex((current) => Math.min(current + 1, vocabulary.length));
   }
 
   function saveQuestion(question) {
@@ -72,12 +129,144 @@ export default function ReadingTraining() {
     setSavedIds((current) => new Set([...current, id]));
   }
 
+  if (mode === "vocabulary") {
+    const finished = wordIndex >= vocabulary.length;
+
+    return (
+      <div>
+        <p className="text-sm font-semibold text-blue-600">VOCABULARY TEST</p>
+        <h1 className="mt-2 text-3xl font-bold text-slate-900">
+          本篇单词自测
+        </h1>
+        <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-500">
+          {currentPaper.year} {currentPaper.textNumber} 的核心词汇。一次只看一个词，
+          结合原文例句判断自己是否真正认识。
+        </p>
+
+        <div className="mt-6">
+          <SectionCard
+            title={
+              finished
+                ? "自测结果"
+                : `词汇进度 ${wordIndex + 1}/${vocabulary.length}`
+            }
+          >
+            {finished ? (
+              <div>
+                <div className="grid gap-3 sm:grid-cols-3">
+                  <p className="rounded-2xl bg-emerald-50 p-5 text-center text-emerald-700">
+                    认识 <strong className="text-2xl">{wordSummary.know}</strong> 个
+                  </p>
+                  <p className="rounded-2xl bg-amber-50 p-5 text-center text-amber-700">
+                    模糊 <strong className="text-2xl">{wordSummary.vague}</strong> 个
+                  </p>
+                  <p className="rounded-2xl bg-rose-50 p-5 text-center text-rose-700">
+                    不认识 <strong className="text-2xl">{wordSummary.unknown}</strong> 个
+                  </p>
+                </div>
+                <div className="mt-6 flex flex-wrap gap-3">
+                  <button
+                    type="button"
+                    onClick={startVocabularyTest}
+                    className="rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white"
+                  >
+                    重新测试
+                  </button>
+                  <button
+                    type="button"
+                    onClick={resetVocabulary}
+                    className="rounded-xl bg-slate-100 px-5 py-2.5 text-sm font-semibold text-slate-700"
+                  >
+                    返回阅读解析
+                  </button>
+                </div>
+              </div>
+            ) : (
+              <div className="mx-auto max-w-3xl">
+                <div className="rounded-3xl border border-blue-100 bg-blue-50/60 p-6">
+                  <div className="flex flex-wrap items-start justify-between gap-3">
+                    <div>
+                      <h2 className="text-4xl font-bold text-slate-900">
+                        {currentWord.word}
+                      </h2>
+                      <p className="mt-2 text-sm text-slate-500">
+                        {currentWord.phonetic} · {currentWord.partOfSpeech} · {currentWord.difficulty}
+                      </p>
+                    </div>
+                    <span className="rounded-full bg-white px-3 py-1 text-xs font-semibold text-blue-700">
+                      第 {currentWord.sourceParagraph} 段
+                    </span>
+                  </div>
+                  <p className="mt-5 text-lg font-semibold text-blue-800">
+                    {currentWord.meaning}
+                  </p>
+                </div>
+
+                <div className="mt-5 rounded-2xl bg-slate-50 p-5 text-sm leading-7 text-slate-700">
+                  <p className="font-semibold text-slate-900">原文例句</p>
+                  <p className="mt-2 text-base">
+                    {highlightWord(currentWord.sentence, currentWord.word)}
+                  </p>
+                  <p className="mt-3 text-slate-500">
+                    {currentWord.sentenceTranslation}
+                  </p>
+                  {currentWord.note && (
+                    <p className="mt-3 rounded-xl bg-white p-3 text-blue-700">
+                      提醒：{currentWord.note}
+                    </p>
+                  )}
+                </div>
+
+                <div className="mt-5 grid gap-2 sm:grid-cols-3">
+                  {[
+                    ["know", "认识", "bg-emerald-50 text-emerald-700"],
+                    ["vague", "模糊", "bg-amber-50 text-amber-700"],
+                    ["unknown", "不认识", "bg-rose-50 text-rose-700"],
+                  ].map(([value, label, style]) => (
+                    <button
+                      key={value}
+                      type="button"
+                      onClick={() => chooseFamiliarity(value)}
+                      className={`rounded-xl px-4 py-3 text-sm font-semibold ${style} ${
+                        wordResults[currentWord.word] === value
+                          ? "ring-2 ring-blue-400"
+                          : ""
+                      }`}
+                    >
+                      {label}
+                    </button>
+                  ))}
+                </div>
+
+                <div className="mt-5 flex flex-wrap justify-between gap-3">
+                  <button
+                    type="button"
+                    onClick={resetVocabulary}
+                    className="rounded-xl bg-slate-100 px-5 py-2.5 text-sm font-semibold text-slate-700"
+                  >
+                    返回阅读解析
+                  </button>
+                  <button
+                    type="button"
+                    disabled={!wordResults[currentWord.word]}
+                    onClick={goToNextWord}
+                    className="rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white disabled:cursor-not-allowed disabled:bg-slate-300"
+                  >
+                    下一个单词
+                  </button>
+                </div>
+              </div>
+            )}
+          </SectionCard>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div>
       <p className="text-sm font-semibold text-blue-600">READING TRAINING</p>
-      <h1 className="mt-2 text-3xl font-bold text-slate-900">
-        完整阅读训练
-      </h1>
+      <h1 className="mt-2 text-3xl font-bold text-slate-900">完整阅读训练</h1>
       <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-500">
         选择年份和 Text，先完整读完一篇文章，再连续完成 5 道选择题。
         提交后统一查看得分、定位、解析和做题思路。
@@ -152,7 +341,9 @@ export default function ReadingTraining() {
               篇章结构：{currentPaper.articleStructure}
             </p>
             <p className="rounded-xl bg-emerald-50 p-3">
-              高频词：{currentPaper.vocabulary.slice(0, 5).join(" / ")}
+              核心词：
+              {vocabulary.map((item) => item.word).slice(0, 5).join(" / ") ||
+                "暂未整理"}
             </p>
             <p className="rounded-xl bg-amber-50 p-3">
               长难句：{currentPaper.longSentences[0]?.analysis}
@@ -295,6 +486,16 @@ export default function ReadingTraining() {
                     className="rounded-xl bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700"
                   >
                     重新作答
+                  </button>
+                  <button
+                    type="button"
+                    disabled={vocabulary.length === 0}
+                    onClick={startVocabularyTest}
+                    className="rounded-xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700 disabled:cursor-not-allowed disabled:bg-slate-300"
+                  >
+                    {vocabulary.length > 0
+                      ? "开始本篇单词自测"
+                      : "本篇暂未整理词汇"}
                   </button>
                 </div>
               </div>

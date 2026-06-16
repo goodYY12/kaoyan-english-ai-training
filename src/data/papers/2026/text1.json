@@ -82,7 +82,85 @@
       "thinkingMethod": "末段目的题直接找 could help / might improve，注意 wildlife、recovering、awareness 都扩大或偏离原文。"
     }
   ],
-  "vocabulary": ["genome", "domestication", "equine", "testimony", "evolutionary tree", "pinpoint", "enlist"],
+  "vocabulary": [
+    {
+      "word": "genome",
+      "phonetic": "/ˈdʒiːnoʊm/",
+      "partOfSpeech": "n.",
+      "meaning": "基因组",
+      "sentence": "Now, researchers have used the genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa.",
+      "sentenceTranslation": "如今，研究人员利用 200 多头驴的基因组，将其驯化追溯到约 7000 年前东非的一次单一事件。",
+      "difficulty": "medium",
+      "sourceParagraph": 1,
+      "note": "考研阅读中常见于科学研究类文章。"
+    },
+    {
+      "word": "domestication",
+      "phonetic": "/dəˌmestɪˈkeɪʃn/",
+      "partOfSpeech": "n.",
+      "meaning": "驯化；家养化",
+      "sentence": "The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event.",
+      "sentenceTranslation": "研究团队重建了这些动物的进化树，并使用计算机模型确定了驯化事件。",
+      "difficulty": "hard",
+      "sourceParagraph": 3,
+      "note": "domestic 是“家庭的；国内的”，domestication 是名词形式。"
+    },
+    {
+      "word": "equine",
+      "phonetic": "/ˈiːkwaɪn/",
+      "partOfSpeech": "adj./n.",
+      "meaning": "马科动物的；马科动物",
+      "sentence": "Not only does understanding the equines' genetic makeup help reveal their contribution to human history, but it also might improve their management in the future.",
+      "sentenceTranslation": "了解这些马科动物的基因构成不仅有助于揭示它们对人类历史的贡献，也可能改善未来对它们的管理。",
+      "difficulty": "hard",
+      "sourceParagraph": 5,
+      "note": "本文中指驴所属的马科动物。"
+    },
+    {
+      "word": "testimony",
+      "phonetic": "/ˈtestɪmoʊni/",
+      "partOfSpeech": "n.",
+      "meaning": "证据；证词；证明",
+      "sentence": "Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.",
+      "sentenceTranslation": "通过研究这些 DNA 序列，我们获得了关于这些动物生活环境和生存经历的生物学证据。",
+      "difficulty": "medium",
+      "sourceParagraph": 2,
+      "note": "这里不是法庭证词，而是“证据、证明”。"
+    },
+    {
+      "word": "pinpoint",
+      "phonetic": "/ˈpɪnpɔɪnt/",
+      "partOfSpeech": "v.",
+      "meaning": "精确指出；确定",
+      "sentence": "The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event.",
+      "sentenceTranslation": "研究团队重建了这些动物的进化树，并使用计算机模型精确确定驯化事件。",
+      "difficulty": "medium",
+      "sourceParagraph": 3,
+      "note": "阅读中常表示“准确定位原因、时间或位置”。"
+    },
+    {
+      "word": "coincide",
+      "phonetic": "/ˌkoʊɪnˈsaɪd/",
+      "partOfSpeech": "v.",
+      "meaning": "同时发生；相一致",
+      "sentence": "Science News' Freda Kreier reports that the event coincided with the Sahara growing larger and drier.",
+      "sentenceTranslation": "《科学新闻》的 Freda Kreier 报道称，这一事件与撒哈拉沙漠变得更大、更干旱同时发生。",
+      "difficulty": "medium",
+      "sourceParagraph": 4,
+      "note": "coincide with 常考搭配，表示“与……同时发生”。"
+    },
+    {
+      "word": "enlist",
+      "phonetic": "/ɪnˈlɪst/",
+      "partOfSpeech": "v.",
+      "meaning": "争取；获得帮助；征募",
+      "sentence": "Prehistoric humans may have enlisted donkeys' help in navigating the expanding Sahara.",
+      "sentenceTranslation": "史前人类可能曾借助驴的帮助穿越不断扩张的撒哈拉沙漠。",
+      "difficulty": "medium",
+      "sourceParagraph": 4,
+      "note": "enlist one's help 表示“争取某人的帮助”。"
+    }
+  ],
   "longSentences": [
     {
       "sentence": "Not only does understanding the equines' genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet's environment, write the authors.",

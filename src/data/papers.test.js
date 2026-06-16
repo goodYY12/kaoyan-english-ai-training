@@ -34,3 +34,17 @@ test("2026 reading papers have one full passage and five complete questions", ()
     }
   }
 });
+
+test("Text 1 has structured vocabulary for the word self-test", () => {
+  assert.ok(text1.vocabulary.length >= 5);
+
+  for (const item of text1.vocabulary) {
+    assert.equal(typeof item.word, "string");
+    assert.equal(typeof item.meaning, "string");
+    assert.equal(typeof item.partOfSpeech, "string");
+    assert.equal(typeof item.sentence, "string");
+    assert.equal(typeof item.sentenceTranslation, "string");
+    assert.equal(typeof item.difficulty, "string");
+    assert.equal(typeof item.sourceParagraph, "number");
+  }
+});
