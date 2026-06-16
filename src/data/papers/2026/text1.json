@@ -1,0 +1,94 @@
+{
+  "year": 2026,
+  "paperType": "English I",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 1",
+  "title": "Donkey Domestication and Genetic History",
+  "passage": "For thousands of years, donkeys have been critical for propelling human civilizations forward. They have helped pull wheeled vehicles, carry travelers and move goods across the world. But where and when these animals first became intertwined with humans has been a mystery. Now, researchers have used the genomes of over 200 donkeys to trace their domestication back to a single event around 7,000 years ago in East Africa, about 3,000 years before humans tamed horses. The team published their findings in the journal Science this month.\n\n\"Through their DNA, the animals are telling their history themselves,\" co-author Samantha Brooks, an equine researcher at the University of Florida, says in a statement. \"We usually only get the human's side of history through written accounts, but of course written history does not always record exactly how something happened. Looking at these DNA sequences, we get a biological testimony to the environment these animals lived in and the experiences they survived.\"\n\nThe researchers examined 207 genomes from modern donkeys living in 31 countries across the globe. They also looked at genomes from 15 wild equids and 31 earlier donkeys that lived between about 4,000 and 100 years ago. The team reconstructed the animals' evolutionary tree and used computer models to pinpoint the domestication event, when herders in Kenya and the Horn of Africa tamed wild asses. They then traced how the animals spread across the rest of the continent and into Europe and Asia about 2,500 years later.\n\nThough it is still unclear why the original domestication happened, Science News' Freda Kreier reports that the event coincided with the Sahara growing larger and drier. \"Donkeys are champions when it comes to carrying stuff and are good at going through deserts,\" co-author Ludovic Orlando, an evolutionary biologist at Paul Sabatier University in France, tells the publication. Prehistoric humans may have enlisted donkeys' help in navigating the expanding Sahara.\n\nResearchers say these findings could help put donkeys in the spotlight. The animals could benefit from more research: currently, there are no published genomes from donkeys located south of the equator in Africa. But understanding where the animals were first domesticated could guide archaeologists to a narrow region to search for insights about the original tamed donkeys. Not only does understanding the equines' genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet's environment, write the authors.",
+  "questions": [
+    {
+      "questionNumber": 21,
+      "questionText": "What can be learned about donkeys from paragraph 1?",
+      "options": {
+        "A": "They seemed mysterious to human ancestors.",
+        "B": "They underwent multiple domestication events.",
+        "C": "They were tamed at an earlier time than horses.",
+        "D": "They were vividly portrayed by ancient travelers."
+      },
+      "answer": "A",
+      "explanation": "第一段说驴何时何地首次与人类联系在一起一直是一个 mystery，A 项用 seemed mysterious 概括了这一点。C 项虽然提到早于马，但题干问的是从第一段可知的核心信息，PDF 答案为 A。",
+      "questionType": "细节题",
+      "location": "Paragraph 1: where and when these animals first became intertwined with humans has been a mystery.",
+      "thinkingMethod": "定位 paragraph 1，优先抓转折后的核心信息 mystery，不要被数字比较带跑。"
+    },
+    {
+      "questionNumber": 22,
+      "questionText": "What message is conveyed in Brooks' statement?",
+      "options": {
+        "A": "The earliest habitats of donkeys are hardly traceable.",
+        "B": "It is increasingly easy to read donkeys' DNA sequences.",
+        "C": "Written accounts contain vital clues for donkey research.",
+        "D": "Genetic analysis offers insight into the history of donkeys."
+      },
+      "answer": "D",
+      "explanation": "Brooks 强调 DNA 让动物自己讲述历史，并能提供 biological testimony，说明基因分析能帮助理解驴的历史。",
+      "questionType": "细节题",
+      "location": "Paragraph 2: Through their DNA, the animals are telling their history themselves.",
+      "thinkingMethod": "引号题要概括引语主旨，DNA/history/biological testimony 对应 genetic analysis offers insight。"
+    },
+    {
+      "questionNumber": 23,
+      "questionText": "In their study, the researchers investigated how donkeys ______.",
+      "options": {
+        "A": "dispersed widely in the world.",
+        "B": "survived with the help of herders.",
+        "C": "developed certain behavioral traits.",
+        "D": "adapted to the changing environment."
+      },
+      "answer": "A",
+      "explanation": "第三段说研究者重建进化树，并 traced how the animals spread across the rest of the continent and into Europe and Asia，研究重点包括驴如何扩散。",
+      "questionType": "细节题",
+      "location": "Paragraph 3: traced how the animals spread across the rest of the continent and into Europe and Asia.",
+      "thinkingMethod": "题干中的 investigated how 对应原文 traced how，spread 对应 dispersed。"
+    },
+    {
+      "questionNumber": 24,
+      "questionText": "As to why the original domestication of donkeys happened, Orlando ______.",
+      "options": {
+        "A": "challenges conventional ideas.",
+        "B": "provides a possible explanation.",
+        "C": "calls for evidence from the Sahara.",
+        "D": "holds a different view from Kreier."
+      },
+      "answer": "B",
+      "explanation": "第四段先说原因仍不清楚，随后 Orlando 说明驴擅长负重和穿越沙漠，史前人类可能借助驴穿越扩张中的撒哈拉，这是对驯化原因的可能解释。",
+      "questionType": "推理题",
+      "location": "Paragraph 4: Prehistoric humans may have enlisted donkeys' help in navigating the expanding Sahara.",
+      "thinkingMethod": "看到 may have 要保持克制，选择 possible explanation，而不是绝对化结论。"
+    },
+    {
+      "questionNumber": 25,
+      "questionText": "The authors think that their research could help with ______.",
+      "options": {
+        "A": "greater protection of wildlife.",
+        "B": "better management of donkeys.",
+        "C": "recovering early types of donkeys.",
+        "D": "raising awareness of climate change."
+      },
+      "answer": "B",
+      "explanation": "末段明确说理解马科动物的基因组成 might improve their management in the future，对应 B。",
+      "questionType": "细节题",
+      "location": "Last paragraph: it also might improve their management in the future.",
+      "thinkingMethod": "末段目的题直接找 could help / might improve，注意 wildlife、recovering、awareness 都扩大或偏离原文。"
+    }
+  ],
+  "vocabulary": ["genome", "domestication", "equine", "testimony", "evolutionary tree", "pinpoint", "enlist"],
+  "longSentences": [
+    {
+      "sentence": "Not only does understanding the equines' genetic makeup help reveal their contribution to human history, but it also might improve their management in the future, as climate change alters the planet's environment, write the authors.",
+      "analysis": "Not only...but also... 连接两个谓语方向：揭示历史贡献；改善未来管理。as 引导原因/背景状语。"
+    }
+  ],
+  "articleStructure": "提出驴的驯化谜题；介绍 DNA 研究如何提供证据；说明研究过程与扩散路径；推测驯化原因；总结研究价值。",
+  "notes": "PDF 文字层乱码，内容通过 PDF 页面截图核对，并整理为网站可读 JSON。"
+}

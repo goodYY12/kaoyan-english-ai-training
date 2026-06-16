@@ -1,0 +1,94 @@
+{
+  "year": 2026,
+  "paperType": "English I",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "Radio, Serendipity and Technological Change",
+  "passage": "The pioneers of wireless saw it as a gift to all the people. The BBC director-general Sir John Reith said that it would dispel \"isolation of the spirit\" and rejoiced: \"It does not matter how many thousand may be listening, there is always enough for others, the genius and the fool, the wealthy and the poor listen simultaneously.\"\n\nBetween two great wars this technological innovation built a new kind of national consciousness. Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939, as primitive crystal-and-wire devices evolved into sunburst-grille boxes. She draws on letters, diaries and fiction, and a 1939 field notebook of verbatim audience research by Winifred Gill.\n\nThere is more fun in testimonies of people enjoying the sheer newness. A cartoon mocks a group failing to converse because they are all in headphones. People report that broadcast music made workmen whistle new tunes. A woman says there have been fewer street brawls since the arrival of the wireless but also less stopping and \"talking on the brush handle.\"\n\nBy and large the wireless was welcome. I loved the chap from the Thirties research who found that wireless suddenly offered \"a lot of variety, things I thought I would never be interested in, ice hockey perhaps.\" True: for more than 80 pre-digital years, linear speech broadcasting brought the gift of serendipity, random enlivening of a car journey or dull manual task. In my own book about radio I recorded how, on one drive: \"I caught up with the news, learned some 17th-century history and was startlingly educated by an unpretentious programme on the history of the stethoscope.\"\n\nBut radio's enriching serendipity is ebbing. With multiple networks, BBC Sounds and countless podcasts, a smartphone user selects what to hear and when. And while it is wonderful to take a walk with anything in your headphones, infinite choice encourages us to shrink into niche interests and sympathetic beliefs.\n\nWhatever we do, innovation will happen. Today we fret about the isolating culture of smartphone-staring and selfie-vanity, but already in 1939 there was that lady regretting how, when all her street got wirelesses, it lost the neighbourly habit of \"talking on the brush handle.\" It is enough to make a person put down the smartphone and go out front with a yard broom.",
+  "questions": [
+    {
+      "questionNumber": 31,
+      "questionText": "What can be learnt about wireless from Reith?",
+      "options": {
+        "A": "It was accessible to everyone.",
+        "B": "It improved interpersonal relations.",
+        "C": "It was a miracle of human ingenuity.",
+        "D": "It led to a new era of isolating culture."
+      },
+      "answer": "A",
+      "explanation": "Reith 说不管多少人在听，总还有足够空间，天才、普通人、富人、穷人都能同时收听，说明无线广播人人可及。",
+      "questionType": "细节题",
+      "location": "Paragraph 1: there is always enough for others... listen simultaneously.",
+      "thinkingMethod": "人物观点题抓引号核心，all the people / wealthy and poor 对应 accessible to everyone。"
+    },
+    {
+      "questionNumber": 32,
+      "questionText": "What is the theme of the exhibition at the Bodleian in Oxford?",
+      "options": {
+        "A": "The impact of radio on its early audience.",
+        "B": "The role of radio in public music education.",
+        "C": "The innovation process of radio technology.",
+        "D": "The eminent pioneers in radio broadcasting."
+      },
+      "answer": "A",
+      "explanation": "第二段说展览记录 1922-1939 年 radio changed everyday life，并使用听众材料，主题是广播对早期听众生活的影响。",
+      "questionType": "细节题",
+      "location": "Paragraph 2: records how radio changed everyday life from 1922 to 1939.",
+      "thinkingMethod": "theme 题看 records how...，不要被 devices evolved 误导成技术过程。"
+    },
+    {
+      "questionNumber": 33,
+      "questionText": "It is indicated in Paragraph 4 that ______.",
+      "options": {
+        "A": "the research on radio used to be inadequate.",
+        "B": "the charm of radio remains in the digital age.",
+        "C": "radio listeners could make unexpected gains.",
+        "D": "radio shows have changed little over the years."
+      },
+      "answer": "C",
+      "explanation": "第四段反复说 variety、serendipity、random enlivening，并举作者驾车时意外学到知识的例子，说明听众能获得意外收获。",
+      "questionType": "推理题",
+      "location": "Paragraph 4: brought the gift of serendipity... was startlingly educated.",
+      "thinkingMethod": "serendipity 是关键词，表示意外发现或意外收获。"
+    },
+    {
+      "questionNumber": 34,
+      "questionText": "The expression \"talking on the brush handle\" in Paragraphs 3 and 6 refers to the act of ______.",
+      "options": {
+        "A": "making a loud noise.",
+        "B": "having a casual chat.",
+        "C": "starting a trivial quarrel.",
+        "D": "humming a popular song."
+      },
+      "answer": "B",
+      "explanation": "原文把该表达放在邻里习惯和 street brawls 减少的语境中，指街坊停下来闲聊，而不是争吵或噪音。",
+      "questionType": "词义题",
+      "location": "Paragraph 6: lost the neighbourly habit of \"talking on the brush handle\".",
+      "thinkingMethod": "词义题看上下文情境，neighbourly habit 暗示 casual chat。"
+    },
+    {
+      "questionNumber": 35,
+      "questionText": "In the last paragraph, the author intends to express the opinion that ______.",
+      "options": {
+        "A": "technology should be aimed at benefiting humans.",
+        "B": "actions should be taken to revive the art of listening.",
+        "C": "adolescents should form healthy social media habits.",
+        "D": "people should adopt a sensible attitude to innovations."
+      },
+      "answer": "D",
+      "explanation": "末段承认创新不可避免，同时用智能手机和无线广播作对照，提醒人们理性看待技术带来的得失。",
+      "questionType": "态度题",
+      "location": "Last paragraph: Whatever we do, innovation will happen.",
+      "thinkingMethod": "作者没有简单反技术，也没有只谈青少年；答案应概括 balanced/sensible attitude。"
+    }
+  ],
+  "vocabulary": ["wireless", "dispel", "simultaneously", "verbatim", "testimony", "serendipity", "ebb"],
+  "longSentences": [
+    {
+      "sentence": "Opening this week, a book and exhibition curated by Beatty Rubens at the Bodleian in Oxford records how radio changed everyday life from 1922 to 1939, as primitive crystal-and-wire devices evolved into sunburst-grille boxes.",
+      "analysis": "主干是 a book and exhibition records how...；curated by... 是后置定语；as 引导时间背景。"
+    }
+  ],
+  "articleStructure": "先写早期无线广播的全民性；介绍展览记录广播如何改变日常生活；举例说明新鲜感和社交影响；强调广播带来意外收获；转向现代个性化收听的局限；结尾呼吁理性看待创新。",
+  "notes": "保留了 PDF 中 Text 3 的语篇训练重点：无线广播的公共性、意外收获和技术态度。"
+}

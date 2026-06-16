@@ -1,0 +1,94 @@
+{
+  "year": 2026,
+  "paperType": "English I",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "Hollywood Production Leaving Los Angeles",
+  "passage": "There is no business like show business, but in Los Angeles, it feels like there is no business at all.\n\nIf that sounds melodramatic, consider this: the Art Directors Guild, a labor union representing about 3,000 film workers including set designers, art directors and many other artists, has suspended a training program and issued a statement explaining that \"we cannot in good conscience encourage you to pursue our profession while so many of our members remain unemployed.\" The guild's pessimism is a reaction to Hollywood's decline, which is reaching a critical point for the industry and Southern California.\n\nProduction has been slipping away from Hollywood since the 1950s, but the effects have never been more apparent than at present. Other regions in the United States, Canada and Europe have steadily increased incentives to attract TV shows and movies, leaving California in the dust. Georgia, where many Marvel TV shows and movies are shot, offers up to 30% in transferable tax credits on film and TV production costs, plus an additional 10% increase on the base tax credit if the project includes a Georgia promotional logo. Actors, directors and crew prefer to stay close to their homes in Los Angeles to film, but it is hard for studios to pass up getting a third of their money back if they film outside of California.\n\nEven as California lost a huge volume of production to other locations, there was still plenty of film production taking place in Los Angeles before this year, sufficient work that many people could make a living in the industry. We were kept afloat by \"peak TV\": the glut of content that was required by the explosion of streaming services.\n\nBut 2022 was the peak of peak TV. Back then platforms such as Netflix, Amazon and Apple TV hemorrhaged billions of dollars to generate content to attract new subscribers, resulting in 633 scripted series being released that year. As the streamers' emphasis changed from subscriber growth to profitability, prices for the services went up and the number of new shows went down to 481 released in 2023, with the number expected to dip into the 300s within a few years.\n\nIn other words, we are about to really feel the pain from losing productions to Georgia, Canada and Eastern Europe. And I do not mean \"we\" as in artists and industry creatives; I am talking \"we\" as in all of California.\n\nAs TV and movie productions slowly come back after the writers' and actors' strikes, they are nowhere near the volume of 2022, and for the most part nowhere near Los Angeles. Disney has 22 live-action movies slated for production in 2024, with only three to be filmed in California. Other studios such as Sony, Warner Bros. and Universal Pictures are following the same script and taking the majority of their production dollars outside of California. New York, already one of California's biggest competitors, just announced a huge increase to its film tax credit program, making filming in New York even more attractive.\n\nLos Angeles has been a great partner to filmmakers for decades because of its sunlight, studios and locations, all of which have built up a critical mass of world-class local talent in front of and behind the camera. But we must now do more to keep Hollywood in Hollywood.\n\nThe California Film Commission, a state government agency, recently awarded $152 million in tax credit for 12 television projects. That $152 million is expected to bring in a return of $1.1 billion in revenue for in-state local workers and businesses while employing 2,300 crew members, 2,200 cast members and thousands more background performers.\n\nIf productions in Southern California dip below a critical level for too long, the industry's essential talent will drift away along with enormous sums of revenue. Persuading studios to film here would become much more challenging if we could not offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry.\n\nThat is why the California Film Commission and its Los Angeles counterpart, FilmLA, should act now, before it is too late. Those agencies and other government bodies should dramatically improve incentives to keep our current shows and attract new productions to Los Angeles. Let us go on with the show, and make sure the show does not go on without us.",
+  "questions": [
+    {
+      "questionNumber": 26,
+      "questionText": "The Art Directors Guild's statement reveals ______.",
+      "options": {
+        "A": "people's reduced interest in film.",
+        "B": "film workers' nostalgia for the past.",
+        "C": "the appeal of Southern California.",
+        "D": "the gloomy situation of Hollywood."
+      },
+      "answer": "D",
+      "explanation": "工会暂停培训并称不能鼓励新人入行，原因是许多会员失业，反映的是 Hollywood's decline 和行业低迷。",
+      "questionType": "细节题",
+      "location": "Paragraph 2: The guild's pessimism is a reaction to Hollywood's decline.",
+      "thinkingMethod": "statement reveals 类题要看引语后的解释句，pessimism/decline 对应 gloomy situation。"
+    },
+    {
+      "questionNumber": 27,
+      "questionText": "The example of Georgia is used to illustrate the efforts to ______.",
+      "options": {
+        "A": "lure production with tax incentives.",
+        "B": "drive improvements in film facilities.",
+        "C": "stimulate competition among states.",
+        "D": "collect funds for film and TV making."
+      },
+      "answer": "A",
+      "explanation": "Georgia 的例子紧跟 incentives to attract TV shows and movies，具体说明用税收抵免吸引制作。",
+      "questionType": "例证题",
+      "location": "Paragraph 3: increased incentives to attract TV shows and movies; Georgia offers up to 30% in transferable tax credits.",
+      "thinkingMethod": "例证题先看例子前一句，例子通常服务于前面的观点。"
+    },
+    {
+      "questionNumber": 28,
+      "questionText": "Peak TV passed its peak as ______.",
+      "options": {
+        "A": "streamers lost their technical advantages.",
+        "B": "streamers changed their strategic priorities.",
+        "C": "subscribers grew weary of large platforms.",
+        "D": "subscribers were unhappy with new shows."
+      },
+      "answer": "B",
+      "explanation": "第五段说流媒体平台从 subscriber growth 转向 profitability，导致新剧数量下降，说明战略重点发生变化。",
+      "questionType": "因果关系题",
+      "location": "Paragraph 5: As the streamers' emphasis changed from subscriber growth to profitability...",
+      "thinkingMethod": "as 引导原因，changed from...to... 是答案核心，同义替换为 changed their strategic priorities。"
+    },
+    {
+      "questionNumber": 29,
+      "questionText": "According to paragraph 6, California's entertainment industry might face ______.",
+      "options": {
+        "A": "a decline in product quality.",
+        "B": "a demand for foreign talent.",
+        "C": "a brain drain to other places.",
+        "D": "a dramatic rise in labor costs."
+      },
+      "answer": "C",
+      "explanation": "第六段说 essential talent will drift away，人才会流失到其他地方，对应 brain drain。",
+      "questionType": "细节题",
+      "location": "Paragraph 6: the industry's essential talent will drift away.",
+      "thinkingMethod": "抓同义替换：talent drift away = brain drain。"
+    },
+    {
+      "questionNumber": 30,
+      "questionText": "The author concludes the text by emphasizing that California should strive to ______.",
+      "options": {
+        "A": "maintain its position in the industry.",
+        "B": "attract more investment than its rivals.",
+        "C": "pursue a higher standard of production.",
+        "D": "strengthen coordination with other states."
+      },
+      "answer": "A",
+      "explanation": "结尾强调 keep our current shows and attract new productions to Los Angeles，并说 make sure the show does not go on without us，核心是保住行业地位。",
+      "questionType": "主旨题",
+      "location": "Last paragraph: keep our current shows and attract new productions to Los Angeles.",
+      "thinkingMethod": "结尾态度题看 should/act now/keep，答案要概括行动目标，不要只抓 investment 一个局部。"
+    }
+  ],
+  "vocabulary": ["melodramatic", "guild", "incentive", "tax credit", "glut", "profitability", "brain drain"],
+  "longSentences": [
+    {
+      "sentence": "Persuading studios to film here would become much more challenging if we could not offer a deep bench of local film workers, on-screen talent and local businesses that support the entertainment industry.",
+      "analysis": "主句是 Persuading studios...would become challenging；if 从句说明条件；that support... 修饰 local businesses。"
+    }
+  ],
+  "articleStructure": "以工会声明引出好莱坞低迷；解释外地税收激励吸走制作；说明 Peak TV 退潮；指出人才和收入流失风险；呼吁加州采取激励措施保住产业地位。",
+  "notes": "Text 2 根据 PDF 页面和网页文本交叉校对整理。"
+}

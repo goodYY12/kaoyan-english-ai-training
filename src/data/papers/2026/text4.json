@@ -1,0 +1,94 @@
+{
+  "year": 2026,
+  "paperType": "English I",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 4",
+  "title": "Wildfires, Fire Suppression and Prescribed Burns",
+  "passage": "When Tom Swetnam joined the U.S. Forest Service in the 1970s, his mandate was to \"put everything out,\" he recalled. But when Swetnam enrolled in graduate school at the University of Arizona's Laboratory of Tree-Ring Research, he was surprised to find a record of repeated blazes dating back hundreds of years before European colonists arrived on the continent. Some of the trees he analyzed bore more than 20 fire scars spaced among their rings.\n\nThe fact that fires happened so often meant they could not have been severe enough to kill most trees. Instead, a growing body of research showed that frequent, low-severity fires made many ecosystems healthier. They rid the forest of dead and sick trees, reducing competition and curbing the spread of disease. Because flammable material could not build up on the landscape, blazes tended to move slowly and peter out when they reached the footprints of previous burns.\n\nIn 2022, Swetnam and other scientists teamed up to compile a database of fire-scarred trees from across the continent. Their North American tree-ring fire-scar network provided the basis for a study published last month. In the study, the researchers compared the historical fire cadence with the wildfires recorded over the past few decades, and uncovered a striking shortfall. The sites experienced less than a quarter of the number of fires that would have been expected without fire suppression.\n\nThis deficit is a testament to the effectiveness of modern firefighting, said Kelly Martin, a past president of the International Association of Wildland Fire. Yet the combined consequences of suppression and climate change have eroded humanity's ability to suppress fires, particularly those that ignite under the most dangerous weather conditions.\n\nTo prevent entire ecosystems from going up in smoke, Martin said, people must bring healthy fire back to places that need it. At Yosemite National Park, Martin oversaw the use of what is known as prescribed burns to make the landscape more resilient. These fires were carefully planned and intentionally ignited during periods when weather kept the blazes easy to control, and helped eliminate some of the fuel that had built up around important park facilities. Research shows that these prescribed burns make subsequent wildfires less severe, even if the later fires happen under the most dangerous weather conditions.\n\nYet even as scientists and public officials increasingly agree on the need for more fires in our forests, climate change is making this tactic more challenging, experts said. \"It is a double-edged sword because wildfires are getting more severe and larger under climate change and we need this work even more, but then the work gets more challenging,\" said Susan Prichard, a fire ecologist at the University of Washington.",
+  "questions": [
+    {
+      "questionNumber": 36,
+      "questionText": "According to Paragraph 1, Swetnam was surprised by ______.",
+      "options": {
+        "A": "the scarcity of tree-ring research in the U.S.",
+        "B": "the firefighting measures in ancient Europe.",
+        "C": "the forest management practices in the 1970s.",
+        "D": "the number of wildfires in precolonial times."
+      },
+      "answer": "D",
+      "explanation": "第一段说 Swetnam 惊讶地发现欧洲殖民者到来前数百年就有反复火灾记录，有些树有 20 多个火疤。",
+      "questionType": "细节题",
+      "location": "Paragraph 1: a record of repeated blazes dating back hundreds of years before European colonists arrived.",
+      "thinkingMethod": "surprised by 后面找 find 的宾语，repeated blazes 对应 number of wildfires。"
+    },
+    {
+      "questionNumber": 37,
+      "questionText": "Paragraph 2 mainly focuses on ______.",
+      "options": {
+        "A": "the causes of previous burns.",
+        "B": "the treatment of diseased trees.",
+        "C": "the benefits of low-severity fires.",
+        "D": "the importance of forest ecosystems."
+      },
+      "answer": "C",
+      "explanation": "第二段中心句是 frequent, low-severity fires made many ecosystems healthier，后文列举清除病死树、减少竞争、降低可燃物等益处。",
+      "questionType": "主旨题",
+      "location": "Paragraph 2: frequent, low-severity fires made many ecosystems healthier.",
+      "thinkingMethod": "段落主旨看首句后的 instead 转折，后面细节都服务于 low-severity fires 的好处。"
+    },
+    {
+      "questionNumber": 38,
+      "questionText": "What did the study find about the wildfires over the past few decades?",
+      "options": {
+        "A": "Their intensity has vastly fluctuated.",
+        "B": "Their frequency has markedly decreased.",
+        "C": "Their threats have been underestimated.",
+        "D": "Their records have been misinterpreted."
+      },
+      "answer": "B",
+      "explanation": "研究比较历史火灾节奏和近几十年野火记录，发现 striking shortfall，实际火灾数量不到未灭火情况下预期数量的四分之一。",
+      "questionType": "细节题",
+      "location": "Paragraph 3: experienced less than a quarter of the number of fires that would have been expected.",
+      "thinkingMethod": "shortfall 与 less than a quarter 指数量/频率明显减少，不是强度波动。"
+    },
+    {
+      "questionNumber": 39,
+      "questionText": "What can be inferred about modern firefighting?",
+      "options": {
+        "A": "Its workforce needs more training.",
+        "B": "Its effectiveness is questioned by the public.",
+        "C": "It may render traditional tactics useless.",
+        "D": "It may make severe fires harder to put out."
+      },
+      "answer": "D",
+      "explanation": "第四段先承认现代消防有效，但又说长期压制火灾加上气候变化削弱了人类扑灭火灾的能力，尤其是危险天气下的火灾。",
+      "questionType": "推理题",
+      "location": "Paragraph 4: suppression and climate change have eroded humanity's ability to suppress fires.",
+      "thinkingMethod": "yet 后面是命题重点，suppression 的后果不是完全无效，而是让严重火灾更难控制。"
+    },
+    {
+      "questionNumber": 40,
+      "questionText": "Both Martin and Prichard would agree that ______.",
+      "options": {
+        "A": "it is challenging to predict large wildfires.",
+        "B": "it is urgent to assess the use of planned fires.",
+        "C": "it is necessary to introduce prescribed burns.",
+        "D": "it is rewarding to double fire detection efforts."
+      },
+      "answer": "C",
+      "explanation": "Martin 说必须 bring healthy fire back，并在 Yosemite 使用 prescribed burns；Prichard 也承认 we need this work even more，只是执行更难。",
+      "questionType": "观点态度题",
+      "location": "Paragraphs 5-6: people must bring healthy fire back; we need this work even more.",
+      "thinkingMethod": "双人观点题找共同点。Martin 强调必要性，Prichard 说更需要但更难，交集是需要 prescribed burns。"
+    }
+  ],
+  "vocabulary": ["mandate", "blaze", "fire scar", "low-severity", "flammable", "suppression", "prescribed burn"],
+  "longSentences": [
+    {
+      "sentence": "Yet the combined consequences of suppression and climate change have eroded humanity's ability to suppress fires, particularly those that ignite under the most dangerous weather conditions.",
+      "analysis": "主干是 consequences have eroded ability；those 指代 fires；that ignite... 修饰 those。"
+    }
+  ],
+  "articleStructure": "从树木年轮发现殖民前频繁火灾；说明低强度火有生态益处；研究发现现代火灾频率低于自然节奏；指出长期灭火与气候变化的矛盾；提出计划性燃烧并说明其必要性和难度。",
+  "notes": "Text 4 根据 PDF 阅读页与答案标注整理，解析围绕低强度火、现代灭火和计划性燃烧展开。"
+}
