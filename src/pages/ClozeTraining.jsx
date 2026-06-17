@@ -1,6 +1,6 @@
 import { useMemo, useRef, useState } from "react";
 import SectionCard from "../components/SectionCard";
-import { getAllClozeItems } from "../utils/dataAdapter";
+import { getAllClozeItems, getExamYears, hasClozeData } from "../utils/dataAdapter";
 import { saveReadingRecord } from "../utils/trainingStorage";
 
 function countBy(items, key) {
@@ -39,6 +39,8 @@ function createMistake(item, blank, selected) {
 
 export default function ClozeTraining() {
   const clozeItems = useMemo(() => getAllClozeItems(), []);
+  const years = useMemo(() => getExamYears(), []);
+  const [selectedYear, setSelectedYear] = useState(years[0] ?? 2026);
   const [activeId, setActiveId] = useState(null);
   const [answers, setAnswers] = useState({});
   const [activeBlankId, setActiveBlankId] = useState(null);
@@ -46,6 +48,8 @@ export default function ClozeTraining() {
   const [startedAt, setStartedAt] = useState(null);
   const blankRefs = useRef({});
   const activeItem = clozeItems.find((item) => item.id === activeId);
+  const yearItems = clozeItems.filter((item) => item.year === Number(selectedYear));
+  const readyItems = yearItems.filter(hasClozeData);
 
   function startTraining(id) {
     setActiveId(id);
@@ -107,11 +111,35 @@ export default function ClozeTraining() {
         <p className="text-sm font-semibold text-blue-600">CLOZE TRAINING</p>
         <h1 className="mt-2 text-3xl font-bold text-slate-900">完形专项</h1>
         <p className="mt-3 max-w-3xl text-sm leading-6 text-slate-500">
-          先用明确标注的模拟数据验证完形做题体验：20 个空、内嵌选择、提交后解析和错因统计。
+          按年份练习英语一完形填空。真实数据未录入时只显示待补充，不使用模拟真题。
         </p>
 
-        <div className="mt-7 grid gap-5 lg:grid-cols-2">
-          {clozeItems.map((item) => (
+        <div className="mt-6 rounded-3xl border border-slate-200/80 bg-white/95 p-4 shadow-sm shadow-slate-200/60">
+          <label className="text-sm font-semibold text-slate-700">
+            选择年份
+            <select
+              value={selectedYear}
+              onChange={(event) => setSelectedYear(Number(event.target.value))}
+              className="mt-2 block w-full rounded-xl border border-slate-200 px-3 py-2 text-sm outline-none focus:border-blue-400 focus:ring-4 focus:ring-blue-100 sm:w-56"
+            >
+              {years.map((year) => (
+                <option key={year} value={year}>
+                  {year} 考研英语一
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
+
+        {readyItems.length === 0 ? (
+          <SectionCard className="mt-7" title={`${selectedYear} 完形专项`}>
+            <p className="rounded-2xl bg-amber-50 p-5 text-sm font-medium text-amber-700">
+              该年份完形真题数据待补充。
+            </p>
+          </SectionCard>
+        ) : (
+          <div className="mt-7 grid gap-5 lg:grid-cols-2">
+            {readyItems.map((item) => (
             <SectionCard
               key={item.id}
               title={`${item.year} · ${item.title}`}
@@ -157,8 +185,9 @@ export default function ClozeTraining() {
                 开始训练
               </button>
             </SectionCard>
-          ))}
-        </div>
+            ))}
+          </div>
+        )}
       </div>
     );
   }

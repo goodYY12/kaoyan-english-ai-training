@@ -2,12 +2,15 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import {
   clearTrainingData,
+  getDraftStats,
   getHighFrequencyMistakes,
   getReadingRecords,
   getReadingStats,
   getStoredMistakes,
+  getTrainingDraft,
   markMistakeMastered,
   saveReadingRecord,
+  saveTrainingDraft,
 } from "./trainingStorage.js";
 
 function createMemoryStorage() {
@@ -73,4 +76,20 @@ test("marks mistakes mastered and clears local training data", () => {
   clearTrainingData(storage);
   assert.equal(getReadingRecords(storage).length, 0);
   assert.equal(getStoredMistakes(storage).length, 0);
+});
+
+test("saves and clears translation and writing drafts", () => {
+  const storage = createMemoryStorage();
+
+  saveTrainingDraft("translation-2026", "my translation", storage);
+  saveTrainingDraft("writing-2026-小作文", "my essay", storage);
+
+  assert.equal(getTrainingDraft("translation-2026", storage), "my translation");
+  assert.deepEqual(getDraftStats(storage), {
+    translationCount: 1,
+    writingCount: 1,
+  });
+
+  clearTrainingData(storage);
+  assert.equal(getTrainingDraft("translation-2026", storage), "");
 });

@@ -4,9 +4,12 @@ import {
   getAvailableYears,
   getClozeByYear,
   getClozeYears,
-  getLongReadingSpecials,
+  getExamYears,
   getReadingsByYear,
   getSimilarQuestionsByType,
+  hasClozeData,
+  hasTranslationData,
+  hasWritingData,
   normalizeQuestion,
   normalizeReading,
   normalizeVocabulary,
@@ -26,6 +29,10 @@ test("normalizes readings and exposes available years", () => {
   assert.equal(readings2024.length, 4);
   assert.equal(readings2024[0].id, "2024-text1");
   assert.equal(readings2024[0].questions.length, 5);
+});
+
+test("exposes unified exam years from all module data", () => {
+  assert.deepEqual(getExamYears(), [2026, 2024]);
 });
 
 test("normalizes old and new question fields", () => {
@@ -78,23 +85,6 @@ test("recommends similar questions by type and skips current ids", () => {
   assert.ok(recommendations.length > 0);
 });
 
-test("builds two pilot long-reading specials from existing papers", () => {
-  const specials = getLongReadingSpecials({ limit: 2 });
-
-  assert.equal(specials.length, 2);
-  for (const item of specials) {
-    assert.ok(item.id);
-    assert.ok(item.year);
-    assert.match(item.textNumber, /^Text [1-4]$/);
-    assert.ok(item.title || item.title === "");
-    assert.equal(item.topic || "待标注", item.topic ?? "待标注");
-    assert.deepEqual(item.focusPoints, ["信息定位", "段落结构", "主旨判断", "同义替换"]);
-    assert.equal(item.questions.length, 5);
-    assert.ok(item.paragraphs.length > 1);
-    assert.ok(item.vocabulary.length > 0);
-  }
-});
-
 test("splits passage into labeled paragraphs", () => {
   const paragraphs = splitPassageIntoParagraphs("First paragraph.\n\nSecond paragraph.");
 
@@ -104,21 +94,20 @@ test("splits passage into labeled paragraphs", () => {
   ]);
 });
 
-test("loads cloze pilot data with twenty blanks", () => {
+test("loads cloze placeholder without pretending it is real data", () => {
   const years = getClozeYears();
   assert.ok(years.includes(2026));
 
   const items = getClozeByYear(2026);
   assert.equal(items.length, 1);
-  assert.equal(items[0].sourceType, "模拟");
-  assert.equal(items[0].blanks.length, 20);
+  assert.equal(items[0].sourceType, "待补充");
+  assert.equal(items[0].status, "待补充");
+  assert.equal(items[0].blanks.length, 0);
   assert.equal(items[0].estimatedTime, 15);
-  assert.ok(items[0].passageParts.some((part) => part.type === "blank"));
-  assert.ok(items[0].vocabularyGroups.phrases.length > 0);
+  assert.equal(hasClozeData(items[0]), false);
+});
 
-  for (const blank of items[0].blanks) {
-    assert.deepEqual(Object.keys(blank.options), ["A", "B", "C", "D"]);
-    assert.match(blank.answer, /^[A-D]$/);
-    assert.ok(blank.explanation.length > 5);
-  }
+test("detects missing translation and writing placeholders", () => {
+  assert.equal(hasTranslationData({ year: 2026, status: "待补充" }), false);
+  assert.equal(hasWritingData({ year: 2026, status: "待补充" }), false);
 });

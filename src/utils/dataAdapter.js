@@ -102,22 +102,87 @@ export function getReadingsByYear(year) {
     .sort((a, b) => a.textNumberValue - b.textNumberValue);
 }
 
+function createTranslationPlaceholder(year) {
+  return {
+    id: `${year}-translation`,
+    year: Number(year),
+    paper: "英语一",
+    status: "待补充",
+    sourceText: "",
+    referenceTranslation: "",
+    keyPoints: [],
+    phrases: [],
+    sentenceAnalysis: [],
+    commonMistakes: [],
+  };
+}
+
+function createWritingPlaceholder(year) {
+  return {
+    id: `${year}-writing`,
+    year: Number(year),
+    paper: "英语一",
+    status: "待补充",
+    smallWriting: {
+      prompt: "",
+      taskType: "",
+      writingIdeas: [],
+      structure: [],
+      usefulExpressions: [],
+      commonMistakes: [],
+      sampleEssay: "",
+    },
+    bigWriting: {
+      prompt: "",
+      topic: "",
+      writingIdeas: [],
+      structure: [],
+      usefulExpressions: [],
+      commonMistakes: [],
+      sampleEssay: "",
+    },
+  };
+}
+
+export function hasTranslationData(item) {
+  if (!item || item.status === "待补充") return false;
+  if ((item.sourceText ?? "").trim()) return true;
+  return (item.items ?? []).some((entry) => (entry.sentence ?? "").trim());
+}
+
+export function hasWritingData(item) {
+  if (!item || item.status === "待补充") return false;
+  if ((item.smallWriting?.prompt ?? "").trim()) return true;
+  if ((item.bigWriting?.prompt ?? "").trim()) return true;
+  return (item.tasks ?? []).some((entry) => (entry.prompt ?? "").trim());
+}
+
 export function getTranslationByYear(year) {
   return (
-    translationItems.find((item) => item.year === Number(year)) ?? {
-      year: Number(year),
-      status: "待补充",
-    }
+    translationItems.find((item) => item.year === Number(year)) ??
+    createTranslationPlaceholder(year)
   );
 }
 
 export function getWritingByYear(year) {
   return (
-    writingTemplates.find((item) => item.year === Number(year)) ?? {
-      year: Number(year),
-      status: "待补充",
-    }
+    writingTemplates.find((item) => item.year === Number(year)) ??
+    createWritingPlaceholder(year)
   );
+}
+
+export function getTranslationYears() {
+  return translationItems
+    .map((item) => item.year)
+    .filter(Boolean)
+    .sort((a, b) => b - a);
+}
+
+export function getWritingYears() {
+  return writingTemplates
+    .map((item) => item.year)
+    .filter(Boolean)
+    .sort((a, b) => b - a);
 }
 
 export function normalizeVocabulary(reading) {
@@ -208,48 +273,13 @@ export function splitPassageIntoParagraphs(passage = "") {
   }));
 }
 
-function inferTargetParagraph(question, paragraphs) {
-  if (question.targetParagraph) return question.targetParagraph;
-  const location = question.location;
-  if (!location || location === "待补充") return null;
-  const normalizedLocation = location.toLowerCase().replace(/\s+/g, " ").slice(0, 80);
-
-  const match = paragraphs.find((paragraph) =>
-    paragraph.text.toLowerCase().replace(/\s+/g, " ").includes(normalizedLocation),
-  );
-
-  return match?.label ?? null;
-}
-
-export function getLongReadingSpecials({ limit = 2 } = {}) {
-  return getAllReadings()
-    .filter((reading) => normalizeVocabulary(reading).length > 0)
-    .slice(0, limit)
-    .map((reading) => {
-      const paragraphs = splitPassageIntoParagraphs(reading.passage);
-      const questions = reading.questions.map((question) => ({
-        ...question,
-        targetParagraph: inferTargetParagraph(question, paragraphs),
-      }));
-
-      return {
-        ...reading,
-        topic: reading.topic ?? "待标注",
-        focusPoints: reading.focusPoints ?? ["信息定位", "段落结构", "主旨判断", "同义替换"],
-        paragraphs,
-        questions,
-        vocabulary: normalizeVocabulary(reading),
-        structureMap: reading.structureMap ?? [],
-      };
-    });
-}
-
 export function getAllClozeItems() {
   return clozeData.map((item) => ({
     ...item,
     blanks: item.blanks ?? [],
     passageParts: item.passageParts ?? [],
-    sourceType: item.sourceType ?? "模拟",
+    sourceType: item.sourceType ?? "待补充",
+    status: item.status ?? item.sourceType ?? "待补充",
     difficulty: item.difficulty ?? "待补充",
     estimatedTime: item.estimatedTime ?? 15,
     focusPoints: item.focusPoints ?? ["词义辨析", "固定搭配", "上下文逻辑", "语篇衔接"],
@@ -262,6 +292,16 @@ export function getAllClozeItems() {
   }));
 }
 
+export function hasClozeData(item) {
+  return (
+    item &&
+    item.status !== "待补充" &&
+    item.sourceType !== "待补充" &&
+    (item.passageParts ?? []).length > 0 &&
+    (item.blanks ?? []).length === 20
+  );
+}
+
 export function getClozeYears() {
   return [...new Set(getAllClozeItems().map((item) => item.year))].sort(
     (a, b) => b - a,
@@ -270,6 +310,17 @@ export function getClozeYears() {
 
 export function getClozeByYear(year) {
   return getAllClozeItems().filter((item) => item.year === Number(year));
+}
+
+export function getExamYears() {
+  return [
+    ...new Set([
+      ...getAvailableYears(),
+      ...getClozeYears(),
+      ...getTranslationYears(),
+      ...getWritingYears(),
+    ]),
+  ].sort((a, b) => b - a);
 }
 
 export function getAllClozeVocabulary() {

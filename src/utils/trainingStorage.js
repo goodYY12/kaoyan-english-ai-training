@@ -1,5 +1,6 @@
 export const READING_RECORDS_KEY = "kaoyan-reading-records";
 export const TRAINING_MISTAKES_KEY = "kaoyan-training-mistakes";
+export const TRAINING_DRAFTS_KEY = "kaoyan-training-drafts";
 
 function hasBrowserStorage() {
   return typeof window !== "undefined" && Boolean(window.localStorage);
@@ -21,6 +22,23 @@ function readList(key, storage = getDefaultStorage()) {
 }
 
 function writeList(key, value, storage = getDefaultStorage()) {
+  if (!storage) return value;
+  storage.setItem(key, JSON.stringify(value));
+  return value;
+}
+
+function readObject(key, storage = getDefaultStorage()) {
+  if (!storage) return {};
+
+  try {
+    const value = JSON.parse(storage.getItem(key) ?? "{}");
+    return value && typeof value === "object" && !Array.isArray(value) ? value : {};
+  } catch {
+    return {};
+  }
+}
+
+function writeObject(key, value, storage = getDefaultStorage()) {
   if (!storage) return value;
   storage.setItem(key, JSON.stringify(value));
   return value;
@@ -75,6 +93,36 @@ export function clearTrainingData(storage) {
   if (!target) return;
   target.removeItem(READING_RECORDS_KEY);
   target.removeItem(TRAINING_MISTAKES_KEY);
+  target.removeItem(TRAINING_DRAFTS_KEY);
+}
+
+export function getTrainingDrafts(storage) {
+  return readObject(TRAINING_DRAFTS_KEY, storage);
+}
+
+export function getTrainingDraft(id, storage) {
+  return getTrainingDrafts(storage)[id] ?? "";
+}
+
+export function saveTrainingDraft(id, content, storage) {
+  const drafts = getTrainingDrafts(storage);
+  return writeObject(
+    TRAINING_DRAFTS_KEY,
+    {
+      ...drafts,
+      [id]: content,
+    },
+    storage,
+  );
+}
+
+export function getDraftStats(storage) {
+  const drafts = getTrainingDrafts(storage);
+  const values = Object.entries(drafts).filter(([, value]) => String(value).trim());
+  return {
+    translationCount: values.filter(([key]) => key.startsWith("translation-")).length,
+    writingCount: values.filter(([key]) => key.startsWith("writing-")).length,
+  };
 }
 
 export function getReadingStats(storage) {

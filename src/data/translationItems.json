@@ -20,6 +20,18 @@
     ]
   },
   {
+    "id": "2026-translation",
+    "year": 2026,
+    "paper": "英语一",
+    "status": "待补充",
+    "sourceText": "",
+    "referenceTranslation": "",
+    "keyPoints": [],
+    "phrases": [],
+    "sentenceAnalysis": [],
+    "commonMistakes": []
+  },
+  {
     "year": 2024,
     "status": "已接入",
     "items": [

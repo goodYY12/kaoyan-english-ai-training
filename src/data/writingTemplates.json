@@ -20,6 +20,30 @@
     "replacements": ["important -> significant", "show -> illustrate"]
   },
   {
+    "id": "2026-writing",
+    "year": 2026,
+    "paper": "英语一",
+    "status": "待补充",
+    "smallWriting": {
+      "prompt": "",
+      "taskType": "",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "",
+      "topic": "",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    }
+  },
+  {
     "year": 2024,
     "status": "已接入",
     "tasks": [

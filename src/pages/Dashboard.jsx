@@ -3,6 +3,7 @@ import { Link } from "react-router";
 import SectionCard from "../components/SectionCard";
 import StatCard from "../components/StatCard";
 import {
+  getDraftStats,
   getHighFrequencyMistakes,
   getReadingRecords,
   getReadingStats,
@@ -36,6 +37,7 @@ export default function Dashboard() {
   const records = useMemo(() => getReadingRecords(), []);
   const stats = useMemo(() => getReadingStats(), []);
   const clozeStats = useMemo(() => getClozeStats(records), [records]);
+  const draftStats = useMemo(() => getDraftStats(), []);
   const frequentReasons = useMemo(() => getHighFrequencyMistakes(), []);
   const hasRecords = records.length > 0;
   const tasks = getTodayTasks(hasRecords, frequentReasons);
@@ -88,7 +90,7 @@ export default function Dashboard() {
         </div>
       )}
 
-      <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+      <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-5">
         <StatCard label="今日任务" value={`${tasks.length} 项`} note={tasks[0]} />
         <StatCard
           label="阅读正确率"
@@ -101,6 +103,12 @@ export default function Dashboard() {
           value={hasRecords ? `${clozeStats.count} 篇` : "示例"}
           note={clozeStats.count ? `正确率 ${clozeStats.accuracy}%` : "提交完形后自动统计"}
           tone="cyan"
+        />
+        <StatCard
+          label="翻译/写作"
+          value={`${draftStats.translationCount}/${draftStats.writingCount}`}
+          note="已暂存的翻译/作文草稿"
+          tone="blue"
         />
         <StatCard
           label="高频错因"

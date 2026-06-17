@@ -14,7 +14,6 @@ const navSections = [
     items: [
       { to: "/reading", label: "阅读训练" },
       { to: "/cloze", label: "完形专项" },
-      { to: "/long-reading", label: "长篇专项" },
       { to: "/translation", label: "翻译训练" },
       { to: "/writing", label: "写作训练" },
     ],
