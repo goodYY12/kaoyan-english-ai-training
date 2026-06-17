@@ -5,6 +5,7 @@ const navItems = [
   { to: "/", label: "首页 Dashboard", end: true },
   { to: "/exams", label: "真题中心" },
   { to: "/reading", label: "阅读训练" },
+  { to: "/cloze", label: "完形专项" },
   { to: "/long-reading", label: "长篇专项" },
   { to: "/examiner-thinking", label: "出题人思维" },
   { to: "/sentences", label: "长难句训练" },

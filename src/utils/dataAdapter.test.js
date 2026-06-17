@@ -2,6 +2,8 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import {
   getAvailableYears,
+  getClozeByYear,
+  getClozeYears,
   getLongReadingSpecials,
   getReadingsByYear,
   getSimilarQuestionsByType,
@@ -100,4 +102,23 @@ test("splits passage into labeled paragraphs", () => {
     { label: "P1", text: "First paragraph." },
     { label: "P2", text: "Second paragraph." },
   ]);
+});
+
+test("loads cloze pilot data with twenty blanks", () => {
+  const years = getClozeYears();
+  assert.ok(years.includes(2026));
+
+  const items = getClozeByYear(2026);
+  assert.equal(items.length, 1);
+  assert.equal(items[0].sourceType, "模拟");
+  assert.equal(items[0].blanks.length, 20);
+  assert.equal(items[0].estimatedTime, 15);
+  assert.ok(items[0].passageParts.some((part) => part.type === "blank"));
+  assert.ok(items[0].vocabularyGroups.phrases.length > 0);
+
+  for (const blank of items[0].blanks) {
+    assert.deepEqual(Object.keys(blank.options), ["A", "B", "C", "D"]);
+    assert.match(blank.answer, /^[A-D]$/);
+    assert.ok(blank.explanation.length > 5);
+  }
 });

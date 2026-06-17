@@ -1,8 +1,8 @@
 import { useMemo, useState } from "react";
 import vocabulary from "../data/vocabulary.json";
-import { getAllVocabulary } from "../utils/dataAdapter";
+import { getAllClozeVocabulary, getAllVocabulary } from "../utils/dataAdapter";
 
-const filters = ["全部", "核心词汇", "熟词僻义"];
+const filters = ["全部", "核心词汇", "熟词僻义", "固定搭配"];
 
 function normalizeStaticWords() {
   return vocabulary.map((item) => ({
@@ -21,7 +21,7 @@ export default function Vocabulary() {
   const [category, setCategory] = useState("全部");
 
   const allWords = useMemo(
-    () => [...getAllVocabulary(), ...normalizeStaticWords()],
+    () => [...getAllVocabulary(), ...getAllClozeVocabulary(), ...normalizeStaticWords()],
     [],
   );
 
@@ -31,7 +31,7 @@ export default function Vocabulary() {
       const matchesCategory =
         category === "全部" ||
         item.category === category ||
-        (category === "核心词汇" && item.category !== "熟词僻义");
+        (category === "核心词汇" && !["熟词僻义", "固定搭配"].includes(item.category));
       const text = `${item.word} ${item.meaningInContext} ${item.meaning} ${item.sentence} ${item.explanation}`;
       const matchesKeyword = !normalized || text.toLowerCase().includes(normalized);
       return matchesCategory && matchesKeyword;
@@ -45,14 +45,14 @@ export default function Vocabulary() {
         词汇与熟词僻义
       </h1>
       <p className="mt-3 text-sm leading-6 text-slate-500">
-        这里会读取每篇阅读文章中的 vocabulary、核心词汇和熟词僻义，方便按年份和语境复盘。
+        这里会读取阅读和完形中的核心词汇、熟词僻义与固定搭配，方便按语境复盘。
       </p>
 
       <div className="mt-6 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
         <input
           value={keyword}
           onChange={(event) => setKeyword(event.target.value)}
-          placeholder="搜索单词、中文释义、原文例句..."
+          placeholder="搜索单词、中文释义、原文例句或固定搭配..."
           className="w-full rounded-xl border border-slate-200 px-4 py-3 text-sm outline-none focus:border-blue-400 focus:ring-4 focus:ring-blue-100"
         />
         <div className="mt-4 flex flex-wrap gap-2">
@@ -90,7 +90,9 @@ export default function Vocabulary() {
                 className={`rounded-full px-2.5 py-1 text-xs font-semibold ${
                   item.category === "熟词僻义"
                     ? "bg-amber-50 text-amber-700"
-                    : "bg-blue-50 text-blue-700"
+                    : item.category === "固定搭配"
+                      ? "bg-emerald-50 text-emerald-700"
+                      : "bg-blue-50 text-blue-700"
                 }`}
               >
                 {item.category === "熟词僻义" ? "不是常见义" : item.category}

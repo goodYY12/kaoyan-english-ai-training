@@ -1,5 +1,6 @@
 import { Link, Route, Routes } from "react-router";
 import Navbar from "./components/Navbar";
+import ClozeTraining from "./pages/ClozeTraining";
 import Dashboard from "./pages/Dashboard";
 import ExamCenter from "./pages/ExamCenter";
 import ExaminerThinking from "./pages/ExaminerThinking";
@@ -38,6 +39,7 @@ export default function App() {
             <Route path="/" element={<Dashboard />} />
             <Route path="/exams" element={<ExamCenter />} />
             <Route path="/reading" element={<ReadingTraining />} />
+            <Route path="/cloze" element={<ClozeTraining />} />
             <Route path="/long-reading" element={<LongReadingSpecial />} />
             <Route path="/examiner-thinking" element={<ExaminerThinking />} />
             <Route path="/sentences" element={<SentenceTraining />} />

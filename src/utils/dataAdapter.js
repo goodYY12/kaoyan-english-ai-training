@@ -6,6 +6,7 @@ import text1 from "../data/papers/2026/text1.json" with { type: "json" };
 import text2 from "../data/papers/2026/text2.json" with { type: "json" };
 import text3 from "../data/papers/2026/text3.json" with { type: "json" };
 import text4 from "../data/papers/2026/text4.json" with { type: "json" };
+import clozeData from "../data/cloze/clozeData.json" with { type: "json" };
 import translationItems from "../data/translationItems.json" with { type: "json" };
 import writingTemplates from "../data/writingTemplates.json" with { type: "json" };
 
@@ -241,4 +242,63 @@ export function getLongReadingSpecials({ limit = 2 } = {}) {
         structureMap: reading.structureMap ?? [],
       };
     });
+}
+
+export function getAllClozeItems() {
+  return clozeData.map((item) => ({
+    ...item,
+    blanks: item.blanks ?? [],
+    passageParts: item.passageParts ?? [],
+    sourceType: item.sourceType ?? "模拟",
+    difficulty: item.difficulty ?? "待补充",
+    estimatedTime: item.estimatedTime ?? 15,
+    focusPoints: item.focusPoints ?? ["词义辨析", "固定搭配", "上下文逻辑", "语篇衔接"],
+    discourseAnalysis: item.discourseAnalysis ?? null,
+    vocabularyGroups: item.vocabularyGroups ?? {
+      coreWords: [],
+      familiarWordsWithNewMeanings: [],
+      phrases: [],
+    },
+  }));
+}
+
+export function getClozeYears() {
+  return [...new Set(getAllClozeItems().map((item) => item.year))].sort(
+    (a, b) => b - a,
+  );
+}
+
+export function getClozeByYear(year) {
+  return getAllClozeItems().filter((item) => item.year === Number(year));
+}
+
+export function getAllClozeVocabulary() {
+  return getAllClozeItems().flatMap((item) => {
+    const groups = item.vocabularyGroups ?? {};
+    return [
+      ...(groups.coreWords ?? []).map((word) => ({
+        ...word,
+        category: "核心词汇",
+        year: item.year,
+        textNumber: "完形专项",
+        source: item.id,
+      })),
+      ...(groups.familiarWordsWithNewMeanings ?? []).map((word) => ({
+        ...word,
+        category: "熟词僻义",
+        year: item.year,
+        textNumber: "完形专项",
+        source: item.id,
+      })),
+      ...(groups.phrases ?? []).map((phrase) => ({
+        word: phrase.phrase,
+        meaningInContext: phrase.meaning,
+        sentence: phrase.sentence ?? "固定搭配",
+        category: "固定搭配",
+        year: item.year,
+        textNumber: "完形专项",
+        source: item.id,
+      })),
+    ];
+  });
 }

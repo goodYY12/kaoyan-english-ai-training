@@ -8,21 +8,34 @@ import {
   getReadingStats,
 } from "../utils/trainingStorage";
 
-const exampleTasks = ["完成 1 篇阅读训练", "复盘 5 个核心词", "拆解 1 个错题定位句"];
+const exampleTasks = ["完成 1 篇阅读训练", "练 1 篇完形专项", "复盘 5 个核心词"];
+
+function getClozeStats(records) {
+  const clozeRecords = records.filter((item) => item.mode === "cloze");
+  const total = clozeRecords.reduce((sum, item) => sum + item.total, 0);
+  const correct = clozeRecords.reduce((sum, item) => sum + item.correct, 0);
+  return {
+    count: clozeRecords.length,
+    accuracy: total === 0 ? 0 : Math.round((correct / total) * 100),
+    total,
+    correct,
+  };
+}
 
 function getTodayTasks(hasRecords, frequentReasons) {
   if (!hasRecords) return exampleTasks;
   const topReason = frequentReasons[0]?.reason ?? "错题定位句";
   return [
     `复盘高频错因：${topReason}`,
+    "完成 1 篇完形专项，重点看固定搭配",
     "重做错题本中未掌握题目",
-    "完成本篇词汇自测和长难句复盘",
   ];
 }
 
 export default function Dashboard() {
   const records = useMemo(() => getReadingRecords(), []);
   const stats = useMemo(() => getReadingStats(), []);
+  const clozeStats = useMemo(() => getClozeStats(records), [records]);
   const frequentReasons = useMemo(() => getHighFrequencyMistakes(), []);
   const hasRecords = records.length > 0;
   const tasks = getTodayTasks(hasRecords, frequentReasons);
@@ -40,39 +53,35 @@ export default function Dashboard() {
           而是训练出题人思维。
         </h1>
         <p className="mt-5 max-w-2xl text-sm leading-7 text-blue-100 sm:text-base">
-          现在网站会把做题结果、错因、出题人思维、定位句和词汇复盘串起来，帮你形成阅读训练闭环。
+          现在网站会把阅读、完形、错因、定位句和词汇复盘串起来，帮你形成训练闭环。
         </p>
         <Link
-          to="/reading"
+          to="/cloze"
           className="mt-7 inline-flex rounded-xl bg-white px-5 py-3 text-sm font-bold text-blue-700 shadow-sm hover:bg-blue-50"
         >
-          开始今日训练
+          开始完形专项
         </Link>
       </section>
 
       {!hasRecords && (
         <div className="rounded-2xl border border-amber-100 bg-amber-50 px-4 py-3 text-sm font-medium text-amber-700">
-          当前暂无真实训练记录，下面先显示示例数据。完成一篇阅读并提交后，这里会自动变成你的真实统计。
+          当前暂无真实训练记录，下面先显示示例数据。完成阅读或完形并提交后，这里会自动变成你的真实统计。
         </div>
       )}
 
       <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
         <StatCard label="今日任务" value={`${tasks.length} 项`} note={tasks[0]} />
         <StatCard
-          label="已完成阅读"
-          value={hasRecords ? `${records.length} 篇` : "示例"}
-          note={hasRecords ? "来自本机训练记录" : "示例数据"}
-          tone="cyan"
-        />
-        <StatCard
           label="阅读正确率"
           value={hasRecords ? `${stats.accuracy}%` : "76%"}
-          note={
-            hasRecords
-              ? `${stats.correctQuestions}/${stats.totalQuestions} 题正确`
-              : "示例数据，提交后自动更新"
-          }
+          note={hasRecords ? `${stats.correctQuestions}/${stats.totalQuestions} 题正确` : "示例数据"}
           tone="violet"
+        />
+        <StatCard
+          label="完形完成"
+          value={hasRecords ? `${clozeStats.count} 篇` : "示例"}
+          note={clozeStats.count ? `正确率 ${clozeStats.accuracy}%` : "提交完形后自动统计"}
+          tone="cyan"
         />
         <StatCard
           label="高频错因"
@@ -125,8 +134,8 @@ export default function Dashboard() {
         <div className="grid gap-4 md:grid-cols-3">
           {[
             { to: "/reading", title: "阅读训练", text: "完成一篇文章和 5 道题。" },
+            { to: "/cloze", title: "完形专项", text: "完成 20 空长语篇训练。" },
             { to: "/mistakes", title: "错题本", text: "查看错题、错因和长难句。" },
-            { to: "/vocabulary", title: "词汇复盘", text: "复习核心词和熟词僻义。" },
           ].map((item) => (
             <Link
               key={item.to}
