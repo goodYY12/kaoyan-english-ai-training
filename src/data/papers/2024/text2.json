@@ -1,0 +1,127 @@
+{
+  "id": "2024-text2",
+  "year": 2024,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "Alloparenting and Child Wellbeing",
+  "passage": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children, researchers have suggested. The idea is based on studies of communities such as the Kung of Botswana, where each child is cared for by many adults. Kung children as young as four will help to look after younger ones and baby-wearing, in which infants are carried in slings, is considered the norm.\n\nAccording to Dr Nikhil Chaudhary, an evolutionary anthropologist at Cambridge University, these practices, known as alloparenting, could lead to less anxiety for children and parents.\n\nDr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate them into western life. In Germany, one scheme has paired an old people's home with a nursery. The residents help to look after the children, an arrangement akin to alloparenting. Another measure could be encouraging friendships between children in different school years to mirror the unsupervised mixed-age playgroups in hunter-gatherer communities.\n\nIn a paper published in the Journal of Child Psychology and Psychiatry, researchers said that the western nuclear family was a recent invention which broke with evolutionary history. This abrupt shift to an intensive mothering narrative, which suggests that mothers should manage childcare alone, was likely to have been harmful. Such narratives can lead to maternal exhaustion and have dangerous consequences, they wrote.\n\nBy contrast, in hunter-gatherer societies adults other than the parents can provide almost half of a child's care. One previous study looked at the Efe people of the Democratic Republic of Congo. It found that infants had an average of 14 alloparents a day by the time they were 18 weeks old and were passed between caregivers eight times an hour.\n\nChaudhary said that parents now had less childcare support from family and social networks than during most of humans' evolutionary history, but introducing additional caregivers could reduce stress and maternal depression, which could have a knock-on benefit to a child's wellbeing. An infant born to a hunter-gatherer society could have more than ten caregivers. This contrasts starkly to nursery settings in the UK where regulations call for a ratio of one carer to four children aged two to three.\n\nWhile hunter-gatherer children learnt from observation and imitation in mixed-age playgroups, researchers said that western instructive teaching, where pupils are asked to sit still, may contribute to conditions such as attention deficit hyperactivity disorder. Chaudhary said that Britain should explore the possibility that older siblings helping their parents might also enhance their own social development.",
+  "questions": [
+    {
+      "id": "2024-text2-q26",
+      "questionNumber": 26,
+      "questionText": "According to the first two paragraphs, alloparenting refers to the practice of ________.",
+      "question": "According to the first two paragraphs, alloparenting refers to the practice of ________.",
+      "options": {
+        "A": "sharing childcare among community members",
+        "B": "assigning babies to specific adult caregivers",
+        "C": "teaching parenting details to older children",
+        "D": "carrying infants around by their parent"
+      },
+      "answer": "A",
+      "questionType": "词义题",
+      "type": "词义题",
+      "location": "Each child is cared for by many adults ... these practices, known as alloparenting.",
+      "explanation": "前两段先解释每个孩子由许多成人照看，随后把这种做法称为 alloparenting。",
+      "thinkingMethod": "术语题要看定义前后句，而不是只看构词。",
+      "trapAnalysis": "B 的 specific caregivers 与 many adults 相反；C、D 只是局部现象。",
+      "commonMistake": "范围缩小：把 alloparenting 理解成背婴儿或大孩子照看小孩这一个细节。"
+    },
+    {
+      "id": "2024-text2-q27",
+      "questionNumber": 27,
+      "questionText": "The scheme in Germany is mentioned to illustrate ________.",
+      "question": "The scheme in Germany is mentioned to illustrate ________.",
+      "options": {
+        "A": "an attempt to facilitate intergenerational communication",
+        "B": "an approach to integrating alloparenting into western culture",
+        "C": "the conventional parenting style in western culture",
+        "D": "the differences between western and African ways of living"
+      },
+      "answer": "B",
+      "questionType": "例证题",
+      "type": "例证题",
+      "location": "There are ways to incorporate them into western life. In Germany, one scheme...",
+      "explanation": "德国项目是为了举例说明可以把 alloparenting 融入西方生活。",
+      "thinkingMethod": "例证题向前找观点句：incorporate them into western life。",
+      "trapAnalysis": "A 只看到老人院与托儿所；C 与文章批判西方核心家庭相反；D 不是例子目的。",
+      "commonMistake": "停留在表层例子：只看到老人和儿童互动，没回到 alloparenting 的论点。"
+    },
+    {
+      "id": "2024-text2-q28",
+      "questionNumber": 28,
+      "questionText": "According to Paragraph 4, the intensive mothering narrative ________.",
+      "question": "According to Paragraph 4, the intensive mothering narrative ________.",
+      "options": {
+        "A": "alleviates parenting pressure",
+        "B": "consolidates family relationships",
+        "C": "results in the child-centered family",
+        "D": "departs from the course of evolution"
+      },
+      "answer": "D",
+      "questionType": "细节题",
+      "type": "细节题",
+      "location": "The western nuclear family was a recent invention which broke with evolutionary history.",
+      "explanation": "第四段说西方核心家庭是近期发明，打破了进化历史；随后说母亲独自照护的叙事有害。",
+      "thinkingMethod": "抓 broke with evolutionary history，对应 departs from the course of evolution。",
+      "trapAnalysis": "A 与 harmful、exhaustion 相反；B、C 原文未支持。",
+      "commonMistake": "同义替换没识别：broke with evolutionary history 没看出等于 departs from evolution。"
+    },
+    {
+      "id": "2024-text2-q29",
+      "questionNumber": 29,
+      "questionText": "According to Paragraph 6, what can we learn about nursery settings in the UK?",
+      "question": "According to Paragraph 6, what can we learn about nursery settings in the UK?",
+      "options": {
+        "A": "They tend to fall short of official requirements.",
+        "B": "They have difficulty finding enough caregivers.",
+        "C": "They ought to improve their carer-to-child ratio.",
+        "D": "They should try to prevent parental depression."
+      },
+      "answer": "C",
+      "questionType": "推理题",
+      "type": "推理题",
+      "location": "This contrasts starkly to nursery settings in the UK where regulations call for a ratio of one carer to four children.",
+      "explanation": "作者用狩猎采集社会十多个照护者与英国托育 1:4 的比例强烈对比，暗示英国照护比例有改善空间。",
+      "thinkingMethod": "推理题只比原文多走一步：从 stark contrast 推出比例需要改善。",
+      "trapAnalysis": "A 说不达官方要求，原文只是说官方要求是 1:4；B、D 原文没有直接推出。",
+      "commonMistake": "过度推理：把 regulations call for 误解成托育机构达不到规定。"
+    },
+    {
+      "id": "2024-text2-q30",
+      "questionNumber": 30,
+      "questionText": "Which of the following would be the best title?",
+      "question": "Which of the following would be the best title?",
+      "options": {
+        "A": "Instructive teaching: a dilemma for anxious parents",
+        "B": "For a happier family, learn from the hunter-gatherers",
+        "C": "Mixed-age playgroup, a better choice for lonely children",
+        "D": "Tracing the history of parenting: from Africa to Europe"
+      },
+      "answer": "B",
+      "questionType": "标题题",
+      "type": "标题题",
+      "location": "Parenting tips obtained from hunter-gatherers in Africa may be the key to bringing up more contented children.",
+      "explanation": "全文围绕从狩猎采集社会学习共同照护，以减少焦虑、改善儿童和家庭状态。",
+      "thinkingMethod": "标题题要覆盖全文主线，不能只抓最后一段教学或混龄玩耍。",
+      "trapAnalysis": "A、C 都是局部内容；D 更像历史追溯，不能体现建议性主旨。",
+      "commonMistake": "以偏概全：把 mixed-age playgroups 或 instructive teaching 当成全文中心。"
+    }
+  ],
+  "vocabulary": [
+    { "word": "contented", "phonetic": "/kənˈtentɪd/", "partOfSpeech": "adj.", "meaning": "满足的", "sentence": "Parenting tips may be the key to bringing up more contented children.", "sentenceTranslation": "这些育儿建议可能是培养更满足孩子的关键。", "options": { "A": "满足的", "B": "孤立的", "C": "固执的", "D": "焦躁的" }, "answer": "A", "meaningInContext": "满足的", "explanation": "contented 表示满意、安定。", "difficulty": "easy", "sourceParagraph": 1, "note": "与 anxious 形成语义对比。" },
+    { "word": "norm", "phonetic": "/nɔːrm/", "partOfSpeech": "n.", "meaning": "常态；规范", "sentence": "Baby-wearing is considered the norm.", "sentenceTranslation": "用背带携带婴儿被视为常态。", "options": { "A": "例外", "B": "常态", "C": "风险", "D": "命令" }, "answer": "B", "meaningInContext": "常态", "explanation": "norm 指通常做法。", "difficulty": "easy", "sourceParagraph": 1, "note": "考研阅读常用于社会习俗。" },
+    { "word": "anthropologist", "phonetic": "/ˌænθrəˈpɑːlədʒɪst/", "partOfSpeech": "n.", "meaning": "人类学家", "sentence": "Dr Nikhil Chaudhary is an evolutionary anthropologist.", "sentenceTranslation": "Nikhil Chaudhary 博士是一名进化人类学家。", "options": { "A": "心理医生", "B": "人类学家", "C": "语言学家", "D": "历史学家" }, "answer": "B", "meaningInContext": "人类学家", "explanation": "anthropology 是人类学。", "difficulty": "medium", "sourceParagraph": 2, "note": "学科类词汇。" },
+    { "word": "incorporate", "phonetic": "/ɪnˈkɔːrpəreɪt/", "partOfSpeech": "v.", "meaning": "纳入；融入", "sentence": "There are ways to incorporate them into western life.", "sentenceTranslation": "有办法把这些做法融入西方生活。", "options": { "A": "融入", "B": "排除", "C": "削弱", "D": "证明" }, "answer": "A", "meaningInContext": "融入", "explanation": "incorporate A into B 表示把 A 纳入 B。", "difficulty": "medium", "sourceParagraph": 3, "note": "搭配固定。" },
+    { "word": "akin", "phonetic": "/əˈkɪn/", "partOfSpeech": "adj.", "meaning": "类似的", "sentence": "The arrangement is akin to alloparenting.", "sentenceTranslation": "这种安排类似于共同育儿。", "options": { "A": "类似的", "B": "陌生的", "C": "严格的", "D": "短暂的" }, "answer": "A", "meaningInContext": "类似的", "explanation": "akin to 表示与某事相似。", "difficulty": "medium", "sourceParagraph": 3, "note": "常见短语 akin to。" },
+    { "word": "abrupt", "phonetic": "/əˈbrʌpt/", "partOfSpeech": "adj.", "meaning": "突然的", "sentence": "This abrupt shift was likely to have been harmful.", "sentenceTranslation": "这种突然转变很可能是有害的。", "options": { "A": "渐进的", "B": "突然的", "C": "有益的", "D": "正式的" }, "answer": "B", "meaningInContext": "突然的", "explanation": "abrupt 强调突然和缺少过渡。", "difficulty": "easy", "sourceParagraph": 4, "note": "常修饰 change/shift。" },
+    { "word": "maternal", "phonetic": "/məˈtɜːrnl/", "partOfSpeech": "adj.", "meaning": "母亲的", "sentence": "Such narratives can lead to maternal exhaustion.", "sentenceTranslation": "这种叙事会导致母亲精疲力竭。", "options": { "A": "父亲的", "B": "母亲的", "C": "儿童的", "D": "学校的" }, "answer": "B", "meaningInContext": "母亲的", "explanation": "maternal 与 mother 相关。", "difficulty": "easy", "sourceParagraph": 4, "note": "医学/家庭主题常见。" },
+    { "word": "starkly", "phonetic": "/ˈstɑːrkli/", "partOfSpeech": "adv.", "meaning": "鲜明地；强烈地", "sentence": "This contrasts starkly to nursery settings in the UK.", "sentenceTranslation": "这与英国托育环境形成鲜明对比。", "options": { "A": "含糊地", "B": "强烈地", "C": "偶然地", "D": "逐渐地" }, "answer": "B", "meaningInContext": "鲜明地", "explanation": "stark contrast 表示强烈对比。", "difficulty": "medium", "sourceParagraph": 6, "note": "常和 contrast 搭配。" },
+    { "word": "imitation", "phonetic": "/ˌɪmɪˈteɪʃn/", "partOfSpeech": "n.", "meaning": "模仿", "sentence": "Children learnt from observation and imitation.", "sentenceTranslation": "孩子们通过观察和模仿学习。", "options": { "A": "模仿", "B": "惩罚", "C": "测量", "D": "记忆" }, "answer": "A", "meaningInContext": "模仿", "explanation": "imitate 的名词形式。", "difficulty": "easy", "sourceParagraph": 7, "note": "教育类文章常见。" },
+    { "word": "enhance", "phonetic": "/ɪnˈhæns/", "partOfSpeech": "v.", "meaning": "增强；提高", "sentence": "Helping their parents might also enhance their own social development.", "sentenceTranslation": "帮助父母也可能促进他们自身的社会性发展。", "options": { "A": "阻止", "B": "增强", "C": "替代", "D": "隐藏" }, "answer": "B", "meaningInContext": "促进；增强", "explanation": "enhance 表示提高、增强积极效果。", "difficulty": "easy", "sourceParagraph": 7, "note": "高频正向动词。" }
+  ],
+  "vocabularyGroups": { "coreWords": [], "familiarWordsWithNewMeanings": [] },
+  "articleStructure": "提出从狩猎采集社会学习育儿；定义 alloparenting；举德国例子说明西方可融入；批评 intensive mothering；对比多照护者模式；讨论英国托育和混龄学习启示。",
+  "notes": "2024 英一阅读 Text 2。"
+}

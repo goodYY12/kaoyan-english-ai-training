@@ -1,0 +1,310 @@
+{
+  "id": "2024-text1",
+  "year": 2024,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 1",
+  "title": "The Hidden Power of Cheap Technologies",
+  "passage": "Nearly 2000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails, nearly a million of the things. The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel.\n\nWhy had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed, and they did not want the local Caledonians getting their hands on 10 tons of weapon-grade iron. The Romans buried the nails so deep that they would not be discovered for almost two millennia.\n\nLater civilisations would value the skilled blacksmith's labour in a nail even more than the raw material. As Roma Agrawal explains in her new delightful book Nuts and Bolts, early 17th-century Virginians would sometimes burn down their homes if they were planning to relocate. This was an attempt to recover the valuable nails, which could be reused after sifting the ashes. The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was.\n\nThe price of nails fell by 90% between the late 1700s and mid-1900s, as economist Daniel Sichel points out in a research paper. According to Sichel, although the falling price of nails was driven partly by cheaper iron and cheaper energy, most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails.\n\nNails themselves have changed over the years, but Sichel studied them because they have not changed much. Roman lamps and Roman chariots are very different from LED strips and sports cars, but Roman nails are still clearly nails. It would be absurd to try to track the changing price of sports cars since 1695, but to ask the same question of nails makes perfect sense.\n\nI make no apology for being obsessed by a particular feature of these objects: their price. I am an economist, after all. After writing two books about the history of inventions, one thing I have learnt is that while it is the enchantingly sophisticated technologies that get all the hype, it is the cheap technologies that change the world.\n\nThe Gutenberg printing press transformed civilisation not by changing the nature of writing but by changing its cost, and it would have achieved little without a parallel collapse in the price of surfaces to write on, thanks to an often-overlooked technology called paper. Solar panels had few niche uses until they became cheap; now they are transforming the global energy system.",
+  "questions": [
+    {
+      "id": "2024-text1-q21",
+      "questionNumber": 21,
+      "questionText": "The Romans buried the nails probably for the sake of ________.",
+      "question": "The Romans buried the nails probably for the sake of ________.",
+      "options": {
+        "A": "saving them for future use",
+        "B": "keeping them from rusting",
+        "C": "letting them grow in value",
+        "D": "hiding them from the locals"
+      },
+      "answer": "D",
+      "questionType": "细节题",
+      "type": "细节题",
+      "location": "They did not want the local Caledonians getting their hands on 10 tons of weapon-grade iron.",
+      "explanation": "第二段直接说明罗马人不想让当地 Caledonians 得到这些可作为武器材料的铁钉，因此深埋铁钉是为了不让当地人发现。",
+      "thinkingMethod": "定位 why buried nails，抓住 did not want locals getting their hands on，对应 hiding them from the locals。",
+      "trapAnalysis": "A、B、C 都把行为合理化成保存、防锈或升值，但原文重点是防止当地人获得武器级铁。",
+      "commonMistake": "定位错误：只看到 buried 和 treasure，忽略了 not want the local Caledonians getting their hands on。",
+      "examinerThinking": {
+        "sourceSentence": "They did not want the local Caledonians getting their hands on 10 tons of weapon-grade iron.",
+        "testPoint": "考查具体原因定位。",
+        "trap": "把 treasure 和 buried 误导成保存或升值。",
+        "correctLogic": "not want locals getting their hands on 等于 hiding them from the locals。",
+        "wrongOptionAnalysis": {
+          "A": "原文没有说留作日后使用。",
+          "B": "深埋不是为了防锈。",
+          "C": "升值是后文文明重视铁钉，不是罗马人埋钉原因。",
+          "D": "与原文原因一致。"
+        },
+        "nextTimeStrategy": "原因题先找 because/likely explanation/so that，不要被名词 treasure 带跑。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "They did not want the local Caledonians getting their hands on 10 tons of weapon-grade iron.",
+        "coreStructure": "They did not want the local Caledonians getting their hands on iron.",
+        "grammarBreakdown": "want + object + doing 表示不希望某人做某事。",
+        "modifiers": "10 tons of weapon-grade 修饰 iron，强调数量和危险用途。",
+        "translation": "他们不想让当地的喀里多尼亚人得到这 10 吨武器级铁料。",
+        "relationToQuestion": "这句话直接解释了埋钉原因。",
+        "exercises": [
+          {
+            "question": "句中 getting their hands on 表示什么？",
+            "answer": "获得、拿到。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2024-text1-q22",
+      "questionNumber": 22,
+      "questionText": "The example of early 17th-century Virginians is used to ________.",
+      "question": "The example of early 17th-century Virginians is used to ________.",
+      "options": {
+        "A": "highlight the thriftiness of early American colonists",
+        "B": "illustrate the high status of blacksmiths in that period",
+        "C": "contrast the attitudes of different civilisations toward nails",
+        "D": "show the preciousness of nail-making technology at that time"
+      },
+      "answer": "D",
+      "questionType": "例证题",
+      "type": "例证题",
+      "location": "The idea ... underlines how scarce, costly and valuable the simple-seeming technology was.",
+      "explanation": "例子后一句给出论点：烧房取钉说明这种看似简单的技术稀缺、昂贵且有价值。",
+      "thinkingMethod": "例证题要向后或向前找观点句，本题观点句是 underlines 后面的内容。",
+      "trapAnalysis": "A 只看到节俭行为，B 只抓 blacksmith，C 过度概括为文明态度对比。",
+      "commonMistake": "停留在例子细节：把烧房回收铁钉理解成殖民者节俭，而没有回到作者论点。"
+    },
+    {
+      "id": "2024-text1-q23",
+      "questionNumber": 23,
+      "questionText": "What played the major role in lowering the price of nails after the late 1700s?",
+      "question": "What played the major role in lowering the price of nails after the late 1700s?",
+      "options": {
+        "A": "Increased productivity.",
+        "B": "Wider use of new energies.",
+        "C": "Fiercer market competition.",
+        "D": "Reduced cost of raw materials."
+      },
+      "answer": "A",
+      "questionType": "细节题",
+      "type": "细节题",
+      "location": "Most of the credit goes to nail manufacturers who simply found more efficient ways to turn steel into nails.",
+      "explanation": "原文说主要功劳在于制造商找到了更高效的生产方式，即生产效率提高。",
+      "thinkingMethod": "major role 对应 most of the credit，more efficient ways 对应 increased productivity。",
+      "trapAnalysis": "B、D 是 partly 的次要原因；C 原文未提。",
+      "commonMistake": "同义替换没识别：more efficient ways 没能转换成 increased productivity。"
+    },
+    {
+      "id": "2024-text1-q24",
+      "questionNumber": 24,
+      "questionText": "It can be learned from Paragraph 5 that nails ________.",
+      "question": "It can be learned from Paragraph 5 that nails ________.",
+      "options": {
+        "A": "have undergone many technological improvements",
+        "B": "have remained basically the same since Roman times",
+        "C": "are less studied than other everyday products",
+        "D": "are one of the world's most significant inventions"
+      },
+      "answer": "B",
+      "questionType": "细节题",
+      "type": "细节题",
+      "location": "Roman nails are still clearly nails.",
+      "explanation": "第五段强调铁钉多年变化不大，罗马铁钉仍然明显是铁钉。",
+      "thinkingMethod": "抓转折 but 后的信息，changed over the years 后面用 have not changed much 限定。",
+      "trapAnalysis": "A 与 have not changed much 相反；C、D 都不是第五段核心。",
+      "commonMistake": "忽略转折：只看到 changed over the years，没有抓住 but 后的重点。"
+    },
+    {
+      "id": "2024-text1-q25",
+      "questionNumber": 25,
+      "questionText": "Which of the following best summarises the last two paragraphs?",
+      "question": "Which of the following best summarises the last two paragraphs?",
+      "options": {
+        "A": "Cheap technologies bring about revolutionary change.",
+        "B": "Technological innovation is integral to economic success.",
+        "C": "Technology defines people's understanding of the world.",
+        "D": "Sophisticated technologies develop from small inventions."
+      },
+      "answer": "A",
+      "questionType": "主旨题",
+      "type": "主旨题",
+      "location": "It is the cheap technologies that change the world.",
+      "explanation": "最后两段用印刷术、纸和太阳能板说明：真正改变世界的是成本下降后的廉价技术。",
+      "thinkingMethod": "段落总结题找作者直接观点句，再看例子是否支撑该观点。",
+      "trapAnalysis": "B 太泛；C 原文未说理解世界；D 把 sophisticated 与 small inventions 错连。",
+      "commonMistake": "范围扩大或偷换概念：把 cheap technologies 改成一般 technological innovation。"
+    }
+  ],
+  "vocabulary": [
+    {
+      "word": "hoard",
+      "phonetic": "/hɔːrd/",
+      "partOfSpeech": "n.",
+      "meaning": "贮藏物；秘藏物",
+      "sentence": "The nail hoard was discovered in 1960 in a four-metre-deep pit.",
+      "sentenceTranslation": "这批铁钉贮藏物于 1960 年在一个四米深的坑中被发现。",
+      "options": { "A": "贮藏物", "B": "工具箱", "C": "矿井", "D": "战利品" },
+      "answer": "A",
+      "meaningInContext": "贮藏物",
+      "explanation": "hoard 指大量隐藏或储存起来的东西。",
+      "difficulty": "medium",
+      "sourceParagraph": 1,
+      "note": "常见于 treasure hoard。"
+    },
+    {
+      "word": "withdrawal",
+      "phonetic": "/wɪðˈdrɔːəl/",
+      "partOfSpeech": "n.",
+      "meaning": "撤离；撤退",
+      "sentence": "The likely explanation is that the withdrawal was rushed.",
+      "sentenceTranslation": "可能的解释是撤离十分仓促。",
+      "options": { "A": "扩张", "B": "撤离", "C": "交易", "D": "发掘" },
+      "answer": "B",
+      "meaningInContext": "撤离",
+      "explanation": "结合 Romans began to pull out of Scotland，可知是撤离。",
+      "difficulty": "easy",
+      "sourceParagraph": 2,
+      "note": "withdraw 的名词形式。"
+    },
+    {
+      "word": "reclaim",
+      "phonetic": "/rɪˈkleɪm/",
+      "partOfSpeech": "v.",
+      "meaning": "取回；回收",
+      "sentence": "The idea that one might burn down an entire house just to reclaim the nails underlines how scarce the technology was.",
+      "sentenceTranslation": "有人竟会烧掉整栋房子只为取回铁钉，这突显了这种技术多么稀缺。",
+      "options": { "A": "宣布", "B": "取回", "C": "拒绝", "D": "扩大" },
+      "answer": "B",
+      "meaningInContext": "取回；回收",
+      "explanation": "这里指从灰烬中重新取回铁钉。",
+      "difficulty": "medium",
+      "sourceParagraph": 3,
+      "note": "re- 表示 again。"
+    },
+    {
+      "word": "scarce",
+      "phonetic": "/skers/",
+      "partOfSpeech": "adj.",
+      "meaning": "稀缺的",
+      "sentence": "The simple-seeming technology was scarce, costly and valuable.",
+      "sentenceTranslation": "这种看似简单的技术稀缺、昂贵且有价值。",
+      "options": { "A": "稳定的", "B": "稀缺的", "C": "复杂的", "D": "廉价的" },
+      "answer": "B",
+      "meaningInContext": "稀缺的",
+      "explanation": "与 costly and valuable 并列，表示供给少。",
+      "difficulty": "easy",
+      "sourceParagraph": 3,
+      "note": "考研常见经济类词。"
+    },
+    {
+      "word": "efficient",
+      "phonetic": "/ɪˈfɪʃnt/",
+      "partOfSpeech": "adj.",
+      "meaning": "高效的",
+      "sentence": "Manufacturers found more efficient ways to turn steel into nails.",
+      "sentenceTranslation": "制造商找到了把钢材制成铁钉的更高效方法。",
+      "options": { "A": "高效的", "B": "昂贵的", "C": "传统的", "D": "危险的" },
+      "answer": "A",
+      "meaningInContext": "高效的",
+      "explanation": "与生产率提高、价格下降相关。",
+      "difficulty": "easy",
+      "sourceParagraph": 4,
+      "note": "同义替换 productivity。"
+    },
+    {
+      "word": "absurd",
+      "phonetic": "/əbˈsɜːrd/",
+      "partOfSpeech": "adj.",
+      "meaning": "荒谬的",
+      "sentence": "It would be absurd to try to track the changing price of sports cars since 1695.",
+      "sentenceTranslation": "试图追踪 1695 年以来跑车价格的变化会很荒谬。",
+      "options": { "A": "必要的", "B": "荒谬的", "C": "准确的", "D": "普遍的" },
+      "answer": "B",
+      "meaningInContext": "荒谬的",
+      "explanation": "作者用跑车对比铁钉，说明跑车变化太大不适合比较。",
+      "difficulty": "medium",
+      "sourceParagraph": 5,
+      "note": "常用于评价不合理观点。"
+    },
+    {
+      "word": "obsessed",
+      "phonetic": "/əbˈsest/",
+      "partOfSpeech": "adj.",
+      "meaning": "着迷的；执着的",
+      "sentence": "I make no apology for being obsessed by a particular feature of these objects: their price.",
+      "sentenceTranslation": "我不会为自己执着于这些物品的一个特征而道歉：它们的价格。",
+      "options": { "A": "厌倦的", "B": "执着的", "C": "怀疑的", "D": "排斥的" },
+      "answer": "B",
+      "meaningInContext": "执着的",
+      "explanation": "作者作为经济学家关注价格。",
+      "difficulty": "medium",
+      "sourceParagraph": 6,
+      "note": "be obsessed by/with。"
+    },
+    {
+      "word": "hype",
+      "phonetic": "/haɪp/",
+      "partOfSpeech": "n.",
+      "meaning": "炒作；大量宣传",
+      "sentence": "It is the enchantingly sophisticated technologies that get all the hype.",
+      "sentenceTranslation": "获得大量关注和炒作的是那些迷人的复杂技术。",
+      "options": { "A": "成本", "B": "炒作", "C": "证据", "D": "限制" },
+      "answer": "B",
+      "meaningInContext": "炒作；关注",
+      "explanation": "hype 表示媒体或公众的夸大宣传。",
+      "difficulty": "medium",
+      "sourceParagraph": 6,
+      "note": "常与 get 搭配。"
+    },
+    {
+      "word": "collapse",
+      "phonetic": "/kəˈlæps/",
+      "partOfSpeech": "n./v.",
+      "meaning": "暴跌；崩塌",
+      "sentence": "It would have achieved little without a parallel collapse in the price of surfaces to write on.",
+      "sentenceTranslation": "如果书写材料价格没有同步暴跌，它几乎不会取得什么成就。",
+      "options": { "A": "上涨", "B": "暴跌", "C": "竞争", "D": "延迟" },
+      "answer": "B",
+      "meaningInContext": "暴跌",
+      "explanation": "此处指纸张等书写载体价格下降。",
+      "difficulty": "medium",
+      "sourceParagraph": 7,
+      "note": "熟词僻义：不只是建筑倒塌，也可指价格崩跌。"
+    },
+    {
+      "word": "niche",
+      "phonetic": "/niːʃ/",
+      "partOfSpeech": "adj./n.",
+      "meaning": "小众的；利基",
+      "sentence": "Solar panels had few niche uses until they became cheap.",
+      "sentenceTranslation": "太阳能板在变得便宜之前只有少数小众用途。",
+      "options": { "A": "小众的", "B": "危险的", "C": "官方的", "D": "临时的" },
+      "answer": "A",
+      "meaningInContext": "小众的",
+      "explanation": "niche uses 指应用范围窄的小众用途。",
+      "difficulty": "hard",
+      "sourceParagraph": 7,
+      "note": "商业和科技文章常见词。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": [
+      {
+        "word": "collapse",
+        "phonetic": "/kəˈlæps/",
+        "partOfSpeech": "n.",
+        "meaning": "价格暴跌",
+        "sentence": "It would have achieved little without a parallel collapse in the price of surfaces to write on.",
+        "options": { "A": "暴跌", "B": "倒塌建筑", "C": "协商", "D": "复制" },
+        "answer": "A",
+        "meaningInContext": "暴跌",
+        "explanation": "这里不是“倒塌”，而是价格大幅下降。",
+        "note": "不是常见义"
+      }
+    ]
+  },
+  "articleStructure": "罗马铁钉谜题；早期殖民者烧房取钉说明铁钉价值；制造效率降低价格；铁钉适合追踪价格；作者提出廉价技术改变世界；用印刷术、纸和太阳能板举例。",
+  "notes": "2024 英一阅读 Text 1，数据按网站训练闭环结构整理。"
+}

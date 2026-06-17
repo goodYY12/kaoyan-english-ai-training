@@ -3,14 +3,44 @@
     "type": "小作文",
     "title": "建议信基础结构",
     "template": ["说明写信目的", "给出两至三条具体建议", "表达期待与祝愿"],
-    "sentences": ["I am writing to offer a few practical suggestions.", "It would be helpful to consider..."],
-    "replacements": ["helpful → beneficial", "consider → take into account"]
+    "sentences": [
+      "I am writing to offer a few practical suggestions.",
+      "It would be helpful to consider..."
+    ],
+    "replacements": ["helpful -> beneficial", "consider -> take into account"]
   },
   {
     "type": "大作文",
     "title": "图画作文基础结构",
     "template": ["准确描述图画", "解释象征意义", "分析影响并提出建议"],
-    "sentences": ["The drawing highlights a phenomenon that deserves attention.", "What matters most is that..."],
-    "replacements": ["important → significant", "show → illustrate"]
+    "sentences": [
+      "The drawing highlights a phenomenon that deserves attention.",
+      "What matters most is that..."
+    ],
+    "replacements": ["important -> significant", "show -> illustrate"]
+  },
+  {
+    "year": 2024,
+    "status": "已接入",
+    "tasks": [
+      {
+        "type": "小作文",
+        "prompt": "Read the following email from a student. Write a reply.\n\nDear Li Ming,\nI have got a class assignment to make an oral report on an ancient Chinese scientist. I am not sure how to prepare for it. Could you give me some advice? Thanks for your help.\nYours,\nPaul\n\nWrite your letter in no less than 100 words. Do not sign your own name at the end of the letter. Use Li Ming instead.",
+        "structure": "开头回应求助并说明写信目的；主体建议选择科学家、查找可靠资料、整理报告提纲；结尾表达祝愿并欢迎继续联系。",
+        "expressions": [
+          "I am writing to offer you some practical suggestions.",
+          "It is advisable to organize your findings into a clear outline.",
+          "Feel free to contact me if you have any further questions."
+        ],
+        "deductions": "容易扣分点：没有回应对方求助；建议太空泛；格式缺少称呼或落款；字数不足。"
+      },
+      {
+        "type": "大作文",
+        "prompt": "2024 年英语一大作文题目数据待补充。当前 PDF 文本页未完整显示大作文图画内容，暂不乱编真实图画。",
+        "structure": "待补充",
+        "expressions": ["待补充"],
+        "deductions": "待补充"
+      }
+    ]
   }
 ]

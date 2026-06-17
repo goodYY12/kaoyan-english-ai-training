@@ -5,8 +5,13 @@ import text1 from "./papers/2026/text1.json" with { type: "json" };
 import text2 from "./papers/2026/text2.json" with { type: "json" };
 import text3 from "./papers/2026/text3.json" with { type: "json" };
 import text4 from "./papers/2026/text4.json" with { type: "json" };
+import text2024_1 from "./papers/2024/text1.json" with { type: "json" };
+import text2024_2 from "./papers/2024/text2.json" with { type: "json" };
+import text2024_3 from "./papers/2024/text3.json" with { type: "json" };
+import text2024_4 from "./papers/2024/text4.json" with { type: "json" };
 
 const papers = [text1, text2, text3, text4];
+const papers2024 = [text2024_1, text2024_2, text2024_3, text2024_4];
 
 test("2026 reading papers have one full passage and five complete questions", () => {
   assert.equal(papers.length, 4);
@@ -62,5 +67,32 @@ test("Text 1 has enough structured vocabulary for the word self-test", () => {
     assert.equal(item.meaning.includes("?"), false);
     assert.equal(item.sentenceTranslation.includes("?"), false);
     assert.equal(item.note.includes("?"), false);
+  }
+});
+
+test("2024 reading papers are available in the same structure", () => {
+  assert.equal(papers2024.length, 4);
+
+  for (const paper of papers2024) {
+    assert.equal(paper.year, 2024);
+    assert.equal(paper.paperType, "English I");
+    assert.equal(paper.section, "Reading Comprehension");
+    assert.match(paper.textNumber, /^Text [1-4]$/);
+    assert.ok(paper.passage.length > 500);
+    assert.equal(paper.questions.length, 5);
+    assert.ok(paper.vocabulary.length >= 10);
+
+    for (const question of paper.questions) {
+      assert.deepEqual(Object.keys(question.options), ["A", "B", "C", "D"]);
+      assert.match(question.answer, /^[A-D]$/);
+      assert.ok(question.explanation.length > 10);
+      assert.ok(question.commonMistake.length > 10);
+    }
+
+    for (const word of paper.vocabulary) {
+      assert.deepEqual(Object.keys(word.options), ["A", "B", "C", "D"]);
+      assert.match(word.answer, /^[A-D]$/);
+      assert.ok(word.meaningInContext.length > 1);
+    }
   }
 });

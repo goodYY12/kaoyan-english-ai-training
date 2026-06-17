@@ -1,3 +1,7 @@
+import text2024_1 from "../data/papers/2024/text1.json" with { type: "json" };
+import text2024_2 from "../data/papers/2024/text2.json" with { type: "json" };
+import text2024_3 from "../data/papers/2024/text3.json" with { type: "json" };
+import text2024_4 from "../data/papers/2024/text4.json" with { type: "json" };
 import text1 from "../data/papers/2026/text1.json" with { type: "json" };
 import text2 from "../data/papers/2026/text2.json" with { type: "json" };
 import text3 from "../data/papers/2026/text3.json" with { type: "json" };
@@ -5,7 +9,16 @@ import text4 from "../data/papers/2026/text4.json" with { type: "json" };
 import translationItems from "../data/translationItems.json" with { type: "json" };
 import writingTemplates from "../data/writingTemplates.json" with { type: "json" };
 
-const rawReadings = [text1, text2, text3, text4];
+const rawReadings = [
+  text1,
+  text2,
+  text3,
+  text4,
+  text2024_1,
+  text2024_2,
+  text2024_3,
+  text2024_4,
+];
 
 function normalizeTextNumber(textNumber) {
   if (typeof textNumber === "number") return `Text ${textNumber}`;

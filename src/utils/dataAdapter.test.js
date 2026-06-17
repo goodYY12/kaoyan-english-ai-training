@@ -11,12 +11,17 @@ import {
 
 test("normalizes readings and exposes available years", () => {
   const years = getAvailableYears();
-  assert.deepEqual(years, [2026]);
+  assert.deepEqual(years, [2026, 2024]);
 
   const readings = getReadingsByYear(2026);
   assert.equal(readings.length, 4);
   assert.equal(readings[0].id, "2026-text1");
   assert.equal(readings[0].questions.length, 5);
+
+  const readings2024 = getReadingsByYear(2024);
+  assert.equal(readings2024.length, 4);
+  assert.equal(readings2024[0].id, "2024-text1");
+  assert.equal(readings2024[0].questions.length, 5);
 });
 
 test("normalizes old and new question fields", () => {

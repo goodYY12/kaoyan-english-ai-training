@@ -1,0 +1,143 @@
+{
+  "id": "2024-text4",
+  "year": 2024,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 4",
+  "title": "Wetlands Protection and the Chesapeake Bay",
+  "passage": "The miracle of the Chesapeake Bay lies not in its depths, but in the complexity of its natural construction, the interaction of fresh and saline waters, and the mix of land and water. The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants from water, and protecting nearby communities from potentially destructive storm surges.\n\nAll this was put at great risk late last month, when the U.S. Supreme Court issued a ruling in an Idaho case that provides the U.S. Environmental Protection Agency (EPA) far less authority to regulate wetlands and waterways. Specifically, a 5-4 majority decided that wetlands protected by the EPA under its Clean Water Act authority must have a continuous surface connection to bodies of water. This narrowing of the regulatory scope was a victory for builders, mining operators and other commercial interests often at odds with environmental rules. And it carries significant repercussions for water quality and flood control throughout the United States, as Justice Brett Kavanaugh observed.\n\nIn Maryland, the good news is that there are many state laws in place that provide wetlands protections. But that is a very shortsighted view, particularly when it comes to the Chesapeake Bay. The reality is that water, and the pollutants that so often come with it, do not respect state boundaries. The Chesapeake draws from a 64,000-square-mile watershed that extends into Virginia, Pennsylvania, New York, West Virginia, the District of Columbia and Delaware. Will those jurisdictions extend the same protections now denied under Kavanaugh's EPA? Perhaps some, but all? That seems unlikely. It is too easy, and misleading, to see such court rulings as merely standing up for the rights of landowners when the consequences can be so dire for their neighbors.\n\nAnd it is a reminder that the EPA's involvement in the Chesapeake Bay Program has long been crucial as the means to transcend the influence of deep-pocketed special interests in neighboring states. Pennsylvania farmers, to use one telling example, are not thinking about next year's blue crab harvest in Maryland when they decide whether to spread animal waste on their fields, yet the runoff into nearby creeks can have enormous impact downstream.\n\nAnd so we would call on state lawmakers from Richmond to Albany to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved. We can offer them a visit to Blackwater National Wildlife Refuge in Chester County where bald eagles fly over tidal marshes so shallow you could not paddle a boat across them but teeming with aquatic life. It is worth the scenic drive.",
+  "questions": [
+    {
+      "id": "2024-text4-q36",
+      "questionNumber": 36,
+      "questionText": "The Chesapeake Bay is described in Paragraph 1 as ________.",
+      "question": "The Chesapeake Bay is described in Paragraph 1 as ________.",
+      "options": {
+        "A": "a valuable natural environment",
+        "B": "a controversial conservation area",
+        "C": "a place with commercial potential",
+        "D": "a headache for nearby communities"
+      },
+      "answer": "A",
+      "questionType": "细节题",
+      "type": "细节题",
+      "location": "The shallows provide homes for hundreds of species while storing floodwaters, filtering pollutants and protecting nearby communities.",
+      "explanation": "第一段强调切萨皮克湾的生态复杂性和多重环境功能，因此它是有价值的自然环境。",
+      "thinkingMethod": "概括段落列举功能：栖息地、蓄洪、过滤污染、保护社区。",
+      "trapAnalysis": "B、C 原文未提；D 与 protecting nearby communities 相反。",
+      "commonMistake": "以偏概全：只看到 storm surges 就误判为社区负担。"
+    },
+    {
+      "id": "2024-text4-q37",
+      "questionNumber": 37,
+      "questionText": "The U.S. Supreme Court's ruling in the Idaho case ________.",
+      "question": "The U.S. Supreme Court's ruling in the Idaho case ________.",
+      "options": {
+        "A": "reinforces water pollution control",
+        "B": "weakens the EPA's regulatory power",
+        "C": "will end conflicts among local residents",
+        "D": "may face opposition from mining operators"
+      },
+      "answer": "B",
+      "questionType": "细节题",
+      "type": "细节题",
+      "location": "The ruling provides the EPA far less authority to regulate wetlands and waterways.",
+      "explanation": "第二段明说该裁决让 EPA 监管湿地和水道的权力大幅减少。",
+      "thinkingMethod": "far less authority 对应 weakens regulatory power。",
+      "trapAnalysis": "A 与原文相反；C 无依据；D 矿业经营者是受益方之一，不是反对方。",
+      "commonMistake": "反向理解：没有抓住 far less authority 的否定方向。"
+    },
+    {
+      "id": "2024-text4-q38",
+      "questionNumber": 38,
+      "questionText": "How does the author feel about the future of the Chesapeake Bay?",
+      "question": "How does the author feel about the future of the Chesapeake Bay?",
+      "options": {
+        "A": "Worried.",
+        "B": "Puzzled.",
+        "C": "Relieved.",
+        "D": "Encouraged."
+      },
+      "answer": "A",
+      "questionType": "态度题",
+      "type": "态度题",
+      "location": "All this was put at great risk ... That seems unlikely ... the consequences can be so dire.",
+      "explanation": "作者多次使用 at great risk、unlikely、dire consequences 等负面表达，说明对未来感到担忧。",
+      "thinkingMethod": "态度题抓形容词和评价性表达，而不是只看 facts。",
+      "trapAnalysis": "C、D 与负面语气相反；B 的 puzzled 没有文本依据。",
+      "commonMistake": "忽略语气：没有抓住 great risk 和 dire consequences 的态度信号。"
+    },
+    {
+      "id": "2024-text4-q39",
+      "questionNumber": 39,
+      "questionText": "What can be inferred about the EPA's involvement in the Chesapeake Bay Program?",
+      "question": "What can be inferred about the EPA's involvement in the Chesapeake Bay Program?",
+      "options": {
+        "A": "It has restored the balance among neighboring jurisdictions.",
+        "B": "It has triggered a radical reform in commercial fisheries.",
+        "C": "It has set a fine example of respecting state authorities.",
+        "D": "It has ensured the coordination of protection efforts."
+      },
+      "answer": "D",
+      "questionType": "推理题",
+      "type": "推理题",
+      "location": "The EPA's involvement ... has long been crucial as the means to transcend the influence of deep-pocketed special interests in neighboring states.",
+      "explanation": "EPA 的参与能跨越州界和特殊利益影响，说明它有助于协调保护行动。",
+      "thinkingMethod": "从 transcend neighboring states 推出跨区域协调。",
+      "trapAnalysis": "A 的 restored balance 过度；B 原文未提商业渔业改革；C 与联邦协调的作用不符。",
+      "commonMistake": "过度推理：把 crucial means 推成已经完全恢复平衡。"
+    },
+    {
+      "id": "2024-text4-q40",
+      "questionNumber": 40,
+      "questionText": "The author holds that the state lawmakers should ________.",
+      "question": "The author holds that the state lawmakers should ________.",
+      "options": {
+        "A": "be cautious about the influence of landowners",
+        "B": "attach due importance to wetlands protections",
+        "C": "recognize the need to expand wildlife refuges",
+        "D": "improve the wellbeing of endangered species"
+      },
+      "answer": "B",
+      "questionType": "细节题",
+      "type": "细节题",
+      "location": "We would call on state lawmakers ... to consider reviewing their own wetlands protections and see for themselves the enormous stakes involved.",
+      "explanation": "作者呼吁各州立法者重新审视湿地保护，看到其中重大利害关系。",
+      "thinkingMethod": "call on sb. to do sth. 是作者建议的明显标志。",
+      "trapAnalysis": "A、C、D 都是相关但非作者直接呼吁的核心。",
+      "commonMistake": "选项范围偏移：把参观保护区的例子误当成扩大保护区的主张。"
+    }
+  ],
+  "vocabulary": [
+    { "word": "saline", "phonetic": "/ˈseɪlaɪn/", "partOfSpeech": "adj.", "meaning": "含盐的", "sentence": "The interaction of fresh and saline waters shapes the bay.", "sentenceTranslation": "淡水和咸水的相互作用塑造了海湾。", "options": { "A": "含盐的", "B": "浅的", "C": "寒冷的", "D": "危险的" }, "answer": "A", "meaningInContext": "含盐的", "explanation": "saline water 指咸水。", "difficulty": "medium", "sourceParagraph": 1, "note": "环境类词汇。" },
+    { "word": "shallows", "phonetic": "/ˈʃæloʊz/", "partOfSpeech": "n.", "meaning": "浅水区", "sentence": "The shallows provide homes for hundreds of species.", "sentenceTranslation": "浅水区为数百种物种提供栖息地。", "options": { "A": "浅水区", "B": "高地", "C": "矿区", "D": "港口" }, "answer": "A", "meaningInContext": "浅水区", "explanation": "shallows 指水浅的区域。", "difficulty": "medium", "sourceParagraph": 1, "note": "常用复数。" },
+    { "word": "pollutant", "phonetic": "/pəˈluːtənt/", "partOfSpeech": "n.", "meaning": "污染物", "sentence": "The shallows filter pollutants from water.", "sentenceTranslation": "浅水区过滤水中的污染物。", "options": { "A": "污染物", "B": "保护区", "C": "沉积物", "D": "淡水" }, "answer": "A", "meaningInContext": "污染物", "explanation": "pollutant 来自 pollute。", "difficulty": "easy", "sourceParagraph": 1, "note": "环保主题高频。" },
+    { "word": "authority", "phonetic": "/əˈθɔːrəti/", "partOfSpeech": "n.", "meaning": "权力；权限", "sentence": "The ruling provides the EPA far less authority to regulate wetlands.", "sentenceTranslation": "该裁决大幅减少了 EPA 监管湿地的权限。", "options": { "A": "权力", "B": "作者", "C": "证据", "D": "费用" }, "answer": "A", "meaningInContext": "权限", "explanation": "authority 在法律语境中指权限。", "difficulty": "medium", "sourceParagraph": 2, "note": "熟词僻义，不是“权威人士”。" },
+    { "word": "regulate", "phonetic": "/ˈreɡjuleɪt/", "partOfSpeech": "v.", "meaning": "监管；规范", "sentence": "The EPA has less authority to regulate wetlands and waterways.", "sentenceTranslation": "EPA 监管湿地和水道的权限减少了。", "options": { "A": "监管", "B": "扩建", "C": "污染", "D": "购买" }, "answer": "A", "meaningInContext": "监管", "explanation": "regulate 指通过规则管理。", "difficulty": "easy", "sourceParagraph": 2, "note": "法律政策类高频。" },
+    { "word": "repercussion", "phonetic": "/ˌriːpərˈkʌʃn/", "partOfSpeech": "n.", "meaning": "后果；影响", "sentence": "It carries significant repercussions for water quality and flood control.", "sentenceTranslation": "它会对水质和洪水控制产生重大影响。", "options": { "A": "后果", "B": "许可", "C": "边界", "D": "收入" }, "answer": "A", "meaningInContext": "后果", "explanation": "repercussion 多指负面连锁影响。", "difficulty": "hard", "sourceParagraph": 2, "note": "议论文常见词。" },
+    { "word": "jurisdiction", "phonetic": "/ˌdʒʊrɪsˈdɪkʃn/", "partOfSpeech": "n.", "meaning": "管辖区；司法管辖权", "sentence": "Will those jurisdictions extend the same protections?", "sentenceTranslation": "那些管辖区会延伸同样的保护吗？", "options": { "A": "管辖区", "B": "湿地", "C": "物种", "D": "农田" }, "answer": "A", "meaningInContext": "管辖区", "explanation": "此处指各州和地区。", "difficulty": "hard", "sourceParagraph": 3, "note": "法律文章高频。" },
+    { "word": "dire", "phonetic": "/ˈdaɪər/", "partOfSpeech": "adj.", "meaning": "严重的；可怕的", "sentence": "The consequences can be so dire for their neighbors.", "sentenceTranslation": "其后果对邻近地区可能非常严重。", "options": { "A": "严重的", "B": "短暂的", "C": "合法的", "D": "乐观的" }, "answer": "A", "meaningInContext": "严重的", "explanation": "dire 表示非常糟糕、严重。", "difficulty": "medium", "sourceParagraph": 3, "note": "态度题信号词。" },
+    { "word": "transcend", "phonetic": "/trænˈsend/", "partOfSpeech": "v.", "meaning": "超越", "sentence": "The EPA's involvement has been crucial as the means to transcend special interests.", "sentenceTranslation": "EPA 的参与一直是超越特殊利益影响的重要手段。", "options": { "A": "超越", "B": "服从", "C": "延迟", "D": "忽视" }, "answer": "A", "meaningInContext": "超越", "explanation": "transcend 指超出限制或影响。", "difficulty": "hard", "sourceParagraph": 4, "note": "抽象动词。" },
+    { "word": "runoff", "phonetic": "/ˈrʌnɔːf/", "partOfSpeech": "n.", "meaning": "径流", "sentence": "The runoff into nearby creeks can have enormous impact downstream.", "sentenceTranslation": "流入附近溪流的径流会对下游产生巨大影响。", "options": { "A": "径流", "B": "选举", "C": "利润", "D": "草地" }, "answer": "A", "meaningInContext": "径流", "explanation": "环保语境中 runoff 指雨水等携带污染物流入水体。", "difficulty": "hard", "sourceParagraph": 4, "note": "熟词僻义。" }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": [
+      {
+        "word": "authority",
+        "phonetic": "/əˈθɔːrəti/",
+        "partOfSpeech": "n.",
+        "meaning": "权限",
+        "sentence": "The ruling provides the EPA far less authority to regulate wetlands and waterways.",
+        "options": { "A": "权限", "B": "权威人士", "C": "书籍作者", "D": "污染源" },
+        "answer": "A",
+        "meaningInContext": "权限",
+        "explanation": "这里不是“权威人士”，而是政府机构的法定权力。",
+        "note": "不是常见义"
+      }
+    ]
+  },
+  "articleStructure": "介绍切萨皮克湾生态价值；说明最高法院裁决削弱 EPA 湿地监管；分析州界和流域保护问题；强调 EPA 在跨州协调中的关键作用；呼吁州立法者重视湿地保护。",
+  "notes": "2024 英一阅读 Text 4。"
+}
