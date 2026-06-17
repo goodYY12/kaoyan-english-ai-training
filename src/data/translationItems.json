@@ -23,13 +23,115 @@
     "id": "2026-translation",
     "year": 2026,
     "paper": "英语一",
-    "status": "待补充",
+    "status": "已有数据",
     "sourceText": "",
     "referenceTranslation": "",
     "keyPoints": [],
     "phrases": [],
     "sentenceAnalysis": [],
-    "commonMistakes": []
+    "commonMistakes": [],
+    "items": [
+      {
+        "id": "2026-translation-46",
+        "sourceText": "Tracing the history of the term, we can see how the definition of scientific literacy has shifted over time, muddying the waters when it comes to determining the goals of science education.",
+        "referenceTranslation": "追溯该术语的历史，我们可以看到科学素养的定义如何随时间推移而变化，这使得对科学教育目标的确定变得模糊不清。",
+        "keyPoints": ["Tracing the history of the term 作状语", "how 引导宾语从句", "muddying the waters 表示“使问题变得不清楚”"],
+        "phrases": [
+          { "phrase": "scientific literacy", "meaning": "科学素养", "example": "" },
+          { "phrase": "shift over time", "meaning": "随时间推移而变化", "example": "" },
+          { "phrase": "muddy the waters", "meaning": "使问题复杂化；使情况不明朗", "example": "" }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "Tracing the history of the term, we can see how the definition of scientific literacy has shifted over time, muddying the waters when it comes to determining the goals of science education.",
+            "coreStructure": "we can see how...",
+            "grammarBreakdown": "Tracing... 是现在分词短语作状语；how 引导宾语从句；muddying... 是结果状语。",
+            "translation": "追溯该术语的历史，我们可以看到科学素养的定义如何随时间推移而变化，这使得对科学教育目标的确定变得模糊不清。"
+          }
+        ],
+        "commonMistakes": ["漏译 over time", "muddying the waters 直译", "没有处理 when it comes to 的语义"]
+      },
+      {
+        "id": "2026-translation-47",
+        "sourceText": "A return to that version of scientific literacy, which focused more on teaching what science is and how it works and less on memorizing scientific facts, seems like something society today desperately needs.",
+        "referenceTranslation": "回归那种更侧重于教授科学的本质与运作方式，而非死记科学事实的科学素养理念，似乎是当今社会迫切需要的。",
+        "keyPoints": ["which 引导非限制性定语从句", "more...and less... 构成对比", "what science is and how it works 是并列宾语从句"],
+        "phrases": [
+          { "phrase": "a return to", "meaning": "回归", "example": "" },
+          { "phrase": "focus on", "meaning": "侧重于", "example": "" },
+          { "phrase": "desperately need", "meaning": "迫切需要", "example": "" }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "A return to that version of scientific literacy, which focused more on teaching what science is and how it works and less on memorizing scientific facts, seems like something society today desperately needs.",
+            "coreStructure": "A return ... seems like something.",
+            "grammarBreakdown": "which 从句解释 that version；what 和 how 引导并列宾语从句；society today desperately needs 修饰 something。",
+            "translation": "回归那种更侧重于教授科学的本质与运作方式，而非死记科学事实的科学素养理念，似乎是当今社会迫切需要的。"
+          }
+        ],
+        "commonMistakes": ["which 从句层次处理不清", "more/less 对比漏译", "desperately 语气漏译"]
+      },
+      {
+        "id": "2026-translation-48",
+        "sourceText": "Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief that such work was beneficial primarily as a way to enhance logical reasoning and observational skills.",
+        "referenceTranslation": "教育家们曾提出让学生在高中阶段完成详细的实验训练的想法，他们认为这种工作主要有利于增强逻辑推理和观察能力。",
+        "keyPoints": ["advanced the idea 表示“提出想法”", "of having students complete... 修饰 idea", "that 引导 belief 的同位语从句"],
+        "phrases": [
+          { "phrase": "advance the idea", "meaning": "提出想法", "example": "" },
+          { "phrase": "laboratory exercises", "meaning": "实验训练", "example": "" },
+          { "phrase": "logical reasoning", "meaning": "逻辑推理", "example": "" }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief that such work was beneficial primarily as a way to enhance logical reasoning and observational skills.",
+            "coreStructure": "Educators advanced the idea.",
+            "grammarBreakdown": "of having... 作 idea 的后置说明；in the belief that... 表示“基于某种认识”；to enhance... 表目的。",
+            "translation": "教育家们曾提出让学生在高中阶段完成详细的实验训练的想法，他们认为这种工作主要有利于增强逻辑推理和观察能力。"
+          }
+        ],
+        "commonMistakes": ["advance 误译为推进", "belief 后 that 从句关系不清", "primarily 漏译"]
+      },
+      {
+        "id": "2026-translation-49",
+        "sourceText": "It wasn't until the phrase \"scientific literacy\" came along in the 1940s that science had the formidable slogan it needed to command public attention and make improving science education an important national goal.",
+        "referenceTranslation": "直到 20 世纪 40 年代“科学素养”这一说法出现后，科学才有了其所需的响亮口号，从而引起公众的关注，并使改进科学教育成为重要的国家目标。",
+        "keyPoints": ["It wasn't until...that... 是强调句", "came along 表示“出现”", "to command... and make... 表目的"],
+        "phrases": [
+          { "phrase": "come along", "meaning": "出现", "example": "" },
+          { "phrase": "command public attention", "meaning": "引起公众关注", "example": "" },
+          { "phrase": "national goal", "meaning": "国家目标", "example": "" }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "It wasn't until the phrase \"scientific literacy\" came along in the 1940s that science had the formidable slogan it needed to command public attention and make improving science education an important national goal.",
+            "coreStructure": "It wasn't until... that science had the slogan.",
+            "grammarBreakdown": "强调句突出时间；it needed 修饰 slogan；to command 和 make 并列。",
+            "translation": "直到 20 世纪 40 年代“科学素养”这一说法出现后，科学才有了其所需的响亮口号，从而引起公众的关注，并使改进科学教育成为重要的国家目标。"
+          }
+        ],
+        "commonMistakes": ["强调句未译出“直到……才”", "formidable slogan 误译", "make 后宾补结构处理错误"]
+      },
+      {
+        "id": "2026-translation-50",
+        "sourceText": "The intense focus on scientific literacy in the United States originally grew out of the critical role of science and technology during World War II, as well as the perceived deficiencies of American soldiers.",
+        "referenceTranslation": "美国对科学素养的高度关注，最初源于科学技术在二战中的关键作用，以及当时对美国士兵能力不足的认识。",
+        "keyPoints": ["grew out of 表示“源于”", "as well as 连接两个来源", "perceived deficiencies 表示“被认为存在的不足”"],
+        "phrases": [
+          { "phrase": "intense focus on", "meaning": "高度关注", "example": "" },
+          { "phrase": "grow out of", "meaning": "源于", "example": "" },
+          { "phrase": "perceived deficiencies", "meaning": "被认为存在的不足", "example": "" }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "The intense focus on scientific literacy in the United States originally grew out of the critical role of science and technology during World War II, as well as the perceived deficiencies of American soldiers.",
+            "coreStructure": "The intense focus ... grew out of...",
+            "grammarBreakdown": "主语较长；grew out of 后接两个并列来源；as well as 连接 critical role 和 perceived deficiencies。",
+            "translation": "美国对科学素养的高度关注，最初源于科学技术在二战中的关键作用，以及当时对美国士兵能力不足的认识。"
+          }
+        ],
+        "commonMistakes": ["grow out of 误译", "as well as 并列关系漏译", "perceived 语义处理不准"]
+      }
+    ]
   },
   {
     "year": 2024,

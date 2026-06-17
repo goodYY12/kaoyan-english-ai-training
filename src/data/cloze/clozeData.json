@@ -4,22 +4,390 @@
     "year": 2026,
     "paper": "英语一",
     "title": "完形填空",
-    "sourceType": "待补充",
-    "status": "待补充",
-    "difficulty": "待补充",
+    "sourceType": "真题",
+    "status": "已有数据",
+    "difficulty": "真题",
     "estimatedTime": 15,
     "focusPoints": ["词义辨析", "固定搭配", "上下文逻辑", "篇章衔接"],
-    "passageParts": [],
-    "blanks": [],
+    "passageParts": [
+      {
+        "type": "text",
+        "content": "Advances in artificial intelligence (AI) are rapidly transforming every aspect of human life. The world of AI is buzzing with an exciting potential to improve and enrich our lives. "
+      },
+      { "type": "blank", "blankId": 1 },
+      {
+        "type": "text",
+        "content": ", AI also has the potential hazard of "
+      },
+      { "type": "blank", "blankId": 2 },
+      {
+        "type": "text",
+        "content": " our experiences in ways we might find difficult to control. One such "
+      },
+      { "type": "blank", "blankId": 3 },
+      {
+        "type": "text",
+        "content": " is how we understand and experience beauty.\n\nAI can be a collaborative tool in a wide range of creative endeavors. "
+      },
+      { "type": "blank", "blankId": 4 },
+      {
+        "type": "text",
+        "content": " the creation of human creativity and AI algorithms can lead to unique artistic "
+      },
+      { "type": "blank", "blankId": 5 },
+      {
+        "type": "text",
+        "content": " that are beautiful to the human eye. These collaborations are likely to become increasingly common "
+      },
+      { "type": "blank", "blankId": 6 },
+      {
+        "type": "text",
+        "content": ", as convenient and provocative. AI enables virtual try-on experiences where you can virtually "
+      },
+      { "type": "blank", "blankId": 7 },
+      {
+        "type": "text",
+        "content": " makeup, hairstyles, clothing, and even cosmetic procedure "
+      },
+      { "type": "blank", "blankId": 8 },
+      {
+        "type": "text",
+        "content": " making any physical changes. Individuals can now experiment with different looks and "
+      },
+      { "type": "blank", "blankId": 9 },
+      {
+        "type": "text",
+        "content": " their preferences, potentially expanding the range of beauty ideals.\n\nAI algorithms can "
+      },
+      { "type": "blank", "blankId": 10 },
+      {
+        "type": "text",
+        "content": " facial features and skin conditions to provide personalized beauty recommendations. This "
+      },
+      { "type": "blank", "blankId": 11 },
+      {
+        "type": "text",
+        "content": " approach aims to cater to individual preferences and enhance the concept of beauty tailored to each person's unique characteristics. "
+      },
+      { "type": "blank", "blankId": 12 },
+      {
+        "type": "text",
+        "content": ", AI can be a fun vehicle for self-discovery.\n\nWhile AI offers exciting possibilities, it also raises ethical "
+      },
+      { "type": "blank", "blankId": 13 },
+      {
+        "type": "text",
+        "content": ". There is a risk of deepening societal beauty "
+      },
+      { "type": "blank", "blankId": 14 },
+      {
+        "type": "text",
+        "content": " and perpetuating unattainable beauty standards "
+      },
+      { "type": "blank", "blankId": 15 },
+      {
+        "type": "text",
+        "content": ". AI-powered beauty filters and editing tools can lead to distorted self-perception and "
+      },
+      { "type": "blank", "blankId": 16 },
+      {
+        "type": "text",
+        "content": " body dissatisfaction. As summarized in a recent post on \"The Hidden Dangers of Online Beauty Filters\", "
+      },
+      { "type": "blank", "blankId": 17 },
+      {
+        "type": "text",
+        "content": " on this technology for social presentation can cause harm "
+      },
+      { "type": "blank", "blankId": 18 },
+      {
+        "type": "text",
+        "content": " body image issues, lower self-esteem, and social anxiety.\n\nIt's important to note that while AI can enhance our "
+      },
+      { "type": "blank", "blankId": 19 },
+      {
+        "type": "text",
+        "content": " of beauty, it should not "
+      },
+      { "type": "blank", "blankId": 20 },
+      {
+        "type": "text",
+        "content": " the genuine human experience and the emotional connections we derive from seeing the beauty in each other."
+      }
+    ],
+    "blanks": [
+      {
+        "id": 1,
+        "options": { "A": "Still", "B": "Therefore", "C": "Afterward", "D": "Instead" },
+        "answer": "A",
+        "type": "上下文逻辑",
+        "subType": "让步转折",
+        "clue": "前文讲 AI 的积极潜力，后文说 AI also has the potential hazard，形成让步补充。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "先判断前后句逻辑，再选择连接词。"
+      },
+      {
+        "id": 2,
+        "options": { "A": "reviewing", "B": "narrating", "C": "ignoring", "D": "dominating" },
+        "answer": "D",
+        "type": "词义辨析",
+        "subType": "动名词语义",
+        "clue": "potential hazard 与 difficult to control 对应。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "优先看空格前后的情感色彩和搭配。"
+      },
+      {
+        "id": 3,
+        "options": { "A": "reason", "B": "area", "C": "clue", "D": "belief" },
+        "answer": "B",
+        "type": "词义辨析",
+        "subType": "名词语义",
+        "clue": "how we understand and experience beauty 是 AI 影响的一个领域。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "名词题要看后文解释的是范围、原因还是观点。"
+      },
+      {
+        "id": 4,
+        "options": { "A": "Balancing", "B": "Distinguishing", "C": "Combining", "D": "Introducing" },
+        "answer": "C",
+        "type": "上下文逻辑",
+        "subType": "动作逻辑",
+        "clue": "human creativity and AI algorithms 形成结合关系。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "看到 A and B 时优先判断两者关系。"
+      },
+      {
+        "id": 5,
+        "options": { "A": "prospects", "B": "outcomes", "C": "ambitions", "D": "sentiments" },
+        "answer": "B",
+        "type": "词义辨析",
+        "subType": "名词语义",
+        "clue": "lead to unique artistic ... that are beautiful。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "看 lead to 后面需要结果还是前景。"
+      },
+      {
+        "id": 6,
+        "options": { "A": "At first", "B": "By comparison", "C": "For instance", "D": "In general" },
+        "answer": "C",
+        "type": "篇章衔接",
+        "subType": "举例关系",
+        "clue": "后文 virtual try-on experiences 是对 collaborations 的例子。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "判断后句是在举例、对比还是总结。"
+      },
+      {
+        "id": 7,
+        "options": { "A": "test", "B": "copy", "C": "link", "D": "save" },
+        "answer": "A",
+        "type": "固定搭配",
+        "subType": "动宾搭配",
+        "clue": "virtual try-on experiences 与 makeup, hairstyles, clothing 搭配。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "动词题优先看宾语。"
+      },
+      {
+        "id": 8,
+        "options": { "A": "upon", "B": "beyond", "C": "through", "D": "before" },
+        "answer": "D",
+        "type": "固定搭配",
+        "subType": "介词逻辑",
+        "clue": "虚拟试妆是在真实改变之前进行。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "介词题要还原动作发生顺序。"
+      },
+      {
+        "id": 9,
+        "options": { "A": "explore", "B": "recall", "C": "simplify", "D": "cherish" },
+        "answer": "A",
+        "type": "词义辨析",
+        "subType": "动宾搭配",
+        "clue": "experiment with different looks and ... their preferences。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "看并列动词与宾语是否自然搭配。"
+      },
+      {
+        "id": 10,
+        "options": { "A": "recover", "B": "arrange", "C": "reserve", "D": "analyze" },
+        "answer": "D",
+        "type": "词义辨析",
+        "subType": "动宾搭配",
+        "clue": "AI algorithms can ... facial features and skin conditions。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "技术语境中注意 analyze 与 data/features 搭配。"
+      },
+      {
+        "id": 11,
+        "options": { "A": "localized", "B": "normalized", "C": "randomized", "D": "customized" },
+        "answer": "D",
+        "type": "词义辨析",
+        "subType": "形容词语义",
+        "clue": "personalized beauty recommendations 与 individual preferences 对应。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "抓同义复现：personalized 与 customized。"
+      },
+      {
+        "id": 12,
+        "options": { "A": "At best", "B": "To the contrary", "C": "By definition", "D": "In this way" },
+        "answer": "D",
+        "type": "篇章衔接",
+        "subType": "承接总结",
+        "clue": "前文说明个性化推荐，后文总结 AI can be a fun vehicle。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "判断空格所在句是否承接前文方式。"
+      },
+      {
+        "id": 13,
+        "options": { "A": "divisions", "B": "expectations", "C": "concerns", "D": "values" },
+        "answer": "C",
+        "type": "词义辨析",
+        "subType": "名词搭配",
+        "clue": "raises ethical ... 是常见搭配。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "识别固定表达 raise concerns。"
+      },
+      {
+        "id": 14,
+        "options": { "A": "pressures", "B": "mysteries", "C": "understandings", "D": "suspicions" },
+        "answer": "A",
+        "type": "词义辨析",
+        "subType": "名词语义",
+        "clue": "unattainable beauty standards 与 societal beauty ... 对应负向压力。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "根据后文负向结果判断名词色彩。"
+      },
+      {
+        "id": 15,
+        "options": { "A": "approximately", "B": "additionally", "C": "alternatively", "D": "accidentally" },
+        "answer": "B",
+        "type": "篇章衔接",
+        "subType": "递进补充",
+        "clue": "deepening societal beauty pressures and perpetuating ... 是并列补充。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "副词题先判断前后动作关系。"
+      },
+      {
+        "id": 16,
+        "options": { "A": "deal with", "B": "result from", "C": "contribute to", "D": "focus on" },
+        "answer": "C",
+        "type": "固定搭配",
+        "subType": "因果搭配",
+        "clue": "lead to distorted self-perception and ... body dissatisfaction。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "判断主语是否造成后文结果。"
+      },
+      {
+        "id": 17,
+        "options": { "A": "starting", "B": "checking", "C": "relying", "D": "working" },
+        "answer": "C",
+        "type": "固定搭配",
+        "subType": "介词搭配",
+        "clue": "rely on this technology 是固定搭配。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "看到 on 后优先考虑固定搭配。"
+      },
+      {
+        "id": 18,
+        "options": { "A": "apart from", "B": "such as", "C": "regardless of", "D": "prior to" },
+        "answer": "B",
+        "type": "篇章衔接",
+        "subType": "举例关系",
+        "clue": "body image issues, lower self-esteem, and social anxiety 是 harm 的具体例子。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "判断后面是否列举例子。"
+      },
+      {
+        "id": 19,
+        "options": { "A": "imitation", "B": "appreciation", "C": "preservation", "D": "consumption" },
+        "answer": "B",
+        "type": "词义辨析",
+        "subType": "名词语义",
+        "clue": "enhance our ... of beauty。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "注意抽象名词与 beauty 的自然搭配。"
+      },
+      {
+        "id": 20,
+        "options": { "A": "replace", "B": "seize", "C": "share", "D": "reflect" },
+        "answer": "A",
+        "type": "词义辨析",
+        "subType": "动词语义",
+        "clue": "AI should not ... the genuine human experience。",
+        "explanation": "待补充",
+        "optionAnalysis": { "A": "待补充", "B": "待补充", "C": "待补充", "D": "待补充" },
+        "commonMistake": "待补充",
+        "strategy": "结尾观点句要抓作者限制性态度。"
+      }
+    ],
     "discourseAnalysis": {
-      "mainIdea": "",
-      "structure": [],
-      "logicSignals": []
+      "mainIdea": "文章讨论 AI 在美的体验与审美领域的积极作用及潜在伦理风险。",
+      "structure": [
+        { "paragraph": "P1", "role": "引入话题", "summary": "AI 改变生活，同时也可能影响人类体验。"},
+        { "paragraph": "P2", "role": "说明积极作用", "summary": "AI 可以帮助人们尝试外貌、探索审美偏好。"},
+        { "paragraph": "P3", "role": "继续说明应用", "summary": "AI 可以提供个性化美容推荐。"},
+        { "paragraph": "P4", "role": "提出风险", "summary": "AI 美颜工具可能加剧美貌压力和身体焦虑。"},
+        { "paragraph": "P5", "role": "总结观点", "summary": "AI 可以增强审美体验，但不应取代真实的人际审美经验。"}
+      ],
+      "logicSignals": [
+        { "word": "Still", "function": "让步转折", "explanation": "从积极潜力转到潜在风险。"},
+        { "word": "For instance", "function": "举例", "explanation": "引出虚拟试妆例子。"},
+        { "word": "While", "function": "让步", "explanation": "承认积极作用后提出伦理问题。"}
+      ]
     },
     "vocabularyGroups": {
-      "coreWords": [],
-      "familiarWordsWithNewMeanings": [],
-      "phrases": []
+      "coreWords": [
+        { "word": "artificial intelligence", "meaning": "人工智能", "sentence": "Advances in artificial intelligence (AI) are rapidly transforming every aspect of human life." },
+        { "word": "collaborative", "meaning": "协作的", "sentence": "AI can be a collaborative tool in a wide range of creative endeavors." },
+        { "word": "personalized", "meaning": "个性化的", "sentence": "AI algorithms can analyze facial features and skin conditions to provide personalized beauty recommendations." },
+        { "word": "ethical", "meaning": "伦理的", "sentence": "While AI offers exciting possibilities, it also raises ethical concerns." },
+        { "word": "self-perception", "meaning": "自我认知", "sentence": "AI-powered beauty filters and editing tools can lead to distorted self-perception." }
+      ],
+      "familiarWordsWithNewMeanings": [
+        { "word": "vehicle", "meaning": "媒介；工具", "sentence": "AI can be a fun vehicle for self-discovery.", "note": "不是常见义“车辆”。" }
+      ],
+      "phrases": [
+        { "phrase": "cater to", "meaning": "迎合；满足", "sentence": "This customized approach aims to cater to individual preferences." },
+        { "phrase": "lead to", "meaning": "导致", "sentence": "AI-powered beauty filters and editing tools can lead to distorted self-perception." },
+        { "phrase": "rely on", "meaning": "依赖", "sentence": "Relying on this technology for social presentation can cause harm." }
+      ]
     }
   }
 ]

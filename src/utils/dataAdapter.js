@@ -147,7 +147,9 @@ function createWritingPlaceholder(year) {
 export function hasTranslationData(item) {
   if (!item || item.status === "待补充") return false;
   if ((item.sourceText ?? "").trim()) return true;
-  return (item.items ?? []).some((entry) => (entry.sentence ?? "").trim());
+  return (item.items ?? []).some((entry) =>
+    ((entry.sourceText ?? entry.sentence ?? "")).trim(),
+  );
 }
 
 export function hasWritingData(item) {

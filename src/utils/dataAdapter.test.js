@@ -94,20 +94,22 @@ test("splits passage into labeled paragraphs", () => {
   ]);
 });
 
-test("loads cloze placeholder without pretending it is real data", () => {
+test("loads 2026 cloze data with twenty blanks", () => {
   const years = getClozeYears();
   assert.ok(years.includes(2026));
 
   const items = getClozeByYear(2026);
   assert.equal(items.length, 1);
-  assert.equal(items[0].sourceType, "待补充");
-  assert.equal(items[0].status, "待补充");
-  assert.equal(items[0].blanks.length, 0);
+  assert.equal(items[0].sourceType, "真题");
+  assert.equal(items[0].status, "已有数据");
+  assert.equal(items[0].blanks.length, 20);
   assert.equal(items[0].estimatedTime, 15);
-  assert.equal(hasClozeData(items[0]), false);
+  assert.equal(hasClozeData(items[0]), true);
 });
 
-test("detects missing translation and writing placeholders", () => {
+test("detects 2026 translation and writing data", () => {
   assert.equal(hasTranslationData({ year: 2026, status: "待补充" }), false);
   assert.equal(hasWritingData({ year: 2026, status: "待补充" }), false);
+  assert.equal(hasTranslationData({ year: 2026, status: "已有数据", items: [{ sentence: "x" }] }), true);
+  assert.equal(hasWritingData({ year: 2026, status: "已有数据", smallWriting: { prompt: "x" } }), true);
 });
