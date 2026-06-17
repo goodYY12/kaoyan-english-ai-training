@@ -43,24 +43,43 @@ export default function Dashboard() {
 
   return (
     <div className="space-y-6">
-      <section className="overflow-hidden rounded-3xl bg-gradient-to-br from-blue-700 via-blue-600 to-indigo-600 p-7 text-white shadow-lg shadow-blue-200 sm:p-10">
-        <p className="text-sm font-semibold tracking-[0.18em] text-blue-100">
-          考研英一 AI 提分训练平台
-        </p>
-        <h1 className="mt-5 max-w-3xl text-3xl font-bold leading-tight sm:text-5xl">
-          不只是刷真题，
-          <br />
-          而是训练出题人思维。
-        </h1>
-        <p className="mt-5 max-w-2xl text-sm leading-7 text-blue-100 sm:text-base">
-          现在网站会把阅读、完形、错因、定位句和词汇复盘串起来，帮你形成训练闭环。
-        </p>
-        <Link
-          to="/cloze"
-          className="mt-7 inline-flex rounded-xl bg-white px-5 py-3 text-sm font-bold text-blue-700 shadow-sm hover:bg-blue-50"
-        >
-          开始完形专项
-        </Link>
+      <section className="overflow-hidden rounded-[2rem] bg-gradient-to-br from-blue-700 via-blue-600 to-indigo-600 p-7 text-white shadow-xl shadow-blue-200 sm:p-10">
+        <div className="grid gap-8 lg:grid-cols-[1.4fr_0.8fr] lg:items-end">
+          <div>
+            <p className="text-sm font-semibold tracking-[0.18em] text-blue-100">
+              考研英一 AI 提分训练平台
+            </p>
+            <h1 className="mt-5 max-w-3xl text-3xl font-bold leading-tight tracking-tight sm:text-5xl">
+              不只是刷真题，
+              <br />
+              而是训练出题人思维。
+            </h1>
+            <p className="mt-5 max-w-2xl text-sm leading-7 text-blue-100 sm:text-base">
+              现在网站会把阅读、完形、错因、定位句和词汇复盘串起来，帮你形成训练闭环。
+            </p>
+            <div className="mt-7 flex flex-wrap gap-3">
+              <Link
+                to="/reading"
+                className="inline-flex rounded-2xl bg-white px-5 py-3 text-sm font-bold text-blue-700 shadow-sm hover:bg-blue-50"
+              >
+                继续阅读训练
+              </Link>
+              <Link
+                to="/cloze"
+                className="inline-flex rounded-2xl border border-white/30 bg-white/10 px-5 py-3 text-sm font-bold text-white hover:bg-white/20"
+              >
+                开始完形专项
+              </Link>
+            </div>
+          </div>
+          <div className="rounded-3xl border border-white/15 bg-white/10 p-5 backdrop-blur">
+            <p className="text-sm font-bold text-blue-50">今日建议</p>
+            <p className="mt-3 text-2xl font-bold leading-snug">{tasks[0]}</p>
+            <p className="mt-3 text-sm leading-6 text-blue-100">
+              先完成一项训练，再去错题本看错因，节奏会更稳。
+            </p>
+          </div>
+        </div>
       </section>
 
       {!hasRecords && (
@@ -100,7 +119,7 @@ export default function Dashboard() {
             {tasks.map((task, index) => (
               <div
                 key={task}
-                className="flex items-center gap-3 rounded-xl bg-slate-50 px-4 py-3"
+              className="flex items-center gap-3 rounded-2xl border border-slate-100 bg-slate-50 px-4 py-3"
               >
                 <span className="grid size-8 place-items-center rounded-full bg-blue-100 text-sm font-bold text-blue-700">
                   {index + 1}
@@ -140,7 +159,7 @@ export default function Dashboard() {
             <Link
               key={item.to}
               to={item.to}
-              className="rounded-2xl border border-slate-200 p-5 transition hover:-translate-y-0.5 hover:border-blue-200 hover:bg-blue-50"
+              className="rounded-3xl border border-slate-200 bg-white p-5 transition hover:-translate-y-0.5 hover:border-blue-200 hover:bg-blue-50 hover:shadow-md hover:shadow-blue-100"
             >
               <h3 className="font-bold text-slate-900">{item.title}</h3>
               <p className="mt-2 text-sm leading-6 text-slate-500">{item.text}</p>

@@ -7,9 +7,9 @@ export default function StatCard({ label, value, note, tone = "blue" }) {
   };
 
   return (
-    <article className={`rounded-2xl border p-5 ${tones[tone]}`}>
+    <article className={`rounded-3xl border p-5 shadow-sm shadow-slate-200/50 ${tones[tone]}`}>
       <p className="text-sm font-medium opacity-80">{label}</p>
-      <p className="mt-3 text-3xl font-bold">{value}</p>
+      <p className="mt-3 text-3xl font-bold tracking-tight">{value}</p>
       <p className="mt-2 text-xs leading-5 opacity-75">{note}</p>
     </article>
   );

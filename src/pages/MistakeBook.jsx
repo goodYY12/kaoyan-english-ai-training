@@ -60,7 +60,7 @@ export default function MistakeBook() {
         阅读和完形提交后，做错的题会自动进入这里。记录只保存在当前浏览器中，刷新页面不会丢失。
       </p>
 
-      <div className="mt-6 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
+      <div className="mt-6 rounded-3xl border border-slate-200/80 bg-white/95 p-4 shadow-sm shadow-slate-200/60">
         <div className="grid gap-3 md:grid-cols-5">
           {[
             ["年份", year, setYear, years],
@@ -131,29 +131,39 @@ export default function MistakeBook() {
                   </span>
                 </div>
 
-                <div className="mt-5 grid gap-3 sm:grid-cols-2">
-                  <p className="rounded-xl bg-rose-50 p-3 text-sm text-rose-700">
-                    你的答案：<strong>{mistake.userAnswer || "未作答"}</strong>
+                <div className="mt-5 grid gap-3 rounded-3xl border border-slate-100 bg-slate-50 p-3 sm:grid-cols-2 lg:grid-cols-4">
+                  <p className="rounded-2xl bg-white p-3 text-sm text-slate-600">
+                    来源<br />
+                    <strong className="text-slate-900">{getSourceLabel(mistake)}</strong>
                   </p>
-                  <p className="rounded-xl bg-emerald-50 p-3 text-sm text-emerald-700">
-                    正确答案：<strong>{mistake.correctAnswer}</strong>
+                  <p className="rounded-2xl bg-white p-3 text-sm text-slate-600">
+                    题型<br />
+                    <strong className="text-blue-700">{mistake.type ?? "待补充"}</strong>
+                  </p>
+                  <p className="rounded-2xl bg-rose-50 p-3 text-sm text-rose-700">
+                    你的答案<br />
+                    <strong>{mistake.userAnswer || "未作答"}</strong>
+                  </p>
+                  <p className="rounded-2xl bg-emerald-50 p-3 text-sm text-emerald-700">
+                    正确答案<br />
+                    <strong>{mistake.correctAnswer}</strong>
                   </p>
                 </div>
 
                 <div className="mt-5 grid gap-4 lg:grid-cols-2">
-                  <div className="rounded-xl bg-slate-50 p-4">
+                  <div className="rounded-2xl bg-slate-50 p-4">
                     <h3 className="font-bold text-slate-900">查看解析</h3>
                     <p className="mt-2 text-sm leading-6 text-slate-600">
                       {mistake.explanation ?? "待补充"}
                     </p>
                   </div>
-                  <div className="rounded-xl bg-blue-50 p-4">
+                  <div className="rounded-2xl bg-blue-50 p-4">
                     <h3 className="font-bold text-blue-800">原文定位句 / 解题依据</h3>
                     <p className="mt-2 text-sm leading-6 text-slate-600">
                       {mistake.location ?? "待补充"}
                     </p>
                   </div>
-                  <div className="rounded-xl bg-indigo-50 p-4">
+                  <div className="rounded-2xl bg-indigo-50 p-4">
                     <h3 className="font-bold text-indigo-800">查看出题人思维</h3>
                     {mistake.examinerThinking ? (
                       <ul className="mt-2 space-y-1 text-sm leading-6 text-slate-600">
@@ -167,7 +177,7 @@ export default function MistakeBook() {
                       </p>
                     )}
                   </div>
-                  <div className="rounded-xl bg-cyan-50 p-4">
+                  <div className="rounded-2xl bg-cyan-50 p-4">
                     <h3 className="font-bold text-cyan-800">查看长难句分析</h3>
                     {mistake.sourceSentenceAnalysis ? (
                       <p className="mt-2 text-sm leading-6 text-slate-600">
@@ -182,7 +192,7 @@ export default function MistakeBook() {
                 <button
                   type="button"
                   onClick={() => handleMastered(mistake.id)}
-                  className="mt-5 rounded-xl bg-emerald-600 px-4 py-2.5 text-sm font-semibold text-white hover:bg-emerald-700"
+                  className="mt-5 rounded-2xl bg-emerald-600 px-4 py-2.5 text-sm font-semibold text-white shadow-sm shadow-emerald-100 hover:bg-emerald-700"
                 >
                   {mistake.mastered ? "取消已掌握" : "标记为已掌握"}
                 </button>

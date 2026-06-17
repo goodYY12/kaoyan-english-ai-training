@@ -129,12 +129,12 @@ export default function ClozeTraining() {
               }
             >
               <div className="grid gap-3 text-sm text-slate-600 sm:grid-cols-2">
-                <p className="rounded-xl bg-slate-50 p-3">空数：{item.blanks.length}</p>
-                <p className="rounded-xl bg-slate-50 p-3">
+                <p className="rounded-2xl border border-slate-100 bg-slate-50 p-3">空数：{item.blanks.length}</p>
+                <p className="rounded-2xl border border-slate-100 bg-slate-50 p-3">
                   建议用时：{item.estimatedTime} 分钟
                 </p>
-                <p className="rounded-xl bg-slate-50 p-3">难度：{item.difficulty}</p>
-                <p className="rounded-xl bg-slate-50 p-3">试卷类型：{item.paper}</p>
+                <p className="rounded-2xl border border-slate-100 bg-slate-50 p-3">难度：{item.difficulty}</p>
+                <p className="rounded-2xl border border-slate-100 bg-slate-50 p-3">试卷类型：{item.paper}</p>
               </div>
               <div className="mt-4">
                 <p className="text-sm font-bold text-slate-700">训练重点</p>
@@ -152,7 +152,7 @@ export default function ClozeTraining() {
               <button
                 type="button"
                 onClick={() => startTraining(item.id)}
-                className="mt-5 rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white hover:bg-blue-700"
+                className="mt-5 rounded-2xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm shadow-blue-200 hover:bg-blue-700"
               >
                 开始训练
               </button>
@@ -187,7 +187,7 @@ export default function ClozeTraining() {
       <button
         type="button"
         onClick={backHome}
-        className="rounded-xl bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-200"
+        className="rounded-2xl bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-200"
       >
         ← 返回完形专项
       </button>
@@ -204,7 +204,7 @@ export default function ClozeTraining() {
 
       <div className="mt-6 grid gap-6 xl:grid-cols-[minmax(0,1.1fr)_minmax(20rem,0.9fr)]">
         <SectionCard title="完形文章">
-          <div className="rounded-2xl bg-slate-50 p-5 text-base leading-9 text-slate-700">
+          <div className="rounded-3xl border border-slate-100 bg-gradient-to-b from-slate-50 to-white p-5 text-base leading-9 text-slate-700 md:p-6">
             {activeItem.passageParts.map((part, index) => {
               if (part.type === "text") {
                 return <span key={`${part.content}-${index}`}>{part.content}</span>;
@@ -221,9 +221,9 @@ export default function ClozeTraining() {
                   }}
                   type="button"
                   onClick={() => setActiveBlankId(part.blankId)}
-                  className={`mx-1 inline-flex min-w-28 items-center justify-center rounded-xl border px-2 py-1 text-sm font-semibold transition ${
+                  className={`mx-1 inline-flex min-w-28 items-center justify-center rounded-2xl border px-2.5 py-1 text-sm font-semibold transition ${
                     activeBlankId === part.blankId
-                      ? "border-blue-500 bg-blue-600 text-white"
+                      ? "border-blue-500 bg-blue-600 text-white shadow-sm shadow-blue-200"
                       : selected
                         ? "border-emerald-200 bg-emerald-50 text-emerald-700"
                         : "border-blue-200 bg-white text-blue-700 hover:bg-blue-50"
@@ -265,7 +265,7 @@ export default function ClozeTraining() {
                             [activeBlank.id]: label,
                           }))
                         }
-                        className={`rounded-xl border px-4 py-3 text-left text-sm transition disabled:cursor-default ${style}`}
+                        className={`rounded-2xl border px-4 py-3 text-left text-sm transition disabled:cursor-default ${style}`}
                       >
                         <span className="mr-2 font-bold">{label}.</span>
                         {text}
@@ -286,9 +286,9 @@ export default function ClozeTraining() {
                   key={blank.id}
                   type="button"
                   onClick={() => jumpToBlank(blank.id)}
-                  className={`rounded-xl px-2 py-2 text-sm font-bold ${
+                  className={`rounded-2xl px-2 py-2 text-sm font-bold transition ${
                     activeBlankId === blank.id
-                      ? "bg-blue-600 text-white"
+                      ? "bg-blue-600 text-white shadow-sm shadow-blue-200"
                       : answers[blank.id]
                         ? "bg-emerald-50 text-emerald-700"
                         : "bg-slate-100 text-slate-500"
@@ -302,12 +302,12 @@ export default function ClozeTraining() {
               <button
                 type="button"
                 onClick={submitAnswers}
-                className="mt-5 w-full rounded-xl bg-blue-600 px-5 py-3 text-sm font-semibold text-white hover:bg-blue-700"
+                className="mt-5 w-full rounded-2xl bg-blue-600 px-5 py-3 text-sm font-semibold text-white shadow-sm shadow-blue-200 hover:bg-blue-700"
               >
                 提交答案
               </button>
             ) : (
-              <div className="mt-5 rounded-2xl bg-blue-50 p-4">
+              <div className="mt-5 rounded-3xl bg-gradient-to-br from-blue-50 to-cyan-50 p-4">
                 <p className="text-lg font-bold text-slate-900">
                   {correct}/{activeItem.blanks.length} · 正确率 {getAccuracy(correct, activeItem.blanks.length)}%
                 </p>
@@ -354,14 +354,20 @@ export default function ClozeTraining() {
               {activeItem.blanks.map((blank) => {
                 const selected = answers[blank.id];
                 const optionAnalysis = blank.optionAnalysis ?? {};
+                const isCorrect = selected === blank.answer;
                 return (
-                  <article key={blank.id} className="rounded-2xl border border-slate-200 p-4">
-                    <div className="flex flex-wrap items-center gap-2">
-                      <span className="rounded-full bg-blue-50 px-2.5 py-1 text-xs font-semibold text-blue-700">
-                        第 {blank.id} 空
-                      </span>
-                      <span className="rounded-full bg-slate-100 px-2.5 py-1 text-xs font-semibold text-slate-600">
-                        {blank.type} · {blank.subType}
+                  <article key={blank.id} className="rounded-3xl border border-slate-200 bg-white p-4 shadow-sm shadow-slate-100">
+                    <div className="flex flex-wrap items-center justify-between gap-2">
+                      <div className="flex flex-wrap gap-2">
+                        <span className="rounded-full bg-blue-50 px-2.5 py-1 text-xs font-semibold text-blue-700">
+                          第 {blank.id} 空
+                        </span>
+                        <span className="rounded-full bg-slate-100 px-2.5 py-1 text-xs font-semibold text-slate-600">
+                          {blank.type} · {blank.subType}
+                        </span>
+                      </div>
+                      <span className={`rounded-full px-2.5 py-1 text-xs font-semibold ${isCorrect ? "bg-emerald-50 text-emerald-700" : "bg-rose-50 text-rose-700"}`}>
+                        {isCorrect ? "正确" : "需复盘"}
                       </span>
                     </div>
                     <div className="mt-4 grid gap-3 text-sm sm:grid-cols-2">

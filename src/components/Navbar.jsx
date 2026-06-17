@@ -1,42 +1,71 @@
 import { useEffect, useState } from "react";
 import { Link, NavLink, useLocation } from "react-router";
 
-const navItems = [
-  { to: "/", label: "首页 Dashboard", end: true },
-  { to: "/exams", label: "真题中心" },
-  { to: "/reading", label: "阅读训练" },
-  { to: "/cloze", label: "完形专项" },
-  { to: "/long-reading", label: "长篇专项" },
-  { to: "/examiner-thinking", label: "出题人思维" },
-  { to: "/sentences", label: "长难句训练" },
-  { to: "/vocabulary", label: "词汇与熟词僻义" },
-  { to: "/translation", label: "翻译训练" },
-  { to: "/writing", label: "写作训练" },
-  { to: "/mistakes", label: "错题本" },
+const navSections = [
+  {
+    title: "学习首页",
+    items: [
+      { to: "/", label: "首页 Dashboard", end: true },
+      { to: "/exams", label: "真题中心" },
+    ],
+  },
+  {
+    title: "专项训练",
+    items: [
+      { to: "/reading", label: "阅读训练" },
+      { to: "/cloze", label: "完形专项" },
+      { to: "/long-reading", label: "长篇专项" },
+      { to: "/translation", label: "翻译训练" },
+      { to: "/writing", label: "写作训练" },
+    ],
+  },
+  {
+    title: "复盘提升",
+    items: [
+      { to: "/examiner-thinking", label: "出题人思维" },
+      { to: "/sentences", label: "长难句训练" },
+      { to: "/vocabulary", label: "词汇与熟词僻义" },
+      { to: "/mistakes", label: "错题本" },
+    ],
+  },
 ];
 
 function NavigationLinks() {
+  let index = 0;
+
   return (
-    <nav className="mt-8 space-y-1.5">
-      {navItems.map((item, index) => (
-        <NavLink
-          key={item.to}
-          to={item.to}
-          end={item.end}
-          className={({ isActive }) =>
-            [
-              "flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium transition",
-              isActive
-                ? "bg-blue-600 text-white shadow-sm"
-                : "text-slate-600 hover:bg-blue-50 hover:text-blue-700",
-            ].join(" ")
-          }
-        >
-          <span className="grid size-7 place-items-center rounded-lg bg-current/10 text-xs">
-            {String(index + 1).padStart(2, "0")}
-          </span>
-          {item.label}
-        </NavLink>
+    <nav className="mt-8 space-y-6">
+      {navSections.map((section) => (
+        <div key={section.title}>
+          <p className="px-3 text-[11px] font-bold uppercase tracking-[0.18em] text-slate-400">
+            {section.title}
+          </p>
+          <div className="mt-2 space-y-1.5">
+            {section.items.map((item) => {
+              index += 1;
+              return (
+                <NavLink
+                  key={item.to}
+                  to={item.to}
+                  end={item.end}
+                  className={({ isActive }) =>
+                    [
+                      "flex items-center gap-3 rounded-2xl px-3 py-2.5 text-sm font-medium transition",
+                      isActive
+                        ? "bg-blue-600 text-white shadow-md shadow-blue-200"
+                        : "text-slate-600 hover:bg-blue-50 hover:text-blue-700",
+                    ].join(" ")
+                  }
+                >
+                  <span className="grid size-7 place-items-center rounded-xl bg-current/10 text-xs">
+                    {String(index).padStart(2, "0")}
+                  </span>
+                  {item.label}
+                </NavLink>
+              );
+            })}
+          </div>
+        </div>
       ))}
     </nav>
   );
@@ -56,7 +85,7 @@ function SidebarContent() {
         </h1>
       </Link>
       <NavigationLinks />
-      <div className="mt-8 rounded-2xl bg-blue-50 p-4 text-sm text-blue-900">
+      <div className="mt-8 rounded-3xl border border-blue-100 bg-gradient-to-br from-blue-50 to-cyan-50 p-4 text-sm text-blue-900">
         <p className="font-semibold">今日提醒</p>
         <p className="mt-1 leading-6 text-blue-700">
           先定位原文，再判断选项是否越界。

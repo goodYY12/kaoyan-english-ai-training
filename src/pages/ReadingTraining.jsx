@@ -248,7 +248,7 @@ export default function ReadingTraining() {
         做题、诊断错因、归位出题人思维，再进入词汇和长难句复盘。
       </p>
 
-      <div className="mt-6 grid gap-4 rounded-2xl border border-blue-100 bg-white p-4 shadow-sm md:grid-cols-[1fr_2fr]">
+      <div className="mt-6 grid gap-4 rounded-3xl border border-blue-100 bg-white/95 p-4 shadow-sm shadow-blue-100/60 md:grid-cols-[1fr_2fr]">
         <label className="text-sm font-semibold text-slate-700">
           年份
           <select value={selectedYear} onChange={(event) => chooseYear(event.target.value)} className="mt-2 w-full rounded-xl border border-slate-200 bg-slate-50 px-3 py-2 text-sm text-slate-700 outline-none focus:border-blue-400">
@@ -277,9 +277,9 @@ export default function ReadingTraining() {
 
       <div className="mt-6 grid gap-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,0.95fr)]">
         <SectionCard title={`${currentPaper.year} ${currentPaper.textNumber}｜${currentPaper.title || "阅读文章"}`}>
-          <div className="max-h-[72vh] overflow-y-auto rounded-2xl bg-slate-50 p-4 text-sm leading-7 text-slate-700 md:p-5">
+          <div className="max-h-[72vh] overflow-y-auto rounded-3xl border border-slate-100 bg-gradient-to-b from-slate-50 to-white p-5 text-[15px] leading-8 text-slate-700 md:p-6">
             {currentPaper.passage.split("\n\n").map((paragraph) => (
-              <p key={paragraph} className="mb-4 last:mb-0">{paragraph}</p>
+              <p key={paragraph} className="mb-5 indent-6 last:mb-0">{paragraph}</p>
             ))}
           </div>
           <div className="mt-5 grid gap-3 text-sm text-slate-600 sm:grid-cols-3">
@@ -296,7 +296,7 @@ export default function ReadingTraining() {
               const isCorrect = submitted && selected === question.answer;
               const isWrong = submitted && selected !== question.answer;
               return (
-                <article key={question.id} className="rounded-2xl border border-slate-200 bg-white p-4">
+                <article key={question.id} className="rounded-3xl border border-slate-200 bg-white p-4 shadow-sm shadow-slate-100">
                   <div className="flex flex-wrap items-start justify-between gap-3">
                     <h2 className="max-w-xl text-sm font-bold leading-6 text-slate-900">{question.questionNumber}. {question.questionText}</h2>
                     {submitted && <span className={`rounded-full px-2.5 py-1 text-xs font-semibold ${isCorrect ? "bg-emerald-50 text-emerald-700" : "bg-rose-50 text-rose-700"}`}>{isCorrect ? "正确" : "错误"}</span>}
@@ -312,7 +312,7 @@ export default function ReadingTraining() {
                           : isSelected
                             ? "border-blue-300 bg-blue-50 text-blue-800"
                             : "border-slate-200 bg-white text-slate-700 hover:border-blue-300 hover:bg-blue-50";
-                      return <button key={label} type="button" disabled={submitted} onClick={() => setAnswers((current) => ({ ...current, [question.questionNumber]: label }))} className={`rounded-xl border px-3 py-2 text-left text-sm transition disabled:cursor-default ${style}`}><span className="mr-2 font-bold">{label}.</span>{text}</button>;
+                      return <button key={label} type="button" disabled={submitted} onClick={() => setAnswers((current) => ({ ...current, [question.questionNumber]: label }))} className={`rounded-2xl border px-3 py-2.5 text-left text-sm transition disabled:cursor-default ${style}`}><span className="mr-2 font-bold">{label}.</span>{text}</button>;
                     })}
                   </div>
 
@@ -360,10 +360,10 @@ export default function ReadingTraining() {
             })}
           </div>
 
-          <div className="sticky bottom-4 mt-6 rounded-2xl border border-blue-100 bg-white/95 p-4 shadow-lg backdrop-blur">
+          <div className="sticky bottom-4 mt-6 rounded-3xl border border-blue-100 bg-white/95 p-4 shadow-xl shadow-blue-100 backdrop-blur">
             {submitted ? (
               <div className="space-y-4">
-                <div className="rounded-2xl bg-blue-50 p-4">
+                <div className="rounded-3xl bg-gradient-to-br from-blue-50 to-cyan-50 p-4">
                   <p className="text-lg font-bold text-slate-900">本篇诊断报告：{score}/{currentPaper.questions.length}，正确率 {Math.round((score / currentPaper.questions.length) * 100)}%</p>
                   <p className="mt-2 text-sm text-slate-600">{buildSummary(wrongQuestions)}</p>
                   {savedRecordId && <p className="mt-1 text-xs text-blue-600">已保存本次训练记录</p>}
@@ -396,15 +396,15 @@ export default function ReadingTraining() {
                 )}
 
                 <div className="flex flex-wrap gap-2">
-                  <button type="button" onClick={() => setShowAnalysis((value) => !value)} className="rounded-xl bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-200">{showAnalysis ? "隐藏解析" : "查看解析"}</button>
-                  <button type="button" onClick={resetTraining} className="rounded-xl bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700">重新作答</button>
-                  <button type="button" disabled={vocabulary.length === 0} onClick={() => setMode("vocabulary")} className="rounded-xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700 disabled:cursor-not-allowed disabled:bg-slate-300">{vocabulary.length > 0 ? "进入单词自测" : "本篇暂未整理词汇"}</button>
+                  <button type="button" onClick={() => setShowAnalysis((value) => !value)} className="rounded-2xl bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-200">{showAnalysis ? "隐藏解析" : "查看解析"}</button>
+                  <button type="button" onClick={resetTraining} className="rounded-2xl bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700">重新作答</button>
+                  <button type="button" disabled={vocabulary.length === 0} onClick={() => setMode("vocabulary")} className="rounded-2xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700 disabled:cursor-not-allowed disabled:bg-slate-300">{vocabulary.length > 0 ? "进入单词自测" : "本篇暂未整理词汇"}</button>
                 </div>
               </div>
             ) : (
               <div className="flex flex-wrap items-center justify-between gap-3">
                 <p className="text-sm text-slate-500">已作答 {Object.keys(answers).length}/5。提交后生成诊断报告。</p>
-                <button type="button" onClick={submitAnswers} className="rounded-xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white hover:bg-blue-700">提交答案</button>
+                <button type="button" onClick={submitAnswers} className="rounded-2xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm shadow-blue-200 hover:bg-blue-700">提交答案</button>
               </div>
             )}
           </div>
