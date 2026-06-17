@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Dashboard from "./pages/Dashboard";
 import ExamCenter from "./pages/ExamCenter";
 import ExaminerThinking from "./pages/ExaminerThinking";
+import LongReadingSpecial from "./pages/LongReadingSpecial";
 import MistakeBook from "./pages/MistakeBook";
 import ReadingTraining from "./pages/ReadingTraining";
 import SentenceTraining from "./pages/SentenceTraining";
@@ -37,6 +38,7 @@ export default function App() {
             <Route path="/" element={<Dashboard />} />
             <Route path="/exams" element={<ExamCenter />} />
             <Route path="/reading" element={<ReadingTraining />} />
+            <Route path="/long-reading" element={<LongReadingSpecial />} />
             <Route path="/examiner-thinking" element={<ExaminerThinking />} />
             <Route path="/sentences" element={<SentenceTraining />} />
             <Route path="/vocabulary" element={<Vocabulary />} />

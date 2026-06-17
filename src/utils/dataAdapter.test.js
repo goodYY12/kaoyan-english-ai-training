@@ -2,11 +2,13 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import {
   getAvailableYears,
+  getLongReadingSpecials,
   getReadingsByYear,
   getSimilarQuestionsByType,
   normalizeQuestion,
   normalizeReading,
   normalizeVocabulary,
+  splitPassageIntoParagraphs,
 } from "./dataAdapter.js";
 
 test("normalizes readings and exposes available years", () => {
@@ -72,4 +74,30 @@ test("recommends similar questions by type and skips current ids", () => {
 
   assert.ok(recommendations.every((item) => item.question.id !== current.id));
   assert.ok(recommendations.length > 0);
+});
+
+test("builds two pilot long-reading specials from existing papers", () => {
+  const specials = getLongReadingSpecials({ limit: 2 });
+
+  assert.equal(specials.length, 2);
+  for (const item of specials) {
+    assert.ok(item.id);
+    assert.ok(item.year);
+    assert.match(item.textNumber, /^Text [1-4]$/);
+    assert.ok(item.title || item.title === "");
+    assert.equal(item.topic || "待标注", item.topic ?? "待标注");
+    assert.deepEqual(item.focusPoints, ["信息定位", "段落结构", "主旨判断", "同义替换"]);
+    assert.equal(item.questions.length, 5);
+    assert.ok(item.paragraphs.length > 1);
+    assert.ok(item.vocabulary.length > 0);
+  }
+});
+
+test("splits passage into labeled paragraphs", () => {
+  const paragraphs = splitPassageIntoParagraphs("First paragraph.\n\nSecond paragraph.");
+
+  assert.deepEqual(paragraphs, [
+    { label: "P1", text: "First paragraph." },
+    { label: "P2", text: "Second paragraph." },
+  ]);
 });

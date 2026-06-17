@@ -192,3 +192,53 @@ export function getSimilarQuestionsByType({
         : "同题型巩固训练",
     }));
 }
+
+export function splitPassageIntoParagraphs(passage = "") {
+  const parts = String(passage)
+    .split(/\n\s*\n/g)
+    .map((part) => part.trim())
+    .filter(Boolean);
+
+  const paragraphs = parts.length > 0 ? parts : [String(passage).trim()].filter(Boolean);
+
+  return paragraphs.map((text, index) => ({
+    label: `P${index + 1}`,
+    text,
+  }));
+}
+
+function inferTargetParagraph(question, paragraphs) {
+  if (question.targetParagraph) return question.targetParagraph;
+  const location = question.location;
+  if (!location || location === "待补充") return null;
+  const normalizedLocation = location.toLowerCase().replace(/\s+/g, " ").slice(0, 80);
+
+  const match = paragraphs.find((paragraph) =>
+    paragraph.text.toLowerCase().replace(/\s+/g, " ").includes(normalizedLocation),
+  );
+
+  return match?.label ?? null;
+}
+
+export function getLongReadingSpecials({ limit = 2 } = {}) {
+  return getAllReadings()
+    .filter((reading) => normalizeVocabulary(reading).length > 0)
+    .slice(0, limit)
+    .map((reading) => {
+      const paragraphs = splitPassageIntoParagraphs(reading.passage);
+      const questions = reading.questions.map((question) => ({
+        ...question,
+        targetParagraph: inferTargetParagraph(question, paragraphs),
+      }));
+
+      return {
+        ...reading,
+        topic: reading.topic ?? "待标注",
+        focusPoints: reading.focusPoints ?? ["信息定位", "段落结构", "主旨判断", "同义替换"],
+        paragraphs,
+        questions,
+        vocabulary: normalizeVocabulary(reading),
+        structureMap: reading.structureMap ?? [],
+      };
+    });
+}
