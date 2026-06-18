@@ -111,51 +111,115 @@
     "id": "2023-writing",
     "year": 2023,
     "paper": "英语一",
-    "status": "待补充",
+    "status": "已有数据",
     "smallWriting": {
-      "prompt": "待补充",
-      "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "prompt": "Write a notice to recruit a student for Professor Smith's research project regarding sports activities on campus. Include the job duties, required qualities and contact information. Use Li Ming as the signature.",
+      "taskType": "通知",
+      "writingIdeas": [
+        "说明招募目的和项目背景",
+        "介绍主要工作：收集数据、观察运动活动、记录学生表现",
+        "说明能力要求：观察力、沟通能力、责任心、相关经验优先"
+      ],
+      "structure": [
+        "标题 Notice 和日期",
+        "第一段说明招募目的",
+        "第二段列出任务和要求",
+        "结尾给出联系方式和署名"
+      ],
+      "usefulExpressions": [
+        "We are going to recruit...",
+        "The basic information is as follows.",
+        "Preference will be given to..."
+      ],
+      "commonMistakes": [
+        "通知格式缺标题或日期",
+        "没有写清岗位职责",
+        "联系方式或署名遗漏"
+      ],
+      "sampleEssay": "待补充"
     },
     "bigWriting": {
-      "prompt": "待补充",
-      "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
-    },
-    "notes": "2023 writing template only; content awaits manual entry."
+      "prompt": "Write an essay based on a picture about a dragon boat race becoming livelier and livelier in a village. The picture suggests the inheritance and revitalization of traditional Chinese culture.",
+      "topic": "传统文化传承",
+      "writingIdeas": [
+        "描述龙舟赛越来越热闹的画面",
+        "解释传统文化受到年轻人和社会重视的原因",
+        "评论传承传统文化应取其精华并注入新活力"
+      ],
+      "structure": [
+        "第一段描述图画",
+        "第二段分析传统文化传承的原因",
+        "第三段总结并提出个人观点"
+      ],
+      "usefulExpressions": [
+        "traditional Chinese culture",
+        "cultural inheritance",
+        "bring traditional culture to life",
+        "inject new vitality into..."
+      ],
+      "commonMistakes": [
+        "只描述图画没有升华主题",
+        "传统文化表达过于空泛",
+        "结尾没有给出评论"
+      ],
+      "sampleEssay": "待补充"
+    }
   },
   {
     "id": "2022-writing",
     "year": 2022,
     "paper": "英语一",
-    "status": "待补充",
+    "status": "已有数据",
     "smallWriting": {
-      "prompt": "待补充",
-      "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "prompt": "Write an email to Professor Smith to invite him to organize a team for the international innovation contest to be held by your university. Include basic information about the contest and use Li Ming as the signature.",
+      "taskType": "邀请信",
+      "writingIdeas": [
+        "说明写信目的：邀请 Smith 教授组织团队参赛",
+        "介绍比赛主题、时间、地点和展示形式",
+        "表达期待回复并提供联系方式"
+      ],
+      "structure": [
+        "称呼和写信目的",
+        "主体说明比赛信息",
+        "结尾表达期待并署名"
+      ],
+      "usefulExpressions": [
+        "I am writing to invite you to...",
+        "The contest will be held...",
+        "Your participation is of great importance..."
+      ],
+      "commonMistakes": [
+        "邀请对象和比赛信息不清",
+        "时间地点遗漏",
+        "结尾礼貌表达不足"
+      ],
+      "sampleEssay": "待补充"
     },
     "bigWriting": {
-      "prompt": "待补充",
-      "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
-    },
-    "notes": "2022 writing template only; content awaits manual entry."
+      "prompt": "Write an essay based on a picture showing two students' different attitudes toward campus lectures: one thinks the lecture is irrelevant to the major and useless, while the other believes something useful can be learned by attending it.",
+      "topic": "广泛学习与校园讲座",
+      "writingIdeas": [
+        "描述两名学生对校园讲座的不同态度",
+        "分析广泛学习能拓宽视野、完善知识结构",
+        "提出在变化社会中保持求知欲的重要性"
+      ],
+      "structure": [
+        "第一段描述图画和差异态度",
+        "第二段分析广泛学习的意义",
+        "第三段提出个人观点"
+      ],
+      "usefulExpressions": [
+        "broaden one's horizons",
+        "maintain a thirst for knowledge",
+        "extensive and continuous learning"
+      ],
+      "commonMistakes": [
+        "只写专业学习，忽略广泛学习主题",
+        "观点表达太绝对",
+        "图画描述不够准确"
+      ],
+      "sampleEssay": "待补充"
+    }
   },
   {
     "id": "2021-writing",

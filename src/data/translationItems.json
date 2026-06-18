@@ -323,9 +323,9 @@
     "id": "2023-translation",
     "year": 2023,
     "paper": "英语一",
-    "status": "待补充",
+    "status": "已有数据",
     "sourceText": "",
-    "referenceTranslation": "",
+    "referenceTranslation": "待补充",
     "keyPoints": [],
     "phrases": [],
     "sentenceAnalysis": [],
@@ -333,59 +333,168 @@
     "items": [
       {
         "id": "2023-translation-46",
-        "sourceText": "待补充",
+        "sourceText": "AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media.",
         "referenceTranslation": "待补充",
-        "keyPoints": [],
-        "phrases": [],
-        "sentenceAnalysis": [],
-        "commonMistakes": []
+        "keyPoints": [
+          "句子主干和修饰层次待校对"
+        ],
+        "phrases": [
+          {
+            "phrase": "lifestyle choices",
+            "meaning": "??????",
+            "example": ""
+          },
+          {
+            "phrase": "put out",
+            "meaning": "?????",
+            "example": ""
+          }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media.",
+            "coreStructure": "AI can be used to identify...",
+            "grammarBreakdown": "regarding... ???? lifestyle choices?to provide... ????put out through social media ?? messages?",
+            "translation": "待补充"
+          }
+        ],
+        "commonMistakes": [
+          "参考译文待根据清晰版 PDF 校对"
+        ]
       },
       {
         "id": "2023-translation-47",
-        "sourceText": "待补充",
+        "sourceText": "Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information.",
         "referenceTranslation": "待补充",
-        "keyPoints": [],
-        "phrases": [],
-        "sentenceAnalysis": [],
-        "commonMistakes": []
+        "keyPoints": [
+          "句子主干和修饰层次待校对"
+        ],
+        "phrases": [
+          {
+            "phrase": "impact on",
+            "meaning": "??",
+            "example": ""
+          },
+          {
+            "phrase": "a way of",
+            "meaning": "??????",
+            "example": ""
+          }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information.",
+            "coreStructure": "Some believe..., but they are aware...",
+            "grammarBreakdown": "?? that ????? believe ? aware ????by ?????",
+            "translation": "待补充"
+          }
+        ],
+        "commonMistakes": [
+          "参考译文待根据清晰版 PDF 校对"
+        ]
       },
       {
         "id": "2023-translation-48",
-        "sourceText": "待补充",
+        "sourceText": "Algorithms that are used to simulate human interactions are creating many of these concerns, especially as no one is quite sure what the outcomes of using AI to interact with customers will be.",
         "referenceTranslation": "待补充",
-        "keyPoints": [],
-        "phrases": [],
-        "sentenceAnalysis": [],
-        "commonMistakes": []
+        "keyPoints": [
+          "句子主干和修饰层次待校对"
+        ],
+        "phrases": [
+          {
+            "phrase": "simulate human interactions",
+            "meaning": "??????",
+            "example": ""
+          },
+          {
+            "phrase": "interact with",
+            "meaning": "?????",
+            "example": ""
+          }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "Algorithms that are used to simulate human interactions are creating many of these concerns, especially as no one is quite sure what the outcomes of using AI to interact with customers will be.",
+            "coreStructure": "Algorithms are creating concerns.",
+            "grammarBreakdown": "that ???? algorithms?especially as ?????what ??? sure ????",
+            "translation": "待补充"
+          }
+        ],
+        "commonMistakes": [
+          "参考译文待根据清晰版 PDF 校对"
+        ]
       },
       {
         "id": "2023-translation-49",
-        "sourceText": "待补充",
+        "sourceText": "If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication.",
         "referenceTranslation": "待补充",
-        "keyPoints": [],
-        "phrases": [],
-        "sentenceAnalysis": [],
-        "commonMistakes": []
+        "keyPoints": [
+          "句子主干和修饰层次待校对"
+        ],
+        "phrases": [
+          {
+            "phrase": "be willing to",
+            "meaning": "??",
+            "example": ""
+          },
+          {
+            "phrase": "be starved of",
+            "meaning": "??",
+            "example": ""
+          }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication.",
+            "coreStructure": "AI will be starved... and will not be able...",
+            "grammarBreakdown": "If ?????and ???????to improve ????",
+            "translation": "待补充"
+          }
+        ],
+        "commonMistakes": [
+          "参考译文待根据清晰版 PDF 校对"
+        ]
       },
       {
         "id": "2023-translation-50",
-        "sourceText": "待补充",
+        "sourceText": "The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of the target customer is one of the critical challenges to the digital marketer.",
         "referenceTranslation": "待补充",
-        "keyPoints": [],
-        "phrases": [],
-        "sentenceAnalysis": [],
-        "commonMistakes": []
+        "keyPoints": [
+          "句子主干和修饰层次待校对"
+        ],
+        "phrases": [
+          {
+            "phrase": "target customer",
+            "meaning": "????",
+            "example": ""
+          },
+          {
+            "phrase": "critical challenge",
+            "meaning": "????",
+            "example": ""
+          }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of the target customer is one of the critical challenges to the digital marketer.",
+            "coreStructure": "The delivery is one of the challenges.",
+            "grammarBreakdown": "of the marketing messages ? in a way ?? delivery?that ???? way?",
+            "translation": "待补充"
+          }
+        ],
+        "commonMistakes": [
+          "参考译文待根据清晰版 PDF 校对"
+        ]
       }
-    ],
-    "notes": "2023 translation template only; content awaits manual entry."
+    ]
   },
   {
     "id": "2022-translation",
     "year": 2022,
     "paper": "英语一",
-    "status": "待补充",
+    "status": "已有数据",
     "sourceText": "",
-    "referenceTranslation": "",
+    "referenceTranslation": "待补充",
     "keyPoints": [],
     "phrases": [],
     "sentenceAnalysis": [],
@@ -393,51 +502,160 @@
     "items": [
       {
         "id": "2022-translation-46",
-        "sourceText": "待补充",
+        "sourceText": "It was also, and this is unknown even to many people well read about the period, a battle between those who made codes and those who broke them.",
         "referenceTranslation": "待补充",
-        "keyPoints": [],
-        "phrases": [],
-        "sentenceAnalysis": [],
-        "commonMistakes": []
+        "keyPoints": [
+          "句子主干和修饰层次待校对"
+        ],
+        "phrases": [
+          {
+            "phrase": "be well read about",
+            "meaning": "?????????",
+            "example": ""
+          },
+          {
+            "phrase": "break codes",
+            "meaning": "????",
+            "example": ""
+          }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "It was also, and this is unknown even to many people well read about the period, a battle between those who made codes and those who broke them.",
+            "coreStructure": "It was also a battle.",
+            "grammarBreakdown": "and this is unknown... ??????between ???? those who ???",
+            "translation": "待补充"
+          }
+        ],
+        "commonMistakes": [
+          "参考译文待根据清晰版 PDF 校对"
+        ]
       },
       {
         "id": "2022-translation-47",
-        "sourceText": "待补充",
+        "sourceText": "It listed many documents in code that had been captured from the French army of Spain, and whose secrets had been revealed by the work of one George Scovell, an officer in British headquarters.",
         "referenceTranslation": "待补充",
-        "keyPoints": [],
-        "phrases": [],
-        "sentenceAnalysis": [],
-        "commonMistakes": []
+        "keyPoints": [
+          "句子主干和修饰层次待校对"
+        ],
+        "phrases": [
+          {
+            "phrase": "documents in code",
+            "meaning": "????",
+            "example": ""
+          },
+          {
+            "phrase": "British headquarters",
+            "meaning": "?????",
+            "example": ""
+          }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "It listed many documents in code that had been captured from the French army of Spain, and whose secrets had been revealed by the work of one George Scovell, an officer in British headquarters.",
+            "coreStructure": "It listed many documents.",
+            "grammarBreakdown": "that ? whose ?????? documents?an officer... ? George Scovell ?????",
+            "translation": "待补充"
+          }
+        ],
+        "commonMistakes": [
+          "参考译文待根据清晰版 PDF 校对"
+        ]
       },
       {
         "id": "2022-translation-48",
-        "sourceText": "待补充",
+        "sourceText": "he could not analyze carefully what this obscure officer may or may not have contributed to that great struggle between nations or indeed tell us anything much about the man himself.",
         "referenceTranslation": "待补充",
-        "keyPoints": [],
-        "phrases": [],
-        "sentenceAnalysis": [],
-        "commonMistakes": []
+        "keyPoints": [
+          "句子主干和修饰层次待校对"
+        ],
+        "phrases": [
+          {
+            "phrase": "obscure officer",
+            "meaning": "??????",
+            "example": ""
+          },
+          {
+            "phrase": "contribute to",
+            "meaning": "??????",
+            "example": ""
+          }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "he could not analyze carefully what this obscure officer may or may not have contributed to that great struggle between nations or indeed tell us anything much about the man himself.",
+            "coreStructure": "he could not analyze... or tell us...",
+            "grammarBreakdown": "analyze ? tell ???what ??? analyze ????",
+            "translation": "待补充"
+          }
+        ],
+        "commonMistakes": [
+          "参考译文待根据清晰版 PDF 校对"
+        ]
       },
       {
         "id": "2022-translation-49",
-        "sourceText": "待补充",
+        "sourceText": "There may have been many spies and intelligence officers during the Napoleonic Wars, but it is usually extremely difficult to find the material they actually provided or worked on.",
         "referenceTranslation": "待补充",
-        "keyPoints": [],
-        "phrases": [],
-        "sentenceAnalysis": [],
-        "commonMistakes": []
+        "keyPoints": [
+          "句子主干和修饰层次待校对"
+        ],
+        "phrases": [
+          {
+            "phrase": "intelligence officers",
+            "meaning": "????",
+            "example": ""
+          },
+          {
+            "phrase": "work on",
+            "meaning": "?????",
+            "example": ""
+          }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "There may have been many spies and intelligence officers during the Napoleonic Wars, but it is usually extremely difficult to find the material they actually provided or worked on.",
+            "coreStructure": "There may have been..., but it is difficult to find...",
+            "grammarBreakdown": "but ???????they... worked on ?????????????",
+            "translation": "待补充"
+          }
+        ],
+        "commonMistakes": [
+          "参考译文待根据清晰版 PDF 校对"
+        ]
       },
       {
         "id": "2022-translation-50",
-        "sourceText": "待补充",
+        "sourceText": "Just as the code breaking has its wider relevance in the struggle for Spain, so his attempts to make his way up the promotion ladder speak volumes about British society.",
         "referenceTranslation": "待补充",
-        "keyPoints": [],
-        "phrases": [],
-        "sentenceAnalysis": [],
-        "commonMistakes": []
+        "keyPoints": [
+          "句子主干和修饰层次待校对"
+        ],
+        "phrases": [
+          {
+            "phrase": "make one's way up",
+            "meaning": "????",
+            "example": ""
+          },
+          {
+            "phrase": "speak volumes about",
+            "meaning": "????",
+            "example": ""
+          }
+        ],
+        "sentenceAnalysis": [
+          {
+            "sentence": "Just as the code breaking has its wider relevance in the struggle for Spain, so his attempts to make his way up the promotion ladder speak volumes about British society.",
+            "coreStructure": "his attempts speak volumes about British society.",
+            "grammarBreakdown": "Just as..., so... ?????to make... ?? attempts?",
+            "translation": "待补充"
+          }
+        ],
+        "commonMistakes": [
+          "参考译文待根据清晰版 PDF 校对"
+        ]
       }
-    ],
-    "notes": "2022 translation template only; content awaits manual entry."
+    ]
   },
   {
     "id": "2021-translation",

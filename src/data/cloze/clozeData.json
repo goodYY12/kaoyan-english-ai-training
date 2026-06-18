@@ -729,9 +729,9 @@
     "year": 2023,
     "paper": "英语一",
     "title": "完形填空",
-    "sourceType": "待补充",
-    "status": "待补充",
-    "difficulty": "待补充",
+    "sourceType": "真题",
+    "status": "已有数据",
+    "difficulty": "真题",
     "estimatedTime": 15,
     "focusPoints": [
       "词义辨析",
@@ -739,930 +739,1290 @@
       "上下文逻辑",
       "篇章衔接"
     ],
-    "passageParts": [],
+    "passageParts": [
+      {
+        "type": "text",
+        "content": "Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. They were typically "
+      },
+      {
+        "type": "blank",
+        "blankId": 1
+      },
+      {
+        "type": "text",
+        "content": " outside the walls of a city or village and were usually funded by governments or "
+      },
+      {
+        "type": "blank",
+        "blankId": 2
+      },
+      {
+        "type": "text",
+        "content": ".\n\nThis word \"Caravanserais\" is a "
+      },
+      {
+        "type": "blank",
+        "blankId": 3
+      },
+      {
+        "type": "text",
+        "content": " of the Persian word \"karvan\", which means a group of travellers or a caravan, and \"seray\", a palace or enclosed building. The Permanians were the first people to develop a network of caravanserais. The inns were typically "
+      },
+      {
+        "type": "blank",
+        "blankId": 4
+      },
+      {
+        "type": "text",
+        "content": " at regular intervals along the trade routes and were used by travellers "
+      },
+      {
+        "type": "blank",
+        "blankId": 5
+      },
+      {
+        "type": "text",
+        "content": " merchants, pilgrims and diplomats.\n\nThe Silk Road was not only a trade route for goods. It also facilitated the exchange of ideas, cultures and religions. Caravanserais provided a place for travellers to rest and exchange information. The "
+      },
+      {
+        "type": "blank",
+        "blankId": 6
+      },
+      {
+        "type": "text",
+        "content": " of these inns was often very impressive, and many were built around a large central courtyard. Travellers who "
+      },
+      {
+        "type": "blank",
+        "blankId": 7
+      },
+      {
+        "type": "text",
+        "content": " difficult journeys could find food, water and shelter there. They were often "
+      },
+      {
+        "type": "blank",
+        "blankId": 8
+      },
+      {
+        "type": "text",
+        "content": " local rulers or wealthy merchants, "
+      },
+      {
+        "type": "blank",
+        "blankId": 9
+      },
+      {
+        "type": "text",
+        "content": " the safety of routes and trade could be protected.\n\nCaravanserais also became an important "
+      },
+      {
+        "type": "blank",
+        "blankId": 10
+      },
+      {
+        "type": "text",
+        "content": " for cultural exchange. "
+      },
+      {
+        "type": "blank",
+        "blankId": 11
+      },
+      {
+        "type": "text",
+        "content": ", they promoted the flow of goods, technologies, languages and religious beliefs across regions. Their role in cross-cultural "
+      },
+      {
+        "type": "blank",
+        "blankId": 12
+      },
+      {
+        "type": "text",
+        "content": " made them a major part of world heritage, "
+      },
+      {
+        "type": "blank",
+        "blankId": 13
+      },
+      {
+        "type": "text",
+        "content": " their practical function as inns.\n\nToday many caravanserais are being restored. These projects are "
+      },
+      {
+        "type": "blank",
+        "blankId": 14
+      },
+      {
+        "type": "text",
+        "content": " local tourism and helping communities rediscover their history. International organizations have "
+      },
+      {
+        "type": "blank",
+        "blankId": 15
+      },
+      {
+        "type": "text",
+        "content": " efforts to preserve them. "
+      },
+      {
+        "type": "blank",
+        "blankId": 16
+      },
+      {
+        "type": "text",
+        "content": ", some travellers now "
+      },
+      {
+        "type": "blank",
+        "blankId": 17
+      },
+      {
+        "type": "text",
+        "content": " supplies and follow old routes to experience the Silk Road. It is widely "
+      },
+      {
+        "type": "blank",
+        "blankId": 18
+      },
+      {
+        "type": "text",
+        "content": " that caravanserais are valuable cultural sites, "
+      },
+      {
+        "type": "blank",
+        "blankId": 19
+      },
+      {
+        "type": "text",
+        "content": " many of them are now "
+      },
+      {
+        "type": "blank",
+        "blankId": 20
+      },
+      {
+        "type": "text",
+        "content": " and need urgent protection."
+      }
+    ],
     "blanks": [
       {
         "id": 1,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "displayed",
+          "B": "occupied",
+          "C": "located",
+          "D": "equipped"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "C",
+        "type": "词义辨析",
+        "subType": "空间位置",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "正确选项",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 2,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "privately",
+          "B": "regularly",
+          "C": "respectively",
+          "D": "permanently"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "上下文逻辑",
+        "subType": "资金来源",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 3,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "definition",
+          "B": "transition",
+          "C": "substitution",
+          "D": "combination"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "D",
+        "type": "词义辨析",
+        "subType": "构词说明",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "正确选项"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 4,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "classify",
+          "B": "record",
+          "C": "describe",
+          "D": "connect"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "C",
+        "type": "词义辨析",
+        "subType": "动作搭配",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "正确选项",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 5,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "apart from",
+          "B": "instead of",
+          "C": "such as",
+          "D": "along with"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "C",
+        "type": "上下文逻辑",
+        "subType": "举例关系",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "正确选项",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 6,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "construction",
+          "B": "restoration",
+          "C": "impression",
+          "D": "evaluation"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "词义辨析",
+        "subType": "名词选择",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 7,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "doubted",
+          "B": "faced",
+          "C": "accepted",
+          "D": "reduced"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "B",
+        "type": "固定搭配",
+        "subType": "face journeys",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "正确选项",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 8,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "assigned to",
+          "B": "subjected to",
+          "C": "accustomed to",
+          "D": "opposed to"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "B",
+        "type": "固定搭配",
+        "subType": "介词短语",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "正确选项",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 9,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "so that",
+          "B": "even if",
+          "C": "now that",
+          "D": "in case"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "上下文逻辑",
+        "subType": "目的关系",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 10,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "talking point",
+          "B": "starting point",
+          "C": "breaking point",
+          "D": "meeting point"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "D",
+        "type": "词义辨析",
+        "subType": "语境名词",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "正确选项"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 11,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "By the way",
+          "B": "On occasion",
+          "C": "In comparison",
+          "D": "As a result"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "D",
+        "type": "上下文逻辑",
+        "subType": "结果关系",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "正确选项"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 12,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "heritage",
+          "B": "revival",
+          "C": "exchange",
+          "D": "status"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "C",
+        "type": "篇章衔接",
+        "subType": "主题复现",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "正确选项",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 13,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "with regard to",
+          "B": "in spite of",
+          "C": "as well as",
+          "D": "in line with"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "C",
+        "type": "上下文逻辑",
+        "subType": "并列补充",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "正确选项",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 14,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "completing",
+          "B": "influencing",
+          "C": "resuming",
+          "D": "pioneering"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "B",
+        "type": "词义辨析",
+        "subType": "动宾搭配",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "正确选项",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 15,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "aided",
+          "B": "invested",
+          "C": "failed",
+          "D": "competed"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "词义辨析",
+        "subType": "动宾搭配",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 16,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "Rather",
+          "B": "Indeed",
+          "C": "Otherwise",
+          "D": "However"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "B",
+        "type": "上下文逻辑",
+        "subType": "递进确认",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "正确选项",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 17,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "go in for",
+          "B": "stand up for",
+          "C": "close in on",
+          "D": "stock up on"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "D",
+        "type": "固定搭配",
+        "subType": "短语辨析",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "正确选项"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 18,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "believed",
+          "B": "predicted",
+          "C": "recalled",
+          "D": "implied"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "固定搭配",
+        "subType": "it is believed that",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 19,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "until",
+          "B": "because",
+          "C": "unless",
+          "D": "although"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "D",
+        "type": "上下文逻辑",
+        "subType": "让步关系",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "正确选项"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 20,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "in ruins",
+          "B": "in debt",
+          "C": "in fashion",
+          "D": "in series"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "固定搭配",
+        "subType": "状态短语",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       }
     ],
     "discourseAnalysis": {
-      "mainIdea": "待补充",
-      "structure": [],
+      "mainIdea": "文章介绍丝绸之路沿线商队驿站 caravanserais 的功能、文化交流价值及保护意义。",
+      "structure": [
+        {
+          "paragraph": "P1",
+          "role": "引入概念",
+          "summary": "说明 caravanserais 的位置、资金来源和词源。"
+        },
+        {
+          "paragraph": "P2",
+          "role": "说明功能",
+          "summary": "介绍驿站在旅途休息、贸易安全和信息交流中的作用。"
+        },
+        {
+          "paragraph": "P3",
+          "role": "总结价值",
+          "summary": "说明驿站对文化交流和遗产保护的意义。"
+        }
+      ],
       "logicSignals": []
     },
     "vocabularyGroups": {
       "coreWords": [],
       "familiarWordsWithNewMeanings": [],
       "phrases": []
-    },
-    "notes": "2023 cloze template only. Real PDF cloze text/options need manual entry."
+    }
   },
   {
     "id": "2022-cloze",
     "year": 2022,
     "paper": "英语一",
     "title": "完形填空",
-    "sourceType": "待补充",
-    "status": "待补充",
-    "difficulty": "待补充",
+    "sourceType": "真题",
+    "status": "已有数据",
+    "difficulty": "真题",
     "estimatedTime": 15,
     "focusPoints": [
       "词义辨析",
       "固定搭配",
       "上下文逻辑",
-      "篇章衔接"
+      "篇章主旨"
     ],
-    "passageParts": [],
+    "passageParts": [
+      {
+        "type": "text",
+        "content": "The idea that plants have some degree of consciousness first took root in the early 2000s; the term \"plant neurobiology\" was "
+      },
+      {
+        "type": "blank",
+        "blankId": 1
+      },
+      {
+        "type": "text",
+        "content": " around the notion that some aspects of plant behavior could be "
+      },
+      {
+        "type": "blank",
+        "blankId": 2
+      },
+      {
+        "type": "text",
+        "content": " to intelligence in animals. "
+      },
+      {
+        "type": "blank",
+        "blankId": 3
+      },
+      {
+        "type": "text",
+        "content": " plants lack brains, the firing of electrical signals in their stems and leaves nonetheless triggered responses that "
+      },
+      {
+        "type": "blank",
+        "blankId": 4
+      },
+      {
+        "type": "text",
+        "content": " consciousness, researchers previously reported.\n\nBut such an idea is untrue, according to Lincoln Taiz, a retired professor of plant physiology. Plant biology "
+      },
+      {
+        "type": "blank",
+        "blankId": 5
+      },
+      {
+        "type": "text",
+        "content": " from animal biology in important ways, and there is no "
+      },
+      {
+        "type": "blank",
+        "blankId": 6
+      },
+      {
+        "type": "text",
+        "content": " that plants possess consciousness. Taiz and colleagues "
+      },
+      {
+        "type": "blank",
+        "blankId": 7
+      },
+      {
+        "type": "text",
+        "content": " that even if plants can communicate and respond to their environment, that does not mean they are "
+      },
+      {
+        "type": "blank",
+        "blankId": 8
+      },
+      {
+        "type": "text",
+        "content": " a nervous system or mind.\n\nThe comparison between plant signaling and animal thought may sound "
+      },
+      {
+        "type": "blank",
+        "blankId": 9
+      },
+      {
+        "type": "text",
+        "content": " appealing, but it is "
+      },
+      {
+        "type": "blank",
+        "blankId": 10
+      },
+      {
+        "type": "text",
+        "content": " misleading. From this "
+      },
+      {
+        "type": "blank",
+        "blankId": 11
+      },
+      {
+        "type": "text",
+        "content": ", researchers risk "
+      },
+      {
+        "type": "blank",
+        "blankId": 12
+      },
+      {
+        "type": "text",
+        "content": " complex biological processes to familiar human ideas. "
+      },
+      {
+        "type": "blank",
+        "blankId": 13
+      },
+      {
+        "type": "text",
+        "content": ", plants may react to light, water, touch or injury, but those reactions are only "
+      },
+      {
+        "type": "blank",
+        "blankId": 14
+      },
+      {
+        "type": "text",
+        "content": " similar to animal responses. Calling them conscious may place a "
+      },
+      {
+        "type": "blank",
+        "blankId": 15
+      },
+      {
+        "type": "text",
+        "content": " on plants that the evidence cannot support.\n\nTaiz "
+      },
+      {
+        "type": "blank",
+        "blankId": 16
+      },
+      {
+        "type": "text",
+        "content": " that many questions about plant behavior remain open. Future research may reveal new "
+      },
+      {
+        "type": "blank",
+        "blankId": 17
+      },
+      {
+        "type": "text",
+        "content": " about how plants sense and respond to their environment. But the "
+      },
+      {
+        "type": "blank",
+        "blankId": 18
+      },
+      {
+        "type": "text",
+        "content": " is that stretching the language of consciousness too far may create a "
+      },
+      {
+        "type": "blank",
+        "blankId": 19
+      },
+      {
+        "type": "text",
+        "content": " impression of plant life. A more "
+      },
+      {
+        "type": "blank",
+        "blankId": 20
+      },
+      {
+        "type": "text",
+        "content": " explanation is still needed."
+      }
+    ],
     "blanks": [
       {
         "id": 1,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "coined",
+          "B": "discovered",
+          "C": "collected",
+          "D": "issued"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "词义辨析",
+        "subType": "术语产生",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 2,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "attributed",
+          "B": "directed",
+          "C": "compared",
+          "D": "confined"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "C",
+        "type": "固定搭配",
+        "subType": "compare to",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "正确选项",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 3,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "Unless",
+          "B": "When",
+          "C": "Once",
+          "D": "Though"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "D",
+        "type": "上下文逻辑",
+        "subType": "让步关系",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "正确选项"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 4,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "coped with",
+          "B": "consisted of",
+          "C": "hinted at",
+          "D": "extended in"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "C",
+        "type": "固定搭配",
+        "subType": "hint at",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "正确选项",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 5,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "suffers",
+          "B": "benefits",
+          "C": "develops",
+          "D": "differs"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "D",
+        "type": "词义辨析",
+        "subType": "differ from",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "正确选项"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 6,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "acceptance",
+          "B": "evidence",
+          "C": "cultivation",
+          "D": "creation"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "B",
+        "type": "词义辨析",
+        "subType": "证据判断",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "正确选项",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 7,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "doubted",
+          "B": "denied",
+          "C": "argued",
+          "D": "requested"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "C",
+        "type": "词义辨析",
+        "subType": "观点表达",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "正确选项",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 8,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "adapting",
+          "B": "forming",
+          "C": "repairing",
+          "D": "testing"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "B",
+        "type": "词义辨析",
+        "subType": "形成系统",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "正确选项",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 9,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "analogous",
+          "B": "essential",
+          "C": "suitable",
+          "D": "sensitive"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "词义辨析",
+        "subType": "相似关系",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 10,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "just",
+          "B": "ever",
+          "C": "still",
+          "D": "even"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "D",
+        "type": "上下文逻辑",
+        "subType": "强调递进",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "正确选项"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 11,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "restriction",
+          "B": "experiment",
+          "C": "perspective",
+          "D": "demand"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "C",
+        "type": "篇章衔接",
+        "subType": "观点角度",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "正确选项",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 12,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "attaching",
+          "B": "reducing",
+          "C": "returning",
+          "D": "exposing"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "B",
+        "type": "固定搭配",
+        "subType": "reduce to",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "正确选项",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 13,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "However",
+          "B": "Moreover",
+          "C": "Therefore",
+          "D": "Otherwise"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "上下文逻辑",
+        "subType": "转折关系",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 14,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "temporarily",
+          "B": "literally",
+          "C": "superficially",
+          "D": "imaginarily"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "C",
+        "type": "词义辨析",
+        "subType": "表面相似",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "正确选项",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 15,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "list",
+          "B": "level",
+          "C": "label",
+          "D": "local"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "B",
+        "type": "词义辨析",
+        "subType": "抽象名词",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "正确选项",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 16,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "recalled",
+          "B": "agreed",
+          "C": "questioned",
+          "D": "added"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "D",
+        "type": "篇章衔接",
+        "subType": "补充观点",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "正确选项"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 17,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "chances",
+          "B": "risks",
+          "C": "excuses",
+          "D": "assumptions"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "词义辨析",
+        "subType": "研究可能性",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 18,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "danger",
+          "B": "failure",
+          "C": "warning",
+          "D": "control"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "A",
+        "type": "篇章主旨",
+        "subType": "风险提示",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "正确选项",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 19,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "represents",
+          "B": "includes",
+          "C": "reveals",
+          "D": "recognizes"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "D",
+        "type": "词义辨析",
+        "subType": "认识判断",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "干扰项分析待补充",
+          "C": "干扰项分析待补充",
+          "D": "正确选项"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       },
       {
         "id": 20,
         "options": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "humble",
+          "B": "poor",
+          "C": "practical",
+          "D": "easy"
         },
-        "answer": "",
-        "type": "待补充",
-        "subType": "",
-        "clue": "待补充",
-        "explanation": "待补充",
+        "answer": "B",
+        "type": "词义辨析",
+        "subType": "评价语义",
+        "clue": "根据 PDF 提取的题面和答案整理，具体定位依据待人工补充。",
+        "explanation": "答案来自 PDF 答案区；详细中文解析待补充。",
         "optionAnalysis": {
-          "A": "待补充",
-          "B": "待补充",
-          "C": "待补充",
-          "D": "待补充"
+          "A": "干扰项分析待补充",
+          "B": "正确选项",
+          "C": "干扰项分析待补充",
+          "D": "干扰项分析待补充"
         },
         "commonMistake": "待补充",
-        "strategy": "待补充"
+        "strategy": "先判断空格前后逻辑和搭配，再比较四个选项的语义差异。"
       }
     ],
     "discourseAnalysis": {
-      "mainIdea": "待补充",
-      "structure": [],
+      "mainIdea": "文章讨论“植物神经生物学”和植物是否具有意识的争议，强调应谨慎使用意识类比。",
+      "structure": [
+        {
+          "paragraph": "P1",
+          "role": "提出争议",
+          "summary": "介绍植物神经生物学概念及其观点。"
+        },
+        {
+          "paragraph": "P2",
+          "role": "反驳观点",
+          "summary": "说明植物与动物生物学不同，缺乏意识证据。"
+        },
+        {
+          "paragraph": "P3",
+          "role": "给出判断",
+          "summary": "提醒不要把植物反应简单等同于意识。"
+        }
+      ],
       "logicSignals": []
     },
     "vocabularyGroups": {
       "coreWords": [],
       "familiarWordsWithNewMeanings": [],
       "phrases": []
-    },
-    "notes": "2022 cloze template only. Real PDF cloze text/options need manual entry."
+    }
   },
   {
     "id": "2021-cloze",
