@@ -18,7 +18,7 @@ import {
 
 test("normalizes readings and exposes available years", () => {
   const years = getAvailableYears();
-  assert.deepEqual(years, [2026, 2024]);
+  assert.deepEqual(years, [2026, 2024, 2023, 2022, 2021]);
 
   const readings = getReadingsByYear(2026);
   assert.equal(readings.length, 4);
@@ -29,10 +29,25 @@ test("normalizes readings and exposes available years", () => {
   assert.equal(readings2024.length, 4);
   assert.equal(readings2024[0].id, "2024-text1");
   assert.equal(readings2024[0].questions.length, 5);
+
+  const readings2023 = getReadingsByYear(2023);
+  assert.equal(readings2023.length, 4);
+  assert.equal(readings2023[0].id, "2023-text1");
+  assert.equal(readings2023[0].questions.length, 5);
+
+  const readings2022 = getReadingsByYear(2022);
+  assert.equal(readings2022.length, 4);
+  assert.equal(readings2022[0].id, "2022-text1");
+  assert.equal(readings2022[0].questions.length, 5);
+
+  const readings2021 = getReadingsByYear(2021);
+  assert.equal(readings2021.length, 4);
+  assert.equal(readings2021[0].id, "2021-text1");
+  assert.equal(readings2021[0].questions.length, 5);
 });
 
 test("exposes unified exam years from all module data", () => {
-  assert.deepEqual(getExamYears(), [2026, 2024]);
+  assert.deepEqual(getExamYears(), [2026, 2024, 2023, 2022, 2021]);
 });
 
 test("normalizes old and new question fields", () => {

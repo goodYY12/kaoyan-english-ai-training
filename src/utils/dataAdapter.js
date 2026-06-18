@@ -2,6 +2,18 @@ import text2024_1 from "../data/papers/2024/text1.json" with { type: "json" };
 import text2024_2 from "../data/papers/2024/text2.json" with { type: "json" };
 import text2024_3 from "../data/papers/2024/text3.json" with { type: "json" };
 import text2024_4 from "../data/papers/2024/text4.json" with { type: "json" };
+import text2023_1 from "../data/papers/2023/text1.json" with { type: "json" };
+import text2023_2 from "../data/papers/2023/text2.json" with { type: "json" };
+import text2023_3 from "../data/papers/2023/text3.json" with { type: "json" };
+import text2023_4 from "../data/papers/2023/text4.json" with { type: "json" };
+import text2022_1 from "../data/papers/2022/text1.json" with { type: "json" };
+import text2022_2 from "../data/papers/2022/text2.json" with { type: "json" };
+import text2022_3 from "../data/papers/2022/text3.json" with { type: "json" };
+import text2022_4 from "../data/papers/2022/text4.json" with { type: "json" };
+import text2021_1 from "../data/papers/2021/text1.json" with { type: "json" };
+import text2021_2 from "../data/papers/2021/text2.json" with { type: "json" };
+import text2021_3 from "../data/papers/2021/text3.json" with { type: "json" };
+import text2021_4 from "../data/papers/2021/text4.json" with { type: "json" };
 import text1 from "../data/papers/2026/text1.json" with { type: "json" };
 import text2 from "../data/papers/2026/text2.json" with { type: "json" };
 import text3 from "../data/papers/2026/text3.json" with { type: "json" };
@@ -19,6 +31,18 @@ const rawReadings = [
   text2024_2,
   text2024_3,
   text2024_4,
+  text2023_1,
+  text2023_2,
+  text2023_3,
+  text2023_4,
+  text2022_1,
+  text2022_2,
+  text2022_3,
+  text2022_4,
+  text2021_1,
+  text2021_2,
+  text2021_3,
+  text2021_4,
 ];
 
 function normalizeTextNumber(textNumber) {

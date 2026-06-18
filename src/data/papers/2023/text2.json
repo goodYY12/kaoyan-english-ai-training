@@ -1,0 +1,257 @@
+{
+  "id": "2023-text2",
+  "year": 2023,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "Short-term Rentals and Housing Supply",
+  "topic": "待补充",
+  "passage": "the supply of rental housing/ Experts discuss the impact of short-term rentals/* ( \" Communities throughout New England have been 21 10 attempting to regulate short-term rentals since sites like Airbnb took off in the 2010s. Now, with record-high home prices and (26) historically low inventory, there's an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market. #In New Hampshire, where the rental vacancy rate has dropped below 1 percent, housing advocates fear\n\nunchecked short-term rentals will put further pressure on an already strained market. The state Legislature recently voted against a bill that would\\e made it illegal for towns to create legislation restricting short-term rentals. \"We are at a crisis level on the supply of rental housing/* said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. Without enough affordable housing in southern New Hampshire towns, \"employers are having a hard time attracting employees, and workers are having a hard time finding a place to live,** However, short-term rentals also provide housing for\n\ntourists, pointed out Ryan Castle, CEO of a local association of realtor. lot of workers are servicing the tourist industry, and the tourism industry is serviced by those people coming in short term,,, Castle said, \"and so it's a cyclical effect.\" \" eShort-term rentals themselves are not the crux of the issue, said Keren Hom, an expert on affordable housing policy. I think individuals being able to rent out their second home is a good thing. If it's their vacation home anyway, and it's just empty, why can't you make money off it?\" Hom said.\n\nIssues arise, however, when developers attempt to create large-scale short-term rental facilities de facto hotels to bypass taxes and regulations. think the question is, shouldn't a developer who's really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel?*' Hom said. At the end of 2018, Governor Charlie Baker of 2018 Massachusetts signed a bill to rein in those potential investor buyers. The bill requires every rental host to register with the state, mandates they carry insurance, and opens the potential for ocal taxes on top\n\nof a new state levy. Boston took things even further, requiring renters to register with the city's Inspectional ervices Department. Horn said similar registration requirements could benefit struggling cities and towns, but \"if we want to make a change in the housing market, the main one is we have to build a",
+  "questions": [
+    {
+      "id": "2023-text2-q26",
+      "questionNumber": 26,
+      "questionText": "Which of the following is true of New England?",
+      "question": "Which of the following is true of New England?",
+      "options": {
+        "A": "Its housing supply is at a very low level.",
+        "B": "Its communities are in need of funding.",
+        "C": "Its rental vacancy rate is going up slowly.",
+        "D": "Its home prices are under strict control."
+      },
+      "answer": "A",
+      "questionType": "判断题",
+      "type": "判断题",
+      "location": "待补充",
+      "explanation": "PDF explanation extracted; Chinese analysis requires manual proofreading.",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": {
+        "sourceSentence": "待补充",
+        "testPoint": "待补充",
+        "trap": "待补充",
+        "correctLogic": "待补充",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "待补充"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "待补充",
+        "coreStructure": "待补充",
+        "grammarBreakdown": "待补充",
+        "modifiers": "待补充",
+        "translation": "待补充",
+        "relationToQuestion": "待补充",
+        "exercises": [
+          {
+            "question": "待补充",
+            "answer": "待补充"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2023-text2-q27",
+      "questionNumber": 27,
+      "questionText": "The bill mentioned in Paragraph 2 was intended to _____.",
+      "question": "The bill mentioned in Paragraph 2 was intended to _____.",
+      "options": {
+        "A": "curb short-term rental speculation",
+        "B": "ensure the supply of cheap housing",
+        "C": "punish illegal dealings in housing",
+        "D": "allow a free short-term rental market"
+      },
+      "answer": "D",
+      "questionType": "写作目的题",
+      "type": "写作目的题",
+      "location": "待补充",
+      "explanation": "PDF explanation extracted; Chinese analysis requires manual proofreading.",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": {
+        "sourceSentence": "待补充",
+        "testPoint": "待补充",
+        "trap": "待补充",
+        "correctLogic": "待补充",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "待补充"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "待补充",
+        "coreStructure": "待补充",
+        "grammarBreakdown": "待补充",
+        "modifiers": "待补充",
+        "translation": "待补充",
+        "relationToQuestion": "待补充",
+        "exercises": [
+          {
+            "question": "待补充",
+            "answer": "待补充"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2023-text2-q28",
+      "questionNumber": 28,
+      "questionText": "Compared with Castle, Taylor is more likely to support _____.",
+      "question": "Compared with Castle, Taylor is more likely to support _____.",
+      "options": {
+        "A": "further investment in local tourism",
+        "B": "an increase in affordable housing",
+        "C": "strict management of real estate agents",
+        "D": "a favorable policy for short-term workers"
+      },
+      "answer": "B",
+      "questionType": "细节题",
+      "type": "细节题",
+      "location": "待补充",
+      "explanation": "PDF explanation extracted; Chinese analysis requires manual proofreading.",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": {
+        "sourceSentence": "待补充",
+        "testPoint": "待补充",
+        "trap": "待补充",
+        "correctLogic": "待补充",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "待补充"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "待补充",
+        "coreStructure": "待补充",
+        "grammarBreakdown": "待补充",
+        "modifiers": "待补充",
+        "translation": "待补充",
+        "relationToQuestion": "待补充",
+        "exercises": [
+          {
+            "question": "待补充",
+            "answer": "待补充"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2023-text2-q29",
+      "questionNumber": 29,
+      "questionText": "What does Hom emphasize in Paragraph 5?",
+      "question": "What does Hom emphasize in Paragraph 5?",
+      "options": {
+        "A": "The urgency to upgrade short-term rental facilities.",
+        "B": "The efficient operation of the local housing market.",
+        "C": "The necessity to stop developers from evading taxes.",
+        "D": "The proper procedures for renting out spare houses."
+      },
+      "answer": "C",
+      "questionType": "细节题",
+      "type": "细节题",
+      "location": "待补充",
+      "explanation": "PDF explanation extracted; Chinese analysis requires manual proofreading.",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": {
+        "sourceSentence": "待补充",
+        "testPoint": "待补充",
+        "trap": "待补充",
+        "correctLogic": "待补充",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "待补充"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "待补充",
+        "coreStructure": "待补充",
+        "grammarBreakdown": "待补充",
+        "modifiers": "待补充",
+        "translation": "待补充",
+        "relationToQuestion": "待补充",
+        "exercises": [
+          {
+            "question": "待补充",
+            "answer": "待补充"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2023-text2-q30",
+      "questionNumber": 30,
+      "questionText": "Hom holds that imposing registration requirements is _____.",
+      "question": "Hom holds that imposing registration requirements is _____.",
+      "options": {
+        "A": "an irrational decision",
+        "B": "an unfeasible proposal",
+        "C": "an unnecessary measure",
+        "D": "an inadequate solution"
+      },
+      "answer": "D",
+      "questionType": "态度题",
+      "type": "态度题",
+      "location": "待补充",
+      "explanation": "PDF explanation extracted; Chinese analysis requires manual proofreading.",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": {
+        "sourceSentence": "待补充",
+        "testPoint": "待补充",
+        "trap": "待补充",
+        "correctLogic": "待补充",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "待补充"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "待补充",
+        "coreStructure": "待补充",
+        "grammarBreakdown": "待补充",
+        "modifiers": "待补充",
+        "translation": "待补充",
+        "relationToQuestion": "待补充",
+        "exercises": [
+          {
+            "question": "待补充",
+            "answer": "待补充"
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "structureMap": [],
+  "notes": "2023 English I Reading Text 2. Passage and questions extracted from the provided PDF; analysis fields need manual proofreading."
+}

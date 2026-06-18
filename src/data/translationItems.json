@@ -35,11 +35,27 @@
         "id": "2026-translation-46",
         "sourceText": "Tracing the history of the term, we can see how the definition of scientific literacy has shifted over time, muddying the waters when it comes to determining the goals of science education.",
         "referenceTranslation": "追溯该术语的历史，我们可以看到科学素养的定义如何随时间推移而变化，这使得对科学教育目标的确定变得模糊不清。",
-        "keyPoints": ["Tracing the history of the term 作状语", "how 引导宾语从句", "muddying the waters 表示“使问题变得不清楚”"],
+        "keyPoints": [
+          "Tracing the history of the term 作状语",
+          "how 引导宾语从句",
+          "muddying the waters 表示“使问题变得不清楚”"
+        ],
         "phrases": [
-          { "phrase": "scientific literacy", "meaning": "科学素养", "example": "" },
-          { "phrase": "shift over time", "meaning": "随时间推移而变化", "example": "" },
-          { "phrase": "muddy the waters", "meaning": "使问题复杂化；使情况不明朗", "example": "" }
+          {
+            "phrase": "scientific literacy",
+            "meaning": "科学素养",
+            "example": ""
+          },
+          {
+            "phrase": "shift over time",
+            "meaning": "随时间推移而变化",
+            "example": ""
+          },
+          {
+            "phrase": "muddy the waters",
+            "meaning": "使问题复杂化；使情况不明朗",
+            "example": ""
+          }
         ],
         "sentenceAnalysis": [
           {
@@ -49,17 +65,37 @@
             "translation": "追溯该术语的历史，我们可以看到科学素养的定义如何随时间推移而变化，这使得对科学教育目标的确定变得模糊不清。"
           }
         ],
-        "commonMistakes": ["漏译 over time", "muddying the waters 直译", "没有处理 when it comes to 的语义"]
+        "commonMistakes": [
+          "漏译 over time",
+          "muddying the waters 直译",
+          "没有处理 when it comes to 的语义"
+        ]
       },
       {
         "id": "2026-translation-47",
         "sourceText": "A return to that version of scientific literacy, which focused more on teaching what science is and how it works and less on memorizing scientific facts, seems like something society today desperately needs.",
         "referenceTranslation": "回归那种更侧重于教授科学的本质与运作方式，而非死记科学事实的科学素养理念，似乎是当今社会迫切需要的。",
-        "keyPoints": ["which 引导非限制性定语从句", "more...and less... 构成对比", "what science is and how it works 是并列宾语从句"],
+        "keyPoints": [
+          "which 引导非限制性定语从句",
+          "more...and less... 构成对比",
+          "what science is and how it works 是并列宾语从句"
+        ],
         "phrases": [
-          { "phrase": "a return to", "meaning": "回归", "example": "" },
-          { "phrase": "focus on", "meaning": "侧重于", "example": "" },
-          { "phrase": "desperately need", "meaning": "迫切需要", "example": "" }
+          {
+            "phrase": "a return to",
+            "meaning": "回归",
+            "example": ""
+          },
+          {
+            "phrase": "focus on",
+            "meaning": "侧重于",
+            "example": ""
+          },
+          {
+            "phrase": "desperately need",
+            "meaning": "迫切需要",
+            "example": ""
+          }
         ],
         "sentenceAnalysis": [
           {
@@ -69,17 +105,37 @@
             "translation": "回归那种更侧重于教授科学的本质与运作方式，而非死记科学事实的科学素养理念，似乎是当今社会迫切需要的。"
           }
         ],
-        "commonMistakes": ["which 从句层次处理不清", "more/less 对比漏译", "desperately 语气漏译"]
+        "commonMistakes": [
+          "which 从句层次处理不清",
+          "more/less 对比漏译",
+          "desperately 语气漏译"
+        ]
       },
       {
         "id": "2026-translation-48",
         "sourceText": "Educators advanced the idea of having students complete detailed laboratory exercises in high schools in the belief that such work was beneficial primarily as a way to enhance logical reasoning and observational skills.",
         "referenceTranslation": "教育家们曾提出让学生在高中阶段完成详细的实验训练的想法，他们认为这种工作主要有利于增强逻辑推理和观察能力。",
-        "keyPoints": ["advanced the idea 表示“提出想法”", "of having students complete... 修饰 idea", "that 引导 belief 的同位语从句"],
+        "keyPoints": [
+          "advanced the idea 表示“提出想法”",
+          "of having students complete... 修饰 idea",
+          "that 引导 belief 的同位语从句"
+        ],
         "phrases": [
-          { "phrase": "advance the idea", "meaning": "提出想法", "example": "" },
-          { "phrase": "laboratory exercises", "meaning": "实验训练", "example": "" },
-          { "phrase": "logical reasoning", "meaning": "逻辑推理", "example": "" }
+          {
+            "phrase": "advance the idea",
+            "meaning": "提出想法",
+            "example": ""
+          },
+          {
+            "phrase": "laboratory exercises",
+            "meaning": "实验训练",
+            "example": ""
+          },
+          {
+            "phrase": "logical reasoning",
+            "meaning": "逻辑推理",
+            "example": ""
+          }
         ],
         "sentenceAnalysis": [
           {
@@ -89,17 +145,37 @@
             "translation": "教育家们曾提出让学生在高中阶段完成详细的实验训练的想法，他们认为这种工作主要有利于增强逻辑推理和观察能力。"
           }
         ],
-        "commonMistakes": ["advance 误译为推进", "belief 后 that 从句关系不清", "primarily 漏译"]
+        "commonMistakes": [
+          "advance 误译为推进",
+          "belief 后 that 从句关系不清",
+          "primarily 漏译"
+        ]
       },
       {
         "id": "2026-translation-49",
         "sourceText": "It wasn't until the phrase \"scientific literacy\" came along in the 1940s that science had the formidable slogan it needed to command public attention and make improving science education an important national goal.",
         "referenceTranslation": "直到 20 世纪 40 年代“科学素养”这一说法出现后，科学才有了其所需的响亮口号，从而引起公众的关注，并使改进科学教育成为重要的国家目标。",
-        "keyPoints": ["It wasn't until...that... 是强调句", "came along 表示“出现”", "to command... and make... 表目的"],
+        "keyPoints": [
+          "It wasn't until...that... 是强调句",
+          "came along 表示“出现”",
+          "to command... and make... 表目的"
+        ],
         "phrases": [
-          { "phrase": "come along", "meaning": "出现", "example": "" },
-          { "phrase": "command public attention", "meaning": "引起公众关注", "example": "" },
-          { "phrase": "national goal", "meaning": "国家目标", "example": "" }
+          {
+            "phrase": "come along",
+            "meaning": "出现",
+            "example": ""
+          },
+          {
+            "phrase": "command public attention",
+            "meaning": "引起公众关注",
+            "example": ""
+          },
+          {
+            "phrase": "national goal",
+            "meaning": "国家目标",
+            "example": ""
+          }
         ],
         "sentenceAnalysis": [
           {
@@ -109,17 +185,37 @@
             "translation": "直到 20 世纪 40 年代“科学素养”这一说法出现后，科学才有了其所需的响亮口号，从而引起公众的关注，并使改进科学教育成为重要的国家目标。"
           }
         ],
-        "commonMistakes": ["强调句未译出“直到……才”", "formidable slogan 误译", "make 后宾补结构处理错误"]
+        "commonMistakes": [
+          "强调句未译出“直到……才”",
+          "formidable slogan 误译",
+          "make 后宾补结构处理错误"
+        ]
       },
       {
         "id": "2026-translation-50",
         "sourceText": "The intense focus on scientific literacy in the United States originally grew out of the critical role of science and technology during World War II, as well as the perceived deficiencies of American soldiers.",
         "referenceTranslation": "美国对科学素养的高度关注，最初源于科学技术在二战中的关键作用，以及当时对美国士兵能力不足的认识。",
-        "keyPoints": ["grew out of 表示“源于”", "as well as 连接两个来源", "perceived deficiencies 表示“被认为存在的不足”"],
+        "keyPoints": [
+          "grew out of 表示“源于”",
+          "as well as 连接两个来源",
+          "perceived deficiencies 表示“被认为存在的不足”"
+        ],
         "phrases": [
-          { "phrase": "intense focus on", "meaning": "高度关注", "example": "" },
-          { "phrase": "grow out of", "meaning": "源于", "example": "" },
-          { "phrase": "perceived deficiencies", "meaning": "被认为存在的不足", "example": "" }
+          {
+            "phrase": "intense focus on",
+            "meaning": "高度关注",
+            "example": ""
+          },
+          {
+            "phrase": "grow out of",
+            "meaning": "源于",
+            "example": ""
+          },
+          {
+            "phrase": "perceived deficiencies",
+            "meaning": "被认为存在的不足",
+            "example": ""
+          }
         ],
         "sentenceAnalysis": [
           {
@@ -129,7 +225,11 @@
             "translation": "美国对科学素养的高度关注，最初源于科学技术在二战中的关键作用，以及当时对美国士兵能力不足的认识。"
           }
         ],
-        "commonMistakes": ["grow out of 误译", "as well as 并列关系漏译", "perceived 语义处理不准"]
+        "commonMistakes": [
+          "grow out of 误译",
+          "as well as 并列关系漏译",
+          "perceived 语义处理不准"
+        ]
       }
     ]
   },
@@ -141,42 +241,262 @@
         "id": "2024-translation-46",
         "sentence": "They sometimes travel more than sixty miles to find food or water, and are very good at working out where other elephants are—even when they are out of sight.",
         "reference": "它们有时跋涉六十多英里寻找食物或水，并且非常善于判断其他大象的位置，即使那些大象不在视线范围内。",
-        "phrases": ["travel more than sixty miles", "work out", "out of sight"],
+        "phrases": [
+          "travel more than sixty miles",
+          "work out",
+          "out of sight"
+        ],
         "longSentence": "and 连接两个并列谓语；where 引导宾语从句；even when 引导让步状语从句。",
-        "deductions": ["漏译 more than", "work out 误译为工作出来", "没有处理 even when 的让步语气"]
+        "deductions": [
+          "漏译 more than",
+          "work out 误译为工作出来",
+          "没有处理 even when 的让步语气"
+        ]
       },
       {
         "id": "2024-translation-47",
         "sentence": "The researchers are convinced that the elephants always know precisely where they are in relation to all the resources they need, and can therefore take shortcuts, as well as following familiar routes.",
         "reference": "研究人员确信，大象总是准确知道自己相对于所有所需资源的位置，因此既能走捷径，也能沿着熟悉的路线前进。",
-        "phrases": ["be convinced that", "in relation to", "as well as"],
+        "phrases": [
+          "be convinced that",
+          "in relation to",
+          "as well as"
+        ],
         "longSentence": "that 引导宾语从句；where 引导 know 的宾语从句；and can therefore 与 know 并列。",
-        "deductions": ["precisely 漏译", "in relation to 关系处理错误", "as well as 误译成因果"]
+        "deductions": [
+          "precisely 漏译",
+          "in relation to 关系处理错误",
+          "as well as 误译成因果"
+        ]
       },
       {
         "id": "2024-translation-48",
         "sentence": "One possibility was that they merely used their eyes and tried out the plants they found, but that would probably result in a lot of wasted time and energy, not least because their eyesight is actually not very good.",
         "reference": "有一种可能性是，它们只是用眼睛观察并尝试所发现的植物，但那很可能会浪费大量时间和精力，尤其是因为它们的视力实际上并不好。",
-        "phrases": ["try out", "result in", "not least because"],
+        "phrases": [
+          "try out",
+          "result in",
+          "not least because"
+        ],
         "longSentence": "第一个 that 是表语从句；but 后形成转折；because 引导原因状语从句。",
-        "deductions": ["merely 漏译", "not least because 误译", "they found 作定语修饰 plants 未处理"]
+        "deductions": [
+          "merely 漏译",
+          "not least because 误译",
+          "they found 作定语修饰 plants 未处理"
+        ]
       },
       {
         "id": "2024-translation-49",
         "sentence": "The volatile chemicals produced by plants can be carried a long way, and they are very characteristic: each plant or tree has its own particular odor signature.",
         "reference": "植物产生的挥发性化学物质可以被携带到很远的地方，而且它们非常具有特征性：每种植物或树木都有自己独特的气味标识。",
-        "phrases": ["volatile chemicals", "a long way", "odor signature"],
+        "phrases": [
+          "volatile chemicals",
+          "a long way",
+          "odor signature"
+        ],
         "longSentence": "produced by plants 是后置定语；冒号后解释 characteristic 的具体含义。",
-        "deductions": ["volatile 误译", "characteristic 词性处理错误", "冒号后的解释关系漏译"]
+        "deductions": [
+          "volatile 误译",
+          "characteristic 词性处理错误",
+          "冒号后的解释关系漏译"
+        ]
       },
       {
         "id": "2024-translation-50",
         "sentence": "The experiment showed that elephants may well use smell to identify patches of trees that are good to eat, and secondly to assess the quality of the trees within each patch.",
         "reference": "实验表明，大象很可能利用嗅觉来识别适合食用的树丛，并进一步评估每片树丛中树木的质量。",
-        "phrases": ["may well", "patches of trees", "assess the quality"],
+        "phrases": [
+          "may well",
+          "patches of trees",
+          "assess the quality"
+        ],
         "longSentence": "that 引导宾语从句；两个 to do 结构并列表示 use smell 的两个目的。",
-        "deductions": ["may well 语气漏译", "patches of trees 误译", "secondly 后并列结构没有译出"]
+        "deductions": [
+          "may well 语气漏译",
+          "patches of trees 误译",
+          "secondly 后并列结构没有译出"
+        ]
       }
     ]
+  },
+  {
+    "id": "2023-translation",
+    "year": 2023,
+    "paper": "英语一",
+    "status": "待补充",
+    "sourceText": "",
+    "referenceTranslation": "",
+    "keyPoints": [],
+    "phrases": [],
+    "sentenceAnalysis": [],
+    "commonMistakes": [],
+    "items": [
+      {
+        "id": "2023-translation-46",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2023-translation-47",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2023-translation-48",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2023-translation-49",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2023-translation-50",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      }
+    ],
+    "notes": "2023 translation template only; content awaits manual entry."
+  },
+  {
+    "id": "2022-translation",
+    "year": 2022,
+    "paper": "英语一",
+    "status": "待补充",
+    "sourceText": "",
+    "referenceTranslation": "",
+    "keyPoints": [],
+    "phrases": [],
+    "sentenceAnalysis": [],
+    "commonMistakes": [],
+    "items": [
+      {
+        "id": "2022-translation-46",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2022-translation-47",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2022-translation-48",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2022-translation-49",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2022-translation-50",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      }
+    ],
+    "notes": "2022 translation template only; content awaits manual entry."
+  },
+  {
+    "id": "2021-translation",
+    "year": 2021,
+    "paper": "英语一",
+    "status": "待补充",
+    "sourceText": "",
+    "referenceTranslation": "",
+    "keyPoints": [],
+    "phrases": [],
+    "sentenceAnalysis": [],
+    "commonMistakes": [],
+    "items": [
+      {
+        "id": "2021-translation-46",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2021-translation-47",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2021-translation-48",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2021-translation-49",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2021-translation-50",
+        "sourceText": "待补充",
+        "referenceTranslation": "待补充",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      }
+    ],
+    "notes": "2021 translation template only; content awaits manual entry."
   }
 ]

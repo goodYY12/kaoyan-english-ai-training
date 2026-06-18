@@ -9,9 +9,24 @@ import text2024_1 from "./papers/2024/text1.json" with { type: "json" };
 import text2024_2 from "./papers/2024/text2.json" with { type: "json" };
 import text2024_3 from "./papers/2024/text3.json" with { type: "json" };
 import text2024_4 from "./papers/2024/text4.json" with { type: "json" };
+import text2023_1 from "./papers/2023/text1.json" with { type: "json" };
+import text2023_2 from "./papers/2023/text2.json" with { type: "json" };
+import text2023_3 from "./papers/2023/text3.json" with { type: "json" };
+import text2023_4 from "./papers/2023/text4.json" with { type: "json" };
+import text2022_1 from "./papers/2022/text1.json" with { type: "json" };
+import text2022_2 from "./papers/2022/text2.json" with { type: "json" };
+import text2022_3 from "./papers/2022/text3.json" with { type: "json" };
+import text2022_4 from "./papers/2022/text4.json" with { type: "json" };
+import text2021_1 from "./papers/2021/text1.json" with { type: "json" };
+import text2021_2 from "./papers/2021/text2.json" with { type: "json" };
+import text2021_3 from "./papers/2021/text3.json" with { type: "json" };
+import text2021_4 from "./papers/2021/text4.json" with { type: "json" };
 
 const papers = [text1, text2, text3, text4];
 const papers2024 = [text2024_1, text2024_2, text2024_3, text2024_4];
+const papers2023 = [text2023_1, text2023_2, text2023_3, text2023_4];
+const papers2022 = [text2022_1, text2022_2, text2022_3, text2022_4];
+const papers2021 = [text2021_1, text2021_2, text2021_3, text2021_4];
 
 test("2026 reading papers have one full passage and five complete questions", () => {
   assert.equal(papers.length, 4);
@@ -93,6 +108,36 @@ test("2024 reading papers are available in the same structure", () => {
       assert.deepEqual(Object.keys(word.options), ["A", "B", "C", "D"]);
       assert.match(word.answer, /^[A-D]$/);
       assert.ok(word.meaningInContext.length > 1);
+    }
+  }
+});
+
+test("2023 and 2022 reading papers have extracted question data", () => {
+  for (const paper of [...papers2023, ...papers2022]) {
+    assert.match(paper.textNumber, /^Text [1-4]$/);
+    assert.ok(paper.passage.length > 500);
+    assert.equal(paper.questions.length, 5);
+
+    for (const question of paper.questions) {
+      assert.deepEqual(Object.keys(question.options), ["A", "B", "C", "D"]);
+      assert.match(question.answer, /^[A-D]$/);
+      assert.ok(question.questionText.length > 10);
+      assert.ok(question.type.length > 1);
+      assert.ok(question.examinerThinking);
+      assert.ok(question.sourceSentenceAnalysis);
+    }
+  }
+});
+
+test("2021 reading papers are templates awaiting OCR/manual entry", () => {
+  for (const paper of papers2021) {
+    assert.equal(paper.year, 2021);
+    assert.match(paper.textNumber, /^Text [1-4]$/);
+    assert.equal(paper.questions.length, 5);
+
+    for (const question of paper.questions) {
+      assert.deepEqual(Object.keys(question.options), ["A", "B", "C", "D"]);
+      assert.equal(question.answer, "");
     }
   }
 });
