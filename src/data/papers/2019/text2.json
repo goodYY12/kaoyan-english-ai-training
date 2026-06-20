@@ -1,0 +1,133 @@
+{
+  "id": "2019-text2",
+  "year": 2019,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "待补充",
+  "topic": "待补充",
+  "passage": "待补充",
+  "questions": [
+    {
+      "id": "2019-text2-q26",
+      "questionNumber": 26,
+      "questionText": "What is commonly regarded as the cause of grade inflation?",
+      "question": "What is commonly regarded as the cause of grade inflation?",
+      "options": {
+        "A": "The change of course catalogs.",
+        "B": "Students indifference to GPAs.",
+        "C": "Colleges neglect of GPAs.",
+        "D": "The influence of consumer culture."
+      },
+      "answer": "D",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "根据题干信息词定位到首段第一句，句子主干“Grade inflation—the gradual increase in average GPAs (grade-point averages) over the past few decades—is often considered a product of a consumer era in higher education”即高校成绩膨胀问题通常被认为是消费者至上时代的产物。选项 The influence of consumer culture。“消费者至上文化的影响”正是该句原因的同义表达。故 D 选项正确。",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2019-text2-q27",
+      "questionNumber": 27,
+      "questionText": "What was the original purpose of grade forgiveness?",
+      "question": "What was the original purpose of grade forgiveness?",
+      "options": {
+        "A": "To help freshmen adapt to college learning.",
+        "B": "To maintain colleges graduation rates.",
+        "C": "To prepare graduates for a challenging future.",
+        "D": "To increase universities income from tuition."
+      },
+      "answer": "A",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "根据题干要求定位到第三段第二句。该句中的 this practice 对应题干中的 grade forgiveness, first started 对应题干中的 original，而不定式短 to give them(freshmen) a second chance...if they struggled in their transition to college-level courses（如果大一新生在都向大学课程的过渡中有问题的话在给他们一 次机会......）为目的，对应题干中的 purpose，故正确答案应为 A 选项 To help freshmen adapt to college learning（帮助大一新生适应大学学习）。",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2019-text2-q28",
+      "questionNumber": 28,
+      "questionText": "According to Paragraph 5, grade forgiveness enables colleges to",
+      "question": "According to Paragraph 5, grade forgiveness enables colleges to",
+      "options": {
+        "A": "obtain more financial support.",
+        "B": "boost their student enrollments.",
+        "C": "improve their teaching quality.",
+        "D": "meet local governments needs."
+      },
+      "answer": "A",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "细节题做题的技巧是“准确定位和匹配”。根据题干关键词“paragrph 5”,以及“grade forgiveness” 和“colleges”定位到第五段第一句话。通过第一句话可以看出，“grade forgiveness”满足了大学自己 的需要，而具体的需要在第二句中体现，因此本题真正的答案出自于第二句即“For public institution...”。 第二句话的意思是对于大学来讲，国家的基金有时候是跟一些因素有关的，比如毕业率和学生在学率， 因此好的分数意味着钱。题干中问题使“grade forgiveness”使大学能够...，而根据本段的第二句话， 可知“grade forgiveness”使大学能够获得更多的国家的基金，这与 A 选项“获得更多的经济支持”匹 配，因此正确答案选 A。",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2019-text2-q29",
+      "questionNumber": 29,
+      "questionText": "What does the phrase to be aligned (Line 5, Para. 6) most probably mean?",
+      "question": "What does the phrase to be aligned (Line 5, Para. 6) most probably mean?",
+      "options": {
+        "A": "To counterbalance each other.",
+        "B": "To complement each other.",
+        "C": "To be identical with each other.",
+        "D": "To be contradictory to each other."
+      },
+      "answer": "C",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "根据题目定位到第六段最后一句：On this, students’ and colleges’incentives seem to be aligned. 解决本题的关键是 this 指代的内容，根据上文 Since students and parents expect a college degree to lead to a job, it is in the best interest of a school to turn out graduates who are as qualified as possible—or at least appear to be. 即“由于学生和家长都希望通过大学学历找工作，因此符合学校最佳利益的便是尽可能 地证明学生的能力——或者说至少看起来如此”。由此可知，学生和学校有着共同的利益目标，所以正 确答案为 C，学生和学校的倡议是一致的。",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2019-text2-q30",
+      "questionNumber": 30,
+      "questionText": "The author examines the practice of grade forgiveness by",
+      "question": "The author examines the practice of grade forgiveness by",
+      "options": {
+        "A": "assessing its feasibility.",
+        "B": "analyzing the causes behind it.",
+        "C": "comparing different views on it.",
+        "D": "listing its long-run effects."
+      },
+      "answer": "B",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "根据题干，表面上问作者通过什么论述方式来探讨 grade forgiveness 的实践操作，其实是考 全文的主旨写作手法，属于主旨大意题。方法即是串读每段段落大意句，把握作者的论述角度。尤其， 在第一段第一句 Grade inflation-....-is often considered a product of a consumer era...以及第二句 But another, related force-......谈及的都是背后的原因。第五段，第一句 That said, there is a way in which grade forgiveness satisfies colleges’own needs as well.也是突出了 grade forgiveness 能够满足大学自身的需求， 这也是分析了 grade forgiveness 的原因。所以，该题答案是 B 项，analyzing the causes behind it.",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "structureMap": [],
+  "status": "待补充",
+  "notes": "Question stems, choices and answers were extracted from the supplied answer-analysis PDF. The English passage is absent from that PDF and remains pending."
+}

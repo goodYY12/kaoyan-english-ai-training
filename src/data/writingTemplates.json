@@ -245,5 +245,110 @@
       "sampleEssay": ""
     },
     "notes": "2021 writing template only; content awaits manual entry."
+  },
+  {
+    "id": "2019-writing",
+    "year": 2019,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "Reply to your friend William and provide information about the Aiding Rural Primary Schools project, including its activities and volunteer requirements. Sign as Li Ming.",
+      "taskType": "Reply email",
+      "writingIdeas": [
+        "Explain the purpose of the project.",
+        "Describe volunteer activities in rural primary schools.",
+        "State the qualities expected of volunteers."
+      ],
+      "structure": [
+        "Greeting and purpose",
+        "Project details and requirements",
+        "Contact information and closing"
+      ],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": "待补充"
+    },
+    "bigWriting": {
+      "prompt": "Write an essay based on a cartoon showing two people climbing a mountain. One wants to stop because he is tired, while the other offers water and encourages him to rest and continue. The caption is On the Way.",
+      "topic": "Persistence and adjustment on the way to a goal",
+      "writingIdeas": [
+        "Describe the two climbers.",
+        "Explain the value of persistence and adjusting one's pace.",
+        "Give your own comment."
+      ],
+      "structure": [
+        "Picture description",
+        "Meaning and analysis",
+        "Personal conclusion"
+      ],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": "待补充"
+    }
+  },
+  {
+    "id": "2018-writing",
+    "year": 2018,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "Write an email on behalf of the Students Union to invite all international experts on campus to attend the graduation ceremony. Include the time, place and relevant details. Sign as Li Ming.",
+      "taskType": "Invitation email",
+      "writingIdeas": [
+        "Issue the invitation.",
+        "Give the time, place and ceremony details.",
+        "Express hope that the experts will attend."
+      ],
+      "structure": [
+        "Greeting and invitation",
+        "Ceremony details",
+        "Polite closing"
+      ],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": "待补充"
+    },
+    "bigWriting": {
+      "prompt": "Write an essay based on a cartoon about a college student choosing between an easy elective and a difficult but innovative elective.",
+      "topic": "Course choice and innovation",
+      "writingIdeas": [
+        "Describe the student's dilemma.",
+        "Explain why challenging and innovative courses matter.",
+        "Give your own recommendation."
+      ],
+      "structure": [
+        "Picture description",
+        "Meaning and analysis",
+        "Personal conclusion"
+      ],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": "待补充"
+    }
+  },
+  {
+    "id": "2020-writing",
+    "year": 2020,
+    "paper": "英语一",
+    "status": "待补充",
+    "smallWriting": {
+      "prompt": "",
+      "taskType": "",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "",
+      "topic": "",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "Image-only PDF; OCR or a text PDF is required."
   }
 ]

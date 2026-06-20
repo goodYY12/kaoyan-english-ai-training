@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import test from "node:test";
 
 import text1 from "./papers/2026/text1.json" with { type: "json" };
@@ -138,6 +139,33 @@ test("2021 reading papers are templates awaiting OCR/manual entry", () => {
     for (const question of paper.questions) {
       assert.deepEqual(Object.keys(question.options), ["A", "B", "C", "D"]);
       assert.equal(question.answer, "");
+    }
+  }
+});
+
+test("2018-2020 imports preserve four-text structure without inventing passages", () => {
+  for (const year of [2018, 2019, 2020]) {
+    for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
+      const url = new URL(`./papers/${year}/text${textNumber}.json`, import.meta.url);
+      const paper = JSON.parse(readFileSync(url, "utf8"));
+
+      assert.equal(paper.year, year);
+      assert.equal(paper.textNumber, `Text ${textNumber}`);
+      assert.equal(paper.questions.length, 5);
+      assert.equal(paper.status, "待补充");
+    }
+  }
+});
+
+test("2019 answer-analysis PDF contributes complete question choices and keys", () => {
+  for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
+    const url = new URL(`./papers/2019/text${textNumber}.json`, import.meta.url);
+    const paper = JSON.parse(readFileSync(url, "utf8"));
+
+    for (const question of paper.questions) {
+      assert.ok(question.questionText.length > 10);
+      assert.deepEqual(Object.keys(question.options), ["A", "B", "C", "D"]);
+      assert.match(question.answer, /^[A-D]$/);
     }
   }
 });

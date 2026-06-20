@@ -7,6 +7,7 @@ import {
   getTranslationByYear,
   getWritingByYear,
   hasClozeData,
+  hasReadingData,
   hasTranslationData,
   hasWritingData,
 } from "../utils/dataAdapter";
@@ -16,12 +17,13 @@ function getModuleCards(year) {
   const clozeItems = getClozeByYear(year);
   const translation = getTranslationByYear(year);
   const writing = getWritingByYear(year);
+  const readingReady = readings.some(hasReadingData);
   const clozeReady = clozeItems.some(hasClozeData);
   const translationReady = hasTranslationData(translation);
   const writingReady = hasWritingData(writing);
 
   return [
-    { title: "阅读训练", to: "/reading", status: readings.length ? "已有数据" : "待补充", ready: readings.length > 0 },
+    { title: "阅读训练", to: "/reading", status: readingReady ? "已有数据" : "待补充", ready: readingReady },
     { title: "完形专项", to: "/cloze", status: clozeReady ? "已有数据" : "待补充", ready: clozeReady },
     { title: "翻译训练", to: "/translation", status: translationReady ? "已有数据" : "待补充", ready: translationReady },
     { title: "写作训练", to: "/writing", status: writingReady ? "已有数据" : "待补充", ready: writingReady },

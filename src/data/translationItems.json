@@ -716,5 +716,137 @@
       }
     ],
     "notes": "2021 translation template only; content awaits manual entry."
+  },
+  {
+    "id": "2019-translation",
+    "year": 2019,
+    "paper": "英语一",
+    "status": "已有数据",
+    "sourceText": "",
+    "referenceTranslation": "",
+    "keyPoints": [],
+    "phrases": [],
+    "sentenceAnalysis": [],
+    "commonMistakes": [],
+    "items": [
+      {
+        "id": "2019-translation-46",
+        "sourceText": "There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms.",
+        "referenceTranslation": "医学期刊中存在大量此类无稽之谈，一经广播公司和非专业媒体报道，就会引发健康恐慌并激起短暂的健康饮食热潮。",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2019-translation-47",
+        "sourceText": "Nowadays anyone applying for a research post has to have published twice the number of papers that would have been required for the same post only 10 years ago.",
+        "referenceTranslation": "如今，任何研究职位申请者所必须发表的论文数量是近 10 年前同一职位所需论文数量的两倍。",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2019-translation-48",
+        "sourceText": "Attempts have been made to curb this tendency, for example, by trying to incorporate some measure of quality as well as quantity into the assessment of an applicant's papers.",
+        "referenceTranslation": "科学界已做出尝试来遏制这一趋势，例如，试图将某种数量和质量衡量标准纳入申请者论文评估活动中。",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2019-translation-49",
+        "sourceText": "This would be reasonable if it were not for the fact that scientists can easily arrange to cite themselves in their future publication or get associates to do so for them in return for similar favors.",
+        "referenceTranslation": "如果不是因为科学家极有可能会在其未来出版作品中引用自己论文或是让同事为了回报类似帮助而引用自己论文，这倒也合理。",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2019-translation-50",
+        "sourceText": "If we are serious about ensuring that our science is both meaningful and reproducible, we must ensure that our institutions encourage that kind of science.",
+        "referenceTranslation": "如果我们真想确保科学既有意义又具有可复制性，我们就必须确保我们的制度激励这种科学才行。",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      }
+    ]
+  },
+  {
+    "id": "2018-translation",
+    "year": 2018,
+    "paper": "英语一",
+    "status": "已有数据",
+    "sourceText": "",
+    "referenceTranslation": "",
+    "keyPoints": [],
+    "phrases": [],
+    "sentenceAnalysis": [],
+    "commonMistakes": [],
+    "items": [
+      {
+        "id": "2018-translation-46",
+        "sourceText": "By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy.",
+        "referenceTranslation": "莎士比亚出生之时，欧洲宗教戏剧正在消逝，在古典悲剧和喜剧的推动下，很多新的戏剧形式应运而生。",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2018-translation-47",
+        "sourceText": "No boy who went to a grammar school could be ignorant that the drama was a form of literature which gave glory to Greece and Rome and might yet bring honor to England.",
+        "referenceTranslation": "任何文法学校的学生都知道戏剧是一种文学形式，它曾给希腊和罗马带来荣耀，也许同样会给英格兰带来殊荣。",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2018-translation-48",
+        "sourceText": "But the professional companies prospered in their permanent theaters, and university men with literary ambitions were quick to turn to these theaters as offering a means of livelihood.",
+        "referenceTranslation": "但是专业剧团在它们固定的剧院中兴盛起来，怀揣文学抱负的大学生们迅速投奔这些剧院，将其视为谋生的手段。",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2018-translation-49",
+        "sourceText": "A native literary drama had been created, its alliance with the public playhouses established, and at least some of its great traditions had been begun.",
+        "referenceTranslation": "一种本土文学戏剧形式诞生了，它与公共剧院结成联盟，至少它的一些优良传统已经开始形成。",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      },
+      {
+        "id": "2018-translation-50",
+        "sourceText": "To realize how great was the dramatic activity, we must remember further that hosts of plays have been lost, and that probably there is no author of note whose entire work has survived.",
+        "referenceTranslation": "为了了解戏剧活动有多么伟大，我们必须进一步记住，大量戏剧已经失传，而且可能没有一位知名作家的全部作品完整保存下来。",
+        "keyPoints": [],
+        "phrases": [],
+        "sentenceAnalysis": [],
+        "commonMistakes": []
+      }
+    ]
+  },
+  {
+    "id": "2020-translation",
+    "year": 2020,
+    "paper": "英语一",
+    "status": "待补充",
+    "sourceText": "",
+    "referenceTranslation": "",
+    "keyPoints": [],
+    "phrases": [],
+    "sentenceAnalysis": [],
+    "commonMistakes": [],
+    "items": [],
+    "notes": "Image-only PDF; OCR or a text PDF is required."
   }
 ]

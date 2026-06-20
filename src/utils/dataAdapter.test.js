@@ -8,6 +8,7 @@ import {
   getReadingsByYear,
   getSimilarQuestionsByType,
   hasClozeData,
+  hasReadingData,
   hasTranslationData,
   hasWritingData,
   normalizeQuestion,
@@ -18,7 +19,7 @@ import {
 
 test("normalizes readings and exposes available years", () => {
   const years = getAvailableYears();
-  assert.deepEqual(years, [2026, 2024, 2023, 2022, 2021]);
+  assert.deepEqual(years, [2026, 2024, 2023, 2022, 2021, 2020, 2019, 2018]);
 
   const readings = getReadingsByYear(2026);
   assert.equal(readings.length, 4);
@@ -44,10 +45,24 @@ test("normalizes readings and exposes available years", () => {
   assert.equal(readings2021.length, 4);
   assert.equal(readings2021[0].id, "2021-text1");
   assert.equal(readings2021[0].questions.length, 5);
+
+  for (const year of [2020, 2019, 2018]) {
+    const imported = getReadingsByYear(year);
+    assert.equal(imported.length, 4);
+    assert.equal(imported[0].id, `${year}-text1`);
+    assert.equal(imported[0].questions.length, 5);
+  }
 });
 
 test("exposes unified exam years from all module data", () => {
-  assert.deepEqual(getExamYears(), [2026, 2024, 2023, 2022, 2021]);
+  assert.deepEqual(getExamYears(), [2026, 2024, 2023, 2022, 2021, 2020, 2019, 2018]);
+});
+
+test("does not mark partial answer-analysis imports as complete readings", () => {
+  assert.equal(hasReadingData(getReadingsByYear(2019)[0]), false);
+  assert.equal(hasReadingData(getReadingsByYear(2018)[0]), false);
+  assert.equal(hasReadingData(getReadingsByYear(2020)[0]), false);
+  assert.equal(hasReadingData(getReadingsByYear(2026)[0]), true);
 });
 
 test("normalizes old and new question fields", () => {

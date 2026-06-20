@@ -1,0 +1,133 @@
+{
+  "id": "2020-text4",
+  "year": 2020,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 4",
+  "title": "待补充",
+  "topic": "待补充",
+  "passage": "待补充",
+  "questions": [
+    {
+      "id": "2020-text4-q36",
+      "questionNumber": 36,
+      "questionText": "待补充",
+      "question": "待补充",
+      "options": {
+        "A": "待补充",
+        "B": "待补充",
+        "C": "待补充",
+        "D": "待补充"
+      },
+      "answer": "",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "待补充",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2020-text4-q37",
+      "questionNumber": 37,
+      "questionText": "待补充",
+      "question": "待补充",
+      "options": {
+        "A": "待补充",
+        "B": "待补充",
+        "C": "待补充",
+        "D": "待补充"
+      },
+      "answer": "",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "待补充",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2020-text4-q38",
+      "questionNumber": 38,
+      "questionText": "待补充",
+      "question": "待补充",
+      "options": {
+        "A": "待补充",
+        "B": "待补充",
+        "C": "待补充",
+        "D": "待补充"
+      },
+      "answer": "",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "待补充",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2020-text4-q39",
+      "questionNumber": 39,
+      "questionText": "待补充",
+      "question": "待补充",
+      "options": {
+        "A": "待补充",
+        "B": "待补充",
+        "C": "待补充",
+        "D": "待补充"
+      },
+      "answer": "",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "待补充",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2020-text4-q40",
+      "questionNumber": 40,
+      "questionText": "待补充",
+      "question": "待补充",
+      "options": {
+        "A": "待补充",
+        "B": "待补充",
+        "C": "待补充",
+        "D": "待补充"
+      },
+      "answer": "",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "待补充",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "structureMap": [],
+  "status": "待补充",
+  "notes": "The supplied 2020 PDF is image-based and contains no reliable extractable text in the current environment. OCR or a text PDF is required."
+}

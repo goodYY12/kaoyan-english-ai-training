@@ -14,6 +14,18 @@ import text2021_1 from "../data/papers/2021/text1.json" with { type: "json" };
 import text2021_2 from "../data/papers/2021/text2.json" with { type: "json" };
 import text2021_3 from "../data/papers/2021/text3.json" with { type: "json" };
 import text2021_4 from "../data/papers/2021/text4.json" with { type: "json" };
+import text2020_1 from "../data/papers/2020/text1.json" with { type: "json" };
+import text2020_2 from "../data/papers/2020/text2.json" with { type: "json" };
+import text2020_3 from "../data/papers/2020/text3.json" with { type: "json" };
+import text2020_4 from "../data/papers/2020/text4.json" with { type: "json" };
+import text2019_1 from "../data/papers/2019/text1.json" with { type: "json" };
+import text2019_2 from "../data/papers/2019/text2.json" with { type: "json" };
+import text2019_3 from "../data/papers/2019/text3.json" with { type: "json" };
+import text2019_4 from "../data/papers/2019/text4.json" with { type: "json" };
+import text2018_1 from "../data/papers/2018/text1.json" with { type: "json" };
+import text2018_2 from "../data/papers/2018/text2.json" with { type: "json" };
+import text2018_3 from "../data/papers/2018/text3.json" with { type: "json" };
+import text2018_4 from "../data/papers/2018/text4.json" with { type: "json" };
 import text1 from "../data/papers/2026/text1.json" with { type: "json" };
 import text2 from "../data/papers/2026/text2.json" with { type: "json" };
 import text3 from "../data/papers/2026/text3.json" with { type: "json" };
@@ -43,6 +55,18 @@ const rawReadings = [
   text2021_2,
   text2021_3,
   text2021_4,
+  text2020_1,
+  text2020_2,
+  text2020_3,
+  text2020_4,
+  text2019_1,
+  text2019_2,
+  text2019_3,
+  text2019_4,
+  text2018_1,
+  text2018_2,
+  text2018_3,
+  text2018_4,
 ];
 
 function normalizeTextNumber(textNumber) {
@@ -124,6 +148,22 @@ export function getReadingsByYear(year) {
   return getAllReadings()
     .filter((reading) => reading.year === Number(year))
     .sort((a, b) => a.textNumberValue - b.textNumberValue);
+}
+
+export function hasReadingData(reading) {
+  const normalized = normalizeReading(reading);
+
+  return (
+    normalized.passage.trim().length > 500 &&
+    normalized.questions.length === 5 &&
+    normalized.questions.every(
+      (question) =>
+        /^[A-D]$/.test(question.answer) &&
+        ["A", "B", "C", "D"].every((key) =>
+          Boolean(question.options?.[key]?.trim()),
+        ),
+    )
+  );
 }
 
 function createTranslationPlaceholder(year) {

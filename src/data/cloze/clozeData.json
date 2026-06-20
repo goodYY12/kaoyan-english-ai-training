@@ -2493,5 +2493,1415 @@
       "phrases": []
     },
     "notes": "2021 cloze template only. Real PDF cloze text/options need manual entry."
+  },
+  {
+    "id": "2020-cloze",
+    "year": 2020,
+    "paper": "英语一",
+    "title": "完形填空",
+    "sourceType": "待补充",
+    "status": "待补充",
+    "difficulty": "待补充",
+    "estimatedTime": 15,
+    "focusPoints": [
+      "词义辨析",
+      "固定搭配",
+      "上下文逻辑",
+      "篇章衔接"
+    ],
+    "passageParts": [],
+    "blanks": [
+      {
+        "id": 1,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 2,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 3,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 4,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 5,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 6,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 7,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 8,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 9,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 10,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 11,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 12,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 13,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 14,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 15,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 16,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 17,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 18,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 19,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 20,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      }
+    ],
+    "discourseAnalysis": {
+      "mainIdea": "待补充",
+      "structure": [],
+      "logicSignals": []
+    },
+    "vocabularyGroups": {
+      "coreWords": [],
+      "familiarWordsWithNewMeanings": [],
+      "phrases": []
+    },
+    "notes": "Image-only PDF; OCR or a text PDF is required."
+  },
+  {
+    "id": "2019-cloze",
+    "year": 2019,
+    "paper": "英语一",
+    "title": "完形填空",
+    "sourceType": "待补充",
+    "status": "待补充",
+    "difficulty": "待补充",
+    "estimatedTime": 15,
+    "focusPoints": [
+      "词义辨析",
+      "固定搭配",
+      "上下文逻辑",
+      "篇章衔接"
+    ],
+    "passageParts": [],
+    "blanks": [
+      {
+        "id": 1,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 2,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 3,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 4,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 5,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 6,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 7,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 8,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 9,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 10,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 11,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 12,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 13,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 14,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 15,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 16,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 17,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 18,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 19,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 20,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      }
+    ],
+    "discourseAnalysis": {
+      "mainIdea": "待补充",
+      "structure": [],
+      "logicSignals": []
+    },
+    "vocabularyGroups": {
+      "coreWords": [],
+      "familiarWordsWithNewMeanings": [],
+      "phrases": []
+    },
+    "notes": "The supplied answer-analysis PDF does not contain a reliable complete English cloze passage and all source fields remain pending."
+  },
+  {
+    "id": "2018-cloze",
+    "year": 2018,
+    "paper": "英语一",
+    "title": "完形填空",
+    "sourceType": "待补充",
+    "status": "待补充",
+    "difficulty": "待补充",
+    "estimatedTime": 15,
+    "focusPoints": [
+      "词义辨析",
+      "固定搭配",
+      "上下文逻辑",
+      "篇章衔接"
+    ],
+    "passageParts": [],
+    "blanks": [
+      {
+        "id": 1,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 2,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 3,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 4,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 5,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 6,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 7,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 8,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 9,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 10,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 11,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 12,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 13,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 14,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 15,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 16,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 17,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 18,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 19,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      },
+      {
+        "id": 20,
+        "options": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "answer": "",
+        "type": "待补充",
+        "subType": "",
+        "clue": "待补充",
+        "explanation": "待补充",
+        "optionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "commonMistake": "待补充",
+        "strategy": "待补充"
+      }
+    ],
+    "discourseAnalysis": {
+      "mainIdea": "待补充",
+      "structure": [],
+      "logicSignals": []
+    },
+    "vocabularyGroups": {
+      "coreWords": [],
+      "familiarWordsWithNewMeanings": [],
+      "phrases": []
+    },
+    "notes": "The supplied answer-analysis PDF does not contain a reliable complete English cloze passage and all source fields remain pending."
   }
 ]

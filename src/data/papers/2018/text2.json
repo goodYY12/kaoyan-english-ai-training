@@ -1,0 +1,133 @@
+{
+  "id": "2018-text2",
+  "year": 2018,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "待补充",
+  "topic": "待补充",
+  "passage": "待补充",
+  "questions": [
+    {
+      "id": "2018-text2-q26",
+      "questionNumber": 26,
+      "questionText": "待补充",
+      "question": "待补充",
+      "options": {
+        "A": "待补充",
+        "B": "待补充",
+        "C": "待补充",
+        "D": "待补充"
+      },
+      "answer": "",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "待补充",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2018-text2-q27",
+      "questionNumber": 27,
+      "questionText": "待补充",
+      "question": "待补充",
+      "options": {
+        "A": "待补充",
+        "B": "待补充",
+        "C": "待补充",
+        "D": "待补充"
+      },
+      "answer": "",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "待补充",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2018-text2-q28",
+      "questionNumber": 28,
+      "questionText": "待补充",
+      "question": "待补充",
+      "options": {
+        "A": "待补充",
+        "B": "待补充",
+        "C": "待补充",
+        "D": "待补充"
+      },
+      "answer": "",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "待补充",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2018-text2-q29",
+      "questionNumber": 29,
+      "questionText": "待补充",
+      "question": "待补充",
+      "options": {
+        "A": "待补充",
+        "B": "待补充",
+        "C": "待补充",
+        "D": "待补充"
+      },
+      "answer": "",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "待补充",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2018-text2-q30",
+      "questionNumber": 30,
+      "questionText": "待补充",
+      "question": "待补充",
+      "options": {
+        "A": "待补充",
+        "B": "待补充",
+        "C": "待补充",
+        "D": "待补充"
+      },
+      "answer": "",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "待补充",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "structureMap": [],
+  "status": "待补充",
+  "notes": "The supplied PDF contains Chinese passage translations and answer explanations, but not complete English passages or all A-D choices. Template retained to prevent fabricated data."
+}

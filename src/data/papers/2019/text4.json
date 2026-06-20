@@ -1,0 +1,133 @@
+{
+  "id": "2019-text4",
+  "year": 2019,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 4",
+  "title": "待补充",
+  "topic": "待补充",
+  "passage": "待补充",
+  "questions": [
+    {
+      "id": "2019-text4-q36",
+      "questionNumber": 36,
+      "questionText": "The Supreme Court decision Thursday will",
+      "question": "The Supreme Court decision Thursday will",
+      "options": {
+        "A": "better business revolutions with states.",
+        "B": "put most online business in a dilemma.",
+        "C": "make more online shoppers pay sales tax.",
+        "D": "force some states to cut sales tax."
+      },
+      "answer": "C",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "根据题干可知这是一道典型的细节题。根据题干关键词“The Supreme Court decision Thursday” 定位到首段首句，States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states.由该句可知，最高法院的裁决可以让州政府去强制消费者在网上购物时要上缴销售税（营 业税），直接得出选项 C.make more online shoppers pay sales tax，让更多在线购物者支付销售税。",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2019-text4-q37",
+      "questionNumber": 37,
+      "questionText": "It can be learned from paragraphs 2 and 3 that the overruled decisions",
+      "question": "It can be learned from paragraphs 2 and 3 that the overruled decisions",
+      "options": {
+        "A": "have led to the dominance of e-commerce.",
+        "B": "have cost consumers a lot over the years.",
+        "C": "were widely criticized by online purchases.",
+        "D": "were consider unfavorable by states."
+      },
+      "answer": "D",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "根据题干可知这是一道典型的推理题。根据题干定位范围确定为第二、三段，再根据题干细 节：overruled decisions 确定定位句为第二段的第一句与第二句，第二句 that states said cost them billions of dollars in lost revenue annually.州政府抱怨之前的政策导致每年税收损失惨重。第三句 The decisions made it more difficult for states to collect sales tax on certain online purchases，原政策让州政府很难收取网 上购物的营业税。综合两句情感色彩都为负向，对州政府不利，从而得出答案 D were consider unfavorable by states 州政府认为原政策对州不利。",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2019-text4-q38",
+      "questionNumber": 38,
+      "questionText": "According to Justice Anthony Kennedy , the physical presence rule has",
+      "question": "According to Justice Anthony Kennedy , the physical presence rule has",
+      "options": {
+        "A": "hindered economic development.",
+        "B": "brought prosperity to the country.",
+        "C": "harmed fair market competition.",
+        "D": "boosted growth in states revenue."
+      },
+      "answer": "C",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "根据题干可知这是一道典型的观点细节题。根据题干定位 Anthony Kennedy 定位在第四段， 再根据题干细节 physical presence rule 确定定位句为第四段的第二句与第三句。第二句“Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,” 实体店规定导致州政府税收亏损严重，第三句 the rule “limited state’ ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.该规定 限制了州政府持长期繁荣，并妨碍了所有市场参与者公平竞争，从而得出答案 C harmed fair market competition 破坏了公平市场竞争。",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2019-text4-q39",
+      "questionNumber": 39,
+      "questionText": "Who are most likely to welcome the Supreme Court ruling?",
+      "question": "Who are most likely to welcome the Supreme Court ruling?",
+      "options": {
+        "A": "Internet entrepreneurs.",
+        "B": "Big-chair owners.",
+        "C": "Third-party sellers.",
+        "D": "Small retailers."
+      },
+      "answer": "B",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "根据题干可知这是一道推理题。根据题干定位范围确定为第五段，再根据题干细节：most likely to welcome the Supreme Court ruling 确定定位句为第五段的第一句，第一句 the ruling is a victory for big chains 这项裁决对于大型连锁公司来说是个胜利。从而得出答案 B Big-chair owners 大型连锁公司。",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2019-text4-q40",
+      "questionNumber": 40,
+      "questionText": "In dealing with the Supreme Court decision Thursday, the author",
+      "question": "In dealing with the Supreme Court decision Thursday, the author",
+      "options": {
+        "A": "gives a factual account of it and discusses its consequences.",
+        "B": "describes the long and complicated process of its making.",
+        "C": "presents its main points with conflicting views on them.",
+        "D": "cities some cases related to it and analyzes their implications."
+      },
+      "answer": "A",
+      "questionType": "待补充",
+      "type": "待补充",
+      "location": "待补充",
+      "explanation": "本文首段概述事件：最高法院裁定各州可对在线购物征收销售税。第二至四段对新裁定的来 龙去脉进行客观描述，包括其推翻的原裁定内容及推翻的原因。第五至七段介绍了新裁定对各类商家 的影响及他们的反应。由此可见，A 正确。",
+      "thinkingMethod": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "structureMap": [],
+  "status": "待补充",
+  "notes": "Question stems, choices and answers were extracted from the supplied answer-analysis PDF. The English passage is absent from that PDF and remains pending."
+}
