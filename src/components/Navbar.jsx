@@ -22,7 +22,6 @@ const navSections = [
     title: "复盘提升",
     items: [
       { to: "/examiner-thinking", label: "出题人思维" },
-      { to: "/sentences", label: "长难句训练" },
       { to: "/vocabulary", label: "词汇与熟词僻义" },
       { to: "/mistakes", label: "错题本" },
     ],

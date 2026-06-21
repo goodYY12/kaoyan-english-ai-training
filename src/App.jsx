@@ -6,7 +6,6 @@ import ExamCenter from "./pages/ExamCenter";
 import ExaminerThinking from "./pages/ExaminerThinking";
 import MistakeBook from "./pages/MistakeBook";
 import ReadingTraining from "./pages/ReadingTraining";
-import SentenceTraining from "./pages/SentenceTraining";
 import TranslationTraining from "./pages/TranslationTraining";
 import Vocabulary from "./pages/Vocabulary";
 import WritingTraining from "./pages/WritingTraining";
@@ -40,7 +39,6 @@ export default function App() {
             <Route path="/reading" element={<ReadingTraining />} />
             <Route path="/cloze" element={<ClozeTraining />} />
             <Route path="/examiner-thinking" element={<ExaminerThinking />} />
-            <Route path="/sentences" element={<SentenceTraining />} />
             <Route path="/vocabulary" element={<Vocabulary />} />
             <Route path="/translation" element={<TranslationTraining />} />
             <Route path="/writing" element={<WritingTraining />} />
