@@ -1,3 +1,11 @@
+import text2026_1 from "../data/papers/2026/text1.json" with { type: "json" };
+import text2026_2 from "../data/papers/2026/text2.json" with { type: "json" };
+import text2026_3 from "../data/papers/2026/text3.json" with { type: "json" };
+import text2026_4 from "../data/papers/2026/text4.json" with { type: "json" };
+import text2025_1 from "../data/papers/2025/text1.json" with { type: "json" };
+import text2025_2 from "../data/papers/2025/text2.json" with { type: "json" };
+import text2025_3 from "../data/papers/2025/text3.json" with { type: "json" };
+import text2025_4 from "../data/papers/2025/text4.json" with { type: "json" };
 import text2024_1 from "../data/papers/2024/text1.json" with { type: "json" };
 import text2024_2 from "../data/papers/2024/text2.json" with { type: "json" };
 import text2024_3 from "../data/papers/2024/text3.json" with { type: "json" };
@@ -26,19 +34,63 @@ import text2018_1 from "../data/papers/2018/text1.json" with { type: "json" };
 import text2018_2 from "../data/papers/2018/text2.json" with { type: "json" };
 import text2018_3 from "../data/papers/2018/text3.json" with { type: "json" };
 import text2018_4 from "../data/papers/2018/text4.json" with { type: "json" };
-import text1 from "../data/papers/2026/text1.json" with { type: "json" };
-import text2 from "../data/papers/2026/text2.json" with { type: "json" };
-import text3 from "../data/papers/2026/text3.json" with { type: "json" };
-import text4 from "../data/papers/2026/text4.json" with { type: "json" };
+import text2017_1 from "../data/papers/2017/text1.json" with { type: "json" };
+import text2017_2 from "../data/papers/2017/text2.json" with { type: "json" };
+import text2017_3 from "../data/papers/2017/text3.json" with { type: "json" };
+import text2017_4 from "../data/papers/2017/text4.json" with { type: "json" };
+import text2016_1 from "../data/papers/2016/text1.json" with { type: "json" };
+import text2016_2 from "../data/papers/2016/text2.json" with { type: "json" };
+import text2016_3 from "../data/papers/2016/text3.json" with { type: "json" };
+import text2016_4 from "../data/papers/2016/text4.json" with { type: "json" };
+import text2015_1 from "../data/papers/2015/text1.json" with { type: "json" };
+import text2015_2 from "../data/papers/2015/text2.json" with { type: "json" };
+import text2015_3 from "../data/papers/2015/text3.json" with { type: "json" };
+import text2015_4 from "../data/papers/2015/text4.json" with { type: "json" };
+import text2014_1 from "../data/papers/2014/text1.json" with { type: "json" };
+import text2014_2 from "../data/papers/2014/text2.json" with { type: "json" };
+import text2014_3 from "../data/papers/2014/text3.json" with { type: "json" };
+import text2014_4 from "../data/papers/2014/text4.json" with { type: "json" };
+import text2013_1 from "../data/papers/2013/text1.json" with { type: "json" };
+import text2013_2 from "../data/papers/2013/text2.json" with { type: "json" };
+import text2013_3 from "../data/papers/2013/text3.json" with { type: "json" };
+import text2013_4 from "../data/papers/2013/text4.json" with { type: "json" };
+import text2012_1 from "../data/papers/2012/text1.json" with { type: "json" };
+import text2012_2 from "../data/papers/2012/text2.json" with { type: "json" };
+import text2012_3 from "../data/papers/2012/text3.json" with { type: "json" };
+import text2012_4 from "../data/papers/2012/text4.json" with { type: "json" };
+import text2011_1 from "../data/papers/2011/text1.json" with { type: "json" };
+import text2011_2 from "../data/papers/2011/text2.json" with { type: "json" };
+import text2011_3 from "../data/papers/2011/text3.json" with { type: "json" };
+import text2011_4 from "../data/papers/2011/text4.json" with { type: "json" };
+import text2010_1 from "../data/papers/2010/text1.json" with { type: "json" };
+import text2010_2 from "../data/papers/2010/text2.json" with { type: "json" };
+import text2010_3 from "../data/papers/2010/text3.json" with { type: "json" };
+import text2010_4 from "../data/papers/2010/text4.json" with { type: "json" };
+import text2009_1 from "../data/papers/2009/text1.json" with { type: "json" };
+import text2009_2 from "../data/papers/2009/text2.json" with { type: "json" };
+import text2009_3 from "../data/papers/2009/text3.json" with { type: "json" };
+import text2009_4 from "../data/papers/2009/text4.json" with { type: "json" };
+import text2008_1 from "../data/papers/2008/text1.json" with { type: "json" };
+import text2008_2 from "../data/papers/2008/text2.json" with { type: "json" };
+import text2008_3 from "../data/papers/2008/text3.json" with { type: "json" };
+import text2008_4 from "../data/papers/2008/text4.json" with { type: "json" };
+import text2007_1 from "../data/papers/2007/text1.json" with { type: "json" };
+import text2007_2 from "../data/papers/2007/text2.json" with { type: "json" };
+import text2007_3 from "../data/papers/2007/text3.json" with { type: "json" };
+import text2007_4 from "../data/papers/2007/text4.json" with { type: "json" };
 import clozeData from "../data/cloze/clozeData.json" with { type: "json" };
 import translationItems from "../data/translationItems.json" with { type: "json" };
 import writingTemplates from "../data/writingTemplates.json" with { type: "json" };
 
 const rawReadings = [
-  text1,
-  text2,
-  text3,
-  text4,
+  text2026_1,
+  text2026_2,
+  text2026_3,
+  text2026_4,
+  text2025_1,
+  text2025_2,
+  text2025_3,
+  text2025_4,
   text2024_1,
   text2024_2,
   text2024_3,
@@ -67,6 +119,50 @@ const rawReadings = [
   text2018_2,
   text2018_3,
   text2018_4,
+  text2017_1,
+  text2017_2,
+  text2017_3,
+  text2017_4,
+  text2016_1,
+  text2016_2,
+  text2016_3,
+  text2016_4,
+  text2015_1,
+  text2015_2,
+  text2015_3,
+  text2015_4,
+  text2014_1,
+  text2014_2,
+  text2014_3,
+  text2014_4,
+  text2013_1,
+  text2013_2,
+  text2013_3,
+  text2013_4,
+  text2012_1,
+  text2012_2,
+  text2012_3,
+  text2012_4,
+  text2011_1,
+  text2011_2,
+  text2011_3,
+  text2011_4,
+  text2010_1,
+  text2010_2,
+  text2010_3,
+  text2010_4,
+  text2009_1,
+  text2009_2,
+  text2009_3,
+  text2009_4,
+  text2008_1,
+  text2008_2,
+  text2008_3,
+  text2008_4,
+  text2007_1,
+  text2007_2,
+  text2007_3,
+  text2007_4,
 ];
 
 function normalizeTextNumber(textNumber) {

@@ -1,33 +1,32 @@
 {
-  "id": "2021-text3",
   "year": 2021,
   "paperType": "English I",
   "paper": "英语一",
   "section": "Reading Comprehension",
   "textNumber": "Text 3",
-  "title": "待补充",
-  "topic": "待补充",
-  "passage": "待补充",
+  "title": "",
+  "status": "待补充",
+  "passage": "As a historian, who's always searching for the text or the image that\nmakes us re-evaluate the past. I've become preoccupied with looking for\nphotographs that show our Victorian ancestors smiling (what better way\nto shatter the image of 19th-century prudery?). I've found quite a few,\nand - since I started posting them on Twitter - they have been causing\nquite a stir. People have been surprised to see evidence that Victorians\nhad fun and could, and did, laugh. They are noting that the Victorians\nsuddenly seem to become more human as the hundred-or-so years that\nseparate us fade away through our common experience of laughter.\n\nOf course, I need to concede that my collection of \"Smiling\nVictorians\" makes up only a tiny percentage of the vast catalogue of\nphotographic portraiture created between 1840 and 1900, the majority of\nwhich show sitters posing miserably and stiffly in front of painted\nbackdrops, or staring absently into the middle distance. How do we\nexplain this trend?\n\nDuring the 1840s and 1850s, in the early days of photography, exposure\ntimes were notoriously long: the daguerreotype photographic method\n(producing an image on a silvered copper plate) could take several\nminutes to complete, resulting in blurred images as sitters shifted\nposition or adjusted their limbs. The thought of holding a fixed grin as\nthe camera performed its magical duties was too much to contemplate, and\nso a non-committal blank stare became the norm.\n\nBut exposure times were much quicker by the 1880 s, and the introduction\nof the Box Brownie and other portable cameras meant that, though slow by\ntoday's digital standards, the exposure was almost instantaneous.\nSpontaneous smiles were relatively easy to capture by the 1890 s, so we\nmust look elsewhere for an explanation of why Victorians still hesitated\nto smile.\n\nOne explanation might be the loss of dignity displayed through a cheesy\ngrin. \"Nature gave us lips to conceal our teeth,\" ran one popular\nVictorian maxim, alluding to the fact that before the birth of proper\ndentistry, mouths were often in a shocking state of hygiene. A flashing\nset of healthy and clean, regular \"pearly whites\" was a rare sight in\nVictorian society, the preserve of the super-rich (and even then, dental\nhygiene was not guaranteed).\n\nA toothy grin (especially when there were gaps or blackened gnashers)\nlacked class: drunks, tramps, prostitutes and buffoonish music hall\nperformers might gurn and grin with a smile as wide as Lewis Carroll's\ngum-exposing Cheshire Cat, but it was not a becoming look for properly\nbred persons. Even Mark Twain, a man who enjoyed a hearty laugh, said\nthat when it came to photographic portraits there could be \"nothing\nmore damning than a silly, foolish smile fixed forever\".",
   "questions": [
     {
       "id": "2021-text3-q31",
       "questionNumber": 31,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "According to Paragraph 1, the author's posts on Twitter ____.",
+      "question": "According to Paragraph 1, the author's posts on Twitter ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "illustrated the development of Victorian photography",
+        "B": "highlighted social media's role in Victorian studies",
+        "C": "re-evaluated the Victorian's notion of public image",
+        "D": "changed people's impression of the Victorians"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -59,22 +58,22 @@
     {
       "id": "2021-text3-q32",
       "questionNumber": 32,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "What does the author say about the Victorian portraits he has collected?",
+      "question": "What does the author say about the Victorian portraits he has collected?",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "They are rare among photographs of that age.",
+        "B": "They show effects of different exposure times.",
+        "C": "They mirror 19th-century social conventions.",
+        "D": "They are in popular use among historians."
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -106,22 +105,22 @@
     {
       "id": "2021-text3-q33",
       "questionNumber": 33,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "What might have kept the Victorians from smiling for pictures in the 1890s?",
+      "question": "What might have kept the Victorians from smiling for pictures in the 1890s?",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "Their inherent social sensitiveness.",
+        "B": "Their tension before the camera.",
+        "C": "Their distrust of new inventions.",
+        "D": "Their unhealthy dental condition."
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -153,22 +152,22 @@
     {
       "id": "2021-text3-q34",
       "questionNumber": 34,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "Mark Twain is quoted to show that the disapproval of smiles in pictures was ____.",
+      "question": "Mark Twain is quoted to show that the disapproval of smiles in pictures was ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "a deep-root belief",
+        "B": "a misguided attitude",
+        "C": "a controversial view",
+        "D": "a thought-provoking idea"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -200,22 +199,22 @@
     {
       "id": "2021-text3-q35",
       "questionNumber": 35,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "Which of the following questions does the text answer?",
+      "question": "Which of the following questions does the text answer?",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "Why did most Victorians look stern in photographs?",
+        "B": "Why did the Victorians start to view photographs?",
+        "C": "What made photography develop slowly in the Victorian period?",
+        "D": "How did smiling in photographs become a post-Victorian norm? ---"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -252,7 +251,5 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "structureMap": [],
-  "status": "待补充",
-  "notes": "2021 PDF contains no extractable text in the current environment; template only, awaiting manual entry or OCR."
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
 }

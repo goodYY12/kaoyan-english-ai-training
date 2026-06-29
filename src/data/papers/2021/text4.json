@@ -1,33 +1,32 @@
 {
-  "id": "2021-text4",
   "year": 2021,
   "paperType": "English I",
   "paper": "英语一",
   "section": "Reading Comprehension",
   "textNumber": "Text 4",
-  "title": "待补充",
-  "topic": "待补充",
-  "passage": "待补充",
+  "title": "",
+  "status": "待补充",
+  "passage": "From the early days of broadband, advocates for consumers and web-based\ncompanies worried that the cable and phone companies selling broadband\nconnections had the power and incentive to favor their own or their\npartners' websites and services over those of their rivals. That's why\nthere has been such a strong demand for rules that would prevent\nbroadband providers from picking winners and losers online, preserving\nthe freedom and innovation that have been the lifeblood of the internet.\n\nYet that demand has been almost impossible to fill - in part because\nof pushback from broadband providers, anti-regulatory conservatives and\nthe courts. A federal appeals court weighed in again Tuesday, but\ninstead of providing a badly needed resolution, it only prolonged the\nfight. At issue before the U.S. Court of Appeals for the District of\nColumbia Circuit was the latest take of the Federal Communications\nCommission (FCC) on net neutrality, adopted on a party-line vote in 2017. The\nRepublican penned order not only eliminated the strict net neutrality\nrules the FCC had adopted when it had a Democratic majority in 2015, but\nrejected the commission's authority to require broadband providers to do\nmuch of anything. The order also declared that state and local\ngovernments couldn't regulate broadband providers either.\n\nThe commission argued that other agencies would protect against\nanti-competitive behavior, such as a broadband-providing conglomerate\nlike AT\n| T favoring its own video-streaming service at the expense of\nNetflix and Apple TV. Yet the FCC also ended the investigations of\nbroadband providers that imposed data caps on their rivals' streaming\nservices but not their own.\n\nOn Tuesday, the appeals court unanimously upheld the 2017 order\nderegulating broadband providers, citing a Supreme Court ruling from\n2005 that upheld a similarly deregulatory move. But Judge Patricia\nMillett rightly argued in a concurring opinion that \"the result is\nunhinged from the realities of modern broadband service,\" and said\nCongress or the Supreme Court could intervene to \"avoid trapping\nInternet regulation in technological anachronism.\"\n\nIn the meantime, the court threw out the FCC's attempt to block all\nstate rules on net neutrality, while preserving the commission's power\nto pre-empt individual state laws that undermine its order. That means\nmore battles like the one now going on between the Justice Department\nand California, which enacted a tough net neutrality law in the wake of\nthe FCC's abdication.\n\nThe endless legal battles and back-and-forth at the FCC cry out for\nCongress to act. It needs to give the commission explicit authority once\nand for all to bar broadband providers from meddling in the traffic on\ntheir network and to create clear rules protecting openness and\ninnovation online.",
   "questions": [
     {
       "id": "2021-text4-q36",
       "questionNumber": 36,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "There has long been concern that broadband provides would ____.",
+      "question": "There has long been concern that broadband provides would ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "bring web-based firms under control",
+        "B": "slow down the traffic on their network",
+        "C": "show partiality in treating clients",
+        "D": "intensify competition with their rivals"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -59,22 +58,22 @@
     {
       "id": "2021-text4-q37",
       "questionNumber": 37,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "Faced with the demand for net neutrality rules, the FCC ____.",
+      "question": "Faced with the demand for net neutrality rules, the FCC ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "sticks to an out-of-date order",
+        "B": "takes an anti-regulatory stance",
+        "C": "has issued a special resolution",
+        "D": "has allowed the states to intervene"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -106,22 +105,22 @@
     {
       "id": "2021-text4-q38",
       "questionNumber": 38,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "What can be learned about AT | T from Paragraph 3?",
+      "question": "What can be learned about AT | T from Paragraph 3?",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "It protects against unfair competition",
+        "B": "It engages in anti-competitive practices.",
+        "C": "It is under the FCC'S investigation.",
+        "D": "It is in pursuit of quality service."
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -153,22 +152,22 @@
     {
       "id": "2021-text4-q39",
       "questionNumber": 39,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "Judge Patricia Millett argues that the appeals court's decision ____.",
+      "question": "Judge Patricia Millett argues that the appeals court's decision ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "focuses on trivialities",
+        "B": "conveys an ambiguous message",
+        "C": "is at odds with its earlier rulings",
+        "D": "is out of touch with reality"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -200,22 +199,22 @@
     {
       "id": "2021-text4-q40",
       "questionNumber": 40,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "What does the author argue in the last paragraph?",
+      "question": "What does the author argue in the last paragraph?",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "I replace the boring parts of your job. If you're doing research, you can have AI go out and look for relevant sources and information that otherwise you just wouldn't have time for.",
+        "B": "There are also companies like Acquisio, which analyzes advertising performance across multiple channels like Adwords, Bing and social media and makes adjustments or suggestions about where advertising funds will yield best results.",
+        "C": "One accounting firm, EY, uses an AI system that helps review contracts during an audit. This process, along with employees reviewing the contracts, is faster and more accurate.",
+        "D": "You want to predict if something needs attention now and point to where it's useful for employees to go to. E. We're also giving our customers better channels versus picking up the phone to accomplish something beyond human scale. F. Before, they might not insure the ones who felt like a high risk or charge them too much, or they would charge them too little and then it would cost the company money. G. AI looks at résumés in greater numbers than humans would be able to, and selects the more promising candidates. --- **Part C** **Directions:** Read the following text carefully and then translate the underlined segments into Chinese. Write your answers on the ANSWER SHEET. (10 points) World War II was the watershed event for higher education in modern western societies. (46) Those societies came out of the war with levels of enrollment that had been roughly constant at 3-5% of the relevant age groups during the decades before the war. But after the war, great social and political changes arising out of the successful war against Fascism created a growing demand in European and American economies for increasing numbers of graduates with more than a secondary school education. (47) And the demand that rose in those societies for entry to higher education extended to groups and social classes that had not thought of attending to a university before the war. These demands resulted in a very rapid expansion of the systems of higher education, beginning in the 1960s and developing very rapidly (though unevenly) during the 1970s and 1980s. The growth of higher education manifests itself in at least three quite different ways, and these in turn have given rise to different sets of problems. There was first *the rate of growth*: (48) in many countries of Western Europe the numbers of students in higher education doubled within five-year periods during the decade of the 1960s and doubled again in seven, eight, or 10 years by the middle of the 1970 s. Second, growth obviously affected the *absolute size* both of systems and individual institutions. And third, growth was reflected in changes in *the proportion of the relevant age group* enrolled in institutions of higher education. Each of these manifestations of growth carried its own peculiar problems in its wake. For example, a high growth rate placed great strains on the existing structures of governance, of administration, and above all of socialization. When a faculty or department grows from, say, five to 20 members within three or four years, (49) and when the new staff are predominantly young men and women fresh from postgraduate study, they largely define the norms of academic life in that faculty. And if the postgraduate student population also grows rapidly and there is loss of a close apprenticeship relationship between faculty members and students, the student culture becomes the chief socializing force for new postgraduate students, with consequences for the intellectual and academic life of the institution - this was seen in America as well as in France, Italy, West Germany, and Japan. (50) High growth rates increased the chances for academic innovation; they also weakened the forms and processes by which teachers and students are admitted into a community of scholars during periods of stability or slow growth. In the 1960s and 1970s, European universities saw marked changes in their governance arrangements, with the empowerment of junior faculty and to some degree of students as well. --- ## Writing **Part A** **51. Directions:** A foreign friend of yours has recently graduated from college and intends to find a job in China. Write him/her an email to make some suggestions. You should write about 100 words on the ANSWER SHEET. **Do not** use your own name in the email. Use \" Li Ming\" instead. (10 points) **Part B** **52. Directions:** Write an essay of 160-200 words based on the pictures below. In your essay, you should"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -252,7 +251,5 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "structureMap": [],
-  "status": "待补充",
-  "notes": "2021 PDF contains no extractable text in the current environment; template only, awaiting manual entry or OCR."
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
 }

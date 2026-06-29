@@ -1,0 +1,130 @@
+{
+  "year": 2012,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "",
+  "status": "待补充",
+  "passage": "In the idealized version of how science is done, facts about the world\nare waiting to be observed and collected by objective researchers who\nuse the scientific method to carry out their work. But in the everyday\npractice of science, discovery frequently follows an ambiguous and\ncomplicated route. We aim to be objective, but we cannot escape the\ncontext of our unique life experiences. Prior knowledge and interests\ninfluence what we experience, what we think our experiences mean, and\nthe subsequent actions we take. Opportunities for misinterpretation,\nerror, and self-deception abound.\n\nConsequently, discovery claims should be thought of as protoscience.\nSimilar to newly staked mining claims, they are full of potential. But\nit takes collective scrutiny and acceptance to transform a discovery\nclaim into a mature discovery. This is the credibility process, through\nwhich the individual researcher's *me*, *here*, *now* becomes the community's\n*anyone*, *anywhere*, *anytime*. Objective knowledge is the goal, not the\nstarting point.\n\nOnce a discovery claim becomes public, the discoverer receives\nintellectual credit. But, unlike with mining claims, the community takes\ncontrol of what happens next. Within the complex social structure of the\nscientific community, researchers make discoveries; editors and\nreviewers act as gatekeepers by controlling the publication process;\nother scientists use the new finding to suit their own purposes; and\nfinally, the public (including other scientists) receives the new\ndiscovery and possibly accompanying technology. As a discovery claim\nworks its way through the community, the interaction and confrontation\nbetween shared and competing beliefs about the science and the\ntechnology involved transforms an individual's discovery claim into the\ncommunity's credible discovery.\n\nTwo paradoxes exist throughout this credibility process. First,\nscientific work tends to focus on some aspect of prevailing knowledge\nthat is viewed as incomplete or incorrect. Little reward accompanies\nduplication and confirmation of what is already known and believed. The\ngoal is *new-search*, not *re-search.* Not surprisingly, newly\npublished discovery claims and credible discoveries that appear to be\nimportant and convincing will always be open to challenge and potential\nmodification or refutation by future researchers. Second, novelty itself\nfrequently provokes disbelief. Nobel Laureate and physiologist Albert\nSzent-Györgyi once described discovery as \"seeing what everybody has\nseen and thinking what nobody has thought.\" But thinking what nobody\nelse has thought and telling others what they have missed may not change\ntheir views. Sometimes years are required for truly novel discovery\nclaims to be accepted and appreciated.\n\nIn the end, credibility \"happens\" to a discovery claim - a process\nthat corresponds to what philosopher Annette Baier has described as\nthe *commons of the mind*. \"We reason together, challenge, revise, and\ncomplete each other's reasoning and each other's conceptions of\nreason.\"",
+  "questions": [
+    {
+      "id": "2012-text3-q31",
+      "questionNumber": 31,
+      "questionText": "According to the first paragraph, the process of discovery is characterized by its ____.",
+      "question": "According to the first paragraph, the process of discovery is characterized by its ____.",
+      "options": {
+        "A": "uncertainty and complexity",
+        "B": "misconception and deceptiveness",
+        "C": "logicality and objectivity",
+        "D": "systematicness and regularity"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2012-text3-q32",
+      "questionNumber": 32,
+      "questionText": "It can be inferred from Paragraph 2 that credibility process requires ____.",
+      "question": "It can be inferred from Paragraph 2 that credibility process requires ____.",
+      "options": {
+        "A": "strict inspection",
+        "B": "shared efforts",
+        "C": "individual wisdom",
+        "D": "persistent innovation"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2012-text3-q33",
+      "questionNumber": 33,
+      "questionText": "Paragraph 3 shows that a discovery claim becomes credible after it ____.",
+      "question": "Paragraph 3 shows that a discovery claim becomes credible after it ____.",
+      "options": {
+        "A": "has attracted the attention of the general public",
+        "B": "has been examined by the scientific community",
+        "C": "has received recognition from editors and reviewers",
+        "D": "has been frequently quoted by peer scientists"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2012-text3-q34",
+      "questionNumber": 34,
+      "questionText": "Albert Szent-Györgyi would most likely agree that ____.",
+      "question": "Albert Szent-Györgyi would most likely agree that ____.",
+      "options": {
+        "A": "scientific claims will survive challenges",
+        "B": "discoveries today inspire future research",
+        "C": "efforts to make discoveries are justified",
+        "D": "scientific work calls for a critical mind"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2012-text3-q35",
+      "questionNumber": 35,
+      "questionText": "Which of the following would be the best title of the text?",
+      "question": "Which of the following would be the best title of the text?",
+      "options": {
+        "A": "Novelty as an Engine of Scientific Development",
+        "B": "Collective Scrutiny in Scientific Discovery",
+        "C": "Evolution of Credibility in Doing Science",
+        "D": "Challenge to Credibility at the Gate to Science ---"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+}

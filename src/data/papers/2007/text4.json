@@ -1,0 +1,130 @@
+{
+  "year": 2007,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 4",
+  "title": "",
+  "status": "待补充",
+  "passage": "It never rains but it pours. Just as bosses and boards have finally\nsorted out their worst accounting and compliance troubles, and improved\ntheir feeble corporation governance, a new problem threatens to earn\nthem - especially in America - the sort of nasty headlines that\ninevitably lead to heads rolling in the executive suite: data\ninsecurity. Left, until now, to odd, low-level IT staff to put right,\nand seen as a concern only of data-rich industries such as banking,\ntelecoms and air travel, information protection is now high on the\nboss's agenda in businesses of every variety.\n\nSeveral massive leakages of customer and employee data this year - from\norganizations as diverse as Time Warner, the American defense contractor\nScience Applications International Corp and even the University of\nCalifornia, Berkeley - have left managers hurriedly peering into their\nintricate IT systems and business processes in search of potential\nvulnerabilities.\n\n\"Data is becoming an asset which needs to be guarded as much as any\nother asset,\" says Haim Mendelson of Stanford University's business\nschool. \"The ability to guard customer data is the key to market value,\nwhich the board is responsible for on behalf of shareholders.\" Indeed,\njust as there is the concept of Generally Accepted Accounting Principles\n(GAAP), perhaps it is time for GASP, Generally Accepted Security\nPractices, suggested Eli Noam of New York's Columbia Business School.\n\"Setting the proper investment level for security, redundancy, and\nrecovery is a management issue, not a technical one,\" he says.\n\nThe mystery is that this should come as a surprise to any boss. Surely\nit should be obvious to the dimmest executive that trust, that most\nvaluable of economic assets, is easily destroyed and hugely expensive to\nrestore - and that few things are more likely to destroy trust than a\ncompany letting sensitive personal data get into the wrong hands.\n\nThe current state of affairs may have been encouraged - though not\njustified - by the lack of legal penalty (in America, but not Europe)\nfor data leakage. Until California recently passed a law, American firms\ndid not have to tell anyone, even the victim, when data went astray.\nThat may change fast: lots of proposed data-security legislation is now\ndoing the rounds in Washington,\nD.C. Meanwhile, the theft of information\nabout some 40 million credit-card accounts in America, disclosed on June\n17th, overshadowed a hugely important decision a day\nearlier by America's Federal Trade Commission (FTC) that puts corporate\nAmerica on notice that regulators will act if firms fail to provide\nadequate data security.",
+  "questions": [
+    {
+      "id": "2007-text4-q36",
+      "questionNumber": 36,
+      "questionText": "The statement \"It never rains but it pours\" is used to introduce ____.",
+      "question": "The statement \"It never rains but it pours\" is used to introduce ____.",
+      "options": {
+        "A": "the fierce business competition",
+        "B": "the feeble boss-board relations",
+        "C": "the threat from news reports",
+        "D": "the severity of data leakage."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2007-text4-q37",
+      "questionNumber": 37,
+      "questionText": "According to Paragraph 2, some organizations check their systems to find out ____.",
+      "question": "According to Paragraph 2, some organizations check their systems to find out ____.",
+      "options": {
+        "A": "whether there is any weak point",
+        "B": "what sort of data has been stolen",
+        "C": "who is responsible for the leakage",
+        "D": "how the potential spies can be located"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2007-text4-q38",
+      "questionNumber": 38,
+      "questionText": "In bringing up the concept of GASP the author is making the point that ____.",
+      "question": "In bringing up the concept of GASP the author is making the point that ____.",
+      "options": {
+        "A": "shareholders' interests should be properly attended to",
+        "B": "information protection should be given due attention",
+        "C": "businesses should enhance their level of accounting security",
+        "D": "the market value of customer data should be emphasized"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2007-text4-q39",
+      "questionNumber": 39,
+      "questionText": "According to Paragraph 4, what puzzles the author is that some bosses fail to ____.",
+      "question": "According to Paragraph 4, what puzzles the author is that some bosses fail to ____.",
+      "options": {
+        "A": "see the link between trust and data protection",
+        "B": "perceive the sensitivity of personal data",
+        "C": "realize the high cost of data restoration",
+        "D": "appreciate the economic value of trust"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2007-text4-q40",
+      "questionNumber": 40,
+      "questionText": "It can be inferred from Paragraph 5 that ____.",
+      "question": "It can be inferred from Paragraph 5 that ____.",
+      "options": {
+        "A": "Set a Good Example for Your Kids",
+        "B": "Build Your Kids' Work Skills",
+        "C": "Place Time Limits on Leisure Activities",
+        "D": "Talk about the Future on a Regular Basis E. Help Kids Develop Coping Strategies F. Help Your Kids Figure Out Who They Are G. Build Your Kids' Sense of Responsibility **How Can a Parent Help?** Mothers and fathers can do a lot to ensure a safe landing in early adulthood for their kids. Even if a job's starting salary seems too small to satisfy an emerging adult's need for rapid content, the transition from school to work can be less of a setback if the start-up adult is ready for the move. Here are a few measures, drawn from my book *Ready or Not, Here Life Comes*, that parents can take to prevent what I call \"work-life unreadiness\":"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+}

@@ -1,0 +1,130 @@
+{
+  "year": 2025,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "",
+  "status": "待补充",
+  "passage": "I was shocked to learn recently that some scientists want to scale back their research in an\neffort to decrease carbon emissions. The crisis is here, they said, and we need to cut back on our\nenergy-intensive modelling. At the very least, we need to make our energy use far more\nsustainable.\nIt is unarguable that our laboratories, scientific instruments, rockets and satellites — the tools\nwe scientists need to measure the planet’s pulse — demand significant amounts of energy both in\ntheir construction and operation. And it is equally true that science’s unrelenting appetite for\ninformation has caused a mushrooming of energy-intensive data centres around the world.\nAccording to the International Energy Agency, these buildings now consume about 1 percent of\nthe world’s electricity.\nHowever, this is a price we must pay for understanding the world. How can we inform\ndecision makers about the best ways to bring down carbon emissions if we can’t track the amount\nof carbon dioxide in the atmosphere, where it’s coming from and who’s producing it? The carbon\nemissions from technological research are well spent: ultimately this research will safeguard the\nfuture of our planet.\nIt can be hard for scientists to make the case because our work is complex, often takes place\nbehind closed doors and does not always lend itself to easy interpretation or explanation. But\ndemonstrating the efficacy of science will be crucial if we are to solve humanity’s greatest\nchallenges. It is all too easy to feel paralysed in the face of daunting problems such as climate\nchange and to do nothing. But then I think of a friend’s daughter who turned her fears into action:\nshe became a wind energy engineer and now thrives on delivering renewable energy, limiting\nemissions.\nRecognising the hope that science and engineering can bring was the impetus behind the\ncreation of the Millennium Technology Prize, which is now entering its 20th year as a celebration\nof human ingenuity. One of the past winners, Professor Martin Green from the University of New\nSouth Wales, Australia, is the inventor of the Passivated Emitter and Rear Cell technology which\nis now found in most of the world’s solar panels. Thanks to his invention, we have a real chance\nto decrease the world’s carbon emissions.\nEvery day, scientists, technologists and engineers are discovering new ways to exploit\nrenewable energy sources and develop techniques not just to use power more intelligently but to\npower our intelligence. A great example of this is Europe’s largest supercomputer, LUMI in\nFinland, which is astonishingly carbon-negative. Established in an old paper mill, it is powered by\na nearby river and its remote heat warms the people who live in the surrounding town of Kajaani.\nIf the world is to meet its net-zero ambitions, we must think hard about how we can deliver\nsustainable computing and deliver more LUMIs.",
+  "questions": [
+    {
+      "id": "2025-text2-q26",
+      "questionNumber": 26,
+      "questionText": "The author expressed great surprise at some scientists’ ____",
+      "question": "The author expressed great surprise at some scientists’ ____",
+      "options": {
+        "A": "unwillingness to cut carbon emissions.",
+        "B": "intention to reduce their research.",
+        "C": "suspicions about sustainable energy.",
+        "D": "waste of electricity in their projects."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2025-text2-q27",
+      "questionNumber": 27,
+      "questionText": "The author believes that carbon emissions from research ____",
+      "question": "The author believes that carbon emissions from research ____",
+      "options": {
+        "A": "have caused grave consequences.",
+        "B": "have aroused groundless worries.",
+        "C": "are hard to handle at present.",
+        "D": "are justifiable in the long run."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2025-text2-q28",
+      "questionNumber": 28,
+      "questionText": "The example of Green in Paragraph 5 is used to illustrate ____",
+      "question": "The example of Green in Paragraph 5 is used to illustrate ____",
+      "options": {
+        "A": "the achievements of great scientists.",
+        "B": "the urgency of addressing climate change.",
+        "C": "the rewards of scientific endeavours.",
+        "D": "the value of fostering human ingenuity."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2025-text2-q29",
+      "questionNumber": 29,
+      "questionText": "It can be learned from the last two paragraphs that LUMI ____",
+      "question": "It can be learned from the last two paragraphs that LUMI ____",
+      "options": {
+        "A": "is a model of sustainability efforts.",
+        "B": "is a triumph against energy shortage.",
+        "C": "owes much to global net-zero initiatives.",
+        "D": "aims to explore the power of intelligence."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2025-text2-q30",
+      "questionNumber": 30,
+      "questionText": "Which of the following statements would the author agree with?",
+      "question": "Which of the following statements would the author agree with?",
+      "options": {
+        "A": "Emission-free modelling demands extra funding.",
+        "B": "The need for supercomputers is difficult to meet.",
+        "C": "Energy-intensive research work is inevitable.",
+        "D": "The goals of researchers ought to be realistic."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+}

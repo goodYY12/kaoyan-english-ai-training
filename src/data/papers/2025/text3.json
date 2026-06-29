@@ -1,0 +1,130 @@
+{
+  "year": 2025,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "",
+  "status": "待补充",
+  "passage": "Ever since taking on Netflix Inc. at its own game, old Hollywood has struggled to turn a\nprofit in streaming, with the likes of Disney+, Peacock and Paramount+ losing billions of dollars\neach year, sparking concerns that the services will never be as profitable as cable once was. But\nthe age of streaming has been a boon for some unintended winners: pirates that use software to rip\na film or television show in seconds from legitimate online video platforms and host the titles on\ntheir own, illegitimate services, which rake in about $2 billion annually from ads and subscriptions.\nWith no video production costs, illegal streaming sites have achieved profit margins\napproaching 90%, according to the Motion Picture Association (MPA), a trade group representing\nHollywood studios that’s working to crack down on the thousands of illegal platforms that have\ncropped up in recent years.\nInitially the rise of legitimate online businesses such as Netflix actually helped curb digital\npiracy, which had largely been based on file uploads. But now piracy involving illegal streaming\nservices as well as file-sharing costs the US economy about $30 billion in lost revenue a year and\nsome 250,000 jobs, estimates the US Chamber of Commerce’s Global Innovation Policy Center.\nThe global impact is about $71 billion annually.\n“The people who are stealing our movies and our television shows and operating piracy sites\nare not mom and pop operations,” says Charlie Rivkin, chief executive officer of the MPA. “This\nis organized crime.” Rivkin joined the MPA in 2017 after the organization failed five years earlier\nto build consensus between Hollywood and Silicon Valley to win passage of legislation in\nCongress aimed at stopping online piracy. In 2017 the association formed the Alliance for\nCreativity and Entertainment (ACE), an enforcement task force of about 100 detectives circling\nthe globe to help local authorities arrest streaming pirates.\nACE says it’s helped shrink the number of illegal streaming services in North America to 126,\nfrom more than 1,400 in 2018, aided in part by the MPA’s support for a 2020 federal law that\nmade large-scale streaming of copyright material a serious crime.\nConsulting firm Parks Associates predicts that legitimate US streaming services’ cumulative\nloss from piracy since 2022 will reach $113 billion in the next two years. “While there is some\noptimism that emerging countermeasures and best practices may see piracy begin to plateau by\n2027, there is no consensus among stakeholders as to when it may begin to decline,” says analyst\nSteve Hawley.",
+  "questions": [
+    {
+      "id": "2025-text3-q31",
+      "questionNumber": 31,
+      "questionText": "According to Paragraph 1, legitimate streaming services ____",
+      "question": "According to Paragraph 1, legitimate streaming services ____",
+      "options": {
+        "A": "have drawn lessons from Hollywood.",
+        "B": "have surpassed cable in revenue.",
+        "C": "are unpopular with advertisers.",
+        "D": "are confronted with a real threat."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2025-text3-q32",
+      "questionNumber": 32,
+      "questionText": "It can be learned that streamers like Netflix ____",
+      "question": "It can be learned that streamers like Netflix ____",
+      "options": {
+        "A": "played a part in the fight against illegal file-sharing.",
+        "B": "reaped benefits from the war with digital pirates.",
+        "C": "promised to become big job creators in the US.",
+        "D": "used to collaborate with file-uploading platforms."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2025-text3-q33",
+      "questionNumber": 33,
+      "questionText": "It can be inferred from Paragraph 4 that the MPA ____",
+      "question": "It can be inferred from Paragraph 4 that the MPA ____",
+      "options": {
+        "A": "was denied cooperation by Silicon Valley.",
+        "B": "led a national protest against online piracy.",
+        "C": "was urged to form an enforcement task force.",
+        "D": "failed to win support from local authorities."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2025-text3-q34",
+      "questionNumber": 34,
+      "questionText": "According to Hawley, digital piracy ____",
+      "question": "According to Hawley, digital piracy ____",
+      "options": {
+        "A": "cannot be checked in spite of new legislation.",
+        "B": "will possibly overwhelm legitimate streamers.",
+        "C": "is unlikely to diminish in the near future.",
+        "D": "has been underestimated by some analysts."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2025-text3-q35",
+      "questionNumber": 35,
+      "questionText": "Which of the following is emphasized in the text?",
+      "question": "Which of the following is emphasized in the text?",
+      "options": {
+        "A": "The need to coordinate anti-piracy action.",
+        "B": "The criminal nature of copyright violation.",
+        "C": "The prospect of eliminating online piracy.",
+        "D": "The economic harm from illegal streaming."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+}

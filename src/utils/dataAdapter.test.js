@@ -19,7 +19,10 @@ import {
 
 test("normalizes readings and exposes available years", () => {
   const years = getAvailableYears();
-  assert.deepEqual(years, [2026, 2024, 2023, 2022, 2021, 2020, 2019, 2018]);
+  assert.deepEqual(years, [
+    2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015,
+    2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007,
+  ]);
 
   const readings = getReadingsByYear(2026);
   assert.equal(readings.length, 4);
@@ -52,16 +55,27 @@ test("normalizes readings and exposes available years", () => {
     assert.equal(imported[0].id, `${year}-text1`);
     assert.equal(imported[0].questions.length, 5);
   }
+
+  for (const year of [2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007]) {
+    const imported = getReadingsByYear(year);
+    assert.equal(imported.length, 4);
+    assert.equal(imported[0].id, `${year}-text1`);
+    assert.equal(imported[0].questions.length, 5);
+  }
 });
 
 test("exposes unified exam years from all module data", () => {
-  assert.deepEqual(getExamYears(), [2026, 2024, 2023, 2022, 2021, 2020, 2019, 2018]);
+  assert.deepEqual(getExamYears(), [
+    2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015,
+    2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007,
+  ]);
 });
 
-test("does not mark partial answer-analysis imports as complete readings", () => {
-  assert.equal(hasReadingData(getReadingsByYear(2019)[0]), false);
+test("distinguishes complete reading data from answerless imports", () => {
+  assert.equal(hasReadingData(getReadingsByYear(2019)[0]), true);
   assert.equal(hasReadingData(getReadingsByYear(2018)[0]), false);
   assert.equal(hasReadingData(getReadingsByYear(2020)[0]), false);
+  assert.equal(hasReadingData(getReadingsByYear(2025)[0]), false);
   assert.equal(hasReadingData(getReadingsByYear(2026)[0]), true);
 });
 

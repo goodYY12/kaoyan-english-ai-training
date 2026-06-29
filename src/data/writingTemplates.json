@@ -1,39 +1,5 @@
 [
   {
-    "type": "小作文",
-    "title": "建议信基础结构",
-    "template": [
-      "说明写信目的",
-      "给出两至三条具体建议",
-      "表达期待与祝愿"
-    ],
-    "sentences": [
-      "I am writing to offer a few practical suggestions.",
-      "It would be helpful to consider..."
-    ],
-    "replacements": [
-      "helpful -> beneficial",
-      "consider -> take into account"
-    ]
-  },
-  {
-    "type": "大作文",
-    "title": "图画作文基础结构",
-    "template": [
-      "准确描述图画",
-      "解释象征意义",
-      "分析影响并提出建议"
-    ],
-    "sentences": [
-      "The drawing highlights a phenomenon that deserves attention.",
-      "What matters most is that..."
-    ],
-    "replacements": [
-      "important -> significant",
-      "show -> illustrate"
-    ]
-  },
-  {
     "id": "2026-writing",
     "year": 2026,
     "paper": "英语一",
@@ -82,30 +48,54 @@
     }
   },
   {
+    "id": "2025-writing",
+    "year": 2025,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\nRead the following email from your classmate Paul and write him a reply.\nWrite your answer in about 100 words on the ANSWER SHEET.\nDo not use your own name in your email; use “Li Ming” instead. (10 points)\n\nDear Li Ming,\nI was really excited to hear that you’d invite some young craftsmen to demonstrate\ntheir innovative craft-making on campus. May I know more about what they’ll Show?\nAlso, I’d like to help with your preparation work. Please let me know what I can do.\n\nYours,\nPaul",
+      "taskType": "???",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\nWrite an essay of 160-200 based on the following table. In your essay, you should\n1) describe the table briefly,\n2) explain its intended meaning, and\n3) give your comments.\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n年份 空调（台） 洗衣机（台） 电冰箱（台）\n2014 75.2 83.7 85.5\n2017 96.1 91.7 95.3\n2020 117.7 96.7 101.8\n2023 145.9 98.2 103.4\n近年来全国居民平均每百户年末主要耐用消费品拥有量",
+      "topic": "???",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2024-writing",
     "year": 2024,
-    "status": "已接入",
-    "tasks": [
-      {
-        "type": "小作文",
-        "prompt": "Read the following email from a student. Write a reply.\n\nDear Li Ming,\nI have got a class assignment to make an oral report on an ancient Chinese scientist. I am not sure how to prepare for it. Could you give me some advice? Thanks for your help.\nYours,\nPaul\n\nWrite your letter in no less than 100 words. Do not sign your own name at the end of the letter. Use Li Ming instead.",
-        "structure": "开头回应求助并说明写信目的；主体建议选择科学家、查找可靠资料、整理报告提纲；结尾表达祝愿并欢迎继续联系。",
-        "expressions": [
-          "I am writing to offer you some practical suggestions.",
-          "It is advisable to organize your findings into a clear outline.",
-          "Feel free to contact me if you have any further questions."
-        ],
-        "deductions": "容易扣分点：没有回应对方求助；建议太空泛；格式缺少称呼或落款；字数不足。"
-      },
-      {
-        "type": "大作文",
-        "prompt": "2024 年英语一大作文题目数据待补充。当前 PDF 文本页未完整显示大作文图画内容，暂不乱编真实图画。",
-        "structure": "待补充",
-        "expressions": [
-          "待补充"
-        ],
-        "deductions": "待补充"
-      }
-    ]
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\nRead the following email from an international student and write a reply.\n\nWrite your answer in about 100 words on the ANSWER SHEET.\nDo not use your own name in your email; use “Li Ming” instead. (10 points)\n\nDear Li Ming,\nI’ve got a class assignment to make an oral report on an ancient Chinese\nscientist, but I’m not sure how to prepare for it. Can you give me some advice?\nThank you for your help.\nYours,\nPaul",
+      "taskType": "???",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\nWrite an essay based on the picture and the chart below. In your essay, you should\n1) describe the picture and the chart briefly,\n2) interpret the implied meaning, and\n3) give your comments.\nWrite your answer in 160-200 words on the ANSWER SHEET. (20 points)\n\n406\n532\n670\n2020 年 2021 年 2022 年\n某市近三年公园数量\n（单位：座）",
+      "topic": "???",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
   {
     "id": "2023-writing",
@@ -225,9 +215,9 @@
     "id": "2021-writing",
     "year": 2021,
     "paper": "英语一",
-    "status": "待补充",
+    "status": "已有数据",
     "smallWriting": {
-      "prompt": "待补充",
+      "prompt": "51. Directions:\n\nA foreign friend of yours has recently graduated from college and\nintends to find a job in China. Write him/her an email to make some\nsuggestions.\n\nYou should write about 100 words on the ANSWER SHEET.\n\n**Do not** use your own name in the email. Use \" Li Ming\"\ninstead. (10 points)",
       "taskType": "待补充",
       "writingIdeas": [],
       "structure": [],
@@ -236,7 +226,7 @@
       "sampleEssay": ""
     },
     "bigWriting": {
-      "prompt": "待补充",
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the pictures below. In\nyour essay, you should\n\n1. describe the picture briefly,\n2. interpret its intended meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET. (20 points)",
       "topic": "待补充",
       "writingIdeas": [],
       "structure": [],
@@ -244,7 +234,32 @@
       "commonMistakes": [],
       "sampleEssay": ""
     },
-    "notes": "2021 writing template only; content awaits manual entry."
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2020-writing",
+    "year": 2020,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nThe Students Union of your university has assigned you to inform the\ninternational students about an upcoming singing contest. Write a notice\nin about 100 words.\n\nWrite your answer on the ANSWER SHEET.\n\n**Do not** use your own name in the notice. (10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the picture below. In your\nessay, you should\n\n1. describe the picture briefly,\n2. interpret the implied meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n\n\ncaption*习惯",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
   {
     "id": "2019-writing",
@@ -327,13 +342,13 @@
     }
   },
   {
-    "id": "2020-writing",
-    "year": 2020,
+    "id": "2017-writing",
+    "year": 2017,
     "paper": "英语一",
-    "status": "待补充",
+    "status": "已有数据",
     "smallWriting": {
-      "prompt": "",
-      "taskType": "",
+      "prompt": "51. Directions:\n\nYou are to write an email to James Cook, a newly-arrived Australian\nprofessor, recommending some tourist attractions in your city. Please\ngive reasons for your recommendation.\n\nYou should write neatly on the ANSWER SHEET.\n\n**Do not** sign your own name at the end of the email. Use \"Li\nMing\" instead.\n\n**Do not** write the address. (10 points)",
+      "taskType": "待补充",
       "writingIdeas": [],
       "structure": [],
       "usefulExpressions": [],
@@ -341,14 +356,298 @@
       "sampleEssay": ""
     },
     "bigWriting": {
-      "prompt": "",
-      "topic": "",
+      "prompt": "52. Directions:\n\nWrite an essay of 160 - 200 words based on the following pictures. In\nyour essay, you should\n\n1. describe the pictures briefly,\n2. interpret the meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n\n\ncaption*“有书”与“读书”",
+      "topic": "待补充",
       "writingIdeas": [],
       "structure": [],
       "usefulExpressions": [],
       "commonMistakes": [],
       "sampleEssay": ""
     },
-    "notes": "Image-only PDF; OCR or a text PDF is required."
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2016-writing",
+    "year": 2016,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nSuppose you are a librarian in your university. Write a notice of\nabout 100 words. providing the newly-enrolled international students\nwith relevant information about the library.\n\nYou should write neatly on the ANSWER SHEET.\n\n**Do not** sign your own name at the end of the notice. Use Li\nMing instead.\n\n**Do not** write the address. (10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following pictures. In\nyour essay, you should\n\n1. describe the pictures briefly\n2. interpret the meaning , and\n3. give your comments\n\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n\n\ncaption*与其只提要求，不如做个榜样",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2015-writing",
+    "year": 2015,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nYou are going to host a club reading session. Write an email of about\n100 words recommending a book to the club members.\n\nYou should state reasons for your recommendation.\n\nYou should write neatly on the ANSWER SHEET.\n\n**Do not** sign your own name at the end of the letter. Use Li Ming\ninstead.\n\n**Do not** write the address. (10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly\n2. explain its intended meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n\n\ncaption*手机时代的聚会",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2014-writing",
+    "year": 2014,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nWrite a letter of about 100 words to the president of your university,\nsuggesting how to improve students' physical condition.\n\nYou should include the details you think necessary.\n\nYou should write neatly on the ANSWER SHEET.\n\n**Do not** sign your own name at the end of the letter. Use \"Li\nMing\" instead.\n\n**Do not** write the address.(10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. interpret its intended meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n\n\ncaption*相携",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2013-writing",
+    "year": 2013,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nWrite an e-mail of about 100 words to a foreign teacher in your college,\ninviting him/her to be a judge for the upcoming English speech contest.\n\nYou should include the details you think necessary.\n\nYou should write neatly on the ANSWER SHEET 2.\n\n**Do not** sign your own name at the end of the e-mail. Use \"Li Ming\"\ninstead.\n\n**Do not** write the address. (10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay you should\n\n1. describe the drawing briefly\n2. explain its intended meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET 2. (20 points)\n\n\n\ncaption*选择",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2012-writing",
+    "year": 2012,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nSome international students are coming to your university. Write them an\nemail in the name of the Students' Union to\n\n1. extend your welcome and\n2. provide some suggestions for their campus life here.\n\nYou should write about 100 words on ANSWER SHEET 2.\n\n**Do not** sign your own name at the end of the letter. Use \"Li\nMing\" instead.\n\n**Do not** write the address. (10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and\n3. give your comments.\n\nYou should write neatly on ANSWER SHEET 2. (20 points)",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2011-writing",
+    "year": 2011,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nWrite a letter to a friend of yours to\n\n1. recommend one of your favorite movies and\n2. give reasons for your recommendation.\n\nYou should write about 100 words on ANSWER SHEET 2.\n\n**Do not** sign your own name at the end of the letter. Use \"Li\nMing\" instead.\n\n**Do not** write the address. (10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and\n3. give your comments.\n\nYou should write neatly on ANSWER SHEET 2. (20 points)\n\n\n\ncaption*旅程之“余”",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2010-writing",
+    "year": 2010,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nYou are supposed to write for the postgraduate association a notice to\nrecruit volunteers for an international conference on globalization, you\nshould conclude the basic qualification of applicant and the other\ninformation you think relative.\n\nYou should write about 100 words on **ANSHWER SHEET 2**.\n\n**Do not** sign your own name at\nthe end of the letter. Use \"postgraduate association\" instead. (10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and\n3. give your comments.\n\nYou should write neatly on **ANSHWER SHEET 2**. (20 points)\n\n\n\ncaption*文化“火锅”，既美味又营养",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2009-writing",
+    "year": 2009,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nRestrictions on the use of plastic bags have not been so successful in\nsome regions. \"White Pollution\" is still going on.\nWrite a letter to the editor (s) of your local newspaper to\n\n1. give your opinions briefly, and\n2. make two or three suggestions\n\nYou should write about 100 words on ANSWER SHEET 2.\n\n**Do not** sign your ow name at the end of the letter. Use \"Li Ming\" instead.\n\n**Do not** write the\naddress. (10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and then\n3. give your comments.\n\nYou should write neatly on ANSHWER SHEET 2. (20 points)\n\n\n\ncaption*网络的“近”与“远”",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2008-writing",
+    "year": 2008,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nYou have just come back from Canada and found a music CD\nin your luggage that you forgot to return to Bob, your landlord there.\nWrite him a letter to\n\n1. make an apology, and\n2. suggest a solution.\n\nYou should write about 100 words on ANSWER SHEET 2.\n\n**Do not** sign your own name at the end of the letter. Use \"Li\nMing\" instead.\n\n**Do not** write the address. (10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and then\n3. give your comments.\n\nYou should write neatly on ANSHWER SHEET 2. (20 points)",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "id": "2007-writing",
+    "year": 2007,
+    "paper": "英语一",
+    "status": "已有数据",
+    "smallWriting": {
+      "prompt": "51. Directions:\n\nWrite a letter to your university library, making suggestions for\nimproving its service.\n\nYou should write about 100 words on ANSWER SHEET 2.\n\n**Do not** sign your own name at the end of the letter. Use \"Li\nMing\" instead.\n\n**Do not** write the address. (10 points)",
+      "taskType": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "bigWriting": {
+      "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and then\n3. support your view with an example/examples.\n\nYou should write neatly on ANSWER SHEET 2. (20 points)",
+      "topic": "待补充",
+      "writingIdeas": [],
+      "structure": [],
+      "usefulExpressions": [],
+      "commonMistakes": [],
+      "sampleEssay": ""
+    },
+    "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
+  },
+  {
+    "type": "小作文",
+    "title": "建议信基础结构",
+    "template": [
+      "说明写信目的",
+      "给出两至三条具体建议",
+      "表达期待与祝愿"
+    ],
+    "sentences": [
+      "I am writing to offer a few practical suggestions.",
+      "It would be helpful to consider..."
+    ],
+    "replacements": [
+      "helpful -> beneficial",
+      "consider -> take into account"
+    ]
+  },
+  {
+    "type": "大作文",
+    "title": "图画作文基础结构",
+    "template": [
+      "准确描述图画",
+      "解释象征意义",
+      "分析影响并提出建议"
+    ],
+    "sentences": [
+      "The drawing highlights a phenomenon that deserves attention.",
+      "What matters most is that..."
+    ],
+    "replacements": [
+      "important -> significant",
+      "show -> illustrate"
+    ]
   }
 ]

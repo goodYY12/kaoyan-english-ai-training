@@ -1,0 +1,130 @@
+{
+  "year": 2010,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "",
+  "status": "待补充",
+  "passage": "In his book *The Tipping Point*, Malcolm Gladwell argues that \"social\nepidemics\" are driven in large part by the acting of a tiny minority of\nspecial individuals, often called influentials, who are unusually\ninformed, persuasive, or well-connected. The idea is intuitively\ncompelling, but it doesn't explain how ideas actually spread.\n\nThe supposed importance of influentials derives from a\nplausible-sounding but largely untested theory called the \" two-step\nflow of communication\": Information flows from the media to the\ninfluentials and from them to everyone else. Marketers have embraced the\ntwo-step flow because it suggests that if they can just find and\ninfluence the influentials, those selected people will do most of the\nwork for them. The theory also seems to explain the sudden and\nunexpected popularity of certain looks, brands, or neighborhoods. In\nmany such cases, a cursory search for causes finds that some small group\nof people was wearing, promoting, or developing whatever it is before\nanyone else paid attention. Anecdotal evidence of this kind fits nicely\nwith the idea that only certain special people can drive trends.\n\nIn their recent work, however, some researchers have come up with the\nfinding that influentials have far less impact on social epidemics than\nis generally supposed. In fact, they don't seem to be required at all.\n\nThe researchers' argument stems from a simple observing about social\ninfluence: With the exception of a few celebrities like Oprah\nWinfrey - whose outsize presence is primarily a function of media, not\ninterpersonal, influence - even the most influential members of a\npopulation simply don't interact with that many others. Yet it is\nprecisely these non-celebrity influentials who, according to the\ntwo-step-flow theory, are supposed to drive social epidemics, by\ninfluencing their friends and colleagues directly. For a social epidemic\nto occur, however, each person so affected, must then influence his or\nher own acquaintances, who must in turn influence theirs, and so on; and\njust how many others pay attention to each of these people has little to\ndo with the initial influential. If people in the network just two\ndegrees removed from the initial influential prove resistant, for\nexample, the cascade of change won't propagate very far or affect many\npeople.\n\nBuilding on the basic truth about interpersonal influence, the\nresearchers studied the dynamics of social influence by conducting\nthousands of computer simulations of populations, manipulating a number\nof variables relating to people's ability to influence others and their\ntendency to be influenced. They found that the principal requirement for\nwhat is called \"global cascades\" - the widespread propagation of\ninfluence through networks - is the presence not of a few influentials\nbut, rather, of a critical mass of easily influenced people.",
+  "questions": [
+    {
+      "id": "2010-text3-q31",
+      "questionNumber": 31,
+      "questionText": "By citing the book *The Tipping Point*, the author intends to ____.",
+      "question": "By citing the book *The Tipping Point*, the author intends to ____.",
+      "options": {
+        "A": "analyze the consequences of social epidemics",
+        "B": "discuss influentials' function in spreading ideas",
+        "C": "exemplify people's intuitive response to social epidemics",
+        "D": "describe the essential characteristics of influentials"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2010-text3-q32",
+      "questionNumber": 32,
+      "questionText": "The author suggests that the \"two-step-flow theory\" ____.",
+      "question": "The author suggests that the \"two-step-flow theory\" ____.",
+      "options": {
+        "A": "serves as a solution to marketing problems",
+        "B": "has helped explain certain prevalent trends",
+        "C": "has won support from influentials",
+        "D": "requires solid evidence for its validity"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2010-text3-q33",
+      "questionNumber": 33,
+      "questionText": "What the researchers have observed recently shows that ____.",
+      "question": "What the researchers have observed recently shows that ____.",
+      "options": {
+        "A": "the power of influence goes with social interactions",
+        "B": "interpersonal links can be enhanced through the media",
+        "C": "influentials have more channels to reach the public",
+        "D": "most celebrities enjoy wide media attention"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2010-text3-q34",
+      "questionNumber": 34,
+      "questionText": "The underlined phrase \"these people\" in Paragraph 4 refers to the ones who ____.",
+      "question": "The underlined phrase \"these people\" in Paragraph 4 refers to the ones who ____.",
+      "options": {
+        "A": "stay outside the network of social influence",
+        "B": "have little contact with the source of influence",
+        "C": "are influenced and then influence others",
+        "D": "are influenced by the initial influential"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2010-text3-q35",
+      "questionNumber": 35,
+      "questionText": "What is the essential element in the dynamics of social influence?",
+      "question": "What is the essential element in the dynamics of social influence?",
+      "options": {
+        "A": "The eagerness to be accepted.",
+        "B": "The impulse to influence others.",
+        "C": "The readiness to be influenced.",
+        "D": "The inclination to rely on others. ---"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+}

@@ -1,0 +1,130 @@
+{
+  "year": 2014,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "",
+  "status": "待补充",
+  "passage": "All around the world, lawyers generate more hostility than the members\nof any other profession - with the possible exception of journalism.\nBut there are few places where clients have more grounds for complaint\nthan America.\n\nDuring the decade before the economic crisis, spending on legal services\nin America grew twice as fast as inflation. The best lawyers made\nskyscrapers-full of money, tempting ever more students to pile into law\nschools. But most law graduates never get a big-firm job. Many of them\ninstead become the kind of nuisance-lawsuit filer that makes the tort\nsystem a costly nightmare.\n\nThere are many reasons for this. One is the excessive costs of a legal\neducation. There is just one path for a lawyer in most American states:\na four-year undergraduate degree in some unrelated subjects, then a\nthree-year law degree at one of 200 law schools authorized by the\nAmerican Bar Association and an expensive preparation for the bar exam.\nThis leaves today's average law-school graduate with\n$100, 000 of debt\non top of undergraduate debts. Law-school debt means that they have to\nwork fearsomely hard.\n\nReforming the system would help both lawyers and their customers.\nSensible ideas have been around for a long time, but the state-level\nbodies that govern the profession have been too conservative to\nimplement them. One idea is to allow people to study law as an\nundergraduate degree. Another is to let students sit for the bar after\nonly two years of law school. If the bar exam is truly a stern enough\ntest for a would-be lawyer, those who can sit it earlier should be\nallowed to do so. Students who do not need the extra training could cut\ntheir debt mountain by a third.\n\nThe other reason why costs are so high is the restrictive guild-like\nownership structure of the business. Except in the District of Columbia,\nnon-lawyers may not own any share of a law firm. This keeps fees high\nand innovation slow. There is pressure for change from within the\nprofession, but opponents of change among the regulators insist that\nkeeping outsiders out of a law firm isolates lawyers from the pressure\nto make money rather than serve clients ethically.\n\nIn fact, allowing non-lawyers to own shares in law firms would reduce\ncosts and improve services to customers, by encouraging law firms to use\ntechnology and to employ professional managers to focus on improving\nfirms' efficiency. After all, other countries, such as Australia and\nBritain, have started liberalizing their legal professions. America\nshould follow.",
+  "questions": [
+    {
+      "id": "2014-text2-q26",
+      "questionNumber": 26,
+      "questionText": "A lot of students take up law as their profession due to ____.",
+      "question": "A lot of students take up law as their profession due to ____.",
+      "options": {
+        "A": "the growing demand from clients",
+        "B": "the increasing pressure of inflation",
+        "C": "the prospect of working in big firms",
+        "D": "the attraction of financial rewards"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2014-text2-q27",
+      "questionNumber": 27,
+      "questionText": "Which of the following adds to the costs of legal education in most American states?",
+      "question": "Which of the following adds to the costs of legal education in most American states?",
+      "options": {
+        "A": "Higher tuition fees for undergraduate studies.",
+        "B": "Admissions approval from the bar association.",
+        "C": "Pursuing a bachelor's degree in another major.",
+        "D": "Receiving training by professional associations."
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2014-text2-q28",
+      "questionNumber": 28,
+      "questionText": "Hindrance to the reform of the legal system originates from ____.",
+      "question": "Hindrance to the reform of the legal system originates from ____.",
+      "options": {
+        "A": "lawyers' and clients' strong resistance",
+        "B": "the rigid bodies governing the profession",
+        "C": "the stern exam for would-be lawyers",
+        "D": "non-professionals' sharp criticism"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2014-text2-q29",
+      "questionNumber": 29,
+      "questionText": "The guild-like ownership structure is considered \"restrictive\" partly because it ____.",
+      "question": "The guild-like ownership structure is considered \"restrictive\" partly because it ____.",
+      "options": {
+        "A": "bans outsiders' involvement in the profession",
+        "B": "keeps lawyers from holding law-firm shares",
+        "C": "aggravates the ethical situation in the trade",
+        "D": "prevents lawyers from gaining due profits"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2014-text2-q30",
+      "questionNumber": 30,
+      "questionText": "In this text, the author mainly discusses ____.",
+      "question": "In this text, the author mainly discusses ____.",
+      "options": {
+        "A": "flawed ownership of America's law firms and its causes",
+        "B": "the factors that help make a successful lawyer in America",
+        "C": "a problem in America's legal profession and solutions to it",
+        "D": "the role of undergraduate studies in America's legal education ---"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+}

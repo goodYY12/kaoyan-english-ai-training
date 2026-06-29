@@ -1,0 +1,130 @@
+{
+  "year": 2015,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "",
+  "status": "待补充",
+  "passage": "The journal Science is adding an extra round of statistical checks to\nits peer-review process, editor-in-chief Marcia McNutt announced today.\nThe policy follows similar efforts from other journals, after widespread\nconcern that basic mistakes in data analysis are contributing to the\nirreproducibility of many published research findings.\n\n\"Readers must have confidence in the conclusions published in our\njournal,\" writes McNutt in an editorial. Working with the American\nStatistical Association, the journal has appointed seven experts to a\nstatistic board of reviewing editors (SBoRE). Manuscript will be\nflagged up for additional scrutiny by the journal's internal\neditors, or by its existing Board of Reviewing Editors or by outside\npeer reviewers. The SBoRE panel will then find external statisticians to\nreview these manuscripts.\n\nAsked whether any particular papers had impelled the change, McNutt\nsaid: \"The creation of the `statistics board' was motivated by concerns\nbroadly with the application of statistics and data analysis in\nscientific research and is part of Science's overall drive to increase\nreproducibility in the research we publish.\"\n\nGiovanni Parmigiani, a biostatistician at the Harvard School of Public\nHealth, a member of the SBoRE group, says he expects the board to \"play\nprimarily an advisory role.\" He agreed to join because he \"found the\nforesight behind the establishment of the SBoRE to be novel, unique and\nlikely to have a lasting impact. This impact will not only be through\nthe publications in Science itself, but hopefully through a larger group\nof publishing places that may want to model their approach\nafter *Science*.\"\n\nJohn Ioannidis, a physician who studies research methodology, says that\nthe policy is \"a most welcome step forward\" and \"long overdue.\"\n\"Most journals are weak in statistical review, and this damages the\nquality of what they publish. I think that, for the majority of\nscientific papers nowadays, statistical review is more essential than\nexpert review,\" he says. But he noted that biomedical journals such as\n*Annals of Internal Medicine, the Journal of the American Medical\nAssociation* and *The Lancet* pay strong attention to statistical review.\n\nProfessional scientists are expected to know how to analyze data, but\nstatistical errors are alarmingly common in published research,\naccording to David Vaux, a cell biologist. Researchers should improve\ntheir standards, he wrote in 2012, but journals should also take a\ntougher line, \"engaging reviewers who are statistically literate and\neditors who can verify the process.\" Vaux says that Science's idea to\npass some papers to statisticians \"has some merit, but a weakness is\nthat it relies on the board of reviewing editors to identify `the papers\nthat need scrutiny' in the first place\".",
+  "questions": [
+    {
+      "id": "2015-text3-q31",
+      "questionNumber": 31,
+      "questionText": "It can be learned from Paragraph 1 that ____.",
+      "question": "It can be learned from Paragraph 1 that ____.",
+      "options": {
+        "A": "*Science* intends to simplify its peer-review process",
+        "B": "journals are strengthening their statistical checks",
+        "C": "few journals are blamed for mistakes in data analysis",
+        "D": "lack of data analysis is common in research projects"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2015-text3-q32",
+      "questionNumber": 32,
+      "questionText": "The phrase \"flagged up\" (Para. 2) is the closest in meaning to ____.",
+      "question": "The phrase \"flagged up\" (Para. 2) is the closest in meaning to ____.",
+      "options": {
+        "A": "found",
+        "B": "marked",
+        "C": "revised",
+        "D": "stored"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2015-text3-q33",
+      "questionNumber": 33,
+      "questionText": "Giovanni Parmigiani believes that the establishment of the SBoRE may ____.",
+      "question": "Giovanni Parmigiani believes that the establishment of the SBoRE may ____.",
+      "options": {
+        "A": "pose a threat to all its peers",
+        "B": "meet with strong opposition",
+        "C": "increase *Science*'s circulation",
+        "D": "set an example for other journals"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2015-text3-q34",
+      "questionNumber": 34,
+      "questionText": "David Vaux holds that what *Science* is doing now ____.",
+      "question": "David Vaux holds that what *Science* is doing now ____.",
+      "options": {
+        "A": "adds to researchers' workload",
+        "B": "diminishes the role of reviewers",
+        "C": "has room for further improvement",
+        "D": "is to fail in the foreseeable future"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2015-text3-q35",
+      "questionNumber": 35,
+      "questionText": "Which of the following is the best title of the text?",
+      "question": "Which of the following is the best title of the text?",
+      "options": {
+        "A": "*Science* Joins Push to Screen Statistics in Papers",
+        "B": "Professional Statisticians Deserve More Respect",
+        "C": "Data Analysis Finds Its Way onto Editors' Desks",
+        "D": "Statisticians Are Coming Back with *Science* ---"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+}

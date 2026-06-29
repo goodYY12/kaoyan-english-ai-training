@@ -1,0 +1,130 @@
+{
+  "year": 2015,
+  "paperType": "English I",
+  "paper": "英语一",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "",
+  "status": "待补充",
+  "passage": "Just how much does the Constitution protect your digital data? The\nSupreme Court will now consider whether police can search the contents\nof a mobile phone without a warrant if the phone is on or around a\nperson during an arrest.\n\nCalifornia has asked the justices to refrain from a sweeping ruling,\nparticularly one that upsets the old assumption that authorities may\nsearch through the possessions of suspects at the time of their arrest.\nIt is hard, the state argues, for judges to assess the implications of\nnew and rapidly changing technologies.\n\nThe court would be recklessly modest if it followed California's advice.\nEnough of the implications are discernable, even obvious, so that the\njustices can and should provide updated guidelines to police, lawyers and\ndefendants.\n\nThey should start by discarding California's lame argument that\nexploring the contents of a smartphone - a vast storehouse of digital\ninformation - is similar to, say, going through a suspect's purse. The\ncourt has ruled that police don't violate the Fourth Amendment when they\ngo through the wallet or pocketbook of an arrestee without a warrant.\nBut exploring one's smartphone is more like entering his or her home. A\nsmartphone may contain an arrestee's reading history, financial history,\nmedical history and comprehensive records of recent correspondence. The\ndevelopment of \"cloud computing,\" meanwhile, has made that exploration\nso much the easier.\n\nAmericans should take steps to protect their digital privacy. But\nkeeping sensitive information on these devices is increasingly a\nrequirement of normal life. Citizens still have a right to expect\nprivate documents to remain private and protected by the Constitution's\nprohibition on unreasonable searches.\n\nAs so often is the case, stating that principle doesn't ease the\nchallenge of line-drawing. In many cases, it would not be overly\nburdensome for authorities to obtain a warrant to search through phone\ncontents. They could still invalidate Fourth Amendment protections when\nfacing severe, urgent circumstances, and they could take reasonable\nmeasures to ensure that phone data are not erased or altered while\nwaiting for a warrant. The court, though, may want to allow room for\npolice to cite situations where they are entitled to more freedom.\n\nBut the justices should not swallow California's argument whole. New,\ndisruptive technology sometimes demands novel applications of the\nConstitution's protections. Orin Kerr, a law professor, compares the\nexplosion and accessibility of digital information in the 21st century\nwith the establishment of automobile use as a virtual necessity of life\nin the 20th: The justices had to specify novel rules for the new\npersonal domain of the passenger car then; they must sort out how the\nFourth Amendment applies to digital information now.",
+  "questions": [
+    {
+      "id": "2015-text2-q26",
+      "questionNumber": 26,
+      "questionText": "The Supreme Court will work out whether, during an arrest, it is legitimate to ____.",
+      "question": "The Supreme Court will work out whether, during an arrest, it is legitimate to ____.",
+      "options": {
+        "A": "prevent suspects from deleting their phone contents",
+        "B": "search for suspects' mobile phones without a warrant",
+        "C": "check suspects' phone contents without being authorized",
+        "D": "prohibit suspects from using their mobile phones"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2015-text2-q27",
+      "questionNumber": 27,
+      "questionText": "The author's attitude toward California's argument is one of ____.",
+      "question": "The author's attitude toward California's argument is one of ____.",
+      "options": {
+        "A": "disapproval",
+        "B": "indifference",
+        "C": "tolerance",
+        "D": "cautiousness"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2015-text2-q28",
+      "questionNumber": 28,
+      "questionText": "The author believes that exploring one's phone contents is comparable to ____.",
+      "question": "The author believes that exploring one's phone contents is comparable to ____.",
+      "options": {
+        "A": "getting into one's residence",
+        "B": "handling one's historical records",
+        "C": "scanning one's correspondences",
+        "D": "going through one's wallet"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2015-text2-q29",
+      "questionNumber": 29,
+      "questionText": "In Paragraph 5 and 6, the author shows his concern that ____.",
+      "question": "In Paragraph 5 and 6, the author shows his concern that ____.",
+      "options": {
+        "A": "principles are hard to be clearly expressed",
+        "B": "the court is giving police less room for action",
+        "C": "citizens' privacy is not effectively protected",
+        "D": "phones are used to store sensitive information"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    },
+    {
+      "id": "2015-text2-q30",
+      "questionNumber": 30,
+      "questionText": "Orin Kerr's comparison is quoted to indicate that ____.",
+      "question": "Orin Kerr's comparison is quoted to indicate that ____.",
+      "options": {
+        "A": "the Constitution should be implemented flexibly",
+        "B": "new technology requires reinterpretation of the Constitution",
+        "C": "California's argument violates principles of the Constitution",
+        "D": "principles of the Constitution should never be altered ---"
+      },
+      "answer": "",
+      "type": "待补充",
+      "questionType": "待补充",
+      "explanation": "待补充",
+      "trapAnalysis": "待补充",
+      "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
+      "examinerThinking": null,
+      "sourceSentenceAnalysis": null
+    }
+  ],
+  "vocabulary": [],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "longSentences": [],
+  "articleStructure": "待补充",
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+}

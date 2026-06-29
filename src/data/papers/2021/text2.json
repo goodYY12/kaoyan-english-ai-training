@@ -1,33 +1,32 @@
 {
-  "id": "2021-text2",
   "year": 2021,
   "paperType": "English I",
   "paper": "英语一",
   "section": "Reading Comprehension",
   "textNumber": "Text 2",
-  "title": "待补充",
-  "topic": "待补充",
-  "passage": "待补充",
+  "title": "",
+  "status": "待补充",
+  "passage": "Last year marked the third year in a row of when Indonesia's bleak rate\nof deforestation has slowed in pace. One reason for the turnaround may\nbe the country's antipoverty program.\n\nIn 2007, Indonesia started phasing in a program that gives money to its\npoorest residents under certain conditions, such as requiring people to\nkeep kids in school or get regular medical care. Called conditional cash\ntransfers or CCTs, these social assistance programs are designed to\nreduce inequality and break the cycle of poverty. They're already used\nin dozens of countries worldwide. In Indonesia, the program has provided\nenough food and medicine to substantially reduce severe growth problems\namong children.\n\nBut CCT programs don't generally consider effects on the environment. In\nfact, poverty alleviation and environmental protection are often viewed\nas conflicting goals, says Paul Ferraro, an economist at Johns Hopkins\nUniversity.\n\nThat's because economic growth can be correlated with environmental\ndegradation, while protecting the environment is sometimes correlated\nwith greater poverty. However, those correlations don't prove cause and\neffect. The only previous study analyzing causality, based on an area in\nMexico that had instituted CCTs, supported the traditional view. There,\nas people got more money, some of them may have more cleared land for\ncattle to raise for meat, Ferraro says.\n\nSuch programs do not have to negatively affect the environment, though.\nFerraro wanted to see if Indonesia's poverty-alleviation program was\naffecting deforestation. Indonesia has the third-largest area of\ntropical forest in the world and one of the highest deforestation rates.\n\nFerraro analyzed satellite data showing annual forest loss from 2008 to\n2012 - including during Indonesia's phase-in of the antipoverty\nprogram - in 7, 468 forested villages across 15 provinces .\n\"we see that the program is\nassociated with a 30 percent reduction in deforestation,\" Ferraro says.\n\nThat's likely because the rural poor are using the money as makeshift\ninsurance policies against inclement weather, Ferraro says. Typically,\nif rains are delayed, people may clear land to plant more rice to\nsupplement their harvests. With the CCTs, individuals instead can use\nthe money to supplement their harvests.\n\nWhether this research translates elsewhere is anybody's guess. Ferraro\nsuggests\nthe results may transfer to other parts of Asia, due to\ncommonalities such as the\nthe importance of growing rice and market access. And\nregardless of transferability, the study shows that what's good for\npeople may also be good for\nthe environment. Even if this program didn't\nreduce poverty, Ferraro says, \"the value of the avoided deforestation just for\ncarbon dioxide emissions alone is more than the program costs.\"",
   "questions": [
     {
       "id": "2021-text2-q26",
       "questionNumber": 26,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "According to the first two paragraphs, CCT programs aim to ____.",
+      "question": "According to the first two paragraphs, CCT programs aim to ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "facilitate health care reform",
+        "B": "help poor families get better off",
+        "C": "improve local education systems",
+        "D": "lower deforestation rates"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -59,22 +58,22 @@
     {
       "id": "2021-text2-q27",
       "questionNumber": 27,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "The study based on an area in Mexico is cited to show that ____.",
+      "question": "The study based on an area in Mexico is cited to show that ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "cattle rearing has been a major means of livelihood for the poor",
+        "B": "CCT programs have helped preserve traditional lifestyles",
+        "C": "antipoverty efforts require the participation of local farmers",
+        "D": "economic growth tends to cause environmental degradation"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -106,22 +105,22 @@
     {
       "id": "2021-text2-q28",
       "questionNumber": 28,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "In his study about Indonesia, Ferraro intends to find out ____.",
+      "question": "In his study about Indonesia, Ferraro intends to find out ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "its acceptance level of CCTs",
+        "B": "its annual rate of poverty alleviation",
+        "C": "the relation of CCTs to its forest loss",
+        "D": "the role of its forests in climate change"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -153,22 +152,22 @@
     {
       "id": "2021-text2-q29",
       "questionNumber": 29,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "According to Ferraro, the CCT program in Indonesia is most valuable in that ____.",
+      "question": "According to Ferraro, the CCT program in Indonesia is most valuable in that ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "it will benefit other Asian countries",
+        "B": "it will reduce regional inequality",
+        "C": "it can protect the environment",
+        "D": "it can boost grain production"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -200,22 +199,22 @@
     {
       "id": "2021-text2-q30",
       "questionNumber": 30,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "What is the text centered on?",
+      "question": "What is the text centered on?",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "The effects of a program.",
+        "B": "The debates over a program.",
+        "C": "The process of a study.",
+        "D": "The transferability of a study. ---"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -252,7 +251,5 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "structureMap": [],
-  "status": "待补充",
-  "notes": "2021 PDF contains no extractable text in the current environment; template only, awaiting manual entry or OCR."
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
 }

@@ -1,33 +1,32 @@
 {
-  "id": "2021-text1",
   "year": 2021,
   "paperType": "English I",
   "paper": "英语一",
   "section": "Reading Comprehension",
   "textNumber": "Text 1",
-  "title": "待补充",
-  "topic": "待补充",
-  "passage": "待补充",
+  "title": "",
+  "status": "待补充",
+  "passage": "How can the train operators possibly justify yet another increase to\nrail passenger fares? It has become a grimly reliable annual ritual:\nevery January the cost of travelling by train rises, imposing a\nsignificant extra burden on those who have no option but to use the rail\nnetwork to get to work or otherwise. This year's rise, an average of 2.7\npercent, may be a fraction lower than last year's, but it is still well\nabove the official Consumer Price Index (CPI) measure of inflation.\n\nSuccessive governments have permitted such increases on the grounds that\nthe cost of investing in and running the rail network should be borne by\nthose who use it, rather than the general taxpayer. Why, the argument\ngoes, should a car-driving pensioner from Lincolnshire have to subsidise\nthe daily commute of a stockbroker from Surrey? Equally, there is a\nsense that the travails of commuters in the South East, many of whom\nwill face among the biggest rises, have received too much attention\ncompared to those who must endure the relatively poor infrastructure of\nthe Midlands and the North.\n\nHowever, over the past 12 months, those commuters have also experienced\nsome of the worst rail strikes in years. It is all very well train\noperators trumpeting the improvements they are making to the network,\nbut passengers should be able to expect a basic level of service for the\nsubstantial sums they are now paying to travel. The responsibility for\nthe latest wave of strikes rests on the unions. However, there is a\nstrong case that those who have been worst affected by industrial action\nshould receive compensation for the disruption they have suffered.\n\nThe Government has pledged to change the law to introduce a minimum\nservice requirement so that, even when strikes occur, services can\ncontinue to operate. This should form part of a wider package of\nmeasures to address the long-running problems on Britain's railways.\nYes, more investment is needed, but passengers will not be willing to\npay more indefinitely if they must also endure cramped, unreliable\nservices, punctuated by regular chaos when timetables are changed, or\nplanned maintenance is managed incompetently. The threat of\nnationalisation may have been seen off for now, but it will return with\na vengeance if the justified anger of passengers is not addressed in\nshort order.",
   "questions": [
     {
       "id": "2021-text1-q21",
       "questionNumber": 21,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "The author holds that this year's increase in rail passengers fares ____.",
+      "question": "The author holds that this year's increase in rail passengers fares ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "will ease train operation's burden",
+        "B": "has kept pace with inflation",
+        "C": "is a big surprise to commuters",
+        "D": "remains an unreasonable measure"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -59,22 +58,22 @@
     {
       "id": "2021-text1-q22",
       "questionNumber": 22,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "The stockbroker in Para. 2 is used to stand for ____.",
+      "question": "The stockbroker in Para. 2 is used to stand for ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "car drivers",
+        "B": "rail travellers",
+        "C": "local investors",
+        "D": "ordinary tax payers"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -106,22 +105,22 @@
     {
       "id": "2021-text1-q23",
       "questionNumber": 23,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "It is indicated in Para. 3 that train operators ____.",
+      "question": "It is indicated in Para. 3 that train operators ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "are offering compensations to commuters",
+        "B": "are trying to repair ralations with the unions",
+        "C": "have failed to provide an adequate source",
+        "D": "have suffered huge losses owing to the strikes"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -153,22 +152,22 @@
     {
       "id": "2021-text1-q24",
       "questionNumber": 24,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "If unable to calm down passengers, the railways may have to face ____.",
+      "question": "If unable to calm down passengers, the railways may have to face ____.",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "the loss of investment",
+        "B": "the collapse of operations",
+        "C": "a reduction of revenue",
+        "D": "a change of ownership"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -200,22 +199,22 @@
     {
       "id": "2021-text1-q25",
       "questionNumber": 25,
-      "questionText": "待补充",
-      "question": "待补充",
+      "questionText": "Which of the following would be the best title for the text?",
+      "question": "Which of the following would be the best title for the text?",
       "options": {
-        "A": "待补充",
-        "B": "待补充",
-        "C": "待补充",
-        "D": "待补充"
+        "A": "Who Are to Blame for the Strikes?",
+        "B": "Constant Complaining Doesn't Worlk",
+        "C": "Can Nationalization Bring Hope?",
+        "D": "Ever-rising Fares Aren't Sustainable ---"
       },
       "answer": "",
-      "questionType": "待补充",
       "type": "待补充",
-      "location": "待补充",
+      "questionType": "待补充",
       "explanation": "待补充",
-      "thinkingMethod": "待补充",
       "trapAnalysis": "待补充",
       "commonMistake": "待补充",
+      "location": "待补充",
+      "thinkingMethod": "待补充",
       "examinerThinking": {
         "sourceSentence": "待补充",
         "testPoint": "待补充",
@@ -252,7 +251,5 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "structureMap": [],
-  "status": "待补充",
-  "notes": "2021 PDF contains no extractable text in the current environment; template only, awaiting manual entry or OCR."
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
 }
