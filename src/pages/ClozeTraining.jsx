@@ -265,7 +265,7 @@ export default function ClozeTraining() {
           </div>
         </SectionCard>
 
-        <div className="space-y-6">
+        <div className="space-y-6 xl:sticky xl:top-24 xl:max-h-[calc(100vh-7rem)] xl:self-start xl:overflow-y-auto xl:pr-1">
           <SectionCard title="当前空格选项">
             {activeBlank ? (
               <div>

@@ -282,11 +282,6 @@ export default function ReadingTraining() {
               <p key={paragraph} className="mb-5 indent-6 last:mb-0">{paragraph}</p>
             ))}
           </div>
-          <div className="mt-5 grid gap-3 text-sm text-slate-600 sm:grid-cols-3">
-            <p className="rounded-xl bg-blue-50 p-3">篇章结构：{currentPaper.articleStructure ?? "待补充"}</p>
-            <p className="rounded-xl bg-emerald-50 p-3">核心词：{vocabulary.map((item) => item.word).slice(0, 5).join(" / ") || "待补充"}</p>
-            <p className="rounded-xl bg-amber-50 p-3">长难句：{currentPaper.longSentences?.[0]?.analysis ?? "待补充"}</p>
-          </div>
         </SectionCard>
 
         <SectionCard title="选择题">
