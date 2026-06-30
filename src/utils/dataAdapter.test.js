@@ -4,6 +4,7 @@ import {
   getAvailableYears,
   getClozeByYear,
   getClozeYears,
+  getExamDatabaseStats,
   getExamYears,
   getReadingsByYear,
   getSimilarQuestionsByType,
@@ -69,6 +70,20 @@ test("exposes unified exam years from all module data", () => {
     2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015,
     2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007,
   ]);
+});
+
+test("summarizes the local exam database", () => {
+  const stats = getExamDatabaseStats();
+
+  assert.equal(stats.firstYear, 2007);
+  assert.equal(stats.latestYear, 2026);
+  assert.equal(stats.yearCount, 20);
+  assert.equal(stats.readingTextCount, 80);
+  assert.equal(stats.readingQuestionCount, 400);
+  assert.equal(stats.clozeCount, 20);
+  assert.equal(stats.clozeBlankCount, 400);
+  assert.ok(stats.readingAnsweredCount > 0);
+  assert.ok(stats.clozeAnsweredCount > 0);
 });
 
 test("distinguishes complete reading data from answerless imports", () => {

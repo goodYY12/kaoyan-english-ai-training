@@ -2,6 +2,7 @@ import { useMemo } from "react";
 import { Link } from "react-router";
 import SectionCard from "../components/SectionCard";
 import StatCard from "../components/StatCard";
+import { getExamDatabaseStats } from "../utils/dataAdapter";
 import {
   getDraftStats,
   getHighFrequencyMistakes,
@@ -39,6 +40,7 @@ export default function Dashboard() {
   const clozeStats = useMemo(() => getClozeStats(records), [records]);
   const draftStats = useMemo(() => getDraftStats(), []);
   const frequentReasons = useMemo(() => getHighFrequencyMistakes(), []);
+  const databaseStats = useMemo(() => getExamDatabaseStats(), []);
   const hasRecords = records.length > 0;
   const tasks = getTodayTasks(hasRecords, frequentReasons);
   const topReason = frequentReasons[0]?.reason ?? "范围扩大";
@@ -117,6 +119,58 @@ export default function Dashboard() {
           tone="amber"
         />
       </div>
+
+      <SectionCard
+        title="真题数据库"
+        description="已同步到本地 JSON 数据库，答案和解析会随着后续导入继续补全。"
+        action={
+          <Link
+            to="/exams"
+            className="rounded-full bg-blue-50 px-3 py-1 text-xs font-semibold text-blue-700 hover:bg-blue-100"
+          >
+            查看真题中心
+          </Link>
+        }
+      >
+        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="rounded-2xl border border-slate-100 bg-slate-50 p-4">
+            <p className="text-xs font-semibold text-slate-500">覆盖年份</p>
+            <p className="mt-2 text-2xl font-bold text-slate-900">
+              {databaseStats.yearRange}
+            </p>
+            <p className="mt-1 text-xs text-slate-500">
+              共 {databaseStats.yearCount} 年英语一
+            </p>
+          </div>
+          <div className="rounded-2xl border border-blue-100 bg-blue-50 p-4">
+            <p className="text-xs font-semibold text-blue-600">阅读训练</p>
+            <p className="mt-2 text-2xl font-bold text-slate-900">
+              {databaseStats.readingTextCount} 篇
+            </p>
+            <p className="mt-1 text-xs text-blue-700">
+              {databaseStats.readingAnsweredCount}/{databaseStats.readingQuestionCount} 题已有答案
+            </p>
+          </div>
+          <div className="rounded-2xl border border-cyan-100 bg-cyan-50 p-4">
+            <p className="text-xs font-semibold text-cyan-700">完形专项</p>
+            <p className="mt-2 text-2xl font-bold text-slate-900">
+              {databaseStats.clozeCount} 篇
+            </p>
+            <p className="mt-1 text-xs text-cyan-700">
+              {databaseStats.clozeAnsweredCount}/{databaseStats.clozeBlankCount} 空已有答案
+            </p>
+          </div>
+          <div className="rounded-2xl border border-violet-100 bg-violet-50 p-4">
+            <p className="text-xs font-semibold text-violet-700">翻译/写作</p>
+            <p className="mt-2 text-2xl font-bold text-slate-900">
+              {databaseStats.translationItemCount}/{databaseStats.writingTaskCount}
+            </p>
+            <p className="mt-1 text-xs text-violet-700">
+              翻译句 / 写作题入口
+            </p>
+          </div>
+        </div>
+      </SectionCard>
 
       <div className="grid gap-6 lg:grid-cols-[1.2fr_0.8fr]">
         <SectionCard

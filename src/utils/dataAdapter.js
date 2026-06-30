@@ -485,6 +485,52 @@ export function getExamYears() {
   ].sort((a, b) => b - a);
 }
 
+function isChoiceAnswer(value) {
+  return /^[A-D]$/.test(String(value ?? ""));
+}
+
+export function getExamDatabaseStats() {
+  const years = getExamYears();
+  const readings = getAllReadings();
+  const readingQuestions = readings.flatMap((reading) => reading.questions ?? []);
+  const clozeItems = getAllClozeItems();
+  const clozeBlanks = clozeItems.flatMap((item) => item.blanks ?? []);
+  const translationEntries = translationItems.flatMap((item) => item.items ?? []);
+  const writingTasks = writingTemplates
+    .flatMap((item) => [
+      item.smallWriting?.prompt,
+      item.bigWriting?.prompt,
+      ...(item.tasks ?? []).map((task) => task.prompt),
+    ])
+    .filter((prompt) => String(prompt ?? "").trim());
+  const firstYear = years.length ? years[years.length - 1] : null;
+  const latestYear = years[0] ?? null;
+
+  return {
+    yearCount: years.length,
+    firstYear,
+    latestYear,
+    yearRange: firstYear && latestYear ? `${firstYear}-${latestYear}` : "待补充",
+    readingTextCount: readings.length,
+    readingCompleteTextCount: readings.filter(hasReadingData).length,
+    readingQuestionCount: readingQuestions.length,
+    readingAnsweredCount: readingQuestions.filter((question) =>
+      isChoiceAnswer(question.answer),
+    ).length,
+    clozeCount: clozeItems.length,
+    clozeCompleteCount: clozeItems.filter(hasClozeData).length,
+    clozeBlankCount: clozeBlanks.length,
+    clozeAnsweredCount: clozeBlanks.filter((blank) =>
+      isChoiceAnswer(blank.answer),
+    ).length,
+    translationItemCount: translationEntries.length,
+    translationReferenceCount: translationEntries.filter((item) =>
+      String(item.referenceTranslation ?? item.reference ?? "").trim(),
+    ).length,
+    writingTaskCount: writingTasks.length,
+  };
+}
+
 export function getAllClozeVocabulary() {
   return getAllClozeItems().flatMap((item) => {
     const groups = item.vocabularyGroups ?? {};
