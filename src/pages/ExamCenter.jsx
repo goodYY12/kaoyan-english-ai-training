@@ -35,11 +35,11 @@ function getReadingStatus(readings) {
   }
 
   if (complete === total && total > 0) {
-    return { label: `${complete}/${total} 可训练`, detail: "文章、选项和答案完整", ready: true, tone: "complete" };
+    return { label: "可训练", detail: "文章、选项和答案完整", ready: true, tone: "complete" };
   }
 
   return {
-    label: `${complete}/${total} 可训练`,
+    label: complete > 0 ? "可训练" : "待补充",
     detail: "部分年份仍缺文章、选项或答案",
     ready: complete > 0,
     tone: complete > 0 ? "partial" : "pending",
