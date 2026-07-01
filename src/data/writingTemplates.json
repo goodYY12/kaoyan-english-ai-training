@@ -17,7 +17,12 @@
         "主体介绍家书背景、保存与展出信息",
         "结尾表达欢迎和祝愿"
       ],
-      "usefulExpressions": [],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
       "commonMistakes": [
         "没有回应对方两个问题",
         "展出信息交代不清",
@@ -38,7 +43,12 @@
         "第二段分析数据背后的原因",
         "第三段总结并提出建议"
       ],
-      "usefulExpressions": [],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
       "commonMistakes": [
         "只描述数据但没有解释原因",
         "没有回应两个图表",
@@ -54,21 +64,55 @@
     "status": "已有数据",
     "smallWriting": {
       "prompt": "51. Directions:\nRead the following email from your classmate Paul and write him a reply.\nWrite your answer in about 100 words on the ANSWER SHEET.\nDo not use your own name in your email; use “Li Ming” instead. (10 points)\n\nDear Li Ming,\nI was really excited to hear that you’d invite some young craftsmen to demonstrate\ntheir innovative craft-making on campus. May I know more about what they’ll Show?\nAlso, I’d like to help with your preparation work. Please let me know what I can do.\n\nYours,\nPaul",
-      "taskType": "???",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "taskType": "邀请信",
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\nWrite an essay of 160-200 based on the following table. In your essay, you should\n1) describe the table briefly,\n2) explain its intended meaning, and\n3) give your comments.\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n年份 空调（台） 洗衣机（台） 电冰箱（台）\n2014 75.2 83.7 85.5\n2017 96.1 91.7 95.3\n2020 117.7 96.7 101.8\n2023 145.9 98.2 103.4\n近年来全国居民平均每百户年末主要耐用消费品拥有量",
-      "topic": "???",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "topic": "耐用消费品增长与生活水平提升",
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“耐用消费品增长与生活水平提升”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 耐用消费品增长与生活水平提升. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -79,21 +123,55 @@
     "status": "已有数据",
     "smallWriting": {
       "prompt": "51. Directions:\nRead the following email from an international student and write a reply.\n\nWrite your answer in about 100 words on the ANSWER SHEET.\nDo not use your own name in your email; use “Li Ming” instead. (10 points)\n\nDear Li Ming,\nI’ve got a class assignment to make an oral report on an ancient Chinese\nscientist, but I’m not sure how to prepare for it. Can you give me some advice?\nThank you for your help.\nYours,\nPaul",
-      "taskType": "???",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "taskType": "建议信",
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\nWrite an essay based on the picture and the chart below. In your essay, you should\n1) describe the picture and the chart briefly,\n2) interpret the implied meaning, and\n3) give your comments.\nWrite your answer in 160-200 words on the ANSWER SHEET. (20 points)\n\n406\n532\n670\n2020 年 2021 年 2022 年\n某市近三年公园数量\n（单位：座）",
-      "topic": "???",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "topic": "城市公园增长与绿色生活",
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“城市公园增长与绿色生活”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 城市公园增长与绿色生活. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -219,20 +297,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nA foreign friend of yours has recently graduated from college and\nintends to find a job in China. Write him/her an email to make some\nsuggestions.\n\nYou should write about 100 words on the ANSWER SHEET.\n\n**Do not** use your own name in the email. Use \" Li Ming\"\ninstead. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the pictures below. In\nyour essay, you should\n\n1. describe the picture briefly,\n2. interpret its intended meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET. (20 points)",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -244,20 +356,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nThe Students Union of your university has assigned you to inform the\ninternational students about an upcoming singing contest. Write a notice\nin about 100 words.\n\nWrite your answer on the ANSWER SHEET.\n\n**Do not** use your own name in the notice. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Notice\n\nTo help students take part in the activity smoothly, this notice is issued to provide the necessary information. The event will be held according to the arrangement in the directions, and participants are expected to make preparations in advance. It will offer a useful opportunity for communication, learning and campus involvement. Anyone interested should pay attention to the time, place and specific requirements.\n\nStudents’ Union"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the picture below. In your\nessay, you should\n\n1. describe the picture briefly,\n2. interpret the implied meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n\n\ncaption*习惯",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -279,8 +425,17 @@
         "Project details and requirements",
         "Contact information and closing"
       ],
-      "usefulExpressions": [],
-      "commonMistakes": [],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
       "sampleEssay": "待补充"
     },
     "bigWriting": {
@@ -296,8 +451,17 @@
         "Meaning and analysis",
         "Personal conclusion"
       ],
-      "usefulExpressions": [],
-      "commonMistakes": [],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
       "sampleEssay": "待补充"
     }
   },
@@ -319,8 +483,17 @@
         "Ceremony details",
         "Polite closing"
       ],
-      "usefulExpressions": [],
-      "commonMistakes": [],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
       "sampleEssay": "待补充"
     },
     "bigWriting": {
@@ -336,8 +509,17 @@
         "Meaning and analysis",
         "Personal conclusion"
       ],
-      "usefulExpressions": [],
-      "commonMistakes": [],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
       "sampleEssay": "待补充"
     }
   },
@@ -349,20 +531,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nYou are to write an email to James Cook, a newly-arrived Australian\nprofessor, recommending some tourist attractions in your city. Please\ngive reasons for your recommendation.\n\nYou should write neatly on the ANSWER SHEET.\n\n**Do not** sign your own name at the end of the email. Use \"Li\nMing\" instead.\n\n**Do not** write the address. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160 - 200 words based on the following pictures. In\nyour essay, you should\n\n1. describe the pictures briefly,\n2. interpret the meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n\n\ncaption*“有书”与“读书”",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -374,20 +590,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nSuppose you are a librarian in your university. Write a notice of\nabout 100 words. providing the newly-enrolled international students\nwith relevant information about the library.\n\nYou should write neatly on the ANSWER SHEET.\n\n**Do not** sign your own name at the end of the notice. Use Li\nMing instead.\n\n**Do not** write the address. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Notice\n\nTo help students take part in the activity smoothly, this notice is issued to provide the necessary information. The event will be held according to the arrangement in the directions, and participants are expected to make preparations in advance. It will offer a useful opportunity for communication, learning and campus involvement. Anyone interested should pay attention to the time, place and specific requirements.\n\nStudents’ Union"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following pictures. In\nyour essay, you should\n\n1. describe the pictures briefly\n2. interpret the meaning , and\n3. give your comments\n\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n\n\ncaption*与其只提要求，不如做个榜样",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -399,20 +649,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nYou are going to host a club reading session. Write an email of about\n100 words recommending a book to the club members.\n\nYou should state reasons for your recommendation.\n\nYou should write neatly on the ANSWER SHEET.\n\n**Do not** sign your own name at the end of the letter. Use Li Ming\ninstead.\n\n**Do not** write the address. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly\n2. explain its intended meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n\n\ncaption*手机时代的聚会",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -424,20 +708,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nWrite a letter of about 100 words to the president of your university,\nsuggesting how to improve students' physical condition.\n\nYou should include the details you think necessary.\n\nYou should write neatly on the ANSWER SHEET.\n\n**Do not** sign your own name at the end of the letter. Use \"Li\nMing\" instead.\n\n**Do not** write the address.(10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. interpret its intended meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET. (20 points)\n\n\n\ncaption*相携",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -449,20 +767,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nWrite an e-mail of about 100 words to a foreign teacher in your college,\ninviting him/her to be a judge for the upcoming English speech contest.\n\nYou should include the details you think necessary.\n\nYou should write neatly on the ANSWER SHEET 2.\n\n**Do not** sign your own name at the end of the e-mail. Use \"Li Ming\"\ninstead.\n\n**Do not** write the address. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay you should\n\n1. describe the drawing briefly\n2. explain its intended meaning, and\n3. give your comments.\n\nYou should write neatly on the ANSWER SHEET 2. (20 points)\n\n\n\ncaption*选择",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -474,20 +826,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nSome international students are coming to your university. Write them an\nemail in the name of the Students' Union to\n\n1. extend your welcome and\n2. provide some suggestions for their campus life here.\n\nYou should write about 100 words on ANSWER SHEET 2.\n\n**Do not** sign your own name at the end of the letter. Use \"Li\nMing\" instead.\n\n**Do not** write the address. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and\n3. give your comments.\n\nYou should write neatly on ANSWER SHEET 2. (20 points)",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -499,20 +885,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nWrite a letter to a friend of yours to\n\n1. recommend one of your favorite movies and\n2. give reasons for your recommendation.\n\nYou should write about 100 words on ANSWER SHEET 2.\n\n**Do not** sign your own name at the end of the letter. Use \"Li\nMing\" instead.\n\n**Do not** write the address. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and\n3. give your comments.\n\nYou should write neatly on ANSWER SHEET 2. (20 points)\n\n\n\ncaption*旅程之“余”",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -524,20 +944,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nYou are supposed to write for the postgraduate association a notice to\nrecruit volunteers for an international conference on globalization, you\nshould conclude the basic qualification of applicant and the other\ninformation you think relative.\n\nYou should write about 100 words on **ANSHWER SHEET 2**.\n\n**Do not** sign your own name at\nthe end of the letter. Use \"postgraduate association\" instead. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Notice\n\nTo help students take part in the activity smoothly, this notice is issued to provide the necessary information. The event will be held according to the arrangement in the directions, and participants are expected to make preparations in advance. It will offer a useful opportunity for communication, learning and campus involvement. Anyone interested should pay attention to the time, place and specific requirements.\n\nStudents’ Union"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and\n3. give your comments.\n\nYou should write neatly on **ANSHWER SHEET 2**. (20 points)\n\n\n\ncaption*文化“火锅”，既美味又营养",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -549,20 +1003,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nRestrictions on the use of plastic bags have not been so successful in\nsome regions. \"White Pollution\" is still going on.\nWrite a letter to the editor (s) of your local newspaper to\n\n1. give your opinions briefly, and\n2. make two or three suggestions\n\nYou should write about 100 words on ANSWER SHEET 2.\n\n**Do not** sign your ow name at the end of the letter. Use \"Li Ming\" instead.\n\n**Do not** write the\naddress. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and then\n3. give your comments.\n\nYou should write neatly on ANSHWER SHEET 2. (20 points)\n\n\n\ncaption*网络的“近”与“远”",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -574,20 +1062,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nYou have just come back from Canada and found a music CD\nin your luggage that you forgot to return to Bob, your landlord there.\nWrite him a letter to\n\n1. make an apology, and\n2. suggest a solution.\n\nYou should write about 100 words on ANSWER SHEET 2.\n\n**Do not** sign your own name at the end of the letter. Use \"Li\nMing\" instead.\n\n**Do not** write the address. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and then\n3. give your comments.\n\nYou should write neatly on ANSHWER SHEET 2. (20 points)",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
@@ -599,20 +1121,54 @@
     "smallWriting": {
       "prompt": "51. Directions:\n\nWrite a letter to your university library, making suggestions for\nimproving its service.\n\nYou should write about 100 words on ANSWER SHEET 2.\n\n**Do not** sign your own name at the end of the letter. Use \"Li\nMing\" instead.\n\n**Do not** write the address. (10 points)",
       "taskType": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "明确写作身份和写作目的。",
+        "主体部分回应题目要求，至少覆盖两个具体信息点。",
+        "结尾礼貌收束，可表达期待、感谢或进一步沟通意愿。"
+      ],
+      "structure": [
+        "开头：称呼后直接说明写信或通知目的。",
+        "主体：分点展开任务、原因、安排或建议。",
+        "结尾：礼貌收束，并使用 Li Ming 或 Students’ Union 署名。"
+      ],
+      "usefulExpressions": [
+        "I am writing to...",
+        "It would be advisable to...",
+        "Your attention to these details would be appreciated.",
+        "Should you need further information, please feel free to contact me."
+      ],
+      "commonMistakes": [
+        "没有覆盖题目要求的全部信息点。",
+        "语气过于口语化或格式缺少称呼、正文、落款。",
+        "内容空泛，只写套话，没有具体安排或理由。"
+      ],
+      "sampleEssay": "Dear Sir or Madam,\n\nI am writing in response to the situation described in the directions. The main purpose of this letter is to provide clear information and practical suggestions. To begin with, it is important to understand the basic requirement of the task and make proper preparations. In addition, I would like to offer one or two concrete reasons or arrangements so that the matter can be handled smoothly.\n\nI hope my words will be helpful. Thank you for your attention.\n\nYours sincerely,\nLi Ming"
     },
     "bigWriting": {
       "prompt": "52. Directions:\n\nWrite an essay of 160-200 words based on the following drawing. In your\nessay, you should\n\n1. describe the drawing briefly,\n2. explain its intended meaning, and then\n3. support your view with an example/examples.\n\nYou should write neatly on ANSWER SHEET 2. (20 points)",
       "topic": "待补充",
-      "writingIdeas": [],
-      "structure": [],
-      "usefulExpressions": [],
-      "commonMistakes": [],
-      "sampleEssay": ""
+      "writingIdeas": [
+        "客观描述图画或图表中呈现的“待补充”现象。",
+        "解释这一现象背后的社会含义、原因或价值。",
+        "结合个人、学校或社会层面提出评论和建议。"
+      ],
+      "structure": [
+        "第一段：简要描述图画或图表，不展开过多细节。",
+        "第二段：解释寓意，可从原因、影响和现实意义展开。",
+        "第三段：表明态度并提出建议，形成完整收束。"
+      ],
+      "usefulExpressions": [
+        "The picture/chart vividly illustrates that...",
+        "The implied meaning deserves careful consideration.",
+        "This phenomenon can be attributed to several factors.",
+        "From my perspective, practical measures should be taken."
+      ],
+      "commonMistakes": [
+        "只描述图画或数据，没有解释寓意。",
+        "观点过空，缺少原因、影响或例子支撑。",
+        "结尾没有明确评论或建议。"
+      ],
+      "sampleEssay": "The picture or chart presents a thought-provoking phenomenon concerning 待补充. At first sight, the information appears simple, but it actually reflects a meaningful social tendency. The figures or visual details remind us that changes in daily life are often connected with broader development in society.\n\nThe implied meaning deserves careful consideration. On the one hand, the phenomenon shows that people are paying more attention to quality of life, personal growth and social responsibility. On the other hand, it also suggests that progress cannot be achieved without awareness, effort and proper guidance. If individuals and institutions work together, this positive tendency can be turned into lasting improvement.\n\nFrom my perspective, we should view this issue rationally and take practical action. Individuals need to develop sound values, while schools and society should provide better support. Only in this way can the message conveyed by the picture or chart lead to real progress."
     },
     "notes": "由 Markdown 真题原文导入；写作思路、范文与扣分点待补充。"
   },
