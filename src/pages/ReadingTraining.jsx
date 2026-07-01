@@ -257,17 +257,20 @@ export default function ReadingTraining() {
         ))}
       </div>
 
-      <div className="mt-6 grid gap-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,0.95fr)]">
-        <SectionCard title={`${currentPaper.year} ${currentPaper.textNumber}｜${currentPaper.title || "阅读文章"}`}>
-          <div className="max-h-[72vh] overflow-y-auto rounded-3xl border border-slate-100 bg-gradient-to-b from-slate-50 to-white p-5 text-[15px] leading-8 text-slate-700 md:p-6">
+      <div className="mt-6 grid gap-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,0.95fr)] lg:items-start">
+        <SectionCard
+          title={`${currentPaper.year} ${currentPaper.textNumber}｜${currentPaper.title || "阅读文章"}`}
+          className="lg:sticky lg:top-4 lg:self-start"
+        >
+          <div className="max-h-[72vh] overflow-y-auto rounded-3xl border border-slate-100 bg-gradient-to-b from-slate-50 to-white p-5 text-[15px] leading-8 text-slate-700 md:p-6 lg:max-h-[calc(100vh-11rem)]">
             {currentPaper.passage.split("\n\n").map((paragraph) => (
               <p key={paragraph} className="mb-5 indent-6 last:mb-0">{paragraph}</p>
             ))}
           </div>
         </SectionCard>
 
-        <SectionCard title="选择题">
-          <div className="space-y-5">
+        <SectionCard title="选择题" className="lg:sticky lg:top-4 lg:max-h-[calc(100vh-6rem)] lg:self-start lg:overflow-hidden">
+          <div className="space-y-5 lg:max-h-[calc(100vh-19rem)] lg:overflow-y-auto lg:pr-2">
             {currentPaper.questions.map((question) => {
               const selected = answers[question.questionNumber];
               const isCorrect = submitted && selected === question.answer;
@@ -361,7 +364,7 @@ export default function ReadingTraining() {
             })}
           </div>
 
-          <div className="sticky bottom-4 mt-6 rounded-3xl border border-blue-100 bg-white/95 p-4 shadow-xl shadow-blue-100 backdrop-blur">
+          <div className="sticky bottom-4 mt-6 rounded-3xl border border-blue-100 bg-white/95 p-4 shadow-xl shadow-blue-100 backdrop-blur lg:static lg:mt-4">
             {submitted ? (
               <div className="space-y-4">
                 <div className="flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-blue-100 bg-blue-50 px-4 py-3">
