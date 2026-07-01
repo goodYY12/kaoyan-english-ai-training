@@ -27,23 +27,6 @@ function highlightWord(sentence, word) {
   );
 }
 
-function buildSummary(wrongQuestions) {
-  if (wrongQuestions.length === 0) {
-    return "本篇阅读全对，建议继续进行词汇自测和长难句复盘。";
-  }
-
-  const mainType = wrongQuestions[0]?.type ?? "阅读题";
-  const mainReason = wrongQuestions[0]?.commonMistake ?? "错因待补充";
-  return `你本篇主要问题是：${mainType}上暴露出${mainReason}。建议优先复盘错题定位句，并进行同类题训练。`;
-}
-
-function countBy(items, getter) {
-  return items.reduce((result, item) => {
-    const key = getter(item) || "待补充";
-    return { ...result, [key]: (result[key] ?? 0) + 1 };
-  }, {});
-}
-
 function createMistake(reading, question, selected) {
   return {
     id: question.id,
@@ -92,8 +75,6 @@ export default function ReadingTraining() {
   const wrongQuestions = currentPaper.questions.filter(
     (question) => submitted && answers[question.questionNumber] !== question.answer,
   );
-  const typeStats = countBy(wrongQuestions, (question) => question.type);
-  const reasonStats = countBy(wrongQuestions, (question) => question.commonMistake);
   const similarQuestions = submitted
     ? getSimilarQuestionsByType({
         allReadings: getAllReadings(),
@@ -383,20 +364,14 @@ export default function ReadingTraining() {
           <div className="sticky bottom-4 mt-6 rounded-3xl border border-blue-100 bg-white/95 p-4 shadow-xl shadow-blue-100 backdrop-blur">
             {submitted ? (
               <div className="space-y-4">
-                <div className="rounded-3xl bg-gradient-to-br from-blue-50 to-cyan-50 p-4">
-                  <p className="text-lg font-bold text-slate-900">本篇诊断报告：{score}/{currentPaper.questions.length}，正确率 {Math.round((score / currentPaper.questions.length) * 100)}%</p>
-                  <p className="mt-2 text-sm text-slate-600">{buildSummary(wrongQuestions)}</p>
-                  {savedRecordId && <p className="mt-1 text-xs text-blue-600">已保存本次训练记录</p>}
-                  <div className="mt-3 grid gap-3 text-sm sm:grid-cols-2">
-                    <div>
-                      <p className="font-bold text-slate-700">题型统计</p>
-                      {Object.entries(typeStats).length === 0 ? <p className="text-slate-500">本篇无错题</p> : Object.entries(typeStats).map(([key, value]) => <p key={key}>{key}错 {value} 题</p>)}
-                    </div>
-                    <div>
-                      <p className="font-bold text-slate-700">错因统计</p>
-                      {Object.entries(reasonStats).length === 0 ? <p className="text-slate-500">本篇无错因</p> : Object.entries(reasonStats).map(([key, value]) => <p key={key}>{key}：{value} 次</p>)}
-                    </div>
+                <div className="flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-blue-100 bg-blue-50 px-4 py-3">
+                  <div className="flex flex-wrap items-center gap-3 text-sm">
+                    <span className="font-bold text-slate-900">本篇成绩</span>
+                    <span className="rounded-full bg-emerald-100 px-3 py-1 font-semibold text-emerald-700">答对 {score} 题</span>
+                    <span className="rounded-full bg-rose-100 px-3 py-1 font-semibold text-rose-700">答错 {currentPaper.questions.length - score} 题</span>
+                    <span className="rounded-full bg-white px-3 py-1 font-semibold text-blue-700">正确率 {Math.round((score / currentPaper.questions.length) * 100)}%</span>
                   </div>
+                  {savedRecordId && <span className="text-xs font-semibold text-blue-600">已保存本次训练记录</span>}
                 </div>
 
                 {wrongQuestions.length > 0 && (
@@ -423,7 +398,7 @@ export default function ReadingTraining() {
               </div>
             ) : (
               <div className="flex flex-wrap items-center justify-between gap-3">
-                <p className="text-sm text-slate-500">已作答 {Object.keys(answers).length}/5。提交后生成诊断报告。</p>
+                <p className="text-sm text-slate-500">已作答 {Object.keys(answers).length}/5。提交后显示成绩和每题对错。</p>
                 <button type="button" onClick={submitAnswers} className="rounded-2xl bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white shadow-sm shadow-blue-200 hover:bg-blue-700">提交答案</button>
               </div>
             )}
