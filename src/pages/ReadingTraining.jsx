@@ -71,7 +71,7 @@ export default function ReadingTraining() {
   const [selectedTextNumber, setSelectedTextNumber] = useState("Text 1");
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
-  const [showAnalysis, setShowAnalysis] = useState(true);
+  const [showAnalysis, setShowAnalysis] = useState(false);
   const [mode, setMode] = useState("reading");
   const [wordIndex, setWordIndex] = useState(0);
   const [wordAnswers, setWordAnswers] = useState({});
@@ -111,7 +111,7 @@ export default function ReadingTraining() {
   function resetTraining() {
     setAnswers({});
     setSubmitted(false);
-    setShowAnalysis(true);
+    setShowAnalysis(false);
     setMode("reading");
     setWordIndex(0);
     setWordAnswers({});
@@ -147,6 +147,7 @@ export default function ReadingTraining() {
 
     saveReadingRecord(record);
     setSavedRecordId(record.id);
+    setShowAnalysis(false);
     setSubmitted(true);
   }
 
@@ -291,7 +292,7 @@ export default function ReadingTraining() {
               const isCorrect = submitted && selected === question.answer;
               const isWrong = submitted && selected !== question.answer;
               return (
-                <article key={question.id} className="rounded-3xl border border-slate-200 bg-white p-4 shadow-sm shadow-slate-100">
+                <article key={question.id} className={`rounded-3xl border bg-white p-4 shadow-sm shadow-slate-100 ${submitted ? (isCorrect ? "border-emerald-200" : "border-rose-200") : "border-slate-200"}`}>
                   <div className="flex flex-wrap items-start justify-between gap-3">
                     <h2 className="max-w-xl text-sm font-bold leading-6 text-slate-900">{question.questionNumber}. {question.questionText}</h2>
                     {submitted && <span className={`rounded-full px-2.5 py-1 text-xs font-semibold ${isCorrect ? "bg-emerald-50 text-emerald-700" : "bg-rose-50 text-rose-700"}`}>{isCorrect ? "正确" : "错误"}</span>}
@@ -310,6 +311,30 @@ export default function ReadingTraining() {
                       return <button key={label} type="button" disabled={submitted} onClick={() => setAnswers((current) => ({ ...current, [question.questionNumber]: label }))} className={`rounded-2xl border px-3 py-2.5 text-left text-sm transition disabled:cursor-default ${style}`}><span className="mr-2 font-bold">{label}.</span>{text}</button>;
                     })}
                   </div>
+
+                  {submitted && (
+                    <div className={`mt-4 rounded-2xl border p-3 ${isCorrect ? "border-emerald-200 bg-emerald-50" : "border-rose-200 bg-rose-50"}`}>
+                      <div className="grid gap-2 text-sm sm:grid-cols-4">
+                        <p className={`rounded-xl bg-white/80 p-3 font-bold ${isCorrect ? "text-emerald-700" : "text-rose-700"}`}>
+                          判定：{isCorrect ? "正确" : "错误"}
+                        </p>
+                        <p className="rounded-xl bg-white/80 p-3 text-slate-700">
+                          你的选择：<strong className={isWrong ? "text-rose-700" : "text-emerald-700"}>{selected ?? "未作答"}</strong>
+                        </p>
+                        <p className="rounded-xl bg-white/80 p-3 text-emerald-700">
+                          正确答案：<strong>{question.answer}</strong>
+                        </p>
+                        <p className="rounded-xl bg-white/80 p-3 text-blue-700">
+                          题型：<strong>{question.type || "待补充"}</strong>
+                        </p>
+                      </div>
+                      {!showAnalysis && (
+                        <p className="mt-2 text-xs text-slate-500">
+                          详细解析已收起，点击底部“查看解析”展开出题人思维、定位句和错因分析。
+                        </p>
+                      )}
+                    </div>
+                  )}
 
                   {submitted && showAnalysis && (
                     <div className="mt-4 space-y-3 border-t border-slate-200 pt-4">
