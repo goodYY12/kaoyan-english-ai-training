@@ -130,7 +130,7 @@ test("2023 and 2022 reading papers have extracted question data", () => {
   }
 });
 
-test("2021 reading papers are templates awaiting OCR/manual entry", () => {
+test("2021 reading papers have complete answer keys", () => {
   for (const paper of papers2021) {
     assert.equal(paper.year, 2021);
     assert.match(paper.textNumber, /^Text [1-4]$/);
@@ -138,7 +138,7 @@ test("2021 reading papers are templates awaiting OCR/manual entry", () => {
 
     for (const question of paper.questions) {
       assert.deepEqual(Object.keys(question.options), ["A", "B", "C", "D"]);
-      assert.equal(question.answer, "");
+      assert.match(question.answer, /^[A-D]$/);
     }
   }
 });

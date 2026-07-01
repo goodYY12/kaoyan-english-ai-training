@@ -86,11 +86,11 @@ test("summarizes the local exam database", () => {
   assert.ok(stats.clozeAnsweredCount > 0);
 });
 
-test("distinguishes complete reading data from answerless imports", () => {
+test("recognizes imported readings with answer keys", () => {
   assert.equal(hasReadingData(getReadingsByYear(2019)[0]), true);
-  assert.equal(hasReadingData(getReadingsByYear(2018)[0]), false);
-  assert.equal(hasReadingData(getReadingsByYear(2020)[0]), false);
-  assert.equal(hasReadingData(getReadingsByYear(2025)[0]), false);
+  assert.equal(hasReadingData(getReadingsByYear(2018)[0]), true);
+  assert.equal(hasReadingData(getReadingsByYear(2020)[0]), true);
+  assert.equal(hasReadingData(getReadingsByYear(2025)[0]), true);
   assert.equal(hasReadingData(getReadingsByYear(2026)[0]), true);
 });
 

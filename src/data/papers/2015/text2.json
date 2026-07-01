@@ -19,7 +19,7 @@
         "C": "check suspects' phone contents without being authorized",
         "D": "prohibit suspects from using their mobile phones"
       },
-      "answer": "",
+      "answer": "A",
       "type": "待补充",
       "questionType": "待补充",
       "explanation": "待补充",
@@ -41,7 +41,7 @@
         "C": "tolerance",
         "D": "cautiousness"
       },
-      "answer": "",
+      "answer": "A",
       "type": "待补充",
       "questionType": "待补充",
       "explanation": "待补充",
@@ -63,7 +63,7 @@
         "C": "scanning one's correspondences",
         "D": "going through one's wallet"
       },
-      "answer": "",
+      "answer": "A",
       "type": "待补充",
       "questionType": "待补充",
       "explanation": "待补充",
@@ -85,7 +85,7 @@
         "C": "citizens' privacy is not effectively protected",
         "D": "phones are used to store sensitive information"
       },
-      "answer": "",
+      "answer": "A",
       "type": "待补充",
       "questionType": "待补充",
       "explanation": "待补充",
@@ -107,7 +107,7 @@
         "C": "California's argument violates principles of the Constitution",
         "D": "principles of the Constitution should never be altered ---"
       },
-      "answer": "",
+      "answer": "A",
       "type": "待补充",
       "questionType": "待补充",
       "explanation": "待补充",
