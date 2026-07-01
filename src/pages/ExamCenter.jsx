@@ -23,9 +23,20 @@ function getToneClasses(tone) {
   return classes[tone] ?? classes.pending;
 }
 
+function hasReadingQuestionSet(reading) {
+  return (
+    hasText(reading.passage) &&
+    (reading.questions ?? []).length === 5 &&
+    (reading.questions ?? []).every((question) =>
+      ["A", "B", "C", "D"].every((key) => hasText(question.options?.[key])),
+    )
+  );
+}
+
 function getReadingStatus(readings) {
   const total = readings.length;
   const complete = readings.filter(hasReadingData).length;
+  const questionSetCount = readings.filter(hasReadingQuestionSet).length;
   const hasAnyContent = readings.some(
     (reading) => hasText(reading.passage) || (reading.questions ?? []).length > 0,
   );
@@ -38,11 +49,29 @@ function getReadingStatus(readings) {
     return { label: "可训练", detail: "文章、选项和答案完整", ready: true, tone: "complete" };
   }
 
+  if (complete > 0) {
+    return {
+      label: "可训练",
+      detail: "部分篇目答案或解析待补",
+      ready: true,
+      tone: "partial",
+    };
+  }
+
+  if (questionSetCount > 0) {
+    return {
+      label: "题面已录入",
+      detail: "文章和选项已录入，答案待补",
+      ready: true,
+      tone: "partial",
+    };
+  }
+
   return {
-    label: complete > 0 ? "可训练" : "待补充",
-    detail: "部分年份仍缺文章、选项或答案",
-    ready: complete > 0,
-    tone: complete > 0 ? "partial" : "pending",
+    label: "部分录入",
+    detail: "已录入部分阅读内容，仍需整理",
+    ready: true,
+    tone: "partial",
   };
 }
 
