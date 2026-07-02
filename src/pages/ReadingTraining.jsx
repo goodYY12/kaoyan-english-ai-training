@@ -128,7 +128,7 @@ export default function ReadingTraining() {
 
     saveReadingRecord(record);
     setSavedRecordId(record.id);
-    setShowAnalysis(false);
+    setShowAnalysis(true);
     setSubmitted(true);
   }
 
@@ -314,7 +314,7 @@ export default function ReadingTraining() {
                       </div>
                       {!showAnalysis && (
                         <p className="mt-2 text-xs text-slate-500">
-                          详细解析已收起，点击底部“查看解析”展开出题人思维、定位句和错因分析。
+                          详细解析已收起，点击成绩区“查看解析”展开出题人思维、定位句和错因分析。
                         </p>
                       )}
                     </div>
@@ -377,6 +377,12 @@ export default function ReadingTraining() {
                   {savedRecordId && <span className="text-xs font-semibold text-blue-600">已保存本次训练记录</span>}
                 </div>
 
+                <div className="flex flex-wrap gap-2">
+                  <button type="button" onClick={() => setShowAnalysis((value) => !value)} className="rounded-2xl bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-200">{showAnalysis ? "隐藏解析" : "查看解析"}</button>
+                  <button type="button" onClick={resetTraining} className="rounded-2xl bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700">重新作答</button>
+                  <button type="button" disabled={vocabulary.length === 0} onClick={() => setMode("vocabulary")} className="rounded-2xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700 disabled:cursor-not-allowed disabled:bg-slate-300">{vocabulary.length > 0 ? "进入单词自测" : "本篇暂未整理词汇"}</button>
+                </div>
+
                 {wrongQuestions.length > 0 && (
                   <div className="rounded-2xl bg-white p-4">
                     <p className="font-bold text-slate-900">同类题推荐</p>
@@ -392,12 +398,6 @@ export default function ReadingTraining() {
                     )}
                   </div>
                 )}
-
-                <div className="flex flex-wrap gap-2">
-                  <button type="button" onClick={() => setShowAnalysis((value) => !value)} className="rounded-2xl bg-slate-100 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-200">{showAnalysis ? "隐藏解析" : "查看解析"}</button>
-                  <button type="button" onClick={resetTraining} className="rounded-2xl bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700">重新作答</button>
-                  <button type="button" disabled={vocabulary.length === 0} onClick={() => setMode("vocabulary")} className="rounded-2xl bg-emerald-600 px-4 py-2 text-sm font-semibold text-white hover:bg-emerald-700 disabled:cursor-not-allowed disabled:bg-slate-300">{vocabulary.length > 0 ? "进入单词自测" : "本篇暂未整理词汇"}</button>
-                </div>
               </div>
             ) : (
               <div className="flex flex-wrap items-center justify-between gap-3">
