@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 3",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "In his book *The Tipping Point*, Malcolm Gladwell argues that \"social\nepidemics\" are driven in large part by the acting of a tiny minority of\nspecial individuals, often called influentials, who are unusually\ninformed, persuasive, or well-connected. The idea is intuitively\ncompelling, but it doesn't explain how ideas actually spread.\n\nThe supposed importance of influentials derives from a\nplausible-sounding but largely untested theory called the \" two-step\nflow of communication\": Information flows from the media to the\ninfluentials and from them to everyone else. Marketers have embraced the\ntwo-step flow because it suggests that if they can just find and\ninfluence the influentials, those selected people will do most of the\nwork for them. The theory also seems to explain the sudden and\nunexpected popularity of certain looks, brands, or neighborhoods. In\nmany such cases, a cursory search for causes finds that some small group\nof people was wearing, promoting, or developing whatever it is before\nanyone else paid attention. Anecdotal evidence of this kind fits nicely\nwith the idea that only certain special people can drive trends.\n\nIn their recent work, however, some researchers have come up with the\nfinding that influentials have far less impact on social epidemics than\nis generally supposed. In fact, they don't seem to be required at all.\n\nThe researchers' argument stems from a simple observing about social\ninfluence: With the exception of a few celebrities like Oprah\nWinfrey - whose outsize presence is primarily a function of media, not\ninterpersonal, influence - even the most influential members of a\npopulation simply don't interact with that many others. Yet it is\nprecisely these non-celebrity influentials who, according to the\ntwo-step-flow theory, are supposed to drive social epidemics, by\ninfluencing their friends and colleagues directly. For a social epidemic\nto occur, however, each person so affected, must then influence his or\nher own acquaintances, who must in turn influence theirs, and so on; and\njust how many others pay attention to each of these people has little to\ndo with the initial influential. If people in the network just two\ndegrees removed from the initial influential prove resistant, for\nexample, the cascade of change won't propagate very far or affect many\npeople.\n\nBuilding on the basic truth about interpersonal influence, the\nresearchers studied the dynamics of social influence by conducting\nthousands of computer simulations of populations, manipulating a number\nof variables relating to people's ability to influence others and their\ntendency to be influenced. They found that the principal requirement for\nwhat is called \"global cascades\" - the widespread propagation of\ninfluence through networks - is the presence not of a few influentials\nbut, rather, of a critical mass of easily influenced people.",
   "questions": [
     {
@@ -20,14 +20,26 @@
         "D": "describe the essential characteristics of influentials"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "本题考查主旨题。结合解析资料和原文P1，正确项为 B：discuss influentials' function in spreading ideas。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+      "commonMistake": "容易把举例或局部信息当成全文中心。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "主旨题",
+        "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+        "correctLogic": "本题考查主旨题。结合解析资料和原文P1，正确项为 B：discuss influentials' function in spreading ideas。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +54,26 @@
         "D": "requires solid evidence for its validity"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P2，正确项为 D：requires solid evidence for its validity。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 D：requires solid evidence for its validity。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +88,26 @@
         "D": "most celebrities enjoy wide media attention"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文P3，正确项为 A：the power of influence goes with social interactions。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "P3",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P3",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文P3，正确项为 A：the power of influence goes with social interactions。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "are influenced by the initial influential"
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "词义题",
+      "questionType": "词义题",
+      "explanation": "本题考查词义题。结合解析资料和原文P4，正确项为 C：are influenced and then influence others。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
+      "commonMistake": "容易脱离上下文，只按熟悉义选答案。",
+      "location": "P4",
+      "thinkingMethod": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P4",
+        "testPoint": "词义题",
+        "trap": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
+        "correctLogic": "本题考查词义题。结合解析资料和原文P4，正确项为 C：are influenced and then influence others。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -108,23 +156,70 @@
         "D": "The inclination to rely on others. ---"
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P4，正确项为 C：The readiness to be influenced.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P4",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P4",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P4，正确项为 C：The readiness to be influenced.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "compelling",
+        "meaning": "adj.强制的,强迫的,引人注目的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "cursory",
+        "meaning": "adj.匆匆忙忙的,粗略的,草率的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "propagate",
+        "meaning": "v.繁殖,传播,宣传",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "cascade",
+        "meaning": "n.小瀑布,喷流vi.成瀑布落下n.层叠",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2010%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }

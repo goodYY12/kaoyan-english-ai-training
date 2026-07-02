@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 4",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "It never rains but it pours. Just as bosses and boards have finally\nsorted out their worst accounting and compliance troubles, and improved\ntheir feeble corporation governance, a new problem threatens to earn\nthem - especially in America - the sort of nasty headlines that\ninevitably lead to heads rolling in the executive suite: data\ninsecurity. Left, until now, to odd, low-level IT staff to put right,\nand seen as a concern only of data-rich industries such as banking,\ntelecoms and air travel, information protection is now high on the\nboss's agenda in businesses of every variety.\n\nSeveral massive leakages of customer and employee data this year - from\norganizations as diverse as Time Warner, the American defense contractor\nScience Applications International Corp and even the University of\nCalifornia, Berkeley - have left managers hurriedly peering into their\nintricate IT systems and business processes in search of potential\nvulnerabilities.\n\n\"Data is becoming an asset which needs to be guarded as much as any\nother asset,\" says Haim Mendelson of Stanford University's business\nschool. \"The ability to guard customer data is the key to market value,\nwhich the board is responsible for on behalf of shareholders.\" Indeed,\njust as there is the concept of Generally Accepted Accounting Principles\n(GAAP), perhaps it is time for GASP, Generally Accepted Security\nPractices, suggested Eli Noam of New York's Columbia Business School.\n\"Setting the proper investment level for security, redundancy, and\nrecovery is a management issue, not a technical one,\" he says.\n\nThe mystery is that this should come as a surprise to any boss. Surely\nit should be obvious to the dimmest executive that trust, that most\nvaluable of economic assets, is easily destroyed and hugely expensive to\nrestore - and that few things are more likely to destroy trust than a\ncompany letting sensitive personal data get into the wrong hands.\n\nThe current state of affairs may have been encouraged - though not\njustified - by the lack of legal penalty (in America, but not Europe)\nfor data leakage. Until California recently passed a law, American firms\ndid not have to tell anyone, even the victim, when data went astray.\nThat may change fast: lots of proposed data-security legislation is now\ndoing the rounds in Washington,\nD.C. Meanwhile, the theft of information\nabout some 40 million credit-card accounts in America, disclosed on June\n17th, overshadowed a hugely important decision a day\nearlier by America's Federal Trade Commission (FTC) that puts corporate\nAmerica on notice that regulators will act if firms fail to provide\nadequate data security.",
   "questions": [
     {
@@ -20,14 +20,26 @@
         "D": "the severity of data leakage."
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "本题考查主旨题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 D：the severity of data leakage.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+      "commonMistake": "容易把举例或局部信息当成全文中心。",
+      "location": "TODO: 定位句待人工核对",
+      "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "TODO: 定位句待人工核对",
+        "testPoint": "主旨题",
+        "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+        "correctLogic": "本题考查主旨题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 D：the severity of data leakage.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +54,26 @@
         "D": "how the potential spies can be located"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P2，正确项为 A：whether there is any weak point。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 A：whether there is any weak point。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +88,26 @@
         "D": "the market value of customer data should be emphasized"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P3，正确项为 B：information protection should be given due attention。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P3",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P3",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P3，正确项为 B：information protection should be given due attention。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "appreciate the economic value of trust"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "本题考查主旨题。结合解析资料和原文P4，正确项为 A：see the link between trust and data protection。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+      "commonMistake": "容易把举例或局部信息当成全文中心。",
+      "location": "P4",
+      "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P4",
+        "testPoint": "主旨题",
+        "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+        "correctLogic": "本题考查主旨题。结合解析资料和原文P4，正确项为 A：see the link between trust and data protection。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -108,23 +156,112 @@
         "D": "Talk about the Future on a Regular Basis E. Help Kids Develop Coping Strategies F. Help Your Kids Figure Out Who They Are G. Build Your Kids' Sense of Responsibility **How Can a Parent Help?** Mothers and fathers can do a lot to ensure a safe landing in early adulthood for their kids. Even if a job's starting salary seems too small to satisfy an emerging adult's need for rapid content, the transition from school to work can be less of a setback if the start-up adult is ready for the move. Here are a few measures, drawn from my book *Ready or Not, Here Life Comes*, that parents can take to prevent what I call \"work-life unreadiness\":"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 D：Talk about the Future on a Regular Basis E. Help Kids Develop Coping Strategies F. Help Your Kids Figure Out Who They Are G. Build Your Kids' Sense of Responsibility **How Can a Parent Help?** Mothers and fathers can do a lot to ensure a safe landing in early adulthood for their kids. Even if a job's starting salary seems too small to satisfy an emerging adult's need for rapid content, the transition from school to work can be less of a setback if the start-up adult is ready for the move. Here are a few measures, drawn from my book *Ready or Not, Here Life Comes*, that parents can take to prevent what I call \"work-life unreadiness\":。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "P最后一段",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P最后一段",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 D：Talk about the Future on a Regular Basis E. Help Kids Develop Coping Strategies F. Help Your Kids Figure Out Who They Are G. Build Your Kids' Sense of Responsibility **How Can a Parent Help?** Mothers and fathers can do a lot to ensure a safe landing in early adulthood for their kids. Even if a job's starting salary seems too small to satisfy an emerging adult's need for rapid content, the transition from school to work can be less of a setback if the start-up adult is ready for the move. Here are a few measures, drawn from my book *Ready or Not, Here Life Comes*, that parents can take to prevent what I call \"work-life unreadiness\":。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "sortout",
+        "meaning": "解决",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "nasty",
+        "meaning": "adj.肮脏的，令人厌恶的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "rollin",
+        "meaning": "蜂拥而来",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "massive",
+        "meaning": "adj.厚重的，大块的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "peer",
+        "meaning": "vi.凝视，窥视",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "potential",
+        "meaning": "adj.潜在的，可能的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "shareholder",
+        "meaning": "n.股东",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "redundancy",
+        "meaning": "n.冗余",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "dotherounds",
+        "meaning": "迅速传开；巡视",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "astray",
+        "meaning": "adv.迷途地，误入歧途地",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2007%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }

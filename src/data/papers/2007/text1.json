@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 1",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "If you were to examine the birth certificates of every soccer player in\n2006's World Cup tournament, you would most likely find a noteworthy\nquirk: elite soccer players are more likely to have been born in the\nearlier months of the year than in the late months. If you then examined\nthe European national youth teams that feed the World Cup and\nprofessional ranks, you would find this strange phenomenon to be ever\nmore pronounced.\n\nWhat might account for this strange phenomenon? Here are a few guesses:\na) certain astrological signs confer superior soccer skills; b)\nwinter-born babies tend to have higher oxygen capacity, which increases\nsoccer stamina; c) soccer-mad parents are more likely to conceive\nchildren in springtime, at the annual peak of soccer mania;\nd) none of the above.\n\nAnders Ericsson, a 58-year-old psychology professor at Florida State\nUniversity, says he believes strongly in \"none of the above.\" Ericsson\ngrew up in Sweden, and studied nuclear engineering until he realized he\nwould have more opportunity to conduct his own research if he switched\nto psychology. His first experiment, nearly 30 years ago, involved\nmemory: training a person to hear and then repeat a random series of\nnumbers. \"With the first subject, after about 20 hours of training, his\ndigit span had risen from 7 to 20,\" Ericsson recalls. \"He kept\nimproving, and after about 200 hours of training he had risen to over 80\nnumbers.\"\n\nThis success, coupled with later research showing that memory itself is\nnot genetically determined, led Ericsson to conclude that the act of\nmemorizing is more of a cognitive exercise than an intuitive one. In\nother words, whatever inborn differences two people may exhibit in their\nabilities to memorize, those differences are swamped by how well each\nperson \"encodes\" the information. And the best way to learn how to\nencode information meaningfully, Ericsson determined, was a process\nknown as deliberate practice. Deliberate practice entails more than\nsimply repeating a task. Rather, it involves setting specific goals,\nobtaining immediate feedback and concentrating as much on technique as\non outcome.\n\nEricsson and his colleagues have thus taken to studying expert\nperformers in a wide range of pursuits, including soccer. They gather\nall the data they can, not just performance statistics and biographical\ndetails but also the results of their own laboratory experiments with\nhigh achievers. Their work makes a rather startling assertion: the trait\nwe commonly call talent is highly overrated. Or, put another way, expert\nperformers - whether in memory or surgery, ballet or computer\nprogramming - are nearly always made, not born.",
   "questions": [
     {
@@ -20,14 +20,26 @@
         "D": "explain why some soccer teams play better than others."
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "本题考查主旨题。结合解析资料和原文P1，正确项为 C：introduce the topic of what makes expert performance.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+      "commonMistake": "容易把举例或局部信息当成全文中心。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "主旨题",
+        "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+        "correctLogic": "本题考查主旨题。结合解析资料和原文P1，正确项为 C：introduce the topic of what makes expert performance.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +54,26 @@
         "D": "excitement"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "词义题",
+      "questionType": "词义题",
+      "explanation": "本题考查词义题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 B：craze。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
+      "commonMistake": "容易脱离上下文，只按熟悉义选答案。",
+      "location": "TODO: 定位句待人工核对",
+      "thinkingMethod": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "TODO: 定位句待人工核对",
+        "testPoint": "词义题",
+        "trap": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
+        "correctLogic": "本题考查词义题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 B：craze。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +88,26 @@
         "D": "requires immediate feedback and a high degree of concentration"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P3，正确项为 A：depends on meaningful processing of information。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P3",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P3",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P3，正确项为 A：depends on meaningful processing of information。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "high achievers owe their success mostly to nurture"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P最后一段，正确项为 D：high achievers owe their success mostly to nurture。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P最后一段",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P最后一段",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P最后一段，正确项为 D：high achievers owe their success mostly to nurture。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -108,23 +156,112 @@
         "D": "\"Like father, like son.\" ---"
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "本题考查主旨题。结合解析资料和原文P1，正确项为 C：\"Practice makes perfect.\"。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+      "commonMistake": "容易把举例或局部信息当成全文中心。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "主旨题",
+        "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+        "correctLogic": "本题考查主旨题。结合解析资料和原文P1，正确项为 C：\"Practice makes perfect.\"。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "certificate",
+        "meaning": "n.证书",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "astrological",
+        "meaning": "adj.占星的，占星术的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "stamina",
+        "meaning": "n.毅力，持久力，精力",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "conceive",
+        "meaning": "v.怀孕，考虑，设想",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "annual",
+        "meaning": "adj.每年的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "peak",
+        "meaning": "n.顶点，(记录的)最高峰",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "mania",
+        "meaning": "n.癖好，狂热",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "coupleAwithB",
+        "meaning": "将A与B联系在一起",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "cognitive",
+        "meaning": "adj.认知的，认识的，有感知的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "swamp",
+        "meaning": "v.使陷入困境；淹没",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2007%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }

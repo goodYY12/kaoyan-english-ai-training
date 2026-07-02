@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 1",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "Of all the changes that have taken place in English-language newspapers\nduring the past quarter-century, perhaps the most far-reaching has been\nthe inexorable decline in the scope and seriousness of their arts\ncoverage.\n\nIt is difficult to the point of impossibility for the average reader\nunder the age of forty to imagine a time when high-quality arts\ncriticism could be found in most big-city newspapers. Yet a considerable\nnumber of the most significant collections of criticism published in the\n20th century consisted in large part of newspaper\nreviews. To read such books today is to marvel at the fact that their\nlearned contents were once deemed suitable for publication in\ngeneral-circulation dailies.\n\nWe are even farther removed from the unfocused newspaper reviews\npublished in England between the turn of the 20th\ncentury and the eve of World War II, at a time when newsprint was\ndirt-cheap and stylish arts criticism was considered an ornament to the\npublications in which it appeared. In those far-off days, it was taken\nfor granted that the critics of major papers would write in detail and\nat length about the events they covered. Theirs was a serious business,\nand even those reviewers who wore their learning lightly, like George\nBernard Shaw and Ernest Newman, could be trusted to know what they were\nabout. These men believed in journalism as a calling, and were proud to\nbe published in the daily press. \"So few authors have brains enough or\nliterary gift enough to keep their own end up in journalism,\" Newman\nwrote, \"that I am tempted to define `journalism' as `a term of contempt\napplied by writers who are not read to writers who are'.\"\n\nUnfortunately, these critics are virtually forgotten. Neville Cardus,\nwho wrote for the *Manchester Guardian* from 1917 until shortly\nbefore his death in 1975, is now known solely as a writer of essays on\nthe game of cricket. During his lifetime, though, he was also one of\nEngland's foremost classical-music critics, a stylist so widely admired\nthat his *Autobiography* (1947) became a best-seller. He was\nknighted in 1967, the first music critic to be so honored. Yet only one\nof his books is now in print, and his vast body of writings on music is\nunknown save to specialists.\n\nIs there any chance that Cardus's criticism will enjoy a revival? The\nprospect seems remote. Journalistic tastes had changed long before his\ndeath, and postmodern readers have little use for the richly upholstered\nVicwardian prose in which he specialized. Moreover, the amateur\ntradition in music criticism has been in headlong retreat.",
   "questions": [
     {
@@ -19,15 +19,27 @@
         "C": "high-quality newspapers retain a large body of readers",
         "D": "young readers doubt the suitability of criticism on dailies"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文P1，正确项为 B：English-language newspapers used to carry more arts reviews。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文P1，正确项为 B：English-language newspapers used to carry more arts reviews。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +54,26 @@
         "D": "radical viewpoints"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P3，正确项为 A：free themes。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P3",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P3",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P3，正确项为 A：free themes。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +87,27 @@
         "C": "Writers are likely to be tempted into journalism.",
         "D": "Not all writers are capable of journalistic writing."
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "本题考查态度题。结合解析资料和原文P3，正确项为 D：Not all writers are capable of journalistic writing.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P3",
+      "thinkingMethod": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P3",
+        "testPoint": "态度题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查态度题。结合解析资料和原文P3，正确项为 D：Not all writers are capable of journalistic writing.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "His writings fail to follow the amateur tradition."
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文P4，正确项为 A：His music criticism may not appeal to readers today.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "P4",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P4",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文P4，正确项为 A：His music criticism may not appeal to readers today.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -107,24 +155,113 @@
         "C": "Mournful Decline of Journalism",
         "D": "Prominent Critics in Memory ---"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "本题考查主旨题。结合解析资料和原文P1，正确项为 B：The Lost Horizon in Newspapers。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+      "commonMistake": "容易把举例或局部信息当成全文中心。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "主旨题",
+        "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+        "correctLogic": "本题考查主旨题。结合解析资料和原文P1，正确项为 B：The Lost Horizon in Newspapers。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "inexorable",
+        "meaning": "adj.不可阻挡的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "coverage",
+        "meaning": "n.新闻报道",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "thinkpiece",
+        "meaning": "内幕新闻、(内容)严肃且(思想)深邃的文章",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "disdain",
+        "meaning": "vt.蔑视、鄙视",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "erudite",
+        "meaning": "adj.(Formal)广博的、博学多识的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "discursive",
+        "meaning": "adj.东拉西扯的、不着边际的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "wearone’slearninglightly",
+        "meaning": "卖弄某人的学问",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "calling",
+        "meaning": "n.职业=vocation",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "contempt",
+        "meaning": "n.耻辱、侮辱",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "posthumous",
+        "meaning": "adj.死后发生的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2010%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }

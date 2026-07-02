@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 3",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "newlinespread1.26\nThe relationship between formal education and economic growth in poor\ncountries is widely misunderstood by economists and politicians alike.\nProgress in both areas is undoubtedly necessary for the social,\npolitical, and intellectual development of these and all other\nsocieties; however, the conventional view that education should be one\nof the very highest priorities for promoting rapid economic development\nin poor countries is wrong. We are fortunate that it is, because\nbuilding new educational systems there and putting enough people through\nthem to improve economic performance would require two or three\ngenerations. The findings of a research institution have consistently\nshown that workers in all countries can be trained on the job to achieve\nradically higher productivity and, as a result, radically higher\nstandards of living.\n\nIronically, the first evidence for this idea appeared in the United\nStates. Not long ago, with the country entering a recession and Japan at\nits pre-bubble peak, the U.S. workforce was derided as poorly educated\nand one of primary causes of the poor U.S. economic performance. Japan\nwas, and remains, the global leader in automotive-assembly productivity.\nYet the research revealed that the U.S. factories of Honda, Nissan, and\nToyota achieved about 95 percent of the productivity of their Japanese\ncounterparts - a result of the training that U.S. workers received on\nthe job.\n\nMore recently, while examining housing construction, the researchers\ndiscovered that illiterate, non-English-speaking Mexican workers in\nHouston, Texas, consistently met best-practice labor productivity\nstandards despite the complexity of the building industry's work.\n\nWhat is the real relationship between education and economic\ndevelopment? We have to suspect that continuing economic growth promotes\nthe development of education even when governments don't force it. After\nall, that's how education got started. When our ancestors were hunters\nand gatherers 10, 000 years ago, they didn't have time to wonder much\nabout anything besides finding food. Only when humanity began to get its\nfood in a more productive way was there time for other things.\n\nAs education improved, humanity's productivity potential increased as\nwell. When the competitive environment pushed our ancestors to achieve\nthat potential, they could in turn afford more education. This\nincreasingly high level of education is probably a necessary, but not a\nsufficient, condition for the complex political systems required by\nadvanced economic performance. Thus poor countries might not be able to\nescape their poverty traps without political changes that may be\npossible only with broader formal education. A lack of formal education,\nhowever, doesn't constrain the ability of the developing world's\nworkforce to substantially improve productivity for the foreseeable\nfuture. On the contrary, constraints on improving productivity explain\nwhy education isn't developing more quickly there than it is.",
   "questions": [
     {
@@ -20,14 +20,26 @@
         "D": "has been overestimated"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "作者观点",
+      "questionType": "作者观点",
+      "explanation": "本题考查作者观点。结合解析资料和原文P1，正确项为 D：has been overestimated。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（作者观点），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "作者观点",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查作者观点。结合解析资料和原文P1，正确项为 D：has been overestimated。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（作者观点），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +53,27 @@
         "C": "demands priority from the government",
         "D": "requires sufficient labor force"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P1，正确项为 B：takes efforts of generations。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 B：takes efforts of generations。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +87,27 @@
         "C": "the U. S workforce has a better education",
         "D": "the U. S workforce is more organize"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P2，正确项为 B：the Japanese workforce is more productive。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 B：the Japanese workforce is more productive。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +121,27 @@
         "C": "when people on longer went hungry",
         "D": "as a result of pressure on government"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "例证",
+      "questionType": "例证",
+      "explanation": "本题考查例证。结合解析资料和原文P3，正确项为 C：when people on longer went hungry。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P3",
+      "thinkingMethod": "先根据题干判断题型（例证），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P3",
+        "testPoint": "例证",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查例证。结合解析资料和原文P3，正确项为 C：when people on longer went hungry。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（例证），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -107,24 +155,78 @@
         "C": "follows improved productivity",
         "D": "cannot afford political changes ---"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "本题考查态度题。结合解析资料和原文P最后一段，正确项为 C：follows improved productivity。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P最后一段",
+      "thinkingMethod": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P最后一段",
+        "testPoint": "态度题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查态度题。结合解析资料和原文P最后一段，正确项为 C：follows improved productivity。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "priority",
+        "meaning": "n.优先（权）v.把……（计划或目标）列入优先地位",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "recession",
+        "meaning": "n.撤回，工商业之衰退，不景气",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "deride",
+        "meaning": "v.嘲弄，嘲笑",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "ancestor",
+        "meaning": "n.祖先，先驱，起源",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "foreseeable",
+        "meaning": "adj.可预知的，能预测的，能看透的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2009%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }

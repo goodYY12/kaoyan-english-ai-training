@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 1",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "Habits are a funny thing. We reach for them mindlessly, setting our\nbrains on auto-pilot and relaxing into the unconscious comfort of\nfamiliar routine. \"Not choice, but habit rules the unreflecting herd,\"\nWilliam Wordsworth said in the 19th century. In the ever-changing 21 st\ncentury, even the word \"habit\" carries a negative implication.\n\nSo it seems paradoxical to talk about habits in the same context as\ncreativity and innovation. But brain researchers have discovered that\nwhen we consciously develop new habits, we create parallel paths, and\neven entirely new brain cells, that can jump our trains of thought onto\nnew, innovative tracks.\n\nRather than dismissing ourselves as unchangeable creatures of habit, we\ncan instead direct our own change by consciously developing new habits.\nIn fact, the more new things we try - the more we step outside our\ncomfort zone - the more inherently creative we become, both in the\nworkplace and in our personal lives.\n\nBut don't bother trying to kill off old habits; once\nthose ruts of procedure are worn into the brain, they're\nthere to stay. Instead, the new habits we deliberately press into\nourselves create parallel pathways that can bypass those old roads.\n\n\"The first thing needed for innovation is a fascination with wonder,\"\nsays Dawna Markova, author of *The Open Mind*. \"But we are taught\ninstead to `decide', just as our president calls himself `the Decider.'\n\" She adds, however, that \"to decide is to kill off all possibilities\nbut one. A good innovational thinker is always exploring the many other\npossibilities.\"\n\nAll of us work through problems in ways of which we're unaware, she\nsays. Researchers in the late 1960s discovered that humans are born with\nthe capacity to approach challenges in four primary ways: analytically,\nprocedurally, relationally (or collaboratively) and innovatively. At the\nend of adolescence, however, the brain shuts down half of that capacity,\npreserving only those modes of thought that have seemed most valuable\nduring the first decade or so of life.\n\nThe current emphasis on standardized testing highlights analysis and\nprocedure, meaning that few of us inherently use our innovative and\ncollaborative modes of thought. \"This breaks the major rule in the\nAmerican belief system - that anyone can do anything,\" explains M. J.\nRyan, author of the 2006 book *This Year I Will...* and Ms.\nMarkova's business partner. \"That's a lie that we have perpetuated, and\nit fosters commonness. Knowing what you're good at and doing even more\nof it creates excellence.\" This is where developing new habits comes\nin.",
   "questions": [
     {
@@ -19,15 +19,27 @@
         "C": "mechanical",
         "D": "changeable."
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P1，正确项为 C：mechanical。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 C：mechanical。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +53,27 @@
         "C": "traced",
         "D": "guided"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P2，正确项为 D：guided。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 D：guided。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +88,26 @@
         "D": "connections"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "词义题",
+      "questionType": "词义题",
+      "explanation": "本题考查词义题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 A：tracks。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
+      "commonMistake": "容易脱离上下文，只按熟悉义选答案。",
+      "location": "TODO: 定位句待人工核对",
+      "thinkingMethod": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "TODO: 定位句待人工核对",
+        "testPoint": "词义题",
+        "trap": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
+        "correctLogic": "本题考查词义题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 A：tracks。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +121,27 @@
         "C": "decisiveness derives from fantastic ideas",
         "D": "curiosity activates creative minds"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P1，正确项为 D：curiosity activates creative minds。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 D：curiosity activates creative minds。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -108,23 +156,91 @@
         "D": "complies with the American belief system ---"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P最后一段，正确项为 A：prevents new habits from being formed。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P最后一段",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P最后一段",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P最后一段，正确项为 A：prevents new habits from being formed。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "auto-pilot",
+        "meaning": "a.自动导航的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "routine",
+        "meaning": "n.常规，例行公事a.日常的,常规的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "paradoxical",
+        "meaning": "a.反论的，荒谬的，自相矛盾的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "rut",
+        "meaning": "n.车辙，常轨，惯例v.在……形成车辙",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "pathway",
+        "meaning": "n.路径",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "highlight",
+        "meaning": "n.精彩场面，最显著(重要)部分vt.加亮,使显著",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "foster",
+        "meaning": "vt.养育，抚育n.养育者，鼓励者",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2009%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }

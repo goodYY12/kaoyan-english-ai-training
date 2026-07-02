@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 3",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "In the early 1960s Wilt Chamberlain was one of the only three players in\nthe National Basketball Association (NBA) listed at over seven feet. If\nhe had played last season, however, he would have been one of 42. The\nbodies playing major professional sports have changed dramatically over\nthe years, and managers have been more than willing to adjust team\nuniforms to fit the growing numbers of bigger, longer frames.\n\nThe trend in sports, though, may be obscuring an unrecognized reality:\nAmericans have generally stopped growing. Though typically about two\ninches taller now than 140 years ago, today's people - especially those\nborn to families who have lived in the U.S. for many\ngenerations - apparently reached their limit in the early 1960 s. And they\naren't likely to get any taller. \"In the general population today, at\nthis genetic, environmental level, we've pretty much gone as far as we\ncan go,\" says anthropologist William Cameron Chumlea of Wright State\nUniversity. In the case of NBA players, their increase in height appears\nto result from the increasingly common practice of recruiting players\nfrom all over the world.\n\nGrowth, which rarely continues beyond the age of 20, demands calories\nand nutrients - notably, protein - to feed expanding tissues. At the\nstart of the 20th century, under-nutrition and childhood infections got\nin the way. But as diet and health improved, children and adolescents\nhave, on average, increased in height by about an inch and a half every\n20 years, a pattern known as the secular trend in height. Yet according\nto the Centers for Disease Control and Prevention, average height - 5'9\"\nfor men, 5'4\" for women - hasn't really changed since 1960.\n\nGenetically speaking, there are advantages to avoiding substantial\nheight. During childbirth, larger babies have more difficulty passing\nthrough the birth canal. Moreover, even though humans have been upright\nfor millions of years, our feet and back continue to struggle with\nbipedal posture and cannot easily withstand repeated strain imposed by\noversize limbs. \"There are some real constraints that are set by the\ngenetic architecture of the individual organism,\" says anthropologist\nWilliam Leonard of Northwestern University.\n\nGenetic maximums can change, but don't expect this to happen soon.\nClaire\nC. Gordon, senior anthropologist at the Army Research Center in\nNatick, Mass., ensures that 90 percent of the uniforms and workstations\nfit recruits without alteration. She says that, unlike those for\nbasketball, the length of military uniforms has not changed for some\ntime. And if you need to predict human height in the near future to\ndesign a piece of equipment, Gordon says that by and large, \"you could\nuse today's data and feel fairly confident.\"",
   "questions": [
     {
@@ -20,14 +20,26 @@
         "D": "assess the achievements of famous NBA players"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "本题考查主旨题。结合解析资料和原文P1，正确项为 A：illustrate the change of height of NBA players。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+      "commonMistake": "容易把举例或局部信息当成全文中心。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "主旨题",
+        "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+        "correctLogic": "本题考查主旨题。结合解析资料和原文P1，正确项为 A：illustrate the change of height of NBA players。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +54,26 @@
         "D": "Daily exercise."
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P2，正确项为 C：Living standards.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 C：Living standards.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +88,26 @@
         "D": "Larger babies tend to become taller in adulthood."
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文P2，正确项为 B：Human height is conditioned by the upright posture.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文P2，正确项为 B：Human height is conditioned by the upright posture.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "the existing data of human height will still be applicable"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 D：the existing data of human height will still be applicable。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "P最后一段",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P最后一段",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 D：the existing data of human height will still be applicable。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -108,23 +156,112 @@
         "D": "the genetic pattern of Americans has altered ---"
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "本题考查主旨题。结合解析资料和原文P2，正确项为 C：Americans have reached their genetic growth limit。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+      "commonMistake": "容易把举例或局部信息当成全文中心。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "主旨题",
+        "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+        "correctLogic": "本题考查主旨题。结合解析资料和原文P2，正确项为 C：Americans have reached their genetic growth limit。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "byandlarge",
+        "meaning": "大体上，基本上",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "canal",
+        "meaning": "n.运河",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "frame",
+        "meaning": "n.架子；体格v.给……装框子；陷害，诬告",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "getintheway(of)",
+        "meaning": "妨碍",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "notablyad.",
+        "meaning": "引人注目地；尤其",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "obscure",
+        "meaning": "v.使暗；a.模(含)糊的；晦涩的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "recruit",
+        "meaning": "n.新兵，新分子；v.征募",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "anthropologist",
+        "meaning": "n.人类学家",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "bipedal",
+        "meaning": "a.两足动物的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "secular",
+        "meaning": "a.现世的，世俗的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2008%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }

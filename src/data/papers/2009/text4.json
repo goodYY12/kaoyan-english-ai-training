@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 4",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "The most thoroughly studied intellectuals in the history of the New\nWorld are the ministers and political leaders of seventeenth-century New\nEngland. According to the standard history of American philosophy,\nnowhere else in colonial America was \"so much importance attached to\nintellectual pursuits.\" According to many books and articles, New\nEngland's leaders established the basic themes and preoccupations of an\nunfolding, dominant Puritan tradition in American intellectual life.\n\nTo take this approach to the New Englanders normally means to start with\nthe Puritans' theological innovations and their distinctive ideas about\nthe church - important subjects that we may not neglect. But in keeping\nwith our examination of southern intellectual life, we may consider the\noriginal Puritans as carriers of European culture, adjusting to New\nWorld circumstances. The New England colonies were the scenes of\nimportant episodes in the pursuit of widely understood ideals of\ncivility and virtuosity.\n\nThe early settlers of Massachusetts Bay included men of impressive\neducation and influence in England. Besides the ninety or so learned\nministers who came to Massachusetts churches in the decade after 1629,\nthere were political leaders like John Winthrop, an educated gentleman,\nlawyer, and official of the Crown before he journeyed to Boston. These\nmen wrote and published extensively, reaching both New World and Old\nWorld audiences, and giving New England an atmosphere of intellectual\nearnestness.\n\nWe should not forget, however, that most New Englanders were less well\neducated. While few craftsmen or farmers, let alone dependents and\nservants, left literary compositions to be analyzed, it is obvious that their views were less fully intellectualized.\nTheir thinking often had a traditional superstitious quality. A tailor named John Dane,\nwho emigrated in the late 1630 s, left an account of his reasons for\nleaving England that is filled with signs. Sexual confusion, economic\nfrustrations, and religious hope-all name together in a decisive moment\nwhen he opened the Bible, told his father that the first line he saw\nwould settle his fate, and read the magical words: \"Come out from among\nthem, touch no unclean thing, and I will be your God and you shall be my\npeople.\" One wonders what Dane thought of the careful sermons\nexplaining the Bible that he heard in Puritan churches.\n\nMeanwhile, many settles had slighter religious commitments than Dane's,\nas one clergyman learned in confronting folk along the coast who mocked\nthat they had not come to the New World for religion. \"Our main end was\nto catch fish.\"",
   "questions": [
     {
@@ -19,15 +19,27 @@
         "C": "politics benefited much from intellectual endeavors",
         "D": "intellectual pursuits enjoyed a liberal environment"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P1，正确项为 B：intellectual interests were encouraged。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 B：intellectual interests were encouraged。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +53,27 @@
         "C": "paid little attention to southern intellectual life",
         "D": "were obsessed with religious innovations"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文P2，正确项为 B：brought with them the culture of the Old World。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文P2，正确项为 B：brought with them the culture of the Old World。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +87,27 @@
         "C": "abandoned high positions before coming to the New World",
         "D": "created a new intellectual atmosphere in New England"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P3，正确项为 D：created a new intellectual atmosphere in New England。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P3",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P3",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P3，正确项为 D：created a new intellectual atmosphere in New England。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "frustrated with family earnings"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P4，正确项为 A：influenced by superstitions。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P4",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P4",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P4，正确项为 A：influenced by superstitions。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -107,24 +155,92 @@
         "C": "He argued that human evolution was characterized by a struggle he called the \"survival of the fittest,\" in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies.",
         "D": "They also focused on important rituals that appeared to preserve a people's social structure, such as initiation ceremonies that formally signify children's entrance into adulthood. E. Thus, in his view, diverse aspects of culture, such as the structure of families, forms of marriage, categories of kinship, ownership of property, forms of government, technology, and systems of food production, all changed as societies evolved. F. Supporters of the theory viewed culture as a collection of integrated parts that work together to keep a society functioning. G. For example, British anthropologists Grafton Elliot Smith and W. J. Perry incorrectly suggested, on the basis of inadequate information, that farming, pottery making, and metallurgy all originated in ancient Egypt and diffused throughout the world. In fact, all of these cultural developments occurred separately at different times in many parts of the world. --- **Part C** **Directions:** Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written carefully on **ANSWER SHEET 2**. (10 points) There is a marked difference between the education which every one gets from living with others, and the deliberate educating of the young. In the former case the education is incidental; it is natural and important, but it is not the express reason of the association. (46) It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience, but this effect is not a part of its original motive. Religious associations began, for example, in the desire to secure the favor of overruling powers and to ward off evil influences; family life in the desire to gratify appetites and secure family perpetuity; systematic labor, for the most part, because of enslavement to others, etc. (47) Only gradually was the by-product of the institution noted, and only more gradually still was this effect considered as a directive factor in the conduct of the institution. Even today, in our industrial life, apart from certain values of industriousness and thrift, the intellectual and emotional reaction of the forms of human association under which the world's work is carried on receives little attention as compared with physical output. But in dealing with the young, the fact of association itself as an immediate human fact, gains in importance. (48) While it is easy to ignore in our contact with them the effect of our acts upon their disposition, it is not so easy as in dealing with adults. The need of training is too evident and the pressure to accomplish a change in their attitude and habits is too urgent to leave these consequences wholly out of account. (49) Since our chief business with them is to enable them to share in a commonlife we cannot help considering whether or not we are forming the powers which will secure this ability. If humanity has made some headway in realizing that the ultimate value of every institution is its distinctively human effect we may well believe that this lesson has been learned largely through dealings with the young. (50) We are thus led to distinguish, within the broad educational process which we have been so far considering, a more formal kind of education - that of direct tuition or schooling. In undeveloped social groups, we find very little formal teaching and training. These groups mainly rely for instilling needed dispositions into the young upon the same sort of association which keeps adults loyal to their group. --- ## Writing **Part A** **51. Directions:** Restrictions on the use of plastic bags have not been so successful in some regions. \"White Pollution\" is still going on. Write a letter to the editor (s) of your local newspaper to"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P3，正确项为 C：He argued that human evolution was characterized by a struggle he called the \"survival of the fittest,\" in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P3",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P3",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P3，正确项为 C：He argued that human evolution was characterized by a struggle he called the \"survival of the fittest,\" in which weaker races and societies must eventually be replaced by stronger, more advanced races and societies.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "intellectual",
+        "meaning": "n.知识分子adj.智力的，显示智力的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "preoccupation",
+        "meaning": "n.当务之急；抢先占据",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "theological",
+        "meaning": "adj.神学的；神学性质的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "civility",
+        "meaning": "n.文明，文化",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "virtuosity",
+        "meaning": "n.艺术鉴别力；艺术上的精湛技巧",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "sermon",
+        "meaning": "n.训诫，说教，布道",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "mock",
+        "meaning": "v.嘲笑；模仿；戏弄",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2009%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }

@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 2",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "Over the past decade, thousands of patents have been granted for what\nare called business methods. Amazon.com received one for its \"one-click\"\nonline payment system. Merrill Lynch got legal protection for an asset\nallocation strategy. One inventor patented a technique for lifting a\nbox.\n\nNow the nation's top patent court appears completely ready to scale back\non business-method patents, which have been controversial ever since\nthey were first authorized 10 years ago. In a move that has\nintellectual-property lawyers abuzz, the U.S. Court of Appeals for the Federal Circuit said\nit would use a particular case to conduct a broad\nreview of business-method patents. *In re Bilski*, as the case is\nknown , is \"a very big deal\", says Dennis\nD. Crouch of the University of\nMissouri School of Law. It \" has the potential to eliminate an entire\nclass of patents.\"\n\nCurbs on business-method claims would be a dramatic about-face, because\nit was the Federal Circuit itself that introduced such patents with is\n1998 decision in the so-called State Street Bank case, approving a\npatent on a way of pooling mutual-fund assets. That ruling produced an\nexplosion in business-method patent filings, initially by emerging\nInternet companies trying to stake out exclusive rights to specific\ntypes of online transactions. Later, move established companies raced to\nadd such patents to their files, if only as a defensive move against\nrivals that might beat them to the punch. In 2005, IBM noted in a court\nfiling that it had been issued more than 300 business-method patents,\ndespite the fact that it questioned the legal basis for granting them.\nSimilarly, some Wall Street investment films armed themselves with\npatents for financial products, even as they took positions in court\ncases opposing the practice.\n\nThe Bilski case involves a claimed patent on a method for hedging risk\nin the energy market. The Federal Circuit issued an unusual order\nstating that the case would be heard by all 12 of the court's judges,\nrather than a typical panel of three, and that one issue it wants to\nevaluate is whether it should \"reconsider\" its State Street Bank ruling.\n\nThe Federal Circuit's action comes in the wake of a series of recent\ndecisions by the Supreme Court that has narrowed the scope of\nprotections for patent holders. Last April, for example the justices\nsignaled that too many patents were being upheld for \"inventions\" that\nare obvious. The judges on the Federal Circuit are \"reacting to the\nanti-patent trend at the Supreme Court\", says Harold C. Wegner, a patent\nattorney and professor at George Washington University Law School.",
   "questions": [
     {
@@ -20,14 +20,26 @@
         "D": "the controversy over authorization"
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P1，正确项为 C：the possible restriction on their granting。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 C：the possible restriction on their granting。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +54,26 @@
         "D": "It may change the legal practices in the U.S."
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 D：It may change the legal practices in the U.S.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "TODO: 定位句待人工核对",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "TODO: 定位句待人工核对",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 D：It may change the legal practices in the U.S.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +88,26 @@
         "D": "enhancement of dignity"
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "词义题",
+      "questionType": "词义题",
+      "explanation": "本题考查词义题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 C：change of attitude。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
+      "commonMistake": "容易脱离上下文，只按熟悉义选答案。",
+      "location": "TODO: 定位句待人工核对",
+      "thinkingMethod": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "TODO: 定位句待人工核对",
+        "testPoint": "词义题",
+        "trap": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
+        "correctLogic": "本题考查词义题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 C：change of attitude。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "increase the incidence of risks"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 B：are often unnecessarily issued。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "P最后一段",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P最后一段",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 B：are often unnecessarily issued。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -108,23 +156,91 @@
         "D": "A prevailing trend against business-method patents ---"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "本题考查主旨题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 A：A looming threat to business-method patents。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+      "commonMistake": "容易把举例或局部信息当成全文中心。",
+      "location": "TODO: 定位句待人工核对",
+      "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "TODO: 定位句待人工核对",
+        "testPoint": "主旨题",
+        "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+        "correctLogic": "本题考查主旨题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 A：A looming threat to business-method patents。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "asset",
+        "meaning": "n.资产，有用的东西",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "allocation",
+        "meaning": "n.分配，配置",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "curb",
+        "meaning": "n.抑制，路边；vt.拘束；勒住",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "eliminate",
+        "meaning": "vt.消除，排除",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "scaleback",
+        "meaning": "按比例缩减，相应缩减",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "stakeout",
+        "meaning": "立界标以表明",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "inthewakeof",
+        "meaning": "尾随，紧跟，仿效",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2010%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }

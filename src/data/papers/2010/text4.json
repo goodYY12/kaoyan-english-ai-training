@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 4",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "Bankers have been blaming themselves for their troubles in public.\nBehind the scenes, they have been taking aim at someone else: the\naccounting standard-setters. Their rules, moan the banks, have forced\nthem to report enormous losses, and it's just not fair. These rules say\nthey must value some assets at the price a third party would pay, not\nthe price managers and regulators would like them to fetch.\n\nUnfortunately, banks' lobbying now seems to be working. The details may\nbe unknowable, but the independence of standard-setters, essential to\nthe proper functioning of capital markets, is being compromised. And,\nunless banks carry toxic assets at prices that attract buyers, reviving\nthe banking system will be difficult.\n\nAfter a bruising encounter with Congress, America's Financial Accounting\nStandards Board (FASB) rushed through rule changes. These gave banks\nmore freedom to use models to value illiquid assets and more flexibility\nin recognizing losses on long-term assets in their income statement. Bob\nHerz, the FASB's chairman, cried out against those who \"question our\nmotives.\" Yet bank shares rose and the changes enhance what one lobby\ngroup politely calls \"the use of judgment by management.\"\n\nEuropean ministers instantly demanded that the International Accounting\nStandards Board (IASB) do likewise. The IASB says it does not want to\nact without overall planning, but the pressure to fold when it completes\nit reconstruction of rules later this year is strong. Charlie McCreevy,\na European commissioner, warned the IASB that it did \"not live in a\npolitical vacuum\" but \"'in the real word\" and that Europe could yet\ndevelop different rules.\n\nIt was banks that were on the wrong planet, with accounts that vastly\novervalued assets. Today they argue that market prices overstate losses,\nbecause they largely reflect the temporary illiquidity of markets, not\nthe likely extent of bad debts. The truth will not be known for years.\nBut bank's shares trade below their book value, suggesting that\ninvestors are skeptical. And dead markets partly reflect the paralysis\nof banks which will not sell assets for fear of booking losses, yet are\nreluctant to buy all those supposed bargains.\n\nTo get the system working again, losses must be recognized and dealt\nwith. America's new plan to buy up toxic assets will not work unless\nbanks mark assets to levels which buyers find attractive. Successful\nmarkets require independent and even combative standard-setters. The\nFASB and IASB have been exactly that, cleaning up rules on stock options\nand pensions, for example, against hostility from special interests. But\nby giving in to critics now they are inviting pressure to make more\nconcessions.",
   "questions": [
     {
@@ -20,14 +20,26 @@
         "D": "re-evaluate some of their assets"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P1，正确项为 A：follow unfavorable asset evaluation rules。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 A：follow unfavorable asset evaluation rules。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +54,26 @@
         "D": "the weakening of its independence"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P2，正确项为 D：the weakening of its independence。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 D：the weakening of its independence。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +88,26 @@
         "D": "take gradual measures in reform"
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "本题考查态度题。结合解析资料和原文P4，正确项为 C：act on their own in rule-setting。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P4",
+      "thinkingMethod": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P4",
+        "testPoint": "态度题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查态度题。结合解析资料和原文P4，正确项为 C：act on their own in rule-setting。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "denied booking losses in their sale of assets"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P5，正确项为 B：exaggerated the real value of their assets。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P5",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P5",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P5，正确项为 B：exaggerated the real value of their assets。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -108,23 +156,77 @@
         "D": "All in all, this clearly seems to be a market in which big retailers could profitably apply their gigantic scale, existing infrastructure and proven skills in the management of product ranges, logistics, and marketing intelligence. Retailers that master the intricacies of wholesaling in Europe may well expect to rake in substantial profits thereby. At least, that is how it looks as a whole. Closer inspection reveals important differences among the biggest national markets, especially in their customer segments and wholesale structures, as well as the competitive dynamics of individual food and drink categories. Big retailers must understand these differences before they can identify the segments of European wholesaling in which their particular abilities might unseat smaller but entrenched competitors. New skills and unfamiliar business models are needed too. E. Despite variations in detail, wholesale markets in the countries that have been closely examined - France, Germany, Italy, and Spain - are made out of the same building blocks. Demand comes mainly from two sources: independent mom-and-pop grocery stores which, unlike large retail chains, are too small to buy straight from producers, and food service operators that cater to consumers when they don't eat at home. Such food service operators range from snack machines to large institutional catering ventures, but most of these businesses are known in the trade as \"horeca\": hotels, restaurants, and cafes. Overall, Europe's wholesale market for food and drink is growing at the same sluggish pace as the retail market, but the figures, when added together, mask two opposing trends. F. For example, wholesale food and drink sales come to $268 billion in France, Germany, Italy, Spain, and the United Kingdom in 2000 - more than 40 percent of retail sales. Moreover, average overall margins are higher in wholesale than in retail; wholesale demand from the food service sector is growing quickly as more Europeans eat out more often; and changes in the competitive dynamics of this fragmented industry are at last making it feasible for wholesalers to consolidate. G. However, none of these requirements should deter large retailers (and even some large food producers and existing wholesalers) from trying their hand, for those that master the intricacies of wholesaling in Europe stand to reap considerable gains."
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "本题考查态度题。结合解析资料和原文P最后一段，正确项为 D：All in all, this clearly seems to be a market in which big retailers could profitably apply their gigantic scale, existing infrastructure and proven skills in the management of product ranges, logistics, and marketing intelligence. Retailers that master the intricacies of wholesaling in Europe may well expect to rake in substantial profits thereby. At least, that is how it looks as a whole. Closer inspection reveals important differences among the biggest national markets, especially in their customer segments and wholesale structures, as well as the competitive dynamics of individual food and drink categories. Big retailers must understand these differences before they can identify the segments of European wholesaling in which their particular abilities might unseat smaller but entrenched competitors. New skills and unfamiliar business models are needed too. E. Despite variations in detail, wholesale markets in the countries that have been closely examined - France, Germany, Italy, and Spain - are made out of the same building blocks. Demand comes mainly from two sources: independent mom-and-pop grocery stores which, unlike large retail chains, are too small to buy straight from producers, and food service operators that cater to consumers when they don't eat at home. Such food service operators range from snack machines to large institutional catering ventures, but most of these businesses are known in the trade as \"horeca\": hotels, restaurants, and cafes. Overall, Europe's wholesale market for food and drink is growing at the same sluggish pace as the retail market, but the figures, when added together, mask two opposing trends. F. For example, wholesale food and drink sales come to $268 billion in France, Germany, Italy, Spain, and the United Kingdom in 2000 - more than 40 percent of retail sales. Moreover, average overall margins are higher in wholesale than in retail; wholesale demand from the food service sector is growing quickly as more Europeans eat out more often; and changes in the competitive dynamics of this fragmented industry are at last making it feasible for wholesalers to consolidate. G. However, none of these requirements should deter large retailers (and even some large food producers and existing wholesalers) from trying their hand, for those that master the intricacies of wholesaling in Europe stand to reap considerable gains.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P最后一段",
+      "thinkingMethod": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P最后一段",
+        "testPoint": "态度题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查态度题。结合解析资料和原文P最后一段，正确项为 D：All in all, this clearly seems to be a market in which big retailers could profitably apply their gigantic scale, existing infrastructure and proven skills in the management of product ranges, logistics, and marketing intelligence. Retailers that master the intricacies of wholesaling in Europe may well expect to rake in substantial profits thereby. At least, that is how it looks as a whole. Closer inspection reveals important differences among the biggest national markets, especially in their customer segments and wholesale structures, as well as the competitive dynamics of individual food and drink categories. Big retailers must understand these differences before they can identify the segments of European wholesaling in which their particular abilities might unseat smaller but entrenched competitors. New skills and unfamiliar business models are needed too. E. Despite variations in detail, wholesale markets in the countries that have been closely examined - France, Germany, Italy, and Spain - are made out of the same building blocks. Demand comes mainly from two sources: independent mom-and-pop grocery stores which, unlike large retail chains, are too small to buy straight from producers, and food service operators that cater to consumers when they don't eat at home. Such food service operators range from snack machines to large institutional catering ventures, but most of these businesses are known in the trade as \"horeca\": hotels, restaurants, and cafes. Overall, Europe's wholesale market for food and drink is growing at the same sluggish pace as the retail market, but the figures, when added together, mask two opposing trends. F. For example, wholesale food and drink sales come to $268 billion in France, Germany, Italy, Spain, and the United Kingdom in 2000 - more than 40 percent of retail sales. Moreover, average overall margins are higher in wholesale than in retail; wholesale demand from the food service sector is growing quickly as more Europeans eat out more often; and changes in the competitive dynamics of this fragmented industry are at last making it feasible for wholesalers to consolidate. G. However, none of these requirements should deter large retailers (and even some large food producers and existing wholesalers) from trying their hand, for those that master the intricacies of wholesaling in Europe stand to reap considerable gains.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "bookvalue",
+        "meaning": "账面价值",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "toxicassets",
+        "meaning": "有毒资产；不良资产",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "illiquidassets",
+        "meaning": "非流动性资产",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "bruising",
+        "meaning": "a.十分激烈的，殊死的",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "concession",
+        "meaning": "n.让步",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2010%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }

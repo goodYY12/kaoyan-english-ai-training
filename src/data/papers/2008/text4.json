@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 4",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "In 1784, five years before he became president of the United States,\nGeorge Washington, 52, was nearly toothless. So he hired a dentist to\ntransplant nine teeth into his jaw - having extracted them from the\nmouths of his slaves.\n\nThat's a far different image from the cherry-tree-chopping George most\npeople remember from their history books. But recently, many historians\nhave begun to focus on the role slavery played in the lives of the\nfounding generation. They have been spurred in part by DNA evidence made\navailable in 1998, which almost certainly proved Thomas Jefferson had\nfathered at least one child with his slave Sally Hemings. And only over\nthe past 30 years have scholars examined history from the bottom up.\nWorks of several historians reveal the moral compromises made by the\nnation's early leaders and the fragile nature of the country's infancy.\nMore significantly, they argue that many of the Founding Fathers knew\nslavery was wrong - and yet most did little to fight it.\n\nMore than anything, the historians say, the founders were hampered by\nthe culture of their time. While Washington and Jefferson privately\nexpressed distaste for slavery, they also understood that it was part of\nthe political and economic bedrock of the country they helped to create.\n\nFor one thing, the South could not afford to part with its slaves.\nOwning slaves was \"like having a large bank account,\" says Wiencek,\nauthor of *An Imperfect God: George Washington, His Slaves, and the\nCreation of America*. The southern states would not have signed the\nConstitution without protections for the \"peculiar institution,\"\nincluding a clause that counted a slave as three fifths of a man for\npurposes of congressional representation.\n\nAnd the statesmen's political lives depended on slavery. The\nthree-fifths formula handed Jefferson his narrow victory in the\npresidential election of 1800 by inflating the votes of the southern\nstates in the Electoral College. Once in office, Jefferson extended\nslavery with the Louisiana Purchase in 1803; the new land was carved\ninto 13 states, including three slave states.\n\nStill, Jefferson freed Hemings's children - though not Hemings herself\nor his approximately 150 other slaves. Washington, who had begun to\nbelieve that all men were created equal after observing the\nbravery of the black soldiers during the Revolutionary War, overcame the\nstrong opposition of his relatives to grant his slaves their freedom in\nhis will. Only a decade earlier, such an act would have required\nlegislative approval in Virginia.",
   "questions": [
     {
@@ -20,14 +20,26 @@
         "D": "reveal some unknown aspect of his life"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "本题考查主旨题。结合解析资料和原文P1，正确项为 D：reveal some unknown aspect of his life。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+      "commonMistake": "容易把举例或局部信息当成全文中心。",
+      "location": "P1",
+      "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P1",
+        "testPoint": "主旨题",
+        "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
+        "correctLogic": "本题考查主旨题。结合解析资料和原文P1，正确项为 D：reveal some unknown aspect of his life。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +54,26 @@
         "D": "political compromises are easily found throughout the U.S. history"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文P2，正确项为 B：in its early days the U.S. was confronted with delicate situations。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文P2，正确项为 B：in its early days the U.S. was confronted with delicate situations。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +88,26 @@
         "D": "His affair with a slave stained his prestige."
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "本题考查推理题。结合解析资料和原文P6，正确项为 C：His attitude towards slavery was complex.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
+      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
+      "location": "P6",
+      "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P6",
+        "testPoint": "推理题",
+        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
+        "correctLogic": "本题考查推理题。结合解析资料和原文P6，正确项为 C：His attitude towards slavery was complex.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "Slavery was regarded as a peculiar institution."
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P2，正确项为 A：Some Founding Fathers benefit politically from slavery.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P2",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P2",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 A：Some Founding Fathers benefit politically from slavery.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -108,23 +156,91 @@
         "D": "It makes no difference how you write, just so you do. Now that you have developed a topic into a tentative thesis, you can assemble your notes and begin to flesh out whatever outline you have made. E. Although this is an interesting issue, it has nothing to do with the thesis, which explains how the setting influences Sammy's decision to quit his job. Instead of including that paragraph, she added one that described Lengel's crabbed response to the girls so that she could lead up to the A | P \"policy\" he enforces. F. In the final paragraph about the significance of the setting in \"A | P\" the student brings together the reasons Sammy quit his job by referring to his refusal to accept Lengel's store policies. G. By using the first draft as a means of thinking about what you want to say, you will very likely discover more than your notes originally suggested. Plenty of good writers don't use outlines at all but discover ordering principles as they write. Do not attempt to compose a perfectly correct draft the first time around. **Part C** **Directions:** Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written neatly on **ANSWER SHEET 2**. (10 points) In his autobiography, Darwin himself speaks of his intellectualpowers with extraordinary modesty. He points out that he always experienced much difficulty in expressing himself clearly and concisely, but (46) he believes that this very difficulty may have had the compensating advantage of forcing him to think long and intently about every sentence, and thus enabling him to detect errors in reasoning and in his own observations. He disclaimed the possession of any great quickness of apprehension or wit, such as distinguished Huxley. (47) He asserted, also, that his power to follow a long and purely abstract train of thought was very limited, for which reason he felt certain that he never could have succeeded with mathematics. His memory, too, he described as extensive, but hazy. So poor in one sense was it that he never could remember for more than a few days a single date or a line of poetry. (48) On the other hand, he did not accept as well founded the charge made by some of his critics that, while he was a good observer, he had no power of reasoning. This, he thought, could not be true, because the \"Origin of Species\" is one long argument from the beginning to the end, and has convinced many able men. No one, he submits, could have written it without possessing some power of reasoning. He was willing to assert that \"I have a fair share of invention, and of common sense or judgment, such as every fairly successful lawyer or doctor must have, but not, I believe, in any higher degree.\" (49) He adds humbly that perhaps he was \"superior to the common run of men in noticing things which easily escape attention, and in observing them carefully.\" Writing in the last year of his life, he expressed the opinion that in two or three respects his mind had changed during the preceding twenty or thirty years. Up to the age of thirty or beyond it poetry of many kinds gave him great pleasure. Formerly, too, pictures had given him considerable, and music very great, delight. In 1881, however, he said: \"Now for many years I cannot endure to read a line of poetry. I have also almost lost my taste for pictures or music.\" (50) Darwin was convinced that the loss of these tastes was not only a loss of happiness, but might possibly be injurious to the intellect, and more probably to the moral character. --- ## Writing **Part A** **51. Directions:** You have just come back from Canada and found a music CD in your luggage that you forgot to return to Bob, your landlord there. Write him a letter to"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "本题考查细节题。结合解析资料和原文P6，正确项为 B：After you have clearly and adequately developed the body of your paper, pay particular attention to the introductory and concluding paragraphs. It's probably best to write the introduction last, after you know precisely what you are introducing. Concluding paragraphs demand equal attention because they leave the reader with a final impression.。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+      "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
+      "location": "P6",
+      "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
+      "examinerThinking": {
+        "sourceSentence": "P6",
+        "testPoint": "细节题",
+        "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
+        "correctLogic": "本题考查细节题。结合解析资料和原文P6，正确项为 B：After you have clearly and adequately developed the body of your paper, pay particular attention to the introductory and concluding paragraphs. It's probably best to write the introduction last, after you know precisely what you are introducing. Concluding paragraphs demand equal attention because they leave the reader with a final impression.。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
   "vocabulary": [],
   "vocabularyGroups": {
-    "coreWords": [],
+    "coreWords": [
+      {
+        "word": "bedrock",
+        "meaning": "n.基岩；底蕴；最小量",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "carve",
+        "meaning": "v.切割；雕刻；造成",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "clause",
+        "meaning": "n.分句；条款",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "extract",
+        "meaning": "v.拔出，提炼出；推断出",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "fromthebottomup",
+        "meaning": "从头，完全彻底地",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "partwithsth",
+        "meaning": "放弃，交出",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      },
+      {
+        "word": "spur",
+        "meaning": "v.用马刺刺马；激励，鞭策；促进，加速",
+        "sentence": "待补充",
+        "sourceParagraph": 0,
+        "note": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。"
+      }
+    ],
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "sources": [
+    {
+      "name": "公开答案详解PDF",
+      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2008%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+    }
+  ]
 }
