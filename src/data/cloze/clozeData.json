@@ -11188,9 +11188,181 @@
       "logicSignals": []
     },
     "vocabularyGroups": {
-      "coreWords": [],
+      "coreWords": [
+        {
+          "word": "affected",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 1,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "up",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 2,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "act",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 3,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "perplexing",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 4,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "accounts",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 5,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "matter",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 6,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "so long so",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 7,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "awareness",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 8,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "enough",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 9,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "by",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 10,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "subjected",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 11,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "Contrary to",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 12,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "evidence",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 13,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "misleading",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 14,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "For example",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 15,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "duly",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 16,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "continued",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 17,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "However",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 18,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "tended",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 19,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "hitting",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 20,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        }
+      ],
       "familiarWordsWithNewMeanings": [],
-      "phrases": []
+      "phrases": [
+        {
+          "phrase": "up",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 2,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "enough",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 9,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "by",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 10,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "tended",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 19,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "hitting",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 20,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        }
+      ]
     },
     "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
     "sources": [
@@ -11849,9 +12021,223 @@
       "logicSignals": []
     },
     "vocabularyGroups": {
-      "coreWords": [],
+      "coreWords": [
+        {
+          "word": "Consider",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 1,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "tended",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 2,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "dimmer",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 3,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "advantage",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 4,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "turns out",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 5,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "off",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 6,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "gradual",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 7,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "stop",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 8,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "limited",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 9,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "backward",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 10,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "costs",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 11,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "on",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 12,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "perform",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 13,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "for instance",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 14,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "if",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 15,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "determine",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 16,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "for",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 17,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "Above all",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 18,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "fundamental",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 19,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "So far",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 20,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        }
+      ],
       "familiarWordsWithNewMeanings": [],
-      "phrases": []
+      "phrases": [
+        {
+          "phrase": "Consider",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 1,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "tended",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 2,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "off",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 6,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "costs",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 11,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "on",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 12,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "perform",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 13,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "if",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 15,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "determine",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 16,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "for",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 17,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "Above all",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 18,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "fundamental",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 19,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "So far",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 20,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        }
+      ]
     },
     "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
     "sources": [
@@ -12510,9 +12896,199 @@
       "logicSignals": []
     },
     "vocabularyGroups": {
-      "coreWords": [],
+      "coreWords": [
+        {
+          "word": "prepared",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 1,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "rare",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 2,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "of",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 3,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "previously",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 4,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "Even",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 5,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "thought",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 6,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "suggests",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 7,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "question",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 8,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "scoring",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 9,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "mean",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 10,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "disproportionately",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 11,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "careers",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 12,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "affirm",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 13,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "however",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 14,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "put down",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 15,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "valuing",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 16,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "consequence",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 17,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "linked",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 18,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "subjected",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 19,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "paradoxical",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 20,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        }
+      ],
       "familiarWordsWithNewMeanings": [],
-      "phrases": []
+      "phrases": [
+        {
+          "phrase": "rare",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 2,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "of",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 3,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "previously",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 4,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "Even",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 5,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "thought",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 6,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "question",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 8,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "however",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 14,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "put down",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 15,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        }
+      ]
     },
     "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
     "sources": [
@@ -13171,9 +13747,205 @@
       "logicSignals": []
     },
     "vocabularyGroups": {
-      "coreWords": [],
+      "coreWords": [
+        {
+          "word": "inhabitants",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 1,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "hopefully",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 2,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "shared",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 3,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "open",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 4,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "right",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 5,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "Generally",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 6,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "common",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 7,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "freedom",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 8,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "however",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 9,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "among",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 10,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "allowed",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 11,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "While",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 12,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "as",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 13,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "exclusion",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 14,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "cry",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 15,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "promised",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 16,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "remaining",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 17,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "slower",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 18,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "produced",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 19,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        },
+        {
+          "word": "unprepared for",
+          "meaning": "TODO: 词义待根据详解资料精修",
+          "sentence": "待补充",
+          "sourceBlank": 20,
+          "note": "由完形空格正确选项和题型归纳，释义可后续人工精修。"
+        }
+      ],
       "familiarWordsWithNewMeanings": [],
-      "phrases": []
+      "phrases": [
+        {
+          "phrase": "hopefully",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 2,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "shared",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 3,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "Generally",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 6,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "however",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 9,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "among",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 10,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "While",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 12,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "as",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 13,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "cry",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 15,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        },
+        {
+          "phrase": "remaining",
+          "meaning": "解析资料将本空归为固定搭配，结合空前后语义和搭配可排除干扰项。",
+          "sourceBlank": 17,
+          "note": "固定搭配/词汇搭配类空格归纳，可后续人工补充例句。"
+        }
+      ]
     },
     "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
     "sources": [
