@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 4",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "\"The Heart of the Matter,\" the just-released report by the American\nAcademy of Arts and Sciences (AAAS), deserves praise for affirming the\nimportance of the humanities and social sciences to the prosperity and\nsecurity of liberal democracy in America. Regrettably, however, the\nreport's failure to address the true nature of the crisis facing liberal\neducation may cause more harm than good.\n\nIn 2010, leading congressional Democrats and Republicans sent\nletters to the AAAS asking that it identify actions that could be taken\nby \"federal, state and local governments, universities, foundations,\neducators, individual benefactors and others\" to \"maintain national\nexcellence in humanities and social scientific scholarship and\neducation.\" In response, the American Academy formed the Commission on\nthe Humanities and Social Sciences. Among the commission's 51 members\nare top-tier-university presidents, scholars, lawyers, judges, and\nbusiness executives, as well as prominent figures from diplomacy,\nfilmmaking, music and journalism.\n\nThe goals identified in the report are generally admirable. Because\nrepresentative government presupposes an informed citizenry, the report\nsupports full literacy; stresses the study of history and government,\nparticularly American history and American government; and encourages\nthe use of new digital technologies. To encourage innovation and\ncompetition, the report calls for increased investment in research, the\ncrafting of coherent curricula that improve students' ability to solve\nproblems and communicate effectively in the 21st century, increased\nfunding for teachers and the encouragement of scholars to bring their\nlearning to bear on the great challenges of the day. The report also\nadvocates greater study of foreign languages, international affairs and\nthe expansion of study abroad programs.\n\nUnfortunately, despite 2½ years in the making, \"The Heart of the\nMatter\" never gets to the heart of the matter: the illiberal nature of\nliberal education at our leading colleges and universities. The\ncommission ignores that for several decades America's colleges and\nuniversities have produced graduates who don't know the content and\ncharacter of liberal education and are thus deprived of its benefits.\nSadly, the spirit of inquiry once at home on campus has been replaced by\nthe use of the humanities and social sciences as vehicles for\npublicizing \"progressive,\" or left-liberal propaganda.\n\nToday, professors routinely treat the progressive interpretation of\nhistory and progressive public policy as the proper subject of study\nwhile portraying conservative or classical liberal ideas - such as free\nmarkets or self-reliance - as falling outside the boundaries of\nroutine, and sometimes legitimate, intellectual investigation.\n\nThe AAAS displays great enthusiasm for liberal education. Yet its\nreport may well set back reform by obscuring the depth and breadth of\nthe challenge that Congress asked it to illuminate.",
   "questions": [
     {
@@ -63,15 +63,27 @@
         "C": "the application of emerging technologies",
         "D": "funding for the study of foreign languages"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P3: the report ... encourages the use of new digital technologies.。原文 encourages the use of new digital technologies 与 C 中 application of emerging technologies 是同义替换，对应 C。",
+      "trapAnalysis": "干扰项主要来自局部词复现、选项顺序错位或对原文态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有结合转折、作者立场和上下文判断。",
+      "location": "P3: the report ... encourages the use of new digital technologies.",
+      "thinkingMethod": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。",
+      "examinerThinking": {
+        "sourceSentence": "P3: the report ... encourages the use of new digital technologies.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、选项顺序错位或对原文态度的误读。",
+        "correctLogic": "原文 encourages the use of new digital technologies 与 C 中 application of emerging technologies 是同义替换，对应 C。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +97,27 @@
         "C": "conservative about public policy",
         "D": "biased against classical liberal ideas"
       },
-      "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：P5: professors ... portray conservative or classical liberal ideas ... as falling outside the boundaries of ... legitimate intellectual investigation.。原文说教授把 classical liberal ideas 排除在合法学术探究边界之外，表明对其存在偏见，对应 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、选项顺序错位或对原文态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有结合转折、作者立场和上下文判断。",
+      "location": "P5: professors ... portray conservative or classical liberal ideas ... as falling outside the boundaries of ... legitimate intellectual investigation.",
+      "thinkingMethod": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。",
+      "examinerThinking": {
+        "sourceSentence": "P5: professors ... portray conservative or classical liberal ideas ... as falling outside the boundaries of ... legitimate intellectual investigation.",
+        "testPoint": "推理题",
+        "trap": "干扰项主要来自局部词复现、选项顺序错位或对原文态度的误读。",
+        "correctLogic": "原文说教授把 classical liberal ideas 排除在合法学术探究边界之外，表明对其存在偏见，对应 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -102,20 +126,32 @@
       "questionText": "Which of the following would be the best title for the text?",
       "question": "Which of the following would be the best title for the text?",
       "options": {
-        "A": "Some archaeological sites have always been easily observable - for example, the Parthenon in Athens, Greece; the pyramids of Giza in Egypt; and the megaliths of Stonehenge in southern England. But these sites are exceptions to the norm. Most archaeological sites have been located by means of careful searching, while many others have been discovered by accident. Olduvai Gorge, fell into its deep valley in 1911. Thousands of Aztec artifacts came to light during the digging of the Mexico City subway in the 1970 s.",
-        "B": "In another case, American archaeologists Rene million and George Cowgill spent years systematically mapping the entire city of Teotihuacan in the valley of Mexico near what is now Mexico City. at its peak around AD 600, this city was one of the largest human settlements in the word. The researchers mapped not only the city's vast and ornate ceremonial areas, but also hundreds of simpler apartment complexes where common people lived.",
-        "C": "How do archaeologists know where to find what they are looking for when there is nothing visible on the surface of the ground? Typically, they survey and sample (make test excavations on) large areas of terrain to determine where excavation will yield useful information. Surveys and test samples have also become important for understanding the larger landscapes that contain archaeological sites.",
-        "D": "Surveys can cover a single large settlement or entire landscapes. In one case, many researchers working around the ancient Maya city of Copán, Honduras, have located hundreds of small rural village and individual dwellings by using aerial photographs and by making surveys on foot. The resulting settlement maps show how the distribution and density of the rural population around the city changed dramatically between AD 500 and 850, when Copán collapsed. E. To find their sites, archaeologists today rely heavily on systematic survey methods and a variety of high-technology tools and techniques. Airborne technologies, such as different types of radar and photographic equipment carried by airplanes or spacecraft, allow archaeologists to learn about what lies beneath the ground without digging. Aerial surveys locate general areas of interest or larger buried features, such as ancient buildings or fields. F. Most archaeological sites, however, are discovered by archaeologists who have set out to look for them. Such searches can take years. British archaeologist Howard Carter knew that the tomb of the Egyptian pharaoh Tutankhamen existed from information found in other sites. Carter sifted through rubble in the Valley of the King for seven years before he located the tomb in 1922. In the late 1800s British archaeologist Sir Arthur Eyan combed antique dealers' stores in Athens, Greece. He was searching for thing engraved seals attributed to the ancient Mycenaean culture that dominated Greece from the 1400s to 1200s BC. Evas's interpretations of those engravings eventually led them to find the Minoan palace at Knossos (Knos 'os) on the island of Crete, in 1900. G. Ground surveys allow archaeologists to pinpoint the places where digs will be successful. Most ground surveys involve a lot of walking, looking for surface clues such as small fragments of pottery. They often include a certain amounts of digging to test for buried materials at selected points across a landscape. Archaeologists also may locate buried remains by using such technologies as ground radar, magnetic-field recording, and metal detector. Archaeologists commonly use computers to map sites and the landscapes around sites. Two and three-dimensional maps are helpful tools in planning excavations, illustrating how sites look, and presenting the results of archaeological research."
+        "A": "Ways to Grasp \"The Heart of the Matter\"",
+        "B": "Illiberal Education and \"The Heart of the Matter\"",
+        "C": "The AAAS's Contribution to Liberal Education",
+        "D": "Progressive Policy vs. Liberal Education"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "定位：Whole text: the AAAS report fails to address the illiberal nature of liberal education.。全文围绕 The Heart of the Matter 报告未触及 liberal education 中的 illiberal 问题展开，最佳标题是 B。",
+      "trapAnalysis": "干扰项主要来自局部词复现、选项顺序错位或对原文态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有结合转折、作者立场和上下文判断。",
+      "location": "Whole text: the AAAS report fails to address the illiberal nature of liberal education.",
+      "thinkingMethod": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。",
+      "examinerThinking": {
+        "sourceSentence": "Whole text: the AAAS report fails to address the illiberal nature of liberal education.",
+        "testPoint": "主旨题",
+        "trap": "干扰项主要来自局部词复现、选项顺序错位或对原文态度的误读。",
+        "correctLogic": "全文围绕 The Heart of the Matter 报告未触及 liberal education 中的 illiberal 问题展开，最佳标题是 B。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
@@ -126,5 +162,23 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。",
+  "sources": [
+    {
+      "name": "文都教育 2014 英语一 Text 1 解析",
+      "url": "https://kaoyan.wendu.com/2014/0104/53328.shtml"
+    },
+    {
+      "name": "中国教育在线 2014 英语一真题原文及解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160512_1397311_2.shtml"
+    },
+    {
+      "name": "新东方在线 2014 英语一真题及答案",
+      "url": "https://kaoyan.koolearn.com/20181015/1023407.html"
+    },
+    {
+      "name": "学信网 2014 Text 4 长难句定位解析",
+      "url": "https://yz.chsi.com.cn/kyzx/en/201707/20170711/1618825213.html"
+    }
+  ]
 }

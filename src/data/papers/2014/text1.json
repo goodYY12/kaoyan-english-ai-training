@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 1",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "In order to \"change lives for the better\" and reduce \"dependency,\"\nGeorge Osbome, Chancellor of the Exchequer, introduced the \"upfront\nwork search\" scheme. Only if the jobless arrive at the jobcentre with\na CV, register for online job search, and start looking for work will\nthey be eligible for benefit - and then they should report weekly rather\nthan fortnightly. What could be more reasonable?\n\nMore apparent reasonableness followed. There will now be a seven-day\nwait for the jobseeker's allowance. \"Those first few days should be\nspent looking for work, not looking to sign on,\" he\nclaimed. \"We're doing these things because we know they help people stay\noff benefits and help those on benefits get into work faster.\" Help?\nReally? On first hearing, this was the socially concerned chancellor,\ntrying to change lives for the better, complete with \"reforms\" to an\nobviously indulgent system that demands too little effort from the newly\nunemployed to find work, and subsidises laziness. What motivated him, we\nwere to understand, was his zeal for \"fundamental fairness\" - protecting\nthe taxpayer, controlling spending and ensuring that only the most\ndeserving claimants received their benefits.\n\nLosing a job is hurting: you don't skip down to the jobcentre with a\nsong in your heart, delighted at the prospect of doubling your income\nfrom the generous state. It is financially terrifying, psychologically\nembarrassing and you know that support is minimal and extraordinarily\nhard to get. You are now not wanted; you support is minimal and\nextraordinarily hard to get. You are now not wanted; you are now\nexcluded from the work environment that offers purpose and structure in\nyour life. Worse, the crucial income to feed yourself and your family\nand pay the bills has disappeared. Ask anyone newly unemployed what they\nwant and the answer is always: a job.\n\nBut in Osborneland, your first instinct is to fall into dependency - permanent dependency if you can get it - supported by a state only too\nready to indulge your falsehood. It is as though 20 years of ever-tougher reforms of the job search and benefit administration system\nnever happened. The principle of British welfare is no longer that you\ncan insure yourself against the risk of unemployment and receive\nunconditional payments if the disaster happens. Even the very phrase\n\"jobseeker's allowance\" is about redefining the\nunemployed as a \"jobseeker\" who had no fundamental right to a benefit he\nor she has earned through making national insurance contributions.\nInstead, the claimant receives a time-limited \"allowance,\" conditional\non actively seeking a job; no entitlement and no insurance, at £71.70 a\nweek, one of the least generous in the EU.",
   "questions": [
     {
@@ -63,15 +63,27 @@
         "C": "An urge to be generous to the claimants.",
         "D": "A passion to ensure fairness for taxpayers."
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P2: What motivated him ... was his zeal for fundamental fairness - protecting the taxpayer, controlling spending...。题干的 prompted 对应原文 What motivated him，真正动因是保护纳税人、控制支出的 fairness，对应 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、选项顺序错位或对原文态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有结合转折、作者立场和上下文判断。",
+      "location": "P2: What motivated him ... was his zeal for fundamental fairness - protecting the taxpayer, controlling spending...",
+      "thinkingMethod": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。",
+      "examinerThinking": {
+        "sourceSentence": "P2: What motivated him ... was his zeal for fundamental fairness - protecting the taxpayer, controlling spending...",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、选项顺序错位或对原文态度的误读。",
+        "correctLogic": "题干的 prompted 对应原文 What motivated him，真正动因是保护纳税人、控制支出的 fairness，对应 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -105,17 +117,29 @@
         "A": "The British welfare system indulges jobseekers' laziness.",
         "B": "Osborne's reforms will reduce the risk of unemployment.",
         "C": "The jobseekers' allowance has met their actual needs.",
-        "D": "Unemployment benefits should not be made conditional. ---"
+        "D": "Unemployment benefits should not be made conditional."
       },
-      "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：Last paragraph: receive unconditional payments; instead ... allowance, conditional on actively seeking a job; no entitlement and no insurance.。文章后段批判把失业救济改写为有条件的 allowance，作者更可能赞同失业救济不应被条件化，对应 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、选项顺序错位或对原文态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有结合转折、作者立场和上下文判断。",
+      "location": "Last paragraph: receive unconditional payments; instead ... allowance, conditional on actively seeking a job; no entitlement and no insurance.",
+      "thinkingMethod": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。",
+      "examinerThinking": {
+        "sourceSentence": "Last paragraph: receive unconditional payments; instead ... allowance, conditional on actively seeking a job; no entitlement and no insurance.",
+        "testPoint": "推理题",
+        "trap": "干扰项主要来自局部词复现、选项顺序错位或对原文态度的误读。",
+        "correctLogic": "文章后段批判把失业救济改写为有条件的 allowance，作者更可能赞同失业救济不应被条件化，对应 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
@@ -126,5 +150,23 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。",
+  "sources": [
+    {
+      "name": "文都教育 2014 英语一 Text 1 解析",
+      "url": "https://kaoyan.wendu.com/2014/0104/53328.shtml"
+    },
+    {
+      "name": "中国教育在线 2014 英语一真题原文及解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160512_1397311_2.shtml"
+    },
+    {
+      "name": "新东方在线 2014 英语一真题及答案",
+      "url": "https://kaoyan.koolearn.com/20181015/1023407.html"
+    },
+    {
+      "name": "学信网 2014 Text 4 长难句定位解析",
+      "url": "https://yz.chsi.com.cn/kyzx/en/201707/20170711/1618825213.html"
+    }
+  ]
 }
