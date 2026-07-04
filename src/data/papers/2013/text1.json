@@ -19,14 +19,14 @@
         "C": "obsession with high fashion",
         "D": "lack of imagination"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位首段：Priestly scolds her assistant for imagining that high fashion doesn't affect her，说明她批评助理对时尚影响不敏感，故选 B。",
+      "trapAnalysis": "A 利用了 bargain bin 干扰，但原文不是说她讨价还价能力差；D 利用 imagining 干扰，但重点不是缺乏想象力。",
+      "commonMistake": "容易看到 bargain bin 或 imagining 就机械对应选项，忽略 scolds ... for 后面的真正原因。",
+      "location": "P1: Priestly scolds her assistant for imagining that high fashion doesn't affect her.",
+      "thinkingMethod": "看到 criticize/scold sb. for... 题干，优先定位 for 后面的原因，再找选项同义替换。",
       "examinerThinking": null,
       "sourceSentenceAnalysis": null
     },
@@ -41,14 +41,14 @@
         "C": "resist the influence of advertisements",
         "D": "shop for their garments more frequently"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位第二段：这些品牌让消费者把衣服看成一次性物品，并 every few weeks 更新衣橱，对应 D：更频繁地购买服装。",
+      "trapAnalysis": "A 与原文方向相反，快时尚导致浪费而非鼓励抵制浪费；B、C 原文无对应。",
+      "commonMistake": "容易被 waste、advertise 等词吸引，忽略 urge consumers to 后面真正对应的是 renew their wardrobe every few weeks。",
+      "location": "P2: These labels encourage style-conscious consumers to see clothes as disposable ... and to renew their wardrobe every few weeks.",
+      "thinkingMethod": "细节题先找题干关键词 mass-market labels / consumers，再核对动词 encourage 的宾语内容。",
       "examinerThinking": null,
       "sourceSentenceAnalysis": null
     },
@@ -64,13 +64,13 @@
         "D": "tolerance"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
+      "type": "词义题",
+      "questionType": "词义题",
+      "explanation": "indictment 在这里修饰 Elizabeth Cline 对 fast fashion 的三年研究，后文多处说明其批判快时尚的危害，因此接近 accusation。",
+      "trapAnalysis": "B、D 是正向态度，C 是无所谓态度，都与全文批判语气不符。",
+      "commonMistake": "容易只看生词本身，不结合后文 hijacked、victims、wasteful 等负向词判断态度。",
+      "location": "P2: Elizabeth Cline's three-year indictment of \"fast fashion\".",
+      "thinkingMethod": "词义题回到所在句和后文情感色彩，用上下文态度判断语境义。",
       "examinerThinking": null,
       "sourceSentenceAnalysis": null
     },
@@ -85,14 +85,14 @@
         "C": "People are more interested in unaffordable garments.",
         "D": "Pricing is vital to environment-friendly purchasing."
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
+      "answer": "D",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "末段说 lasting change can only be effected by the customer，并以 can't afford not to 收束，说明价格因素会影响消费者是否选择更可持续的购买方式，故选 D。",
+      "trapAnalysis": "A 误读 Vanity is a constant；B 与 several fast-fashion companies have made efforts 相反；C 原文没有说消费者更喜欢买买不起的衣服。",
+      "commonMistake": "容易把 vanity 单词单独拿出来过度推理，没抓住 can't afford not to 与 sustainable shopping 的关系。",
+      "location": "P6: people will only start shopping more sustainably when they can't afford not to.",
+      "thinkingMethod": "推理题要把末句关键词 afford 与 sustainably 联系起来，不要脱离原文扩展。",
       "examinerThinking": null,
       "sourceSentenceAnalysis": null
     },
@@ -105,16 +105,16 @@
         "A": "Satire on an extravagant lifestyle.",
         "B": "Challenge to a high-fashion myth.",
         "C": "Criticism of the fast-fashion industry.",
-        "D": "Exposure of a mass-market secret ---"
+        "D": "Exposure of a mass-market secret"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
+      "answer": "C",
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "全文从电影引入，核心转向 Elizabeth Cline 对 fast fashion 的批判：低价、频繁更新、浪费、劳工和环境影响，因此主题是对快时尚产业的批评。",
+      "trapAnalysis": "A 只抓生活方式；B 只对应开头高端时尚神话；D 过窄，文章不是揭秘某个秘密，而是批判一个产业模式。",
+      "commonMistake": "容易被第一段电影例子带偏，把引子当主题。",
+      "location": "全文主旨，重点看 P2-P6 对 fast fashion 的批判。",
+      "thinkingMethod": "主旨题不要停在开头例子，要看全文反复出现和展开论证的核心对象。",
       "examinerThinking": null,
       "sourceSentenceAnalysis": null
     }
@@ -125,6 +125,20 @@
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
-  "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "articleStructure": "电影例子引入高端时尚影响 → 转入快时尚改变行业节奏 → 分析劳工、资源和浪费问题 → 提出消费者端改变的可能。",
+  "notes": "2013 Text 1 已核对公开答案来源并修正 21-25 答案：B D A D C。",
+  "sources": [
+    {
+      "name": "中国教育在线 2013 英语一真题答案",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397489_9.shtml"
+    },
+    {
+      "name": "新东方在线 2013 英语一答案详解 PDF",
+      "url": "https://file.koolearn.com/20140711/14050465247144.pdf"
+    },
+    {
+      "name": "新浪教育 2013 英语一阅读答案",
+      "url": "https://edu.sina.com.cn/kaoyan/2013-01-06/1726368137.shtml"
+    }
+  ]
 }
