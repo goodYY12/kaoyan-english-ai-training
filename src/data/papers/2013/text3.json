@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 3",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "Up until a few decades ago, our visions of the future were\nlargely - though by no means uniformly - glowingly positive. Science and\ntechnology would cure all the ills of humanity, leading to lives of\nfulfillment and opportunity for all.\n\nNow utopia has grown unfashionable, as we have gained a deeper\nappreciation of the range of threats facing us, from asteroid strike to\nepidemic flu to climate change. You might even be tempted to assume that\nhumanity has little future to look forward to.\n\nBut such gloominess is misplaced. The fossil record shows that many\nspecies have endured for millions of years - so why shouldn't we? Take a\nbroader look at our species' place in the universe, and it becomes clear\nthat we have an excellent chance of surviving for tens, if not hundreds,\nof thousands of years. Look up *Homo sapiens* in the \"Red List\"\nof threatened species of the international Union for the Concentration\nof Nature (IUCN), and you will read: \"Listed as Least Concern as the\nspecies is very widely distributed, adaptable, currently increasing, and\nthere are no major threats resulting in an overall population decline.\"\n\nSo what does our deep future hold? A growing number of researchers and\norganizations are now thinking seriously about that question. For\nexample, the Long Now Foundation has as its flagship project a\nmechanical clock that is designed to still be marking time thousands of\nyears hence.\n\nPerhaps willfully, it may be easier to think about such lengthy\ntimescales than about the more immediate future. The potential evolution\nof today's technology, and its social consequences, is dazzlingly\ncomplicated, and it's perhaps best left to science fiction writers and\nfuturologists to explore the many possibilities we can envisage. That's\none reason why we have\nlaunched *Arc*, a new publication\ndedicated to the near future.\n\nBut take a longer view and there is a surprising amount that we can say\nwith considerable assurance. As so often, the past holds the key to the\nfuture: we have now identified enough of the long-term patterns shaping\nthe history of the planet, and our species, to make evidence-based\nforecasts about the situations in which our descendants will find\nthemselves.\n\nThis long perspective makes the pessimistic view of our prospects seem\nmore likely to be a passing fad. To be sure, the future is not all rosy.\nBut we are now knowledgeable enough to reduce many of the risks that\nthreatened the existence of earlier humans, and to improve the lot of\nthose to come.",
   "questions": [
     {
@@ -19,16 +19,41 @@
         "C": "our awareness of potential risks",
         "D": "our belief in equal opportunity"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
-      "sourceSentenceAnalysis": null
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P1: Science and technology would cure all the ills of humanity.。正确答案 B 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+      "trapAnalysis": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+      "commonMistake": "常见错因：只抓局部词或常识判断，没有回到定位句核对。",
+      "location": "P1: Science and technology would cure all the ills of humanity.",
+      "thinkingMethod": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P1: Science and technology would cure all the ills of humanity.",
+        "testPoint": "细节题",
+        "trap": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+        "correctLogic": "正确答案 B 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "P1: Science and technology would cure all the ills of humanity.",
+        "coreStructure": "请先找出主语、谓语和核心宾语，再看修饰成分。",
+        "grammarBreakdown": "本句需关注从句、插入语或转折关系对题意的限定。",
+        "modifiers": "修饰成分主要补充说明对象、条件或范围。",
+        "translation": "参考翻译待继续精修。",
+        "relationToQuestion": "该定位句是判断正确选项和排除干扰项的主要依据。",
+        "exercises": [
+          {
+            "question": "这句的核心信息是什么？",
+            "answer": "回到定位句中的主谓宾和关键限定词。"
+          }
+        ]
+      }
     },
     {
       "id": "2013-text3-q32",
@@ -41,16 +66,41 @@
         "C": "the world's dominant power",
         "D": "a misplaced race"
       },
-      "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
-      "sourceSentenceAnalysis": null
+      "answer": "A",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P3: Listed as Least Concern ... widely distributed, adaptable, currently increasing.。正确答案 A 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+      "trapAnalysis": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+      "commonMistake": "常见错因：只抓局部词或常识判断，没有回到定位句核对。",
+      "location": "P3: Listed as Least Concern ... widely distributed, adaptable, currently increasing.",
+      "thinkingMethod": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P3: Listed as Least Concern ... widely distributed, adaptable, currently increasing.",
+        "testPoint": "细节题",
+        "trap": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+        "correctLogic": "正确答案 A 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "P3: Listed as Least Concern ... widely distributed, adaptable, currently increasing.",
+        "coreStructure": "请先找出主语、谓语和核心宾语，再看修饰成分。",
+        "grammarBreakdown": "本句需关注从句、插入语或转折关系对题意的限定。",
+        "modifiers": "修饰成分主要补充说明对象、条件或范围。",
+        "translation": "参考翻译待继续精修。",
+        "relationToQuestion": "该定位句是判断正确选项和排除干扰项的主要依据。",
+        "exercises": [
+          {
+            "question": "这句的核心信息是什么？",
+            "answer": "回到定位句中的主谓宾和关键限定词。"
+          }
+        ]
+      }
     },
     {
       "id": "2013-text3-q33",
@@ -63,16 +113,41 @@
         "C": "The interest in science fiction is on the rise.",
         "D": "Our immediate future is hard to conceive."
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
-      "sourceSentenceAnalysis": null
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P5: the more immediate future ... is dazzlingly complicated.。正确答案 D 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+      "trapAnalysis": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+      "commonMistake": "常见错因：只抓局部词或常识判断，没有回到定位句核对。",
+      "location": "P5: the more immediate future ... is dazzlingly complicated.",
+      "thinkingMethod": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P5: the more immediate future ... is dazzlingly complicated.",
+        "testPoint": "细节题",
+        "trap": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+        "correctLogic": "正确答案 D 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "P5: the more immediate future ... is dazzlingly complicated.",
+        "coreStructure": "请先找出主语、谓语和核心宾语，再看修饰成分。",
+        "grammarBreakdown": "本句需关注从句、插入语或转折关系对题意的限定。",
+        "modifiers": "修饰成分主要补充说明对象、条件或范围。",
+        "translation": "参考翻译待继续精修。",
+        "relationToQuestion": "该定位句是判断正确选项和排除干扰项的主要依据。",
+        "exercises": [
+          {
+            "question": "这句的核心信息是什么？",
+            "answer": "回到定位句中的主谓宾和关键限定词。"
+          }
+        ]
+      }
     },
     {
       "id": "2013-text3-q34",
@@ -85,16 +160,41 @@
         "C": "draw on our experience from the past",
         "D": "curb our ambition to reshape history"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
-      "sourceSentenceAnalysis": null
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P6: the past holds the key to the future.。正确答案 C 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+      "trapAnalysis": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+      "commonMistake": "常见错因：只抓局部词或常识判断，没有回到定位句核对。",
+      "location": "P6: the past holds the key to the future.",
+      "thinkingMethod": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P6: the past holds the key to the future.",
+        "testPoint": "细节题",
+        "trap": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+        "correctLogic": "正确答案 C 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "P6: the past holds the key to the future.",
+        "coreStructure": "请先找出主语、谓语和核心宾语，再看修饰成分。",
+        "grammarBreakdown": "本句需关注从句、插入语或转折关系对题意的限定。",
+        "modifiers": "修饰成分主要补充说明对象、条件或范围。",
+        "translation": "参考翻译待继续精修。",
+        "relationToQuestion": "该定位句是判断正确选项和排除干扰项的主要依据。",
+        "exercises": [
+          {
+            "question": "这句的核心信息是什么？",
+            "answer": "回到定位句中的主谓宾和关键限定词。"
+          }
+        ]
+      }
     },
     {
       "id": "2013-text3-q35",
@@ -105,18 +205,43 @@
         "A": "Uncertainty about Our Future",
         "B": "Evolution of the Human Species",
         "C": "The Ever-bright Prospects of Mankind.",
-        "D": "Science, Technology and Humanity. ---"
+        "D": "Science, Technology and Humanity."
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
-      "sourceSentenceAnalysis": null
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "定位：Whole text: pessimism is misplaced; humans have good long-term prospects.。正确答案 C 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+      "trapAnalysis": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+      "commonMistake": "常见错因：只抓局部词或常识判断，没有回到定位句核对。",
+      "location": "Whole text: pessimism is misplaced; humans have good long-term prospects.",
+      "thinkingMethod": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "Whole text: pessimism is misplaced; humans have good long-term prospects.",
+        "testPoint": "主旨题",
+        "trap": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+        "correctLogic": "正确答案 C 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "Whole text: pessimism is misplaced; humans have good long-term prospects.",
+        "coreStructure": "请先找出主语、谓语和核心宾语，再看修饰成分。",
+        "grammarBreakdown": "本句需关注从句、插入语或转折关系对题意的限定。",
+        "modifiers": "修饰成分主要补充说明对象、条件或范围。",
+        "translation": "参考翻译待继续精修。",
+        "relationToQuestion": "该定位句是判断正确选项和排除干扰项的主要依据。",
+        "exercises": [
+          {
+            "question": "这句的核心信息是什么？",
+            "answer": "回到定位句中的主谓宾和关键限定词。"
+          }
+        ]
+      }
     }
   ],
   "vocabulary": [],
@@ -125,6 +250,20 @@
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
-  "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "articleStructure": "过去对未来乐观 → 当下悲观加深 → 用化石记录和 IUCN 证据反驳 → 长时段视角下人类前景仍然可期。",
+  "notes": "2013 Text 3 已重新核对公开答案来源，31-35 答案为：B A D C C。",
+  "sources": [
+    {
+      "name": "中国教育在线 2013 英语一真题答案",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397489_9.shtml"
+    },
+    {
+      "name": "新东方在线 2013 英语一答案详解 PDF",
+      "url": "https://file.koolearn.com/20140711/14050465247144.pdf"
+    },
+    {
+      "name": "新浪教育 2013 英语一阅读答案",
+      "url": "https://edu.sina.com.cn/kaoyan/2013-01-06/1726368137.shtml"
+    }
+  ]
 }

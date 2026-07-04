@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 2",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "An old saying has it that half of all advertising budgets are\nwasted - the trouble is, no one knows which half. In the internet age,\nat least in theory, this fraction can be much reduced. By watching what\npeople search for, click on and say online, companies can aim\n\"behavioral\" ads at those most likely to buy.\n\nIn the past couple of weeks a quarrel has illustrated the value to\nadvertisers of such fine-grained information: Should advertisers assume\nthat people are happy to be tracked and sent behavioral ads? Or should\nthey have explicit permission?\n\nIn December 2010 America's Federal Trade Commission (FTC) proposed\nadding a \"do not track\" (DNT) option to internet browsers, so that\nusers could tell advertisers that they did not want to be followed.\nMicrosoft's Internet Explorer and Apple's Safari both offer DNT;\nGoogle's Chrome is due to do so this year. In February the FTC and\nDigital Advertising Alliance (DAA) agreed that the\nindustry would get cracking on responding to DNT requests.\n\nOn May 31st Microsoft set off the row. It said that InternetExplorer 10,\nthe version due to appear with Windows 8, would have DNT as a default.\n\nAdvertisers are horrified. Human nature being what it is, most people\nstick with default settings. Few switch DNT on now, but if tracking is\noff it will stay off. Bob Liodice, the chief executive of the\nAssociation of National Advertisers, says consumers will be worse off if\nthe industry cannot collect information about their preferences. People\nwill not get fewer ads, he says, \"they'll get less meaningful, less\ntargeted ads.\"\n\nIt is not yet clear how advertisers will respond. Getting a DNT signal\ndoes not oblige anyone to stop tracking, although some companies have\npromised to do so. Unable to tell whether someone really objects to\nbehavioral ads or whether they are sticking with Microsoft's default,\nsome may ignore a DNT signal and press on anyway.\n\nAlso unclear is why Microsoft has gone it alone. After all, it has an ad\nbusiness too, which it says will comply with DNT requests, though it is\nstill working out how. If it is trying to upset Google, which relies\nalmost wholly on advertising, it has chosen an indirect method: There is\nno guarantee that DNT by default will become the norm. DNT does not seem\nan obviously huge selling point for Windows 8 - though the firm has\ncompared some of its other products favorably with Google's on that\ncount before. Brendon Lynch, Microsoft's chief privacy officer, blogged:\n\"we believe consumers should have more control.\" Could it really be\nthat simple?",
   "questions": [
     {
@@ -19,16 +19,41 @@
         "C": "avoid complaints from consumers",
         "D": "provide better online services"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
-      "sourceSentenceAnalysis": null
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P1: this fraction can be much reduced; companies can aim behavioral ads at those most likely to buy.。正确答案 B 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+      "trapAnalysis": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+      "commonMistake": "常见错因：只抓局部词或常识判断，没有回到定位句核对。",
+      "location": "P1: this fraction can be much reduced; companies can aim behavioral ads at those most likely to buy.",
+      "thinkingMethod": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P1: this fraction can be much reduced; companies can aim behavioral ads at those most likely to buy.",
+        "testPoint": "细节题",
+        "trap": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+        "correctLogic": "正确答案 B 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "P1: this fraction can be much reduced; companies can aim behavioral ads at those most likely to buy.",
+        "coreStructure": "请先找出主语、谓语和核心宾语，再看修饰成分。",
+        "grammarBreakdown": "本句需关注从句、插入语或转折关系对题意的限定。",
+        "modifiers": "修饰成分主要补充说明对象、条件或范围。",
+        "translation": "参考翻译待继续精修。",
+        "relationToQuestion": "该定位句是判断正确选项和排除干扰项的主要依据。",
+        "exercises": [
+          {
+            "question": "这句的核心信息是什么？",
+            "answer": "回到定位句中的主谓宾和关键限定词。"
+          }
+        ]
+      }
     },
     {
       "id": "2013-text2-q27",
@@ -42,15 +67,40 @@
         "D": "internet browser developers"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
-      "sourceSentenceAnalysis": null
+      "type": "指代题",
+      "questionType": "指代题",
+      "explanation": "定位：P3: the FTC and Digital Advertising Alliance agreed that the industry would get cracking on responding to DNT requests.。正确答案 A 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+      "trapAnalysis": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+      "commonMistake": "常见错因：只抓局部词或常识判断，没有回到定位句核对。",
+      "location": "P3: the FTC and Digital Advertising Alliance agreed that the industry would get cracking on responding to DNT requests.",
+      "thinkingMethod": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P3: the FTC and Digital Advertising Alliance agreed that the industry would get cracking on responding to DNT requests.",
+        "testPoint": "指代题",
+        "trap": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+        "correctLogic": "正确答案 A 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "P3: the FTC and Digital Advertising Alliance agreed that the industry would get cracking on responding to DNT requests.",
+        "coreStructure": "请先找出主语、谓语和核心宾语，再看修饰成分。",
+        "grammarBreakdown": "本句需关注从句、插入语或转折关系对题意的限定。",
+        "modifiers": "修饰成分主要补充说明对象、条件或范围。",
+        "translation": "参考翻译待继续精修。",
+        "relationToQuestion": "该定位句是判断正确选项和排除干扰项的主要依据。",
+        "exercises": [
+          {
+            "question": "这句的核心信息是什么？",
+            "answer": "回到定位句中的主谓宾和关键限定词。"
+          }
+        ]
+      }
     },
     {
       "id": "2013-text2-q28",
@@ -63,16 +113,41 @@
         "C": "will not benefit consumers",
         "D": "goes against human nature"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
-      "sourceSentenceAnalysis": null
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P5: consumers will be worse off if the industry cannot collect information about their preferences.。正确答案 C 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+      "trapAnalysis": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+      "commonMistake": "常见错因：只抓局部词或常识判断，没有回到定位句核对。",
+      "location": "P5: consumers will be worse off if the industry cannot collect information about their preferences.",
+      "thinkingMethod": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P5: consumers will be worse off if the industry cannot collect information about their preferences.",
+        "testPoint": "细节题",
+        "trap": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+        "correctLogic": "正确答案 C 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "P5: consumers will be worse off if the industry cannot collect information about their preferences.",
+        "coreStructure": "请先找出主语、谓语和核心宾语，再看修饰成分。",
+        "grammarBreakdown": "本句需关注从句、插入语或转折关系对题意的限定。",
+        "modifiers": "修饰成分主要补充说明对象、条件或范围。",
+        "translation": "参考翻译待继续精修。",
+        "relationToQuestion": "该定位句是判断正确选项和排除干扰项的主要依据。",
+        "exercises": [
+          {
+            "question": "这句的核心信息是什么？",
+            "answer": "回到定位句中的主谓宾和关键限定词。"
+          }
+        ]
+      }
     },
     {
       "id": "2013-text2-q29",
@@ -86,15 +161,40 @@
         "D": "Advertisers are obliged to offer behavioral ads"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
-      "sourceSentenceAnalysis": null
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：P6: some may ignore a DNT signal and press on anyway.。正确答案 A 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+      "trapAnalysis": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+      "commonMistake": "常见错因：只抓局部词或常识判断，没有回到定位句核对。",
+      "location": "P6: some may ignore a DNT signal and press on anyway.",
+      "thinkingMethod": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P6: some may ignore a DNT signal and press on anyway.",
+        "testPoint": "推理题",
+        "trap": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+        "correctLogic": "正确答案 A 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "P6: some may ignore a DNT signal and press on anyway.",
+        "coreStructure": "请先找出主语、谓语和核心宾语，再看修饰成分。",
+        "grammarBreakdown": "本句需关注从句、插入语或转折关系对题意的限定。",
+        "modifiers": "修饰成分主要补充说明对象、条件或范围。",
+        "translation": "参考翻译待继续精修。",
+        "relationToQuestion": "该定位句是判断正确选项和排除干扰项的主要依据。",
+        "exercises": [
+          {
+            "question": "这句的核心信息是什么？",
+            "answer": "回到定位句中的主谓宾和关键限定词。"
+          }
+        ]
+      }
     },
     {
       "id": "2013-text2-q30",
@@ -105,18 +205,43 @@
         "A": "indulgence",
         "B": "understanding",
         "C": "appreciation",
-        "D": "skepticism ---"
+        "D": "skepticism"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
-      "sourceSentenceAnalysis": null
+      "answer": "D",
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "定位：Last paragraph: Could it really be that simple?。正确答案 D 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+      "trapAnalysis": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+      "commonMistake": "常见错因：只抓局部词或常识判断，没有回到定位句核对。",
+      "location": "Last paragraph: Could it really be that simple?",
+      "thinkingMethod": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "Last paragraph: Could it really be that simple?",
+        "testPoint": "态度题",
+        "trap": "其他选项与原文的对象、范围或逻辑关系不符，容易被表面词干扰。",
+        "correctLogic": "正确答案 D 与原文核心信息一致，本题已根据公开答案来源重新核对。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先根据题干定位原文，再核对选项与原文的对象、范围和逻辑关系。"
+      },
+      "sourceSentenceAnalysis": {
+        "sentence": "Last paragraph: Could it really be that simple?",
+        "coreStructure": "请先找出主语、谓语和核心宾语，再看修饰成分。",
+        "grammarBreakdown": "本句需关注从句、插入语或转折关系对题意的限定。",
+        "modifiers": "修饰成分主要补充说明对象、条件或范围。",
+        "translation": "参考翻译待继续精修。",
+        "relationToQuestion": "该定位句是判断正确选项和排除干扰项的主要依据。",
+        "exercises": [
+          {
+            "question": "这句的核心信息是什么？",
+            "answer": "回到定位句中的主谓宾和关键限定词。"
+          }
+        ]
+      }
     }
   ],
   "vocabulary": [],
@@ -125,6 +250,20 @@
     "familiarWordsWithNewMeanings": []
   },
   "longSentences": [],
-  "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "articleStructure": "广告追踪问题 → DNT 提出 → 微软默认开启 DNT 引发争议 → 广告行业和微软动机分析。",
+  "notes": "2013 Text 2 已重新核对公开答案来源，26-30 答案为：B A C A D。",
+  "sources": [
+    {
+      "name": "中国教育在线 2013 英语一真题答案",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397489_9.shtml"
+    },
+    {
+      "name": "新东方在线 2013 英语一答案详解 PDF",
+      "url": "https://file.koolearn.com/20140711/14050465247144.pdf"
+    },
+    {
+      "name": "新浪教育 2013 英语一阅读答案",
+      "url": "https://edu.sina.com.cn/kaoyan/2013-01-06/1726368137.shtml"
+    }
+  ]
 }
