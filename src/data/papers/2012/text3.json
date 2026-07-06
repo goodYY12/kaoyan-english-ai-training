@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 3",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "In the idealized version of how science is done, facts about the world\nare waiting to be observed and collected by objective researchers who\nuse the scientific method to carry out their work. But in the everyday\npractice of science, discovery frequently follows an ambiguous and\ncomplicated route. We aim to be objective, but we cannot escape the\ncontext of our unique life experiences. Prior knowledge and interests\ninfluence what we experience, what we think our experiences mean, and\nthe subsequent actions we take. Opportunities for misinterpretation,\nerror, and self-deception abound.\n\nConsequently, discovery claims should be thought of as protoscience.\nSimilar to newly staked mining claims, they are full of potential. But\nit takes collective scrutiny and acceptance to transform a discovery\nclaim into a mature discovery. This is the credibility process, through\nwhich the individual researcher's *me*, *here*, *now* becomes the community's\n*anyone*, *anywhere*, *anytime*. Objective knowledge is the goal, not the\nstarting point.\n\nOnce a discovery claim becomes public, the discoverer receives\nintellectual credit. But, unlike with mining claims, the community takes\ncontrol of what happens next. Within the complex social structure of the\nscientific community, researchers make discoveries; editors and\nreviewers act as gatekeepers by controlling the publication process;\nother scientists use the new finding to suit their own purposes; and\nfinally, the public (including other scientists) receives the new\ndiscovery and possibly accompanying technology. As a discovery claim\nworks its way through the community, the interaction and confrontation\nbetween shared and competing beliefs about the science and the\ntechnology involved transforms an individual's discovery claim into the\ncommunity's credible discovery.\n\nTwo paradoxes exist throughout this credibility process. First,\nscientific work tends to focus on some aspect of prevailing knowledge\nthat is viewed as incomplete or incorrect. Little reward accompanies\nduplication and confirmation of what is already known and believed. The\ngoal is *new-search*, not *re-search.* Not surprisingly, newly\npublished discovery claims and credible discoveries that appear to be\nimportant and convincing will always be open to challenge and potential\nmodification or refutation by future researchers. Second, novelty itself\nfrequently provokes disbelief. Nobel Laureate and physiologist Albert\nSzent-Györgyi once described discovery as \"seeing what everybody has\nseen and thinking what nobody has thought.\" But thinking what nobody\nelse has thought and telling others what they have missed may not change\ntheir views. Sometimes years are required for truly novel discovery\nclaims to be accepted and appreciated.\n\nIn the end, credibility \"happens\" to a discovery claim - a process\nthat corresponds to what philosopher Annette Baier has described as\nthe *commons of the mind*. \"We reason together, challenge, revise, and\ncomplete each other's reasoning and each other's conceptions of\nreason.\"",
   "questions": [
     {
@@ -20,14 +20,26 @@
         "D": "systematicness and regularity"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P1: discovery frequently follows an ambiguous and complicated route.。ambiguous and complicated 对应 uncertainty and complexity，答案为 A。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P1: discovery frequently follows an ambiguous and complicated route.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P1: discovery frequently follows an ambiguous and complicated route.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "ambiguous and complicated 对应 uncertainty and complexity，答案为 A。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +53,27 @@
         "C": "individual wisdom",
         "D": "persistent innovation"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：P2: it takes collective scrutiny and acceptance.。collective scrutiny and acceptance 说明该过程需要共同努力，答案为 B。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P2: it takes collective scrutiny and acceptance.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P2: it takes collective scrutiny and acceptance.",
+        "testPoint": "推理题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "collective scrutiny and acceptance 说明该过程需要共同努力，答案为 B。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +87,27 @@
         "C": "has received recognition from editors and reviewers",
         "D": "has been frequently quoted by peer scientists"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P3: transforms an individual's discovery claim into the community's credible discovery.。科学发现需经科学共同体检验才变得可信，答案为 B。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P3: transforms an individual's discovery claim into the community's credible discovery.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P3: transforms an individual's discovery claim into the community's credible discovery.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "科学发现需经科学共同体检验才变得可信，答案为 B。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +121,27 @@
         "C": "efforts to make discoveries are justified",
         "D": "scientific work calls for a critical mind"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：P4: seeing what everybody has seen and thinking what nobody has thought.。看到别人看到的、想到别人未想到的，指向批判性思维，答案为 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P4: seeing what everybody has seen and thinking what nobody has thought.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P4: seeing what everybody has seen and thinking what nobody has thought.",
+        "testPoint": "推理题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "看到别人看到的、想到别人未想到的，指向批判性思维，答案为 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -105,17 +153,29 @@
         "A": "Novelty as an Engine of Scientific Development",
         "B": "Collective Scrutiny in Scientific Discovery",
         "C": "Evolution of Credibility in Doing Science",
-        "D": "Challenge to Credibility at the Gate to Science ---"
+        "D": "Challenge to Credibility at the Gate to Science"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "定位：Whole text: the credibility process of scientific discovery.。全文围绕科学发现如何获得可信度展开，最佳标题为 C。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "Whole text: the credibility process of scientific discovery.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "Whole text: the credibility process of scientific discovery.",
+        "testPoint": "主旨题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "全文围绕科学发现如何获得可信度展开，最佳标题为 C。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
@@ -126,5 +186,27 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "2012 Text 3 已重新核对，31-35 答案为：A B B D C。",
+  "sources": [
+    {
+      "name": "中国教育在线 2012 英语一 Text 1 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_10.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 2 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_11.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 3 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_12.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 4 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_13.shtml"
+    },
+    {
+      "name": "学信网 2012 英语一真题及答案",
+      "url": "https://yz.chsi.com.cn/kyzx/en/201201/20120110/276607239.html"
+    }
+  ]
 }

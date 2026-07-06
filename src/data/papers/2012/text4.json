@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 4",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "If the trade unionist Jimmy Hoffa were alive today, he would probably\nrepresent civil servants. When Hoffa's Teamsters were in their prime in\n1960, only one in ten American government workers belonged to a union;\nnow 36% do. In 2009 the number of unionists in America's public sector\npassed that of their fellow members in the private sector. In Britain,\nmore than half of public-sector workers but only about 15% of\nprivate-sector ones are unionized.\n\nThere are three reasons for the public-sector unions' thriving. First,\nthey can shut things down without suffering much in the way of\nconsequences. Second, they are mostly bright and well-educated. A\nquarter of America's public-sector workers have a university degree.\nThird, they now dominate left--of--centre politics. Some of their ties go\nback a long way. Britain's Labor Party, as its name implies, has long\nbeen associated with trade unionism. Its current leader, Ed Miliband,\nowes his position to votes from public--sector unions.\n\nAt the state level their influence can be even more fearsome. Mark\nBaldassare of the Public Policy Institute of California points out that\nmuch of the state's budget is patrolled by unions. The teachers' unions\nkeep an eye on schools, the CCPOA on prisons and a variety of labor\ngroups on health care.\n\nIn many rich countries average wages in the state sector are higher than\nin the private one. But the real gains come in benefits and work\npractices. Politicians have repeatedly \"backloaded\" public-sector pay\ndeals, keeping the pay increases modest but adding to holidays and\nespecially pensions that are already generous.\n\nReform has been vigorously opposed, perhaps most egregiously in\neducation, where charter schools, academies and merit pay all faced\ndrawn-out battles. Even though there is plenty of evidence that the\nquality of the teachers is the most important variable, teachers' unions\nhave fought against getting rid of bad ones and promoting good ones.\n\nAs the cost to everyone else has become clearer, politicians have begun\nto clamp down. In Wisconsin the unions have rallied thousands of\nsupporters against Scott Walker, the hardline Republican governor. But\nmany within the public sector suffer under the current system, too.\n\nJohn Donahue at Harvard's Kennedy School points out that the norms of\nculture in Western civil services suit those who want to stay put but is\nbad for high achievers. The only American public-sector workers who earn\nwell above\n$250, 000 a year are university sports coaches and the\npresident of the United States. Bankers' fat pay packets have attracted\nmuch criticism, but a public-sector system that does not reward high\nachievers may be a much bigger problem for America.",
   "questions": [
     {
@@ -19,15 +19,27 @@
         "C": "unions have enlarged their public-sector membership",
         "D": "the government has improved its relationship with unionists"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P1: now 36% do; public-sector unionists passed private-sector members.。第一段说公共部门工会成员比例明显扩大，答案为 C。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P1: now 36% do; public-sector unionists passed private-sector members.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P1: now 36% do; public-sector unionists passed private-sector members.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "第一段说公共部门工会成员比例明显扩大，答案为 C。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +53,27 @@
         "C": "Labor Party has long been fighting against public-sector unions.",
         "D": "Public-sector unions seldom get in trouble for their actions."
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P2: they can shut things down without suffering much in the way of consequences.。原文说公共部门工会可以停摆而不怎么承担后果，对应 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P2: they can shut things down without suffering much in the way of consequences.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P2: they can shut things down without suffering much in the way of consequences.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "原文说公共部门工会可以停摆而不怎么承担后果，对应 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +87,27 @@
         "C": "excessively increased",
         "D": "fairly adjusted"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P4: real gains come in benefits and work practices.。收入增长主要通过福利、假期和养老金等间接增加，答案为 B。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P4: real gains come in benefits and work practices.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P4: real gains come in benefits and work practices.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "收入增长主要通过福利、假期和养老金等间接增加，答案为 B。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +121,27 @@
         "C": "may be a barrier to public-sector reforms",
         "D": "are dominant in the government"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：P5-P6: Reform has been vigorously opposed; Wisconsin unions rallied supporters against Scott Walker.。Wisconsin 例子说明工会可能成为公共部门改革的障碍，答案为 C。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P5-P6: Reform has been vigorously opposed; Wisconsin unions rallied supporters against Scott Walker.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P5-P6: Reform has been vigorously opposed; Wisconsin unions rallied supporters against Scott Walker.",
+        "testPoint": "推理题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "Wisconsin 例子说明工会可能成为公共部门改革的障碍，答案为 C。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -102,20 +150,32 @@
       "questionText": "John Donahue's attitude towards the public-sector system is one of ____.",
       "question": "John Donahue's attitude towards the public-sector system is one of ____.",
       "options": {
-        "A": "Of course, it is precisely these superfluous things that define human culture and ultimately what it is to be human. Downloading and consuming culture requires great skills, but failing to move beyond downloading is to strip oneself of a defining constituent of humanity.",
-        "B": "Applications like tumblr. com, which allow users to combine pictures, words and other media in creative ways and then share them, have the potential to add stickiness by amusing, entertaining and enlightening others.",
-        "C": "Not only did they develop such a device but by the turn of the millennium they had also managed to embed it in a worldwide system accessed by billions of people every day.",
-        "D": "This is because the networked computer has sparked a secretwar between downloading and uploading - between passive consumption and active creation - whose outcome will shape our collective future in ways we can only begin to imagine. E. The challenge the computer mounts to television thus bears little similarity to one format being replaced by another in the manner of record players being replaced by CD players. F. One reason for the persistence of this pyramid of production is that for the past half-century, much of the world's media culture has been defined by a single medium - television - and television is defined by downloading. G. The networked computer offers the first chance in 50 years to reverse the flow, to encourage thoughtful downloading and, even more importantly, meaningful uploading. --- **Part C** **Directions:** Read the following text carefully and then translate the underlined segments into Chinese. Your translation should be written clearlyon **ANSWER SHEET 2**. (10 points) Since the days of Aristotle, a search for universal principles has characterized the scientific enterprise. In some ways, this quest for commonalities defines science. Newton's laws of motion and Darwinian evolution each bind a host of different phenomena into a single explicatory framework. (46) In physics, one approach takes this impulse for unification to its extreme, and seeks a theory of everything - a single generative equation for all we see. It is becoming less clear, however, that such a theory would be a simplification, given the dimensions and universes that it might entail. Nonetheless, unification of sorts remains a major goal. This tendency in the natural sciences has long been evident in the social sciences too. (47) Here, Darwinism seems to offer justification, for if all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings. Just as the bewildering variety of human courtship rituals might all be considered forms of sexual selection, perhaps the world's languages, music, social and religious customs and even history are governed by universal features. (48) To filter out what is unique from what is shared might enable us to understand how complex cultural behavior arose and what guides it in evolutionary or cognitive terms. That, at least, is the hope. But a comparative study of linguistic traits published online today supplies a reality check. Russell Gray at the University of Auckland and his colleagues consider the evolution of grammars in the light of two previous attempts to find universality in language. The most famous of these efforts was initiated by Noam Chomsky, who suggested that humans are born with an innate language - acquisition capacity that dictates a universal grammar. A few generative rules are then sufficient to unfold the entire fundamental structure of a language, which is why children can learn it so quickly. (49) The second, by Joshua Greenberg, takes a more empirical approach to universality, identifying traits (particularly in word order) shared by many language which are considered to represent biases that result from cognitive constraints. Gray and his colleagues have put them to the test by examining four family trees that between them represent more than 2, 000 languages. (50) Chomsky's grammar should show patterns of language change that are independent of the family tree or the pathway tracked through it, whereas Greenbergian universality predicts strong co-dependencies between particular types of word-order relations. Neither of these patterns is borne out by the analysis, suggesting that the structures of the languages are lineage-specific and not governed by universals. --- ## Writing **Part A** **51. Directions:** Some international students are coming to your university. Write them an email in the name of the Students' Union to"
+        "A": "disapproval",
+        "B": "appreciation",
+        "C": "tolerance",
+        "D": "indifference"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "定位：Last paragraph: public-sector system ... bad for high achievers; may be a bigger problem.。John Donahue 认为现行公共部门体系不利于高成就者，态度为不赞同，答案为 A。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "Last paragraph: public-sector system ... bad for high achievers; may be a bigger problem.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "Last paragraph: public-sector system ... bad for high achievers; may be a bigger problem.",
+        "testPoint": "态度题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "John Donahue 认为现行公共部门体系不利于高成就者，态度为不赞同，答案为 A。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
@@ -126,5 +186,27 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "2012 Text 4 已重新核对，36-40 答案为：C D B C A。",
+  "sources": [
+    {
+      "name": "中国教育在线 2012 英语一 Text 1 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_10.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 2 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_11.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 3 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_12.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 4 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_13.shtml"
+    },
+    {
+      "name": "学信网 2012 英语一真题及答案",
+      "url": "https://yz.chsi.com.cn/kyzx/en/201201/20120110/276607239.html"
+    }
+  ]
 }

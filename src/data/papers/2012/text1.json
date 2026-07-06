@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 1",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "Come on - Everybody's doing it. That whispered message, half\ninvitation and half forcing, is what most of us think of when we hear\nthe words *peer pressure.* It usually leads to no good - drinking, drugs and casual sex.\nBut in her new book *Join the Club*, Tina Rosenberg contends that peer pressure can also be a positive\nforce through what she calls the social cure, in which organizations and\nofficials use the power of group dynamics to help individuals improve\ntheir lives and possibly the world.\n\nRosenberg, the recipient of a Pulitzer Prize, offers a host of examples\nof the social cure in action: In South Carolina, a state-sponsored\nantismoking program called Rage Against the Haze sets out to make\ncigarettes uncool. In South Africa, an HIV-prevention initiative known\nas loveLife recruits young people to promote safe sex among their peers.\n\nThe idea seems promising, and Rosenberg is a perceptive observer. Her\ncritique of the lameness of many public-health campaigns is\nspot-on: they fail to mobilize peer pressure for healthy habits, and\nthey demonstrate a seriously flawed understanding of psychology. \"Dare\nto be different, please don't smoke!\" pleads one billboard campaign\naimed at reducing smoking among teenagers - teenagers, who desire\nnothing more than fitting in. Rosenberg argues convincingly that\npublic-health advocates ought to take a page from advertisers, so\nskilled at applying peer pressure.\n\nBut on the general effectiveness of the social cure, Rosenberg is less\npersuasive. *Join the Club* is filled with too much irrelevant\ndetail and not enough exploration of the social and biological factors\nthat make peer pressure so powerful. The most glaring flaw of the social\ncure as it's presented here is that it doesn't work very well for very\nlong. Rage Against the Haze failed once state funding was cut. Evidence\nthat the loveLife program produces lasting changes is limited and mixed.\n\nThere's no doubt that our peer groups exert enormous influence on our\nbehavior. An emerging body of research shows that positive health habits - as well as negative ones - spread through networks of friends via\nsocial communication. This is a subtle form of peer pressure: we\nunconsciously imitate the behavior we see every day.\n\nFar less certain, however, is how successfully experts and bureaucrats\ncan select our peer groups and steer their activities in virtuous\ndirections. It's like the teacher who breaks up the troublemakers in the\nback row by pairing them with better-behaved classmates. The tactic\nnever really works. And that's the problem with a social cure engineered\nfrom the outside: in the real world, as in school, we insist on choosing\nour own friends.",
   "questions": [
     {
@@ -19,15 +19,27 @@
         "C": "an obstacle to social progress",
         "D": "a cause of undesirable behaviors"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P1: peer pressure usually leads to no good - drinking, drugs and casual sex.。首段说 peer pressure 通常导致不良行为，对应 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P1: peer pressure usually leads to no good - drinking, drugs and casual sex.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P1: peer pressure usually leads to no good - drinking, drugs and casual sex.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "首段说 peer pressure 通常导致不良行为，对应 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +53,27 @@
         "C": "stay away from commercial advertisers",
         "D": "recognize the limitations of advertisements"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P3: public-health advocates ought to take a page from advertisers.。take a page from advertisers 表示向广告人借鉴经验，答案为 B。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P3: public-health advocates ought to take a page from advertisers.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P3: public-health advocates ought to take a page from advertisers.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "take a page from advertisers 表示向广告人借鉴经验，答案为 B。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +88,26 @@
         "D": "produce a long-lasting social effect"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P4: Rosenberg is less persuasive on the social and biological factors behind peer pressure.。作者认为该书未充分探讨社会和生物因素，对应 A。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P4: Rosenberg is less persuasive on the social and biological factors behind peer pressure.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P4: Rosenberg is less persuasive on the social and biological factors behind peer pressure.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "作者认为该书未充分探讨社会和生物因素，对应 A。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +121,27 @@
         "C": "occurs without our realizing it",
         "D": "can produce negative health habits"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P5: we unconsciously imitate the behavior we see every day.。unconsciously imitate 对应 occurs without our realizing it，答案为 C。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P5: we unconsciously imitate the behavior we see every day.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P5: we unconsciously imitate the behavior we see every day.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "unconsciously imitate 对应 occurs without our realizing it，答案为 C。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -105,17 +153,29 @@
         "A": "harmful",
         "B": "desirable",
         "C": "profound",
-        "D": "questionable ---"
+        "D": "questionable"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "定位：Last paragraph: the tactic never really works.。末段说这个策略从未真正起作用，表明作者质疑 peer pressure 的效果，答案为 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "Last paragraph: the tactic never really works.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "Last paragraph: the tactic never really works.",
+        "testPoint": "态度题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "末段说这个策略从未真正起作用，表明作者质疑 peer pressure 的效果，答案为 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
@@ -126,5 +186,27 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "2012 Text 1 已重新核对，21-25 答案为：D B A C D。",
+  "sources": [
+    {
+      "name": "中国教育在线 2012 英语一 Text 1 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_10.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 2 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_11.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 3 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_12.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 4 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_13.shtml"
+    },
+    {
+      "name": "学信网 2012 英语一真题及答案",
+      "url": "https://yz.chsi.com.cn/kyzx/en/201201/20120110/276607239.html"
+    }
+  ]
 }

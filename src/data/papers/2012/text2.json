@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 2",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "A deal is a deal - except, apparently, when Entergy is involved. The\ncompany, a major energy supplier in New England, provoked justified\noutrage in Vermont last week when it announced it was\nreneging on a longstanding commitment to abide by the strict\nnuclear regulations.\n\nInstead, the company has done precisely what it had long promised it\nwould not: challenge the constitutionality of Vermont's rules in the\nfederal court, as part of a desperate effort to keep its Vermont Yankee\nnuclear power plant running. It's a stunning move.\n\nThe conflict has been surfacing since 2002, when the corporation bought\nVermont's only nuclear power plant, an aging reactor in Vernon. As a\ncondition of receiving state approval for the sale, the company agreed\nto seek permission from state regulators to operate past 2012. In 2006,\nthe state went a step further, requiring that any extension of the\nplant's license be subject to Vermont legislature's approval. Then, too,\nthe company went along.\n\nEither Entergy never really intended to live by those commitments, or it\nsimply didn't foresee what would happen next. A string of accidents,\nincluding the partial collapse of a cooling tower in 2007 and the\ndiscovery of an underground pipe system leakage, raised serious\nquestions about both Vermont Yankee's safety and Entergy's management - especially after the company made misleading statements about the\npipe. Enraged by Entergy's behavior, the Vermont Senate voted 26 to 4\nlast year against allowing an extension.\n\nNow the company is suddenly claiming that the 2002 agreement is invalid\nbecause of the 2006 legislation, and that only the federal government\nhas regulatory power over nuclear issues. The legal issues in the case\nare obscure: whereas the Supreme Court has ruled that states do have\nsome regulatory authority over nuclear power, legal scholars say that\nVermont case will offer a precedent-setting test of how far those powers\nextend. Certainly, there are valid concerns about the patchwork\nregulations that could result if every state sets its own rules. But had\nEntergy kept its word, that debate would be beside the point.\n\nThe company seems to have concluded that its reputation in Vermont is\nalready so damaged that it has nothing left to lose by going to war with\nthe state. But there should be consequences. Permission to run a nuclear\nplant is a public trust. Entergy runs 11 other reactors in the United\nStates, including Pilgrim Nuclear station in Plymouth. Pledging to run\nPilgrim safely, the company has applied for federal permission to keep\nit open for another 20 years. But as the Nuclear Regulatory Commission\n(NRC) reviews the company's application, it should keep it mind what\npromises from Entergy are worth.",
   "questions": [
     {
@@ -19,15 +19,27 @@
         "C": "dishonoring",
         "D": "securing"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "词义题",
+      "questionType": "词义题",
+      "explanation": "定位：P1: reneging on a longstanding commitment.。reneging on 意为违背、不兑现承诺，对应 dishonoring，答案为 C。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P1: reneging on a longstanding commitment.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P1: reneging on a longstanding commitment.",
+        "testPoint": "词义题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "reneging on 意为违背、不兑现承诺，对应 dishonoring，答案为 C。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +53,27 @@
         "C": "acquire an extension of its business license",
         "D": "get permission to purchase a power plant"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P3: As a condition of receiving state approval for the sale...。公司签署 2002 协议是为了获得州政府批准购买核电站，答案为 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P3: As a condition of receiving state approval for the sale...",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P3: As a condition of receiving state approval for the sale...",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "公司签署 2002 协议是为了获得州政府批准购买核电站，答案为 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +88,26 @@
         "D": "business vision"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P4: raised serious questions about ... Entergy's management.。management 和 managerial practices 是同义对应，答案为 A。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P4: raised serious questions about ... Entergy's management.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P4: raised serious questions about ... Entergy's management.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "management 和 managerial practices 是同义对应，答案为 A。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +121,27 @@
         "C": "the federal authority over nuclear issues",
         "D": "the limits of states' power over nuclear issues"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：P5: Vermont case will offer a precedent-setting test of how far those powers extend.。how far those powers extend 对应 the limits of states' power，答案为 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "P5: Vermont case will offer a precedent-setting test of how far those powers extend.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P5: Vermont case will offer a precedent-setting test of how far those powers extend.",
+        "testPoint": "推理题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "how far those powers extend 对应 the limits of states' power，答案为 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -105,17 +153,29 @@
         "A": "Entergy's business elsewhere might be affected",
         "B": "the authority of the NRC will be defied",
         "C": "Entergy will withdraw its Plymouth application",
-        "D": "Vermont's reputation might be damaged ---"
+        "D": "Vermont's reputation might be damaged"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：Last paragraph: NRC should keep in mind what promises from Entergy are worth.。末段提醒 NRC 审核 Entergy 其他申请时要考虑其信誉，可推出其他业务可能受影响，答案为 A。",
+      "trapAnalysis": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换和语气。",
+      "location": "Last paragraph: NRC should keep in mind what promises from Entergy are worth.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "Last paragraph: NRC should keep in mind what promises from Entergy are worth.",
+        "testPoint": "推理题",
+        "trap": "干扰项主要来自局部词复现、范围扩大缩小或对作者态度的误读。",
+        "correctLogic": "末段提醒 NRC 审核 Entergy 其他申请时要考虑其信誉，可推出其他业务可能受影响，答案为 A。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
@@ -126,5 +186,27 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "2012 Text 2 已重新核对，26-30 答案为：C D A D A。",
+  "sources": [
+    {
+      "name": "中国教育在线 2012 英语一 Text 1 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_10.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 2 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_11.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 3 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_12.shtml"
+    },
+    {
+      "name": "中国教育在线 2012 英语一 Text 4 解析",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397571_13.shtml"
+    },
+    {
+      "name": "学信网 2012 英语一真题及答案",
+      "url": "https://yz.chsi.com.cn/kyzx/en/201201/20120110/276607239.html"
+    }
+  ]
 }
