@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 1",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "The decision of the New York Philharmonic to hire Alan Gilbert as its\nnext music director has been the talk of the classical-music world ever\nsince the sudden announcement of his appointment in 2009. For the most\npart, the response has been favorable, to say the least. \"Hooray! At\nlast!\" wrote Anthony Tommasini, a sober-sided classical-music critic.\n\nOne of the reasons why the appointment came as such a surprise, however,\nis that Gilbert is comparatively little known. Even Tommasini, who had\nadvocated Gilbert's appointment in the *Times*, calls him \"an\nunpretentious musician with no air of the formidable conductor about\nhim.\" As a description of the next music director of an orchestra that\nhas hitherto been led by musicians like Gustav Mahler and Pierre Boulez,\nthat seems likely to have struck at least some *Times* readers as\nfaint praise.\n\nFor my part, I have no idea whether Gilbert is a great conductor or even\na good one. To be sure, he performs an impressive variety of interesting\ncompositions, but it is not necessary for me to visit Avery Fisher Hall,\nor anywhere else, to hear interesting orchestral music. All I have to do\nis to go to my CD shelf, or boot up my computer and download still more\nrecorded music from iTunes.\n\nDevoted concertgoers who reply that recordings are no substitute for\nlive performance are missing the point. For the time, attention, and\nmoney of the art-loving public, classical instrumentalists must compete\nnot only with opera houses, dance troupes, theater companies, and\nmuseums, but also with the recorded performances of the great classical\nmusicians of the 20th century. These recordings are\ncheap, available everywhere, and very often much higher in artistic\nquality than today's live performances; moreover, they can be\n\"consumed\" at a time and place of the listener's choosing. The\nwidespread availability of such recordings has thus brought about a\ncrisis in the institution of the traditional classical concert.\n\nOne possible response is for classical performers to program attractive\nnew music that is not yet available on record. Gilbert's own interest in\nnew music has been widely noted: Alex Ross, a classical-music critic,\nhas described him as a man who is capable of turning the Philharmonic\ninto \"a markedly different, more vibrant organization.\" But what will\nbe the nature of that difference? Merely expanding the orchestra's\nrepertoire will not be enough. If Gilbert and the Philharmonic are to\nsucceed, they must first change the relationship between America's\noldest orchestra and the new audience it hopes to attract.",
   "questions": [
     {
@@ -19,15 +19,27 @@
         "C": "received acclaim",
         "D": "aroused curiosity"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P1: For the most part, the response has been favorable, to say the least. \"Hooray! At last!\"。第一段 favorable 和 Hooray 表明任命得到好评，对应 received acclaim，答案为 C。",
+      "trapAnalysis": "干扰项主要来自局部词复现或对作者立场的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有结合上下文和作者语气判断。",
+      "location": "P1: For the most part, the response has been favorable, to say the least. \"Hooray! At last!\"",
+      "thinkingMethod": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。",
+      "examinerThinking": {
+        "sourceSentence": "P1: For the most part, the response has been favorable, to say the least. \"Hooray! At last!\"",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现或对作者立场的误读。",
+        "correctLogic": "第一段 favorable 和 Hooray 表明任命得到好评，对应 received acclaim，答案为 C。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +53,27 @@
         "C": "respectable",
         "D": "talented"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P2: calls him \"an unpretentious musician with no air of the formidable conductor about him.\"。unpretentious 指不摆架子、谦逊，与 modest 同义，答案为 B。",
+      "trapAnalysis": "干扰项主要来自局部词复现或对作者立场的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有结合上下文和作者语气判断。",
+      "location": "P2: calls him \"an unpretentious musician with no air of the formidable conductor about him.\"",
+      "thinkingMethod": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。",
+      "examinerThinking": {
+        "sourceSentence": "P2: calls him \"an unpretentious musician with no air of the formidable conductor about him.\"",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现或对作者立场的误读。",
+        "correctLogic": "unpretentious 指不摆架子、谦逊，与 modest 同义，答案为 B。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +87,27 @@
         "C": "exaggerate the variety of live performances.",
         "D": "overestimate the value of live performances."
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：P4: Devoted concertgoers ... are missing the point; recordings are cheap, available everywhere, and often higher in quality.。作者认为认定录音无法替代现场的人没有抓住重点，说明他们高估了现场演出价值，答案为 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现或对作者立场的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有结合上下文和作者语气判断。",
+      "location": "P4: Devoted concertgoers ... are missing the point; recordings are cheap, available everywhere, and often higher in quality.",
+      "thinkingMethod": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。",
+      "examinerThinking": {
+        "sourceSentence": "P4: Devoted concertgoers ... are missing the point; recordings are cheap, available everywhere, and often higher in quality.",
+        "testPoint": "推理题",
+        "trap": "干扰项主要来自局部词复现或对作者立场的误读。",
+        "correctLogic": "作者认为认定录音无法替代现场的人没有抓住重点，说明他们高估了现场演出价值，答案为 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +121,27 @@
         "C": "They help improve the quality of music.",
         "D": "They have only covered masterpieces."
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P4: These recordings are cheap, available everywhere, and very often much higher in artistic quality than today's live performances.。available everywhere 对应 easily accessible to the general public，答案为 B。",
+      "trapAnalysis": "干扰项主要来自局部词复现或对作者立场的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有结合上下文和作者语气判断。",
+      "location": "P4: These recordings are cheap, available everywhere, and very often much higher in artistic quality than today's live performances.",
+      "thinkingMethod": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。",
+      "examinerThinking": {
+        "sourceSentence": "P4: These recordings are cheap, available everywhere, and very often much higher in artistic quality than today's live performances.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现或对作者立场的误读。",
+        "correctLogic": "available everywhere 对应 easily accessible to the general public，答案为 B。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -105,17 +153,29 @@
         "A": "doubtful",
         "B": "enthusiastic",
         "C": "confident",
-        "D": "puzzled ---"
+        "D": "puzzled"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "定位：P5: But what will be the nature of that difference? Merely expanding the orchestra's repertoire will not be enough.。作者用反问和 will not be enough 表明对 Gilbert 振兴爱乐乐团的作用持怀疑态度，答案为 A。",
+      "trapAnalysis": "干扰项主要来自局部词复现或对作者立场的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有结合上下文和作者语气判断。",
+      "location": "P5: But what will be the nature of that difference? Merely expanding the orchestra's repertoire will not be enough.",
+      "thinkingMethod": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。",
+      "examinerThinking": {
+        "sourceSentence": "P5: But what will be the nature of that difference? Merely expanding the orchestra's repertoire will not be enough.",
+        "testPoint": "态度题",
+        "trap": "干扰项主要来自局部词复现或对作者立场的误读。",
+        "correctLogic": "作者用反问和 will not be enough 表明对 Gilbert 振兴爱乐乐团的作用持怀疑态度，答案为 A。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再把选项和原文做同义替换、逻辑和态度核对。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
@@ -126,5 +186,19 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "2011 Text 1 已根据公开答案和原文定位重新核对，21-25 答案为：C B D B A。",
+  "sources": [
+    {
+      "name": "中国教育在线 2011 英语一真题原文",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397696_1.shtml"
+    },
+    {
+      "name": "新浪教育 2011 英语一答案及详解",
+      "url": "https://edu.sina.com.cn/kaoyan/2011-01-21/1646283338.shtml"
+    },
+    {
+      "name": "奇速英语 2011 Text 1 解析",
+      "url": "https://www.qisuen.cn/app/teacher/reading/readingDetail?id=5247"
+    }
+  ]
 }
