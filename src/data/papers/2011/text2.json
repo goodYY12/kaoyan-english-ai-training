@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 2",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "When Liam McGee departed as president of Bank of America in August, his\nexplanation was surprisingly straight up. Rather than cloaking his exit\nin the usual vague excuses, he came right out and said he was leaving\n\"to pursue my goal of running a company.\" Broadcasting his ambition\nwas \"very much my decision,\" McGee says. Within two weeks, he was\ntalking for the first time with the board of Hartford Financial Services\nGroup, which named him CEO and chairman on September 29.\n\nMcGee says leaving without a position lined up gave him time to reflect\non what kind of company he wanted to run. It also sent a clear message\nto the outside world about his aspirations. And McGee isn't alone. In\nrecent weeks the No. 2 executives at Avon and American Express quit with\nthe explanation that they were looking for a CEO post. As boards\nscrutinize succession plans in response to shareholder pressure,\nexecutives who don't get the nod also may wish to move on. A turbulent\nbusiness environment also has senior managers cautious of letting vague\npronouncements cloud their reputations.\n\nAs the first signs of recovery begin to take hold, deputy chiefs may be\nmore willing to make the jump without a net. In the third quarter, CEO\nturnover was down 23% from a year ago as nervous boards stuck with the\nleaders they had, according to Liberum Research. As the economy picks\nup, opportunities will abound for aspiring leaders.\n\nThe decision to quit a senior position to look for a better one is\nunconventional. For years executives and headhunters have adhered to the\nrule that the most attractive CEO candidates are the ones who must\nbe poached. Says Korn/Ferry senior partner Dennis Carey: \"I\ncan't think of a single search I've done where a board has not\ninstructed me to look at sitting CEOs first.\"\n\nThose who jumped without a job haven't always landed in top positions\nquickly. Ellen Marram quit as chief of Tropicana a decade ago, saying\nshe wanted to be a CEO. It was a year before she became head of a tiny\nInternet-based commodities exchange. Robert Willumstad left Citigroup in\n2005 with ambitions to be a CEO. He finally took that post at a major\nfinancial institution three years later.\n\nMany recruiters say the old disgrace is fading for top performers. The\nfinancial crisis has made it more acceptable to be between jobs or to\nleave a bad one. \"The traditional rule was it's safer to stay where you\nare, but that's been fundamentally inverted,\" says one headhunter.\n\"The people who've been hurt the worst are those who've stayed too\nlong.\"",
   "questions": [
     {
@@ -20,14 +20,26 @@
         "D": "impulsive"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P1: his explanation was surprisingly straight up; he came right out and said he was leaving to pursue his goal.。原文 surprisingly straight up 和 came right out 表明 McGee 离职说法坦率，对应 frank，答案为 B。",
+      "trapAnalysis": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换。",
+      "location": "P1: his explanation was surprisingly straight up; he came right out and said he was leaving to pursue his goal.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P1: his explanation was surprisingly straight up; he came right out and said he was leaving to pursue his goal.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+        "correctLogic": "原文 surprisingly straight up 和 came right out 表明 McGee 离职说法坦率，对应 frank，答案为 B。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +53,27 @@
         "C": "their strained relations with the boards",
         "D": "their pursuit of new career goals"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P2: more executives are likely to want to have a go at founding their own firm or getting a role outside their usual arena.。原文强调高管想创办公司或进入新领域，对应 pursuit of new career goals，答案为 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换。",
+      "location": "P2: more executives are likely to want to have a go at founding their own firm or getting a role outside their usual arena.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P2: more executives are likely to want to have a go at founding their own firm or getting a role outside their usual arena.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+        "correctLogic": "原文强调高管想创办公司或进入新领域，对应 pursuit of new career goals，答案为 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +87,27 @@
         "C": "hunted for",
         "D": "guarded against"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "词义题",
+      "questionType": "词义题",
+      "explanation": "定位：P4: companies outside their own fields are willing to poach top executives.。poach 在这里是“挖走、猎取”，对应 hunted for，答案为 C。",
+      "trapAnalysis": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换。",
+      "location": "P4: companies outside their own fields are willing to poach top executives.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P4: companies outside their own fields are willing to poach top executives.",
+        "testPoint": "词义题",
+        "trap": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+        "correctLogic": "poach 在这里是“挖走、猎取”，对应 hunted for，答案为 C。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "it's safer to stick to the traditional rules"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：Last paragraph: the ones who have suffered the most are those who have stayed too long.。末段说受伤最深的是在原位置停留太久的人，可推出顶级人才过去更倾向留任，答案为 A。",
+      "trapAnalysis": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换。",
+      "location": "Last paragraph: the ones who have suffered the most are those who have stayed too long.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "Last paragraph: the ones who have suffered the most are those who have stayed too long.",
+        "testPoint": "推理题",
+        "trap": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+        "correctLogic": "末段说受伤最深的是在原位置停留太久的人，可推出顶级人才过去更倾向留任，答案为 A。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -105,17 +153,29 @@
         "A": "CEOs: Where to Go?",
         "B": "CEOs: All the Way Up?",
         "C": "Top Managers Jump without a Net",
-        "D": "The Only Way Out for Top Performers ---"
+        "D": "The Only Way Out for Top Performers"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "定位：Whole text: top executives increasingly leave secure posts for risky new roles.。全文围绕高管离开稳定职位转向更有风险的新角色，最佳标题是 Top Managers Jump without a Net，答案为 B。",
+      "trapAnalysis": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换。",
+      "location": "Whole text: top executives increasingly leave secure posts for risky new roles.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "Whole text: top executives increasingly leave secure posts for risky new roles.",
+        "testPoint": "主旨题",
+        "trap": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+        "correctLogic": "全文围绕高管离开稳定职位转向更有风险的新角色，最佳标题是 Top Managers Jump without a Net，答案为 B。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
@@ -126,5 +186,23 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "2011 Text 2 已根据公开答案和原文定位重新核对，26-30 答案为：B D C A B。",
+  "sources": [
+    {
+      "name": "学信网 2011 英语一参考答案",
+      "url": "https://yz.chsi.com.cn/kyzx/other/201101/20110117/160835932.html"
+    },
+    {
+      "name": "中国教育在线 2011 英语一真题原文",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397696_2.shtml"
+    },
+    {
+      "name": "中国教育在线 2011 英语一 Text 3",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397696_3.shtml"
+    },
+    {
+      "name": "文都教育 2011 英语一真题答案",
+      "url": "https://kaoyan.wendu.com/2017/0816/111323.shtml"
+    }
+  ]
 }

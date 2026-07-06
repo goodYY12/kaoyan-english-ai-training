@@ -5,7 +5,7 @@
   "section": "Reading Comprehension",
   "textNumber": "Text 3",
   "title": "",
-  "status": "待补充",
+  "status": "已有数据",
   "passage": "The rough guide to marketing success used to be that you got what you\npaid for. No longer. While traditional \"paid\" media - such as\ntelevision commercials and print advertisements - still play a major\nrole, companies today can exploit many alternative forms of media.\nConsumers passionate about a product may create \"earned\" media by\nwillingly promoting it to friends, and a company may leverage \"owned\"\nmedia by sending e-mail alerts about products and sales to customers\nregistered with its Web site. The way consumers now approach the process\nof making purchase decisions means that marketing's impact stems from a\nbroad range of factors beyond conventional paid media.\n\nPaid and owned media are controlled by marketers promoting their own\nproducts. For earned media, such marketers act as the initiator for\nusers' responses. But in some cases, one marketer's owned media become\nanother marketer's paid media - for instance, when an e-commerce\nretailer sells ad space on its Web site. We define such sold media as\nowned media whose traffic is so strong that other organizations place\ntheir content or e-commerce engines within that environment. This trend,\nwhich we believe is still in its infancy, effectively began with\nretailers and travel providers such as airlines and hotels and will no\ndoubt go further. Johnson\n| Johnson, for example, has created\nBabyCenter, a stand-alone media property that promotes complementary and\neven competitive products. Besides generating income, the presence of\nother marketers makes the site seem objective, gives companies\nopportunities to learn valuable information about the appeal of other\ncompanies' marketing, and may help expand user traffic for all companies\nconcerned.\n\nThe same dramatic technological changes that have provided marketers\nwith more (and more diverse) communications choices have also increased\nthe risk that passionate consumers will voice their opinions in quicker,\nmore visible, and much more damaging ways. Such hijacked media are the\nopposite of earned media: an asset or campaign becomes hostage to\nconsumers, other stakeholders, or activists who make negative\nallegations about a brand or product. Members of social networks, for\ninstance, are learning that they can hijack media to apply pressure on\nthe businesses that originally created them.\n\nIf that happens, passionate consumers would try to persuade others to\nboycott products, putting the reputation of the target company at risk.\nIn such a case, the company's response may not be sufficiently quick or\nthoughtful, and the learning curve has been steep. Toyota Motor, for\nexample, alleviated some of the damage from its recall crisis earlier\nthis year with a relatively quick and well-orchestrated social-media\nresponse campaign, which included efforts to engage with consumers\ndirectly on sites such as Twitter and the social-news site Digg.",
   "questions": [
     {
@@ -19,15 +19,27 @@
         "C": "eager to help their friends promote quality products",
         "D": "enthusiastic about recommending their favorite products"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P1: consumers passionate about a product may create earned media by recommending it to others.。消费者热情推荐喜欢的产品时会形成 earned media，对应 D。",
+      "trapAnalysis": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换。",
+      "location": "P1: consumers passionate about a product may create earned media by recommending it to others.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P1: consumers passionate about a product may create earned media by recommending it to others.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+        "correctLogic": "消费者热情推荐喜欢的产品时会形成 earned media，对应 D。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +53,27 @@
         "C": "strong user traffic",
         "D": "flexibility in organization"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P2: sold media are owned media whose traffic is so strong that other organizations place content there.。原文 traffic is so strong 对应 strong user traffic，答案为 C。",
+      "trapAnalysis": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换。",
+      "location": "P2: sold media are owned media whose traffic is so strong that other organizations place content there.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P2: sold media are owned media whose traffic is so strong that other organizations place content there.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+        "correctLogic": "原文 traffic is so strong 对应 strong user traffic，答案为 C。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +87,27 @@
         "C": "may be responsible for fiercer competition",
         "D": "deserve all the negative comments about them"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "answer": "B",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "定位：P3: earned media can be hijacked and used in ways that hurt brands.。第三段说 earned media 可能被 hijacked，从而造成负面营销效果，答案为 B。",
+      "trapAnalysis": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换。",
+      "location": "P3: earned media can be hijacked and used in ways that hurt brands.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P3: earned media can be hijacked and used in ways that hurt brands.",
+        "testPoint": "推理题",
+        "trap": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+        "correctLogic": "第三段说 earned media 可能被 hijacked，从而造成负面营销效果，答案为 B。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +122,26 @@
         "D": "taking advantage of hijacked media"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "定位：P4: Toyota responded to hijacked media and used online communities to address complaints.。Toyota 的例子说明企业如何有效回应 hijacked media，答案为 A。",
+      "trapAnalysis": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换。",
+      "location": "P4: Toyota responded to hijacked media and used online communities to address complaints.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "P4: Toyota responded to hijacked media and used online communities to address complaints.",
+        "testPoint": "细节题",
+        "trap": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+        "correctLogic": "Toyota 的例子说明企业如何有效回应 hijacked media，答案为 A。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -105,17 +153,29 @@
         "A": "Alternatives to conventional paid media.",
         "B": "Conflict between hijacked and earned media.",
         "C": "Dominance of hijacked media.",
-        "D": "Popularity of owned media. ---"
+        "D": "Popularity of owned media."
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
-      "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "定位：Whole text: the text discusses new alternatives to conventional paid media.。全文主要讨论 paid media 之外的 owned / earned / sold / hijacked media 等新媒体形态，答案为 A。",
+      "trapAnalysis": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+      "commonMistake": "常见错因：只看表面关键词，没有回到定位句核对同义替换。",
+      "location": "Whole text: the text discusses new alternatives to conventional paid media.",
+      "thinkingMethod": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。",
+      "examinerThinking": {
+        "sourceSentence": "Whole text: the text discusses new alternatives to conventional paid media.",
+        "testPoint": "主旨题",
+        "trap": "干扰项主要来自局部词复现、对原文范围的扩大或对态度的误读。",
+        "correctLogic": "全文主要讨论 paid media 之外的 owned / earned / sold / hijacked media 等新媒体形态，答案为 A。",
+        "wrongOptionAnalysis": {
+          "A": "待补充",
+          "B": "待补充",
+          "C": "待补充",
+          "D": "待补充"
+        },
+        "nextTimeStrategy": "先回到题干定位句，再核对选项与原文的对象、范围和逻辑关系。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
@@ -126,5 +186,23 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "由 Markdown 真题原文导入；答案、解析、题型、错因等字段待补充。"
+  "notes": "2011 Text 3 已根据公开答案和原文定位重新核对，31-35 答案为：D C B A A。",
+  "sources": [
+    {
+      "name": "学信网 2011 英语一参考答案",
+      "url": "https://yz.chsi.com.cn/kyzx/other/201101/20110117/160835932.html"
+    },
+    {
+      "name": "中国教育在线 2011 英语一真题原文",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397696_2.shtml"
+    },
+    {
+      "name": "中国教育在线 2011 英语一 Text 3",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160513_1397696_3.shtml"
+    },
+    {
+      "name": "文都教育 2011 英语一真题答案",
+      "url": "https://kaoyan.wendu.com/2017/0816/111323.shtml"
+    }
+  ]
 }
