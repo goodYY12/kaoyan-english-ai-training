@@ -28,7 +28,7 @@
       "location": "TODO: 定位句待人工核对",
       "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "TODO: 定位句待人工核对",
+        "sourceSentence": "It never rains but it pours.",
         "testPoint": "主旨题",
         "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
         "correctLogic": "本题考查主旨题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 D：the severity of data leakage.。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -40,7 +40,24 @@
         },
         "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
       },
-      "sourceSentenceAnalysis": null
+      "sourceSentenceAnalysis": {
+        "sentence": "It never rains but it pours.",
+        "coreStructure": "主干可先抓主语/谓语/宾语：It never rains but it pours. ...。",
+        "grammarBreakdown": "先划出主句，再处理从句、插入语和介词短语；遇到并列结构时注意并列对象是否一致。",
+        "modifiers": "重点关注介词短语、定语从句、分词结构和破折号/逗号后的补充说明。",
+        "translation": "TODO: 参考翻译待人工精修",
+        "relationToQuestion": "本句用于定位第 36 题，需重点核对它与正确答案 D 的同义替换或逻辑对应。",
+        "exercises": [
+          {
+            "question": "这句话的主语是什么？",
+            "answer": "TODO: 请根据主干自行划分后核对。"
+          },
+          {
+            "question": "本句中哪个短语对应正确选项？",
+            "answer": "TODO: 回到选项做同义替换匹配。"
+          }
+        ]
+      }
     },
     {
       "id": "2007-text4-q37",
@@ -62,7 +79,7 @@
       "location": "P2",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P2",
+        "sourceSentence": "Several massive leakages of customer and employee data this year - from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley - have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 A：whether there is any weak point。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -74,7 +91,24 @@
         },
         "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
       },
-      "sourceSentenceAnalysis": null
+      "sourceSentenceAnalysis": {
+        "sentence": "Several massive leakages of customer and employee data this year - from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley - have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+        "coreStructure": "主干可先抓主语/谓语/宾语：Several massive leakages of customer and ...。",
+        "grammarBreakdown": "先划出主句，再处理从句、插入语和介词短语；遇到并列结构时注意并列对象是否一致。",
+        "modifiers": "重点关注介词短语、定语从句、分词结构和破折号/逗号后的补充说明。",
+        "translation": "TODO: 参考翻译待人工精修",
+        "relationToQuestion": "本句用于定位第 37 题，需重点核对它与正确答案 A 的同义替换或逻辑对应。",
+        "exercises": [
+          {
+            "question": "这句话的主语是什么？",
+            "answer": "TODO: 请根据主干自行划分后核对。"
+          },
+          {
+            "question": "本句中哪个短语对应正确选项？",
+            "answer": "TODO: 回到选项做同义替换匹配。"
+          }
+        ]
+      }
     },
     {
       "id": "2007-text4-q38",
@@ -96,7 +130,7 @@
       "location": "P3",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P3",
+        "sourceSentence": "\"Data is becoming an asset which needs to be guarded as much as any other asset,\" says Haim Mendelson of Stanford University's business school.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P3，正确项为 B：information protection should be given due attention。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -108,7 +142,24 @@
         },
         "nextTimeStrategy": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
       },
-      "sourceSentenceAnalysis": null
+      "sourceSentenceAnalysis": {
+        "sentence": "\"Data is becoming an asset which needs to be guarded as much as any other asset,\" says Haim Mendelson of Stanford University's business school.",
+        "coreStructure": "主干可先抓主语/谓语/宾语：\"Data is becoming an asset which ...。",
+        "grammarBreakdown": "先划出主句，再处理从句、插入语和介词短语；遇到并列结构时注意并列对象是否一致。",
+        "modifiers": "重点关注介词短语、定语从句、分词结构和破折号/逗号后的补充说明。",
+        "translation": "TODO: 参考翻译待人工精修",
+        "relationToQuestion": "本句用于定位第 38 题，需重点核对它与正确答案 B 的同义替换或逻辑对应。",
+        "exercises": [
+          {
+            "question": "这句话的主语是什么？",
+            "answer": "TODO: 请根据主干自行划分后核对。"
+          },
+          {
+            "question": "本句中哪个短语对应正确选项？",
+            "answer": "TODO: 回到选项做同义替换匹配。"
+          }
+        ]
+      }
     },
     {
       "id": "2007-text4-q39",
@@ -130,7 +181,7 @@
       "location": "P4",
       "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P4",
+        "sourceSentence": "The mystery is that this should come as a surprise to any boss.",
         "testPoint": "主旨题",
         "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
         "correctLogic": "本题考查主旨题。结合解析资料和原文P4，正确项为 A：see the link between trust and data protection。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -142,7 +193,24 @@
         },
         "nextTimeStrategy": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
       },
-      "sourceSentenceAnalysis": null
+      "sourceSentenceAnalysis": {
+        "sentence": "The mystery is that this should come as a surprise to any boss.",
+        "coreStructure": "主干可先抓主语/谓语/宾语：The mystery is that this should ...。",
+        "grammarBreakdown": "先划出主句，再处理从句、插入语和介词短语；遇到并列结构时注意并列对象是否一致。",
+        "modifiers": "重点关注介词短语、定语从句、分词结构和破折号/逗号后的补充说明。",
+        "translation": "TODO: 参考翻译待人工精修",
+        "relationToQuestion": "本句用于定位第 39 题，需重点核对它与正确答案 A 的同义替换或逻辑对应。",
+        "exercises": [
+          {
+            "question": "这句话的主语是什么？",
+            "answer": "TODO: 请根据主干自行划分后核对。"
+          },
+          {
+            "question": "本句中哪个短语对应正确选项？",
+            "answer": "TODO: 回到选项做同义替换匹配。"
+          }
+        ]
+      }
     },
     {
       "id": "2007-text4-q40",
@@ -150,24 +218,24 @@
       "questionText": "It can be inferred from Paragraph 5 that ____.",
       "question": "It can be inferred from Paragraph 5 that ____.",
       "options": {
-        "A": "Set a Good Example for Your Kids",
-        "B": "Build Your Kids' Work Skills",
-        "C": "Place Time Limits on Leisure Activities",
-        "D": "Talk about the Future on a Regular Basis E. Help Kids Develop Coping Strategies F. Help Your Kids Figure Out Who They Are G. Build Your Kids' Sense of Responsibility **How Can a Parent Help?** Mothers and fathers can do a lot to ensure a safe landing in early adulthood for their kids. Even if a job's starting salary seems too small to satisfy an emerging adult's need for rapid content, the transition from school to work can be less of a setback if the start-up adult is ready for the move. Here are a few measures, drawn from my book *Ready or Not, Here Life Comes*, that parents can take to prevent what I call \"work-life unreadiness\":"
+        "A": "data leakage is more severe in Europe.",
+        "B": "FTC's decision is essential to data security.",
+        "C": "California takes the lead in security legislation.",
+        "D": "legal penalty is a major solution to data leakage."
       },
       "answer": "D",
       "type": "推理题",
       "questionType": "推理题",
-      "explanation": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 D：Talk about the Future on a Regular Basis E. Help Kids Develop Coping Strategies F. Help Your Kids Figure Out Who They Are G. Build Your Kids' Sense of Responsibility **How Can a Parent Help?** Mothers and fathers can do a lot to ensure a safe landing in early adulthood for their kids. Even if a job's starting salary seems too small to satisfy an emerging adult's need for rapid content, the transition from school to work can be less of a setback if the start-up adult is ready for the move. Here are a few measures, drawn from my book *Ready or Not, Here Life Comes*, that parents can take to prevent what I call \"work-life unreadiness\":。其他选项主要与原文范围、逻辑或表达重点不符。",
-      "trapAnalysis": "干扰项常过度推理或把可能性改写成确定结论。",
-      "commonMistake": "容易过度推理，没有把结论限定在原文可支持范围内。",
-      "location": "P最后一段",
+      "explanation": "定位：P5: encouraged by the lack of legal penalty; proposed data-security legislation is now doing the rounds in Washington. 原文说数据泄露问题可能由缺少法律惩罚所助长，且很多数据安全立法正在推进，因此可推出法律惩罚是解决数据泄露的重要办法，答案为 D。",
+      "trapAnalysis": "干扰项 A 把原文中欧美法律惩罚差异误读成泄露严重程度比较；B 和 C 都是局部事件，不是本段推出的核心结论。",
+      "commonMistake": "常见错因：看到 California 或 FTC 就选局部事件，没有抓住 lack of legal penalty 这个原因线索。",
+      "location": "P5: encouraged by the lack of legal penalty; proposed data-security legislation is now doing the rounds in Washington.",
       "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P最后一段",
+        "sourceSentence": "P5: encouraged by the lack of legal penalty; proposed data-security legislation is now doing the rounds in Washington.",
         "testPoint": "推理题",
-        "trap": "干扰项常过度推理或把可能性改写成确定结论。",
-        "correctLogic": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 D：Talk about the Future on a Regular Basis E. Help Kids Develop Coping Strategies F. Help Your Kids Figure Out Who They Are G. Build Your Kids' Sense of Responsibility **How Can a Parent Help?** Mothers and fathers can do a lot to ensure a safe landing in early adulthood for their kids. Even if a job's starting salary seems too small to satisfy an emerging adult's need for rapid content, the transition from school to work can be less of a setback if the start-up adult is ready for the move. Here are a few measures, drawn from my book *Ready or Not, Here Life Comes*, that parents can take to prevent what I call \"work-life unreadiness\":。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "trap": "干扰项 A 把原文中欧美法律惩罚差异误读成泄露严重程度比较；B 和 C 都是局部事件，不是本段推出的核心结论。",
+        "correctLogic": "定位：P5: encouraged by the lack of legal penalty; proposed data-security legislation is now doing the rounds in Washington. 原文说数据泄露问题可能由缺少法律惩罚所助长，且很多数据安全立法正在推进，因此可推出法律惩罚是解决数据泄露的重要办法，答案为 D。",
         "wrongOptionAnalysis": {
           "A": "待补充",
           "B": "待补充",
@@ -176,10 +244,428 @@
         },
         "nextTimeStrategy": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。"
       },
-      "sourceSentenceAnalysis": null
+      "sourceSentenceAnalysis": {
+        "sentence": "P5: encouraged by the lack of legal penalty; proposed data-security legislation is now doing the rounds in Washington.",
+        "coreStructure": "主干可先抓主语/谓语/宾语：\"The ability to guard customer data ...。",
+        "grammarBreakdown": "先划出主句，再处理从句、插入语和介词短语；遇到并列结构时注意并列对象是否一致。",
+        "modifiers": "重点关注介词短语、定语从句、分词结构和破折号/逗号后的补充说明。",
+        "translation": "TODO: 参考翻译待人工精修",
+        "relationToQuestion": "这一段的逻辑是：缺少法律惩罚可能助长数据泄露，所以法律惩罚是主要解决思路。",
+        "exercises": [
+          {
+            "question": "这句话的主语是什么？",
+            "answer": "TODO: 请根据主干自行划分后核对。"
+          },
+          {
+            "question": "本句中哪个短语对应正确选项？",
+            "answer": "TODO: 回到选项做同义替换匹配。"
+          }
+        ]
+      }
     }
   ],
-  "vocabulary": [],
+  "vocabulary": [
+    {
+      "word": "sortout",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "TODO: 原文例句待人工核对",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "TODO: 释义待人工精修",
+        "B": "不相关的细节",
+        "C": "完全相反",
+        "D": "过度推理"
+      },
+      "answer": "A",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "sortout 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "nasty",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them - especially in America - the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "不相关的细节",
+        "B": "TODO: 释义待人工精修",
+        "C": "完全相反",
+        "D": "过度推理"
+      },
+      "answer": "B",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "nasty 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "rollin",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them - especially in America - the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "不相关的细节",
+        "B": "过度推理",
+        "C": "TODO: 释义待人工精修",
+        "D": "完全相反"
+      },
+      "answer": "C",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "rollin 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "massive",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "Several massive leakages of customer and employee data this year - from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley - have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "过度推理",
+        "B": "TODO: 释义待人工精修",
+        "C": "完全相反",
+        "D": "不相关的细节"
+      },
+      "answer": "B",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "massive 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "peer",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "同龄人；同等者",
+      "sentence": "Several massive leakages of customer and employee data this year - from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley - have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "不相关的细节",
+        "B": "完全相反",
+        "C": "过度推理",
+        "D": "同龄人；同等者"
+      },
+      "answer": "D",
+      "meaningInContext": "同龄人；同等者",
+      "explanation": "peer 在本文语境中优先理解为“同龄人；同等者”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "potential",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "Several massive leakages of customer and employee data this year - from organizations as diverse as Time Warner, the American defense contractor Science Applications International Corp and even the University of California, Berkeley - have left managers hurriedly peering into their intricate IT systems and business processes in search of potential vulnerabilities.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "过度推理",
+        "B": "TODO: 释义待人工精修",
+        "C": "不相关的细节",
+        "D": "完全相反"
+      },
+      "answer": "B",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "potential 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "shareholder",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "\"The ability to guard customer data is the key to market value, which the board is responsible for on behalf of shareholders.\" Indeed, just as there is the concept of Generally Accepted Accounting Principles (GAAP), perhaps it is time for GASP, Generally Accepted Security Practices, suggested Eli Noam of New York's Columbia Business School.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "完全相反",
+        "B": "TODO: 释义待人工精修",
+        "C": "过度推理",
+        "D": "不相关的细节"
+      },
+      "answer": "B",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "shareholder 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "redundancy",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "\"Setting the proper investment level for security, redundancy, and recovery is a management issue, not a technical one,\" he says.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "TODO: 释义待人工精修",
+        "B": "完全相反",
+        "C": "过度推理",
+        "D": "不相关的细节"
+      },
+      "answer": "A",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "redundancy 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "dotherounds",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "TODO: 原文例句待人工核对",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "不相关的细节",
+        "B": "TODO: 释义待人工精修",
+        "C": "过度推理",
+        "D": "完全相反"
+      },
+      "answer": "B",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "dotherounds 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "astray",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "Until California recently passed a law, American firms did not have to tell anyone, even the victim, when data went astray.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "完全相反",
+        "B": "TODO: 释义待人工精修",
+        "C": "过度推理",
+        "D": "不相关的细节"
+      },
+      "answer": "B",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "astray 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "never",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "It never rains but it pours.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "不相关的细节",
+        "B": "过度推理",
+        "C": "TODO: 释义待人工精修",
+        "D": "完全相反"
+      },
+      "answer": "C",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "never 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "rains",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "It never rains but it pours.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "不相关的细节",
+        "B": "过度推理",
+        "C": "TODO: 释义待人工精修",
+        "D": "完全相反"
+      },
+      "answer": "C",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "rains 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "pours",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "It never rains but it pours.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "完全相反",
+        "B": "TODO: 释义待人工精修",
+        "C": "过度推理",
+        "D": "不相关的细节"
+      },
+      "answer": "B",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "pours 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "bosses",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them - especially in America - the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "过度推理",
+        "B": "不相关的细节",
+        "C": "完全相反",
+        "D": "TODO: 释义待人工精修"
+      },
+      "answer": "D",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "bosses 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "boards",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them - especially in America - the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "过度推理",
+        "B": "完全相反",
+        "C": "TODO: 释义待人工精修",
+        "D": "不相关的细节"
+      },
+      "answer": "C",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "boards 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "finally",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them - especially in America - the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "TODO: 释义待人工精修",
+        "B": "完全相反",
+        "C": "不相关的细节",
+        "D": "过度推理"
+      },
+      "answer": "A",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "finally 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "sorted",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them - especially in America - the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "完全相反",
+        "B": "过度推理",
+        "C": "TODO: 释义待人工精修",
+        "D": "不相关的细节"
+      },
+      "answer": "C",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "sorted 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "worst",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "TODO: 释义待人工精修",
+      "sentence": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them - especially in America - the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "不相关的细节",
+        "B": "完全相反",
+        "C": "过度推理",
+        "D": "TODO: 释义待人工精修"
+      },
+      "answer": "D",
+      "meaningInContext": "TODO: 释义待人工精修",
+      "explanation": "worst 在本文语境中优先理解为“TODO: 释义待人工精修”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "accounting",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "会计",
+      "sentence": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them - especially in America - the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "不相关的细节",
+        "B": "会计",
+        "C": "过度推理",
+        "D": "完全相反"
+      },
+      "answer": "B",
+      "meaningInContext": "会计",
+      "explanation": "accounting 在本文语境中优先理解为“会计”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    },
+    {
+      "word": "compliance",
+      "phonetic": "",
+      "partOfSpeech": "待补充",
+      "meaning": "合规",
+      "sentence": "Just as bosses and boards have finally sorted out their worst accounting and compliance troubles, and improved their feeble corporation governance, a new problem threatens to earn them - especially in America - the sort of nasty headlines that inevitably lead to heads rolling in the executive suite: data insecurity.",
+      "sentenceTranslation": "TODO: 例句翻译待人工补充",
+      "difficulty": "medium",
+      "sourceParagraph": 0,
+      "options": {
+        "A": "完全相反",
+        "B": "合规",
+        "C": "不相关的细节",
+        "D": "过度推理"
+      },
+      "answer": "B",
+      "meaningInContext": "合规",
+      "explanation": "compliance 在本文语境中优先理解为“合规”。做词汇自测时先看原句语境，再排除常见义干扰。",
+      "note": "自动整理的阅读后词汇自测词条，释义和例句可后续人工精修。"
+    }
+  ],
   "vocabularyGroups": {
     "coreWords": [
       {
@@ -257,11 +743,19 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。 待补充20待补充",
   "sources": [
     {
-      "name": "公开答案详解PDF",
-      "url": "https://raw.githubusercontent.com/swjtuhub/SWJTU-Courses/main/%E8%80%83%E7%A0%94%E8%B5%84%E6%96%99/%E8%8B%B1%E8%AF%AD/%E7%9C%9F%E9%A2%98/%E8%8B%B1%E8%AF%AD%E4%B8%80%E7%AD%94%E6%A1%88%E8%A7%A3%E6%9E%90/2007%E5%B9%B4%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD%E7%9C%9F%E9%A2%98%E7%AD%94%E6%A1%88%E5%8F%8A%E8%A7%A3%E6%9E%90.pdf"
+      "name": "学信网 2007 英语一 Text 4 原题",
+      "url": "https://yz.chsi.com.cn/kyzx/other/200811/20081126/10546154.html"
+    },
+    {
+      "name": "中国教育在线 2007 英语一真题及参考答案",
+      "url": "https://kaoyan.eol.cn/shiti/yingyu/201605/t20160516_1398361_4.shtml"
+    },
+    {
+      "name": "新东方在线 2007 英语一 Text 4 解析",
+      "url": "https://kaoyan.koolearn.com/20181015/1023395_2.html"
     }
   ]
 }
