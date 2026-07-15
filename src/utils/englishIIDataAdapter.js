@@ -10,12 +10,6 @@ import {
   englishIIWritingItems,
 } from "../data/englishII/trainingData.js";
 
-const markdownFiles = import.meta.glob("../data/English-II/**/*.md", {
-  query: "?raw",
-  import: "default",
-  eager: true,
-});
-
 function normalizeQuestion(question, reading) {
   return {
     ...question,
@@ -88,27 +82,4 @@ export function getEnglishIITranslationByYear(year) {
 
 export function getEnglishIIWritingByYear(year) {
   return englishIIWritingItems.find((item) => Number(item.year) === Number(year)) ?? null;
-}
-
-function parseMarkdownDocument(source, path) {
-  const match = source.match(/^---\s*\n([\s\S]*?)\n---\s*\n?([\s\S]*)$/);
-  const frontMatter = {};
-  const body = match?.[2] ?? source;
-
-  for (const line of (match?.[1] ?? "").split("\n")) {
-    const separator = line.indexOf(":");
-    if (separator === -1) continue;
-    const key = line.slice(0, separator).trim();
-    const value = line.slice(separator + 1).trim();
-    frontMatter[key] = value;
-  }
-
-  const category = path.match(/English-II[\\/]([^\\/]+)[\\/]/)?.[1] ?? "unknown";
-  return { ...frontMatter, category, path, body: body.trim() };
-}
-
-export function getEnglishIIMarkdownContent() {
-  return Object.entries(markdownFiles).map(([path, source]) =>
-    parseMarkdownDocument(source, path),
-  );
 }
