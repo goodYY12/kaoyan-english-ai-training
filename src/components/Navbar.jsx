@@ -1,11 +1,8 @@
 import { useEffect, useState } from "react";
 import { Link, NavLink, useLocation } from "react-router";
+import { getPaperLabel } from "../utils/paperSelection";
 
 const navSections = [
-  {
-    title: "英语二",
-    items: [{ to: "/english2", label: "英语二模块" }],
-  },
   {
     title: "学习首页",
     items: [
@@ -81,12 +78,13 @@ function SidebarContent() {
           AI English Lab
         </p>
         <h1 className="mt-2 text-lg font-bold leading-7 text-slate-900">
-          考研英一 AI
-          <br />
-          提分训练平台
+          考研英语 AI 提分训练平台
         </h1>
       </Link>
       <NavigationLinks />
+      <div className="mt-6 rounded-2xl border border-indigo-100 bg-indigo-50 px-3 py-3 text-sm font-semibold text-indigo-800">
+        当前学习方向：{getPaperLabel()}
+      </div>
       <div className="mt-8 rounded-3xl border border-blue-100 bg-gradient-to-br from-blue-50 to-cyan-50 p-4 text-sm text-blue-900">
         <p className="font-semibold">今日提醒</p>
         <p className="mt-1 leading-6 text-blue-700">
@@ -109,7 +107,7 @@ export default function Navbar() {
     <>
       <header className="sticky top-0 z-30 flex items-center justify-between border-b border-slate-200 bg-white/95 px-4 py-3 backdrop-blur md:hidden">
         <Link to="/" className="font-bold text-slate-900">
-          英一 AI 提分
+          考研英语 AI 提分平台
         </Link>
         <button
           type="button"

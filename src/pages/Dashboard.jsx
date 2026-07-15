@@ -9,6 +9,7 @@ import {
   getReadingRecords,
   getReadingStats,
 } from "../utils/trainingStorage";
+import { setSelectedPaper } from "../utils/paperSelection";
 
 const exampleTasks = ["完成 1 篇阅读训练", "练 1 篇完形专项", "复盘 5 个核心词"];
 
@@ -93,6 +94,7 @@ export default function Dashboard() {
         <div className="grid gap-4 md:grid-cols-2">
           <Link
             to="/reading"
+            onClick={() => setSelectedPaper("english1")}
             className="group rounded-3xl border border-blue-200 bg-gradient-to-br from-blue-50 to-white p-6 transition hover:-translate-y-0.5 hover:border-blue-400 hover:shadow-lg hover:shadow-blue-100"
           >
             <div className="flex items-start justify-between gap-4">
@@ -106,6 +108,7 @@ export default function Dashboard() {
           </Link>
           <Link
             to="/english2"
+            onClick={() => setSelectedPaper("english2")}
             className="group rounded-3xl border border-indigo-200 bg-gradient-to-br from-indigo-50 to-white p-6 transition hover:-translate-y-0.5 hover:border-indigo-400 hover:shadow-lg hover:shadow-indigo-100"
           >
             <div className="flex items-start justify-between gap-4">
