@@ -4,6 +4,11 @@ import clozeData from "../data/englishII/clozeData.json" with { type: "json" };
 import translationItems from "../data/englishII/translationItems.json" with { type: "json" };
 import writingTemplates from "../data/englishII/writingTemplates.json" with { type: "json" };
 import studyGuides from "../data/englishII/studyGuides.json" with { type: "json" };
+import {
+  englishIIClozeItems,
+  englishIITranslationItems,
+  englishIIWritingItems,
+} from "../data/englishII/trainingData.js";
 
 const markdownFiles = import.meta.glob("../data/English-II/**/*.md", {
   query: "?raw",
@@ -55,8 +60,9 @@ export function getEnglishIIYears() {
     ...new Set([
       ...getEnglishIIReadings().map((item) => item.year),
       ...clozeData.map((item) => item.year),
-      ...translationItems.map((item) => item.year),
-      ...writingTemplates.map((item) => item.year),
+      ...englishIIClozeItems.map((item) => item.year),
+      ...englishIITranslationItems.map((item) => item.year),
+      ...englishIIWritingItems.map((item) => item.year),
     ]),
   ].sort((a, b) => b - a);
 }
@@ -65,11 +71,23 @@ export function getEnglishIIModuleData() {
   return {
     readings: getEnglishIIReadings(),
     vocabulary,
-    cloze: clozeData,
-    translations: translationItems,
-    writing: writingTemplates,
+    cloze: [...clozeData, ...englishIIClozeItems],
+    translations: [...translationItems, ...englishIITranslationItems],
+    writing: [...writingTemplates, ...englishIIWritingItems],
     studyGuides,
   };
+}
+
+export function getEnglishIIClozeByYear(year) {
+  return englishIIClozeItems.filter((item) => Number(item.year) === Number(year));
+}
+
+export function getEnglishIITranslationByYear(year) {
+  return englishIITranslationItems.find((item) => Number(item.year) === Number(year)) ?? null;
+}
+
+export function getEnglishIIWritingByYear(year) {
+  return englishIIWritingItems.find((item) => Number(item.year) === Number(year)) ?? null;
 }
 
 function parseMarkdownDocument(source, path) {

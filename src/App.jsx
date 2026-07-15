@@ -3,7 +3,10 @@ import Navbar from "./components/Navbar";
 import ClozeTraining from "./pages/ClozeTraining";
 import Dashboard from "./pages/Dashboard";
 import English2 from "./pages/English2";
+import English2ClozeTraining from "./pages/English2ClozeTraining";
 import English2ReadingTraining from "./pages/English2ReadingTraining";
+import English2TranslationTraining from "./pages/English2TranslationTraining";
+import English2WritingTraining from "./pages/English2WritingTraining";
 import ExamCenter from "./pages/ExamCenter";
 import ExaminerThinking from "./pages/ExaminerThinking";
 import MistakeBook from "./pages/MistakeBook";
@@ -50,6 +53,9 @@ export default function App() {
             <Route path="/exams" element={<ExamCenter />} />
             <Route path="/english2" element={<English2 />} />
             <Route path="/english2/reading" element={<English2ReadingTraining />} />
+            <Route path="/english2/cloze" element={<English2ClozeTraining />} />
+            <Route path="/english2/translation" element={<English2TranslationTraining />} />
+            <Route path="/english2/writing" element={<English2WritingTraining />} />
             <Route path="/reading" element={<ReadingTraining />} />
             <Route path="/cloze" element={<ClozeTraining />} />
             <Route path="/examiner-thinking" element={<ExaminerThinking />} />

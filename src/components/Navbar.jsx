@@ -9,8 +9,7 @@ const englishOneSections = [
 
 const englishTwoSections = [
   { title: "学习首页", items: [{ to: "/english2", label: "英语二首页", end: true }] },
-  { title: "专项训练", items: [{ to: "/english2/reading", label: "阅读训练" }] },
-  { title: "当前计划", items: [{ to: "/english2", label: "完形、翻译、写作待补充" }] },
+  { title: "专项训练", items: [{ to: "/english2/reading", label: "阅读训练" }, { to: "/english2/cloze", label: "完形专项" }, { to: "/english2/translation", label: "翻译训练" }, { to: "/english2/writing", label: "写作训练" }] },
 ];
 
 function getWorld(pathname) {
