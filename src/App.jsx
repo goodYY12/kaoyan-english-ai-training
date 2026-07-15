@@ -2,6 +2,7 @@ import { Link, Route, Routes } from "react-router";
 import Navbar from "./components/Navbar";
 import ClozeTraining from "./pages/ClozeTraining";
 import Dashboard from "./pages/Dashboard";
+import English2 from "./pages/English2";
 import ExamCenter from "./pages/ExamCenter";
 import ExaminerThinking from "./pages/ExaminerThinking";
 import MistakeBook from "./pages/MistakeBook";
@@ -36,6 +37,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/exams" element={<ExamCenter />} />
+            <Route path="/english2" element={<English2 />} />
             <Route path="/reading" element={<ReadingTraining />} />
             <Route path="/cloze" element={<ClozeTraining />} />
             <Route path="/examiner-thinking" element={<ExaminerThinking />} />

@@ -3,6 +3,10 @@ import { Link, NavLink, useLocation } from "react-router";
 
 const navSections = [
   {
+    title: "英语二",
+    items: [{ to: "/english2", label: "英语二模块" }],
+  },
+  {
     title: "学习首页",
     items: [
       { to: "/", label: "首页 Dashboard", end: true },

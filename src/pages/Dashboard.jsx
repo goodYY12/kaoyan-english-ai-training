@@ -86,6 +86,40 @@ export default function Dashboard() {
         </div>
       </section>
 
+      <SectionCard
+        title="选择你的考试方向"
+        description="英语一和英语二独立管理，进入后会看到对应的真题、解析和复习内容。"
+      >
+        <div className="grid gap-4 md:grid-cols-2">
+          <Link
+            to="/reading"
+            className="group rounded-3xl border border-blue-200 bg-gradient-to-br from-blue-50 to-white p-6 transition hover:-translate-y-0.5 hover:border-blue-400 hover:shadow-lg hover:shadow-blue-100"
+          >
+            <div className="flex items-start justify-between gap-4">
+              <div>
+                <p className="text-xs font-bold uppercase tracking-[0.18em] text-blue-600">English I</p>
+                <h2 className="mt-2 text-2xl font-bold text-slate-900">英语一训练区</h2>
+                <p className="mt-3 text-sm leading-6 text-slate-600">历年阅读、完形、翻译、写作和错题复盘。</p>
+              </div>
+              <span className="rounded-2xl bg-blue-600 px-3 py-2 text-sm font-bold text-white">进入</span>
+            </div>
+          </Link>
+          <Link
+            to="/english2"
+            className="group rounded-3xl border border-indigo-200 bg-gradient-to-br from-indigo-50 to-white p-6 transition hover:-translate-y-0.5 hover:border-indigo-400 hover:shadow-lg hover:shadow-indigo-100"
+          >
+            <div className="flex items-start justify-between gap-4">
+              <div>
+                <p className="text-xs font-bold uppercase tracking-[0.18em] text-indigo-600">English II</p>
+                <h2 className="mt-2 text-2xl font-bold text-slate-900">英语二建设区</h2>
+                <p className="mt-3 text-sm leading-6 text-slate-600">独立题库、Markdown 解析、词汇和语法内容。</p>
+              </div>
+              <span className="rounded-2xl bg-indigo-600 px-3 py-2 text-sm font-bold text-white">进入</span>
+            </div>
+          </Link>
+        </div>
+      </SectionCard>
+
       {!hasRecords && (
         <div className="rounded-2xl border border-amber-100 bg-amber-50 px-4 py-3 text-sm font-medium text-amber-700">
           当前暂无真实训练记录，下面先显示示例数据。完成阅读或完形并提交后，这里会自动变成你的真实统计。
