@@ -27,6 +27,29 @@ function highlightWord(sentence, word) {
   );
 }
 
+function getTopicKeywords(paper) {
+  const keywords = paper.topicKeywords ?? paper.keywords ?? paper.topicWords ?? [];
+  return Array.isArray(keywords)
+    ? keywords
+    : String(keywords).split(/[、,，;；\s]+/).filter(Boolean);
+}
+
+function getStructureNodes(paper) {
+  if (Array.isArray(paper.structureMap) && paper.structureMap.length > 0) {
+    return paper.structureMap.map((item) => ({
+      label: item.paragraph ?? item.label ?? "段落",
+      text: item.summary ?? item.function ?? item.role ?? "待补充",
+    }));
+  }
+
+  const structure = String(paper.articleStructure ?? "").trim();
+  if (!structure || structure.includes("待补充")) return [];
+  return structure
+    .split(/[；;。]/)
+    .map((text, index) => ({ label: `P${index + 1}`, text: text.trim() }))
+    .filter((item) => item.text);
+}
+
 function createMistake(reading, question, selected) {
   return {
     id: question.id,
@@ -67,6 +90,8 @@ export default function ReadingTraining() {
   const currentPaper =
     availableTexts.find((paper) => paper.textNumber === selectedTextNumber) ??
     availableTexts[0];
+  const topicKeywords = getTopicKeywords(currentPaper);
+  const structureNodes = getStructureNodes(currentPaper);
   const vocabulary = normalizeVocabulary(currentPaper);
   const currentWord = vocabulary[wordIndex];
   const score = currentPaper.questions.filter(
@@ -257,6 +282,25 @@ export default function ReadingTraining() {
         ))}
       </div>
 
+      <SectionCard
+        className="mt-5"
+        title="本篇考试话题"
+        description="先用话题和关键词建立文章预期，再进入选项判断。"
+      >
+        <div className="flex flex-wrap items-center gap-3">
+          <span className="rounded-xl bg-blue-50 px-3 py-2 text-sm font-semibold text-blue-700">
+            {currentPaper.topic ?? currentPaper.examTopic ?? "考试话题待补充"}
+          </span>
+          <div className="flex flex-wrap gap-2">
+            {(topicKeywords.length ? topicKeywords : ["话题词待补充"]).map((keyword) => (
+              <span key={keyword} className="rounded-full border border-slate-200 bg-white px-3 py-1.5 text-xs font-medium text-slate-600">
+                {keyword}
+              </span>
+            ))}
+          </div>
+        </div>
+      </SectionCard>
+
       <div className="mt-6 grid gap-6 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,0.95fr)] lg:items-start">
         <SectionCard
           title={`${currentPaper.year} ${currentPaper.textNumber}｜${currentPaper.title || "阅读文章"}`}
@@ -266,6 +310,21 @@ export default function ReadingTraining() {
             {currentPaper.passage.split("\n\n").map((paragraph) => (
               <p key={paragraph} className="mb-5 indent-6 last:mb-0">{paragraph}</p>
             ))}
+          </div>
+          <div className="mt-4 rounded-2xl border border-indigo-100 bg-indigo-50/60 p-4">
+            <p className="font-bold text-indigo-800">文章结构导图</p>
+            {structureNodes.length > 0 ? (
+              <div className="mt-3 space-y-2">
+                {structureNodes.map((node, index) => (
+                  <div key={`${node.label}-${index}`} className="flex items-start gap-3 text-sm leading-6 text-slate-700">
+                    <span className="mt-0.5 shrink-0 rounded-full bg-indigo-600 px-2 py-0.5 text-xs font-bold text-white">{node.label}</span>
+                    <span>{node.text}</span>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <p className="mt-2 text-sm text-slate-500">该文章结构导图待补充。</p>
+            )}
           </div>
         </SectionCard>
 
@@ -318,6 +377,12 @@ export default function ReadingTraining() {
                         </p>
                       )}
                     </div>
+                  )}
+
+                  {submitted && isWrong && (
+                    <p className="mt-2 rounded-xl bg-rose-100/70 p-3 text-sm leading-6 text-rose-700">
+                      <strong>错题原因：</strong>{question.commonMistake || "待补充"}
+                    </p>
                   )}
 
                   {submitted && showAnalysis && (
