@@ -14,9 +14,74 @@ function asUnifiedExam(item, module) {
   };
 }
 
+const englishTwo2010ClozeChoices = [
+  [{ A: "criticized", B: "appointed", C: "commented", D: "designated" }, "D"],
+  [{ A: "proceeded", B: "activated", C: "followed", D: "prompted" }, "C"],
+  [{ A: "digits", B: "numbers", C: "amounts", D: "sums" }, "B"],
+  [{ A: "moderate", B: "normal", C: "unusual", D: "extreme" }, "A"],
+  [{ A: "with", B: "in", C: "from", D: "by" }, "A"],
+  [{ A: "progress", B: "absence", C: "presence", D: "favor" }, "B"],
+  [{ A: "reality", B: "phenomenon", C: "concept", D: "notice" }, "D"],
+  [{ A: "over", B: "for", C: "among", D: "to" }, "C"],
+  [{ A: "stay up", B: "crop up", C: "fill up", D: "cover up" }, "B"],
+  [{ A: "as", B: "if", C: "unless", D: "until" }, "A"],
+  [{ A: "excessive", B: "enormous", C: "significant", D: "magnificent" }, "C"],
+  [{ A: "categories", B: "examples", C: "patterns", D: "samples" }, "D"],
+  [{ A: "imparted", B: "immersed", C: "injected", D: "infected" }, "D"],
+  [{ A: "released", B: "relayed", C: "relieved", D: "remained" }, "A"],
+  [{ A: "placing", B: "delivering", C: "taking", D: "giving" }, "C"],
+  [{ A: "feasible", B: "available", C: "reliable", D: "applicable" }, "B"],
+  [{ A: "prevalent", B: "principal", C: "innovative", D: "initial" }, "D"],
+  [{ A: "presented", B: "restricted", C: "recommended", D: "introduced" }, "C"],
+  [{ A: "problems", B: "issues", C: "agonies", D: "sufferings" }, "A"],
+  [{ A: "involved in", B: "caring for", C: "concerned with", D: "warding off" }, "B"],
+];
+
+const englishTwo2010Cloze = {
+  id: "2010-english2-cloze",
+  year: 2010,
+  paper: "英语二",
+  title: "完形填空",
+  sourceType: "真题",
+  estimatedTime: 15,
+  focusPoints: ["词义辨析", "固定搭配", "上下文逻辑", "语篇衔接"],
+  passageParts: [
+    { type: "text", content: "The outbreak of swine flu that was first detected in Mexico was declared a global epidemic on June 11, 2009. It is the first worldwide epidemic " }, { type: "blank", blankId: 1 },
+    { type: "text", content: " by the World Health Organization in 41 years. The heightened alert " }, { type: "blank", blankId: 2 },
+    { type: "text", content: " an emergency meeting with flu experts in Geneva that assembled after a sharp rise in cases in Australia, and rising " }, { type: "blank", blankId: 3 },
+    { type: "text", content: " in Britain, Japan, Chile and elsewhere. But the epidemic is ‘" }, { type: "blank", blankId: 4 },
+    { type: "text", content: "’ in severity, according to Margaret Chan, the organization’s director general, " }, { type: "blank", blankId: 5 },
+    { type: "text", content: " the overwhelming majority of patients experiencing only mild symptoms and a full recovery, often in the " }, { type: "blank", blankId: 6 },
+    { type: "text", content: " of any medical treatment. The outbreak came to global " }, { type: "blank", blankId: 7 },
+    { type: "text", content: " in late April 2009, when Mexican authorities noted an unusually large number of hospitalizations and deaths " }, { type: "blank", blankId: 8 },
+    { type: "text", content: " healthy adults. As much of Mexico City shut down at the height of a panic, cases began to " }, { type: "blank", blankId: 9 },
+    { type: "text", content: " in New York City, the southwestern United States and around the world. In the United States, new cases seemed to fade " }, { type: "blank", blankId: 10 },
+    { type: "text", content: " warmer weather arrived. But in late September 2009, officials reported there was " }, { type: "blank", blankId: 11 },
+    { type: "text", content: " flu activity in almost every state and that virtually all the " }, { type: "blank", blankId: 12 },
+    { type: "text", content: " tested are the new swine flu. In the U.S., it has " }, { type: "blank", blankId: 13 },
+    { type: "text", content: " more than one million people, and caused more than 600 deaths and more than 6,000 hospitalizations. Federal health officials " }, { type: "blank", blankId: 14 },
+    { type: "text", content: " Tamiflu for children from the national stockpile and began " }, { type: "blank", blankId: 15 },
+    { type: "text", content: " orders from the states for the new swine flu vaccine. The new vaccine is " }, { type: "blank", blankId: 16 },
+    { type: "text", content: " ahead of expectations. More than three million doses were to be made available in early October 2009, though most of those " }, { type: "blank", blankId: 17 },
+    { type: "text", content: " doses were of the FluMist nasal spray type, which is not " }, { type: "blank", blankId: 18 },
+    { type: "text", content: " for pregnant women, people over 50 or those with breathing difficulties, heart disease or several other " }, { type: "blank", blankId: 19 },
+    { type: "text", content: ". But it was still possible to vaccinate people in other high-risk groups: health care workers, people " }, { type: "blank", blankId: 20 },
+    { type: "text", content: " infants and healthy young people." }
+  ],
+  blanks: englishTwo2010ClozeChoices.map(([options, answer], index) => ({
+    id: index + 1,
+    options,
+    answer,
+    type: index === 2 || index === 10 || index === 11 ? "词义辨析" : "固定搭配",
+    explanation: "提交后核对正确选项，并回到上下文判断搭配和语义。",
+    commonMistake: "只看单个选项词义，忽略句子搭配和上下文逻辑。",
+  })),
+};
+
 export const englishIIClozeItems = englishOneCloze
   .filter((item) => unifiedYears.has(item.year))
-  .map((item) => asUnifiedExam(item, "cloze"));
+  .map((item) => asUnifiedExam(item, "cloze"))
+  .concat([englishTwo2010Cloze]);
 
 export const englishIITranslationItems = englishOneTranslations
   .filter((item) => unifiedYears.has(item.year))
