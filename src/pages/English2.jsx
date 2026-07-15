@@ -81,7 +81,7 @@ export default function English2() {
                   {count ? `已有 ${count} 条` : "待补充"}
                 </span>
                 {module.key === "reading" && count > 0 && (
-                  <Link to="/reading" className="text-sm font-semibold text-blue-600 hover:text-blue-700">
+                  <Link to="/english2/reading" className="text-sm font-semibold text-blue-600 hover:text-blue-700">
                     开始训练
                   </Link>
                 )}

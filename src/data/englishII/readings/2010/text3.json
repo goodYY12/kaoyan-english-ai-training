@@ -1,0 +1,19 @@
+{
+  "id": "2010-english2-text3",
+  "year": 2010,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "Manufactured Habits",
+  "topic": "消费习惯与广告",
+  "topicKeywords": ["habits", "advertising", "consumers", "products"],
+  "passage": "Over the past decade, many companies had perfected the art of creating automatic behaviors—habits—among consumers. These habits have helped companies earn billions of dollars when customers eat snacks, apply lotions and wipe counters almost without thinking, often in response to a carefully designed set of daily cues. Dr. Curtis said that public-health problems such as hand washing with soap remain killers because people cannot figure out how to change habits. He wanted to learn from private industry how to create new automatic behaviors.\n\nProcter & Gamble, Colgate-Palmolive and Unilever had invested hundreds of millions of dollars finding subtle cues in consumers’ lives that corporations could use to introduce new routines. Chewing gums, skin moisturizers, disinfecting wipes, air fresheners, water purifiers, health snacks, antiperspirants, colognes, teeth whiteners, fabric softeners and vitamins are results of manufactured habits.\n\nA century ago few people regularly brushed their teeth multiple times a day. Today, because of canny advertising and public-health campaigns, many Americans do so twice a day. Bottled water, chewing gum and skin moisturizers have likewise been attached to daily routines through advertising. Carol Berning of Procter & Gamble said products succeed when they become part of daily or weekly patterns. Social scientists have learned that there is power in tying behavior to habitual cues through relentless advertising; controversies arise when such tactics sell questionable beauty creams or unhealthy foods.",
+  "questions": [
+    {"id":"2010-english2-text3-q31","questionNumber":31,"questionText":"According to Dr. Curtis, habits like hand washing with soap ________.","options":{"A":"should be further cultivated","B":"should be changed gradually","C":"are deeply rooted in history","D":"are basically private concerns"},"answer":"A","type":"细节题","location":"P1","explanation":"Dr. Curtis 认为洗手等有益习惯需要被培养成自动行为。","commonMistake":"把‘改变习惯’误读成要改变洗手这一好习惯。"},
+    {"id":"2010-english2-text3-q32","questionNumber":32,"questionText":"Bottled water, chewing gum and skin moisturizers are mentioned so as to ____.","options":{"A":"reveal their impact on people's habits","B":"show the urgent need of daily necessities","C":"indicate their effect on people's buying power","D":"manifest the significant role of good habits"},"answer":"A","type":"例证题","location":"P3","explanation":"这些例子用来说明广告如何把产品嵌入消费者的习惯。","commonMistake":"把例子中的产品功能当作作者举例目的。"},
+    {"id":"2010-english2-text3-q33","questionNumber":33,"questionText":"Which of the following does NOT belong to products that help create people's habits?","options":{"A":"Tide","B":"Crest","C":"Colgate","D":"Unilever"},"answer":"D","type":"细节题","location":"P2-P3","explanation":"Unilever 是公司而非产品；其余均为产品或品牌。","commonMistake":"没有区分企业名称与具体产品。"},
+    {"id":"2010-english2-text3-q34","questionNumber":34,"questionText":"From the text we know that some consumers' habits are developed due to _____.","options":{"A":"perfected art of products","B":"automatic behavior creation","C":"commercial promotions","D":"scientific experiments"},"answer":"C","type":"推理题","location":"P3","explanation":"文中多次强调 advertising 和 commercial viability，说明商业推广是直接推动因素。","commonMistake":"照抄文首的抽象表达，而没有选择最具体的因果。"},
+    {"id":"2010-english2-text3-q35","questionNumber":35,"questionText":"The author's attitude toward the influence of advertisement on people's habits is _____.","options":{"A":"indifferent","B":"negative","C":"positive","D":"biased"},"answer":"B","type":"态度题","location":"P3","explanation":"结尾指出广告策略可能推销有问题的美容品或不健康食品，整体态度带有批评。","commonMistake":"只看到广告提升销售的一面，忽略末句转折。"}
+  ]
+}

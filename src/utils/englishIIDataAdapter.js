@@ -1,4 +1,4 @@
-import readingData from "../data/englishII/readingData.json" with { type: "json" };
+import readingData from "../data/englishII/readingData.js";
 import vocabulary from "../data/englishII/vocabulary.json" with { type: "json" };
 import clozeData from "../data/englishII/clozeData.json" with { type: "json" };
 import translationItems from "../data/englishII/translationItems.json" with { type: "json" };
@@ -44,6 +44,10 @@ export function getEnglishIIReadings() {
     );
     return normalized;
   });
+}
+
+export function getEnglishIIReadingsByYear(year) {
+  return getEnglishIIReadings().filter((reading) => Number(reading.year) === Number(year));
 }
 
 export function getEnglishIIYears() {
