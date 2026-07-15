@@ -52,9 +52,15 @@ export default function Dashboard() {
         <div className="grid gap-8 lg:grid-cols-[1.4fr_0.8fr] lg:items-end">
           <div>
             <p className="text-sm font-semibold tracking-[0.18em] text-blue-100">
+              考研英语 AI 提分训练平台
+            </p>
+            <p className="hidden text-sm font-semibold tracking-[0.18em] text-blue-100">
               考研英一 AI 提分训练平台
             </p>
             <h1 className="mt-5 max-w-3xl text-3xl font-bold leading-tight tracking-tight sm:text-5xl">
+              不只是刷真题，而是训练出题人思维。
+            </h1>
+            <h1 className="hidden mt-5 max-w-3xl text-3xl font-bold leading-tight tracking-tight sm:text-5xl">
               不只是刷真题，
               <br />
               而是训练出题人思维。
