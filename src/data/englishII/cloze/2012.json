@@ -1,0 +1,533 @@
+{
+  "id": "2012-english2-cloze",
+  "year": 2012,
+  "paper": "英语二",
+  "title": "完形填空",
+  "sourceType": "真题",
+  "estimatedTime": 15,
+  "focusPoints": [
+    "词义辨析",
+    "固定搭配",
+    "上下文逻辑",
+    "语篇衔接"
+  ],
+  "passageParts": [
+    {
+      "type": "text",
+      "content": "Millions of Americans and foreigners see G.I. Joe as a mindless war toy, the symbol of American military adventurism, but that’s not how it used to be. To the men and women who\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 1
+    },
+    {
+      "type": "text",
+      "content": " ​\nin World War II and the people they liberated, the G.I. was the\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 2
+    },
+    {
+      "type": "text",
+      "content": " ​\nman grown into hero, the poor farm kid torn away from his home, the guy who\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 3
+    },
+    {
+      "type": "text",
+      "content": " ​\nall the burdens of battle, who slept in cold foxholes, who went without the\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 4
+    },
+    {
+      "type": "text",
+      "content": " ​\nof food and shelter, who stuck it out and drove back the Nazi reign of murder. This was not a volunteer soldier, not someone well paid,\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 5
+    },
+    {
+      "type": "text",
+      "content": " ​\nan average guy, up\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 6
+    },
+    {
+      "type": "text",
+      "content": " ​\nthe best trained, best equipped, fiercest, most brutal enemies in centuries.\n His name isn’t much. G.I. is just a military abbreviation\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 7
+    },
+    {
+      "type": "text",
+      "content": " ​\nGovernment Issue, and it was on all of the articles\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 8
+    },
+    {
+      "type": "text",
+      "content": " ​\nto soldiers. And Joe? A common name for a guy who never\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 9
+    },
+    {
+      "type": "text",
+      "content": " ​\nit to the top. Joe Blow, Joe Palooka, Joe Magrac…a working class name. The United States has\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 10
+    },
+    {
+      "type": "text",
+      "content": " ​\nhad a president or vice-president or secretary of state Joe.\n G.I. Joe had a\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 11
+    },
+    {
+      "type": "text",
+      "content": " ​\ncareer fighting German, Japanese, and Korean troops. He appears as a character, or a\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 12
+    },
+    {
+      "type": "text",
+      "content": " ​\nof American personalities, in the 1945 movie The Story of G.I. Joe, based on the last days of war correspondent Ernie Pyle. Some of the soldiers Pyle\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 13
+    },
+    {
+      "type": "text",
+      "content": " ​\nportrayed themselves in the film. Pyle was famous for covering the\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 14
+    },
+    {
+      "type": "text",
+      "content": " ​\nside of the war, writing about the dirt-snow-and-mud soldiers, not how many miles were\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 15
+    },
+    {
+      "type": "text",
+      "content": " ​\nor what towns were captured or liberated. His reports\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 16
+    },
+    {
+      "type": "text",
+      "content": " ​\nthe “Willie” cartoons of famed Stars and Stripes artist Bill Mauldin. Both men\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 17
+    },
+    {
+      "type": "text",
+      "content": " ​\nthe dirt and exhaustion of war, the\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 18
+    },
+    {
+      "type": "text",
+      "content": " ​\nof civilization that the soldiers shared with each other and the civilians: coffee, tobacco, whiskey, shelter, sleep.\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 19
+    },
+    {
+      "type": "text",
+      "content": " ​\nEgypt, France, and a dozen more countries, G.I. Joe was any American soldier,\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 20
+    },
+    {
+      "type": "text",
+      "content": " ​\nthe most important person in their lives."
+    }
+  ],
+  "blanks": [
+    {
+      "id": 1,
+      "options": {
+        "A": "served",
+        "B": "performed",
+        "C": "rebelled",
+        "D": "betrayed"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 2,
+      "options": {
+        "A": "actual",
+        "B": "common",
+        "C": "special",
+        "D": "normal"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 3,
+      "options": {
+        "A": "loaded",
+        "B": "eased",
+        "C": "removed",
+        "D": "bore"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 4,
+      "options": {
+        "A": "necessities",
+        "B": "facilities",
+        "C": "commodities",
+        "D": "properties"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 5,
+      "options": {
+        "A": "and",
+        "B": "nor",
+        "C": "but",
+        "D": "hence"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 6,
+      "options": {
+        "A": "for",
+        "B": "into",
+        "C": "from",
+        "D": "against"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 7,
+      "options": {
+        "A": "implying",
+        "B": "meaning",
+        "C": "symbolizing",
+        "D": "claiming"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 8,
+      "options": {
+        "A": "handed out",
+        "B": "turn over",
+        "C": "brought back",
+        "D": "passed down"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 9,
+      "options": {
+        "A": "pushed",
+        "B": "got",
+        "C": "made",
+        "D": "managed"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 10,
+      "options": {
+        "A": "ever",
+        "B": "never",
+        "C": "either",
+        "D": "neither"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 11,
+      "options": {
+        "A": "disguised",
+        "B": "disturbed",
+        "C": "disputed",
+        "D": "distinguished"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 12,
+      "options": {
+        "A": "company",
+        "B": "community",
+        "C": "collection",
+        "D": "colony"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 13,
+      "options": {
+        "A": "employed",
+        "B": "appointed",
+        "C": "interviewed",
+        "D": "questioned"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 14,
+      "options": {
+        "A": "human",
+        "B": "military",
+        "C": "political",
+        "D": "ethical"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 15,
+      "options": {
+        "A": "ruined",
+        "B": "commuted",
+        "C": "patrolled",
+        "D": "gained"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 16,
+      "options": {
+        "A": "paralleled",
+        "B": "counteracted",
+        "C": "duplicated",
+        "D": "contradicted"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 17,
+      "options": {
+        "A": "neglected",
+        "B": "emphasized",
+        "C": "avoided",
+        "D": "admired"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 18,
+      "options": {
+        "A": "stages",
+        "B": "illusions",
+        "C": "fragments",
+        "D": "advances"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 19,
+      "options": {
+        "A": "With",
+        "B": "To",
+        "C": "Among",
+        "D": "Beyond"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 20,
+      "options": {
+        "A": "on the contrary",
+        "B": "by this means",
+        "C": "from the outset",
+        "D": "at that point"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    }
+  ],
+  "discourseAnalysis": {
+    "mainIdea": "待补充",
+    "structure": [],
+    "logicSignals": []
+  },
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": [],
+    "phrases": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；学习解析待补充。"
+}

@@ -1,0 +1,533 @@
+{
+  "id": "2015-english2-cloze",
+  "year": 2015,
+  "paper": "英语二",
+  "title": "完形填空",
+  "sourceType": "真题",
+  "estimatedTime": 15,
+  "focusPoints": [
+    "词义辨析",
+    "固定搭配",
+    "上下文逻辑",
+    "语篇衔接"
+  ],
+  "passageParts": [
+    {
+      "type": "text",
+      "content": "In our contemporary culture,the prospect of communicating with- or even looking at-a stranger is virtually unbearable. Everyone around us seems to agree by the way they fiddle with their phones,even without a\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 1
+    },
+    {
+      "type": "text",
+      "content": " ​\nunderground.\n It's a sad reality - our desire to avoid interacting with other human beings - because there's\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 2
+    },
+    {
+      "type": "text",
+      "content": " ​\nto be gained from talking to the stranger standing by you. But you wouldn't know it,\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 3
+    },
+    {
+      "type": "text",
+      "content": " ​\ninto your phone.This universal armor sends the\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 4
+    },
+    {
+      "type": "text",
+      "content": " ​:\"Please don't approach me.\"\n What is it that makes us feel we need to hide\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 5
+    },
+    {
+      "type": "text",
+      "content": " ​\nour screens?\n One answer is fear,according to Jon Wortmann, executive mental coach. We fear rejection, or that our innocent social advances will be\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 6
+    },
+    {
+      "type": "text",
+      "content": " ​\nas \"creepy,\".We fear we'11 be\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 7
+    },
+    {
+      "type": "text",
+      "content": " ​.We fear we'11 be disruptive. Strangers are inherently\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 8
+    },
+    {
+      "type": "text",
+      "content": " ​\nto us, so we are more likely to feel\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 9
+    },
+    {
+      "type": "text",
+      "content": " ​\nwhen communicating with them compared with our friends and acquaintances.To avoid this anxiety, we\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 10
+    },
+    {
+      "type": "text",
+      "content": " ​\nto our phones. \"Phones become our security blanket,\"Wortmann says.\"They are our happy glasses that protect us from what we perceive is going to be more\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 11
+    },
+    {
+      "type": "text",
+      "content": " ​.\"\n But once we rip off the bandaid, tuck our smartphones in our pockets and look up, it doesn't\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 12
+    },
+    {
+      "type": "text",
+      "content": " ​\nso bad.In one 2011 experiment,behavioral scientists Nicholas Epley and Juliana Schroeder asked commuters to do the unthinkable: Start a\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 13
+    },
+    {
+      "type": "text",
+      "content": " ​.They had Chicago train commuters talk to their fellow\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 14
+    },
+    {
+      "type": "text",
+      "content": " ​.\"When Dr.Epley and Ms. Schroeder asked other people in the same train station to\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 15
+    },
+    {
+      "type": "text",
+      "content": " ​\nhow they would feel after talking to a stranger,the commuters thought their\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 16
+    },
+    {
+      "type": "text",
+      "content": " ​\nwould be more pleasant if they sat on their own,\" the New York Times summarizes. Though the participants didn't expect a positive experience,after they\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 17
+    },
+    {
+      "type": "text",
+      "content": " ​\nwith the experiment,\"not a single person reported having been snubbed.\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 18
+    },
+    {
+      "type": "text",
+      "content": ", these commutes were reportedly more enjoyable compared with those without communication, which makes absolute sense, "
+    },
+    {
+      "type": "blank",
+      "blankId": 19
+    },
+    {
+      "type": "text",
+      "content": " human beings thrive off of social connections. It's that "
+    },
+    {
+      "type": "blank",
+      "blankId": 20
+    },
+    {
+      "type": "text",
+      "content": ": Talking to strangers can make you feel connected."
+    }
+  ],
+  "blanks": [
+    {
+      "id": 1,
+      "options": {
+        "A": "signal",
+        "B": "permit",
+        "C": "ticket",
+        "D": "record"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 2,
+      "options": {
+        "A": "nothing",
+        "B": "little",
+        "C": "another",
+        "D": "much"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 3,
+      "options": {
+        "A": "beaten",
+        "B": "plugged",
+        "C": "guided",
+        "D": "brought"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 4,
+      "options": {
+        "A": "message",
+        "B": "cede",
+        "C": "notice",
+        "D": "sign"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 5,
+      "options": {
+        "A": "under",
+        "B": "beyond",
+        "C": "behind",
+        "D": "from"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 6,
+      "options": {
+        "A": "misapplied",
+        "B": "misinterpret",
+        "C": "misadjusted",
+        "D": "mismatched"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 7,
+      "options": {
+        "A": "judged",
+        "B": "fired",
+        "C": "replaced",
+        "D": "delayed"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 8,
+      "options": {
+        "A": "unreasonable",
+        "B": "ungrateful",
+        "C": "unconventional",
+        "D": "unfamiliar"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 9,
+      "options": {
+        "A": "comfortable",
+        "B": "confident",
+        "C": "anxious",
+        "D": "angry"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 10,
+      "options": {
+        "A": "attend",
+        "B": "turn",
+        "C": "take",
+        "D": "point"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 11,
+      "options": {
+        "A": "dangerous",
+        "B": "mysterious",
+        "C": "violent",
+        "D": "boring"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 12,
+      "options": {
+        "A": "bend",
+        "B": "resist",
+        "C": "hurt",
+        "D": "decay"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 13,
+      "options": {
+        "A": "lecture",
+        "B": "debate",
+        "C": "conversation",
+        "D": "negotiation"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 14,
+      "options": {
+        "A": "trainees",
+        "B": "employees",
+        "C": "researchers",
+        "D": "passengers"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 15,
+      "options": {
+        "A": "reveal",
+        "B": "choose",
+        "C": "predict",
+        "D": "design"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 16,
+      "options": {
+        "A": "voyage",
+        "B": "flight",
+        "C": "walk",
+        "D": "ride"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 17,
+      "options": {
+        "A": "went through",
+        "B": "did away",
+        "C": "caught up",
+        "D": "put up"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 18,
+      "options": {
+        "A": "In turn",
+        "B": "In fact",
+        "C": "In particular",
+        "D": "In consequence"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 19,
+      "options": {
+        "A": "unless",
+        "B": "whereas",
+        "C": "if",
+        "D": "since"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 20,
+      "options": {
+        "A": "funny",
+        "B": "simple",
+        "C": "logical",
+        "D": "rare"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    }
+  ],
+  "discourseAnalysis": {
+    "mainIdea": "待补充",
+    "structure": [],
+    "logicSignals": []
+  },
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": [],
+    "phrases": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；学习解析待补充。"
+}

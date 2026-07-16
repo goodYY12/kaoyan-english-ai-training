@@ -1,0 +1,533 @@
+{
+  "id": "2016-english2-cloze",
+  "year": 2016,
+  "paper": "英语二",
+  "title": "完形填空",
+  "sourceType": "真题",
+  "estimatedTime": 15,
+  "focusPoints": [
+    "词义辨析",
+    "固定搭配",
+    "上下文逻辑",
+    "语篇衔接"
+  ],
+  "passageParts": [
+    {
+      "type": "text",
+      "content": "Happy people work differently. They’re more productive, more creative, and willing to take greater risks. And new research suggests that happiness might influence\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 1
+    },
+    {
+      "type": "text",
+      "content": " ​\nfirms work, too. Companies located in places with happier people invest more, according to a recent research paper.\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 2
+    },
+    {
+      "type": "text",
+      "content": " ​, firms in happy places spend more on R&D (research and development). That’s because happiness is linked to the kind of longer-term thinking\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 3
+    },
+    {
+      "type": "text",
+      "content": " ​\nfor making investments for the future. The researchers wanted to know if the\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 4
+    },
+    {
+      "type": "text",
+      "content": " ​\nand inclination for risk-taking that come with happiness would\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 5
+    },
+    {
+      "type": "text",
+      "content": " ​\nthe way companies invested. So they compared U.S. cities’ average happiness\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 6
+    },
+    {
+      "type": "text",
+      "content": " ​\nby Gallup polling with the investment activity of publicly traded firms in those areas.\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 7
+    },
+    {
+      "type": "text",
+      "content": " ​\nenough, firms’ investment and R&D intensity were correlated with the happiness of the area in which they were\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 8
+    },
+    {
+      "type": "text",
+      "content": " ​. But is it really happiness that’s linked to investment, or could something else about happier cities\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 9
+    },
+    {
+      "type": "text",
+      "content": " ​\nwhy firms there spend more on R&D? To find out, the researchers controlled for various\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 10
+    },
+    {
+      "type": "text",
+      "content": " ​\nthat might make firms more likely to invest—like size, industry, and sales—and for indicators that a place was\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 11
+    },
+    {
+      "type": "text",
+      "content": " ​\nto live in, like growth in wages or population. The link between happiness and investment generally\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 12
+    },
+    {
+      "type": "text",
+      "content": " ​\neven after accounting for these things. The correlation between happiness and investment was particularly strong for younger firms, which the authors\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 13
+    },
+    {
+      "type": "text",
+      "content": " ​\nto “less codified decision making process” and the possible presence of “younger and less\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 14
+    },
+    {
+      "type": "text",
+      "content": " ​\nmanagers who are more likely to be influenced by sentiment.” The relationship was\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 15
+    },
+    {
+      "type": "text",
+      "content": " ​\nstronger in places where happiness was spread more\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 16
+    },
+    {
+      "type": "text",
+      "content": " ​. Firms seem to invest more in places where most people are relatively happy, rather than in places with happiness inequality.\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 17
+    },
+    {
+      "type": "text",
+      "content": " ​\nthis doesn’t prove that happiness causes firms to invest more or to take a longer-term view, the authors believe it at least\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 18
+    },
+    {
+      "type": "text",
+      "content": " ​\nat that possibility. It’s not hard to imagine that local culture and sentiment would help\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 19
+    },
+    {
+      "type": "text",
+      "content": " ​\nhow executives think about the future. “It surely seems plausible that happy people would be more forward-thinking and creative and\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 20
+    },
+    {
+      "type": "text",
+      "content": " ​\nR&D more than the average,” said one researcher."
+    }
+  ],
+  "blanks": [
+    {
+      "id": 1,
+      "options": {
+        "A": "why",
+        "B": "how",
+        "C": "where",
+        "D": "when"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 2,
+      "options": {
+        "A": "In return",
+        "B": "In particular",
+        "C": "In contrast",
+        "D": "In conclusion"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 3,
+      "options": {
+        "A": "necessary",
+        "B": "famous",
+        "C": "perfect",
+        "D": "sufficient"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 4,
+      "options": {
+        "A": "individualism",
+        "B": "realism",
+        "C": "optimism",
+        "D": "modernism"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 5,
+      "options": {
+        "A": "miss",
+        "B": "echo",
+        "C": "spoil",
+        "D": "change"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 6,
+      "options": {
+        "A": "imagined",
+        "B": "measured",
+        "C": "invented",
+        "D": "assumed"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 7,
+      "options": {
+        "A": "Sure",
+        "B": "Odd",
+        "C": "Unfortunate",
+        "D": "Often"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 8,
+      "options": {
+        "A": "divided",
+        "B": "advertised",
+        "C": "overtaxed",
+        "D": "headquartered"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 9,
+      "options": {
+        "A": "summarize",
+        "B": "overstate",
+        "C": "explain",
+        "D": "emphasize"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 10,
+      "options": {
+        "A": "factors",
+        "B": "stages",
+        "C": "levels",
+        "D": "methods"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 11,
+      "options": {
+        "A": "desirable",
+        "B": "sociable",
+        "C": "reliable",
+        "D": "reputable"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 12,
+      "options": {
+        "A": "resumed",
+        "B": "emerged",
+        "C": "held",
+        "D": "broke"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 13,
+      "options": {
+        "A": "assign",
+        "B": "attribute",
+        "C": "transfer",
+        "D": "compare"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 14,
+      "options": {
+        "A": "serious",
+        "B": "civilized",
+        "C": "ambitious",
+        "D": "experienced"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 15,
+      "options": {
+        "A": "instead",
+        "B": "thus",
+        "C": "also",
+        "D": "never"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 16,
+      "options": {
+        "A": "rapidly",
+        "B": "directly",
+        "C": "regularly",
+        "D": "equally"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 17,
+      "options": {
+        "A": "While",
+        "B": "Until",
+        "C": "After",
+        "D": "Since"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 18,
+      "options": {
+        "A": "arrives",
+        "B": "jumps",
+        "C": "hints",
+        "D": "strikes"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 19,
+      "options": {
+        "A": "share",
+        "B": "rediscover",
+        "C": "simplify",
+        "D": "shape"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 20,
+      "options": {
+        "A": "pray for",
+        "B": "lean towards",
+        "C": "send out",
+        "D": "give away"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    }
+  ],
+  "discourseAnalysis": {
+    "mainIdea": "待补充",
+    "structure": [],
+    "logicSignals": []
+  },
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": [],
+    "phrases": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；学习解析待补充。"
+}

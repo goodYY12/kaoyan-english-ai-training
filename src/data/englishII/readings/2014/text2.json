@@ -1,0 +1,92 @@
+{
+  "id": "2014-english2-text2",
+  "year": 2014,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "阅读文章",
+  "passage": "An article in Scientific American has pointed out that empirical research says\nthat, actually, you think you’re more beautiful than you are. We have a deep-\nseated need to feel good about ourselves and we naturally employ a number of\nself-enhancing strategies to achieve this. Social psychologists have amassed\noceans of research into what they call the “above average effect”, or “illusory\nsuperiority”, and shown that, for example, 70% of us rate ourselves as above\naverage in leadership, 93% in driving and 85% at getting on well with others—all\nobviously statistical impossibilities.\n We rose-tint our memories and put ourselves into self-affirming situations.\nWe become defensive when criticized, and apply negative stereotypes to others to\nboost our own esteem. We stalk around thinking we’re hot stuff.\n Psychologist and behavioral scientist Nicholas Epley oversaw a key study\ninto self-enhancement and attractiveness. Rather than have people simply\nrate their beauty compared with others, he asked them to identify an original\nphotograph of themselves from a lineup including versions that had been altered\nto appear more or less attractive. Visual recognition, reads the study, is “an\nautomatic psychological process occurring rapidly and intuitively with little or no\napparent conscious deliberation”. If the subjects quickly chose a falsely flattering\nimage—which most did—they genuinely believed it was really how they looked.\n Epley found no significant gender difference in responses. Nor was there\nany evidence that, those who self-enhance the most (that is, the participants who\nthought the most positively doctored pictures were real) were doing so to make\nup for profound insecurities. In fact, those who thought that the images higher up\nthe attractiveness scale were real directly corresponded with those who showed\nother markers for having higher self-esteem. “I don’t think the findings that we\nhave are any evidence of personal delusion,” says Epley. “It’s a reflection simply\nof people generally thinking well of themselves.” If you are depressed, you won’t\nbe self-enhancing.\n Knowing the results of Epley’s study, it makes sense that many people hate\nphotographs of themselves so viscerally—on one level, they don’t even recognise\nthe person in the picture as themselves. Facebook, therefore, is a self-enhancer’s\nparadise, where people can share only the most flattering photos, the cream\nof their wit, style, beauty, intellect and lifestyle. It’s not that people’s profiles\nare dishonest, says Catalina Toma of Wisconsin-Madison University, “but they\nportray an idealized version of themselves.”",
+  "questions": [
+    {
+      "id": "2014-english2-text2-q26",
+      "questionNumber": 26,
+      "questionText": "According to the first paragraph, social psychologist have found that",
+      "options": {
+        "A": "our self-ratings are unrealistically high",
+        "B": "i1lusory superiority is baseless effect",
+        "C": "our need for leadership is unnatural",
+        "D": "self-enhancing strategies are ineffective"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2014-english2-text2-q27",
+      "questionNumber": 27,
+      "questionText": "Visual recognition is believed to be people's",
+      "options": {
+        "A": "rapid watching",
+        "B": "conscious choice",
+        "C": "intuitive response",
+        "D": "automatic self-defence"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2014-english2-text2-q28",
+      "questionNumber": 28,
+      "questionText": "Epley found that people with higher self-esteem tended to",
+      "options": {
+        "A": "underestimate their insecurities",
+        "B": "believe in their attractiveness",
+        "C": "cover up their depressions",
+        "D": "oversimplify their illusions"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2014-english2-text2-q29",
+      "questionNumber": 29,
+      "questionText": "The word\"Viscerally\"(Line 2,para.5) is closest in meaning to",
+      "options": {
+        "A": "instinctively",
+        "B": "occasionally",
+        "C": "particularly",
+        "D": "aggressively"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2014-english2-text2-q30",
+      "questionNumber": 30,
+      "questionText": "It can be inferred that Facebook is selfenhancer's paradise because people can",
+      "options": {
+        "A": "present their dishonest profiles",
+        "B": "define their traditional life sty les",
+        "C": "share their intellectual pursuits",
+        "D": "withhold their unflattering sides"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}

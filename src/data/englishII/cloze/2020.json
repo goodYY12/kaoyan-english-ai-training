@@ -1,0 +1,533 @@
+{
+  "id": "2020-english2-cloze",
+  "year": 2020,
+  "paper": "英语二",
+  "title": "完形填空",
+  "sourceType": "真题",
+  "estimatedTime": 15,
+  "focusPoints": [
+    "词义辨析",
+    "固定搭配",
+    "上下文逻辑",
+    "语篇衔接"
+  ],
+  "passageParts": [
+    {
+      "type": "text",
+      "content": "Being a good parent is what every parent would like to be. But defining what it means to be a good parent is undoubtedly very\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 1
+    },
+    {
+      "type": "text",
+      "content": " ​, particularly since children respond differently to the same style. of parenting. A calm, rule-following child might respond better to a different sort of parenting than,\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 2
+    },
+    {
+      "type": "text",
+      "content": " ​, a younger one.\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 3
+    },
+    {
+      "type": "text",
+      "content": " ​, there's another sort of parent that's easier to\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 4
+    },
+    {
+      "type": "text",
+      "content": " ​: a parent. Children of every age benefit from patient parenting. Still,\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 5
+    },
+    {
+      "type": "text",
+      "content": " ​, every parent would like to be patient, this is no easy\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 6
+    },
+    {
+      "type": "text",
+      "content": " ​, sometimes, parents get exhausted and are unable to maintain a\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 7
+    },
+    {
+      "type": "text",
+      "content": " ​\nstyle with their kids. I understand this.\n You're only human, and sometimes your kids can\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 8
+    },
+    {
+      "type": "text",
+      "content": " ​\nyou just a little too far. And then the\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 9
+    },
+    {
+      "type": "text",
+      "content": " ​\nhappens: You lose your patience and either scream at your kids or say something that was too\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 10
+    },
+    {
+      "type": "text",
+      "content": " ​\nand does nobody any good.:You wish that you could\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 11
+    },
+    {
+      "type": "text",
+      "content": " ​\nthe clock and start over. We've all been there.\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 12
+    },
+    {
+      "type": "text",
+      "content": " ​, even though it's common, its vital to keep in mind that in a single moment of fatigue, you can say something to your child that you may\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 13
+    },
+    {
+      "type": "text",
+      "content": " ​\nfor a long time, This may not only do damage to your relationship with your child but also\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 14
+    },
+    {
+      "type": "text",
+      "content": " ​\nyour child's self-esteem.\n If you consistently lose your\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 15
+    },
+    {
+      "type": "text",
+      "content": " ​\nwith your kids, then you are modeling a lack of emotional control for your kids. We are all becoming increasingly aware of the\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 16
+    },
+    {
+      "type": "text",
+      "content": " ​\nof modeling patience for the younger generation. This is a skill that will help them all throughout life. In fact, the ability to maintain emotional control when\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 17
+    },
+    {
+      "type": "text",
+      "content": " ​\nby stress is one of the most significant of all life's skills.\n Certainly, it's\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 18
+    },
+    {
+      "type": "text",
+      "content": " ​\nto maintain patience at all times with your kids, A more practical goal is to try to be as calm as you can when faced with\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 19
+    },
+    {
+      "type": "text",
+      "content": " ​\nsituations involving your children. I can promise you this: As a result of working toward this goal, you and your children will benefit and,\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 20
+    },
+    {
+      "type": "text",
+      "content": " ​\nfrom stressful moments fling better physically and emotionally."
+    }
+  ],
+  "blanks": [
+    {
+      "id": 1,
+      "options": {
+        "A": "tedious",
+        "B": "pleasant",
+        "C": "instructive",
+        "D": "tricky"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 2,
+      "options": {
+        "A": "in addition",
+        "B": "for example",
+        "C": "at once",
+        "D": "by accident"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 3,
+      "options": {
+        "A": "Fortunately",
+        "B": "Occasionally",
+        "C": "Accordingly",
+        "D": "Eventually"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 4,
+      "options": {
+        "A": "amuse",
+        "B": "assist",
+        "C": "describe",
+        "D": "train"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 5,
+      "options": {
+        "A": "while",
+        "B": "because",
+        "C": "unless",
+        "D": "once"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 6,
+      "options": {
+        "A": "answer",
+        "B": "task",
+        "C": "choice",
+        "D": "access"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 7,
+      "options": {
+        "A": "tolerant",
+        "B": "formal",
+        "C": "rigid",
+        "D": "critical"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 8,
+      "options": {
+        "A": "move",
+        "B": "drag",
+        "C": "push",
+        "D": "send"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 9,
+      "options": {
+        "A": "mysterious",
+        "B": "illogical",
+        "C": "suspicious",
+        "D": "inevitable"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 10,
+      "options": {
+        "A": "boring",
+        "B": "naive",
+        "C": "harsh",
+        "D": "vague"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 11,
+      "options": {
+        "A": "turn back",
+        "B": "take apart",
+        "C": "set aside",
+        "D": "cover up"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 12,
+      "options": {
+        "A": "Overall",
+        "B": "Instead",
+        "C": "However",
+        "D": "Otherwise"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 13,
+      "options": {
+        "A": "like",
+        "B": "miss",
+        "C": "believe",
+        "D": "regret"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 14,
+      "options": {
+        "A": "raise",
+        "B": "affect",
+        "C": "justify",
+        "D": "reflect"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 15,
+      "options": {
+        "A": "time",
+        "B": "bond",
+        "C": "race",
+        "D": "cool"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 16,
+      "options": {
+        "A": "nature",
+        "B": "secret",
+        "C": "importance",
+        "D": "context"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 17,
+      "options": {
+        "A": "cheated",
+        "B": "defeated",
+        "C": "confused",
+        "D": "confronted"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 18,
+      "options": {
+        "A": "terrible",
+        "B": "hard",
+        "C": "strange",
+        "D": "wrong"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 19,
+      "options": {
+        "A": "trying",
+        "B": "changing",
+        "C": "exciting",
+        "D": "surprising"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 20,
+      "options": {
+        "A": "hide",
+        "B": "emerge",
+        "C": "withdraw",
+        "D": "escape"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    }
+  ],
+  "discourseAnalysis": {
+    "mainIdea": "待补充",
+    "structure": [],
+    "logicSignals": []
+  },
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": [],
+    "phrases": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；学习解析待补充。"
+}

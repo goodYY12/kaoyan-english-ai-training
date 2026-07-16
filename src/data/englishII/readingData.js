@@ -1,4 +1,4 @@
-const readingModules = import.meta.glob("./readings/{2010,2015,2016,2017,2018,2019,2020}/text*.json", {
+const readingModules = import.meta.glob("./readings/{2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020}/text*.json", {
   eager: true,
   import: "default",
 });

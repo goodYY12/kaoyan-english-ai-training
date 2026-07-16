@@ -1,0 +1,18 @@
+{
+  "id": "2012-english2-translation",
+  "year": 2012,
+  "paper": "英语二",
+  "sourceType": "真题",
+  "sourceNote": "翻译原文和参考译文已根据公开真题页面核验。",
+  "items": [
+    {
+      "id": "2012-english2-translation-46",
+      "sourceText": "When people in developing countries worry about migration, they are usually concerned at the prospect of their best and brightest departure to Silicon Valley or to hospitals and universities in the developed world. These are the kind of workers that countries like Britain, Canada and Australia try to attract by using immigration rules that privilege college graduates.\n Lots of studies have found that well-educated people from developing countries are particularly likely to emigrate. A big survey of Indian households in 2004 found that nearly 40% of emigrants had more than a high-school education, compared with around 3.3% of all Indians over the age 25. This “brain drain” has long bothered policymakers in poor countries. They fear that it hurts their economies, depriving them of much-needed skilled workers who could have taught at their universities, worked in their hospitals and come up with clever new products for their factories to make.",
+      "referenceTranslation": "发展中国家民众担忧移民问题时，通常忧虑的是本国精英流向硅谷或发达国家的医院与大学。这类人才正是英国、加拿大、澳大利亚等国试图通过优待高校毕业生的移民政策来吸引的对象。",
+      "keyPoints": [],
+      "phrases": [],
+      "sentenceAnalysis": [],
+      "commonMistakes": []
+    }
+  ]
+}

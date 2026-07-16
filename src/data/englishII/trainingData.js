@@ -2,6 +2,23 @@ import englishOneCloze from "../cloze/clozeData.json" with { type: "json" };
 import englishOneTranslations from "../translationItems.json" with { type: "json" };
 import englishOneWriting from "../writingTemplates.json" with { type: "json" };
 
+const importedClozeModules = import.meta.glob("./cloze/{2011,2012,2013,2014,2015,2016,2017,2018,2019,2020}.json", {
+  eager: true,
+  import: "default",
+});
+const importedTranslationModules = import.meta.glob("./translation/{2011,2012,2013,2014,2015,2016,2017,2018,2019,2020}.json", {
+  eager: true,
+  import: "default",
+});
+const importedWritingModules = import.meta.glob("./writing/{2011,2012,2013,2014,2015,2016,2017,2018,2019,2020}.json", {
+  eager: true,
+  import: "default",
+});
+
+const importedEnglishIICloze = Object.values(importedClozeModules).sort((left, right) => right.year - left.year);
+const importedEnglishIITranslations = Object.values(importedTranslationModules).sort((left, right) => right.year - left.year);
+const importedEnglishIIWriting = Object.values(importedWritingModules).sort((left, right) => right.year - left.year);
+
 const unifiedYears = new Set([2007, 2008, 2009]);
 
 function asUnifiedExam(item, module) {
@@ -81,7 +98,7 @@ const englishTwo2010Cloze = {
 export const englishIIClozeItems = englishOneCloze
   .filter((item) => unifiedYears.has(item.year))
   .map((item) => asUnifiedExam(item, "cloze"))
-  .concat([englishTwo2010Cloze]);
+  .concat([englishTwo2010Cloze, ...importedEnglishIICloze]);
 
 export const englishIITranslationItems = englishOneTranslations
   .filter((item) => unifiedYears.has(item.year))
@@ -108,7 +125,7 @@ export const englishIITranslationItems = englishOneTranslations
         }
       ]
     }
-  ]);
+  ].concat(importedEnglishIITranslations));
 
 export const englishIIWritingItems = englishOneWriting
   .filter((item) => unifiedYears.has(item.year))
@@ -138,4 +155,4 @@ export const englishIIWritingItems = englishOneWriting
         sampleEssay: ""
       }
     }
-  ]);
+  ].concat(importedEnglishIIWriting));

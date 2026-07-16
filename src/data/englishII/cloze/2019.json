@@ -1,0 +1,533 @@
+{
+  "id": "2019-english2-cloze",
+  "year": 2019,
+  "paper": "英语二",
+  "title": "完形填空",
+  "sourceType": "真题",
+  "estimatedTime": 15,
+  "focusPoints": [
+    "词义辨析",
+    "固定搭配",
+    "上下文逻辑",
+    "语篇衔接"
+  ],
+  "passageParts": [
+    {
+      "type": "text",
+      "content": "Weighing yourself regularly is a wonderful way to stay aware of any significant weight fluctuations.\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 1
+    },
+    {
+      "type": "text",
+      "content": " ​, when done too often, this habit can sometimes hurt more than it\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 2
+    },
+    {
+      "type": "text",
+      "content": " ​.\n As for me, weighing myself every day caused me to shift my focus from being generally healthy and physically active to focusing\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 3
+    },
+    {
+      "type": "text",
+      "content": " ​\non the scale. That was bad to my overall fitness goals. I had gained weight in the form of muscle mass, but thinking only of\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 4
+    },
+    {
+      "type": "text",
+      "content": " ​\nthe number on the scale, I altered my training program. That conflicted with how I needed to train to\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 5
+    },
+    {
+      "type": "text",
+      "content": " ​\nmy goals.\n I also found weighing myself daily did not provide an accurate\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 6
+    },
+    {
+      "type": "text",
+      "content": " ​\nof the hard work and progress I was making in the gym. It takes about three weeks to a month to notice significant changes in weight\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 7
+    },
+    {
+      "type": "text",
+      "content": " ​\naltering your training program. The most\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 8
+    },
+    {
+      "type": "text",
+      "content": " ​\nchanges will be observed in skill level, strength and inches lost.\n For these\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 9
+    },
+    {
+      "type": "text",
+      "content": " ​, I stopped weighing myself every day and switched to a bimonthly weighing schedule\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 10
+    },
+    {
+      "type": "text",
+      "content": " ​. Since weight loss is not my goal, it is less important for me to\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 11
+    },
+    {
+      "type": "text",
+      "content": " ​\nmy weight each week. Weighing every other week allows me to observe and\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 12
+    },
+    {
+      "type": "text",
+      "content": " ​\nany significant weight changes. That tells me whether I need to\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 13
+    },
+    {
+      "type": "text",
+      "content": " ​\nmy training program.\n I also use my bimonthly weigh-in\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 14
+    },
+    {
+      "type": "text",
+      "content": " ​\nto get information about my nutrition as well. If my training intensity remains the same, but I'm constantly\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 15
+    },
+    {
+      "type": "text",
+      "content": " ​\nand dropping weight, this is a\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 16
+    },
+    {
+      "type": "text",
+      "content": " ​\nthat I need to increase my daily caloric intake.\n The\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 17
+    },
+    {
+      "type": "text",
+      "content": " ​\nto stop weighing myself every day has done wonders for my overall health, fitness and well-being. I am experiencing increased zeal for working out since I no longer carry the burden of a\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 18
+    },
+    {
+      "type": "text",
+      "content": " ​\nmorning weigh-in. I've also experienced greater success in achieving my specific fitness goals,\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 19
+    },
+    {
+      "type": "text",
+      "content": " ​\nI'm training according to those goals, instead of numbers on a scale.\n Rather than\n "
+    },
+    {
+      "type": "blank",
+      "blankId": 20
+    },
+    {
+      "type": "text",
+      "content": " ​\nover the scale, turn your focus to how you look, feel, how your clothes fit and your overall energy level."
+    }
+  ],
+  "blanks": [
+    {
+      "id": 1,
+      "options": {
+        "A": "Besides",
+        "B": "Therefore",
+        "C": "Otherwise",
+        "D": "However"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 2,
+      "options": {
+        "A": "helps",
+        "B": "cares",
+        "C": "warns",
+        "D": "reduces"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 3,
+      "options": {
+        "A": "initially",
+        "B": "solely",
+        "C": "occasionally",
+        "D": "formally"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 4,
+      "options": {
+        "A": "recording",
+        "B": "lowering",
+        "C": "explaining",
+        "D": "accepting"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 5,
+      "options": {
+        "A": "modify",
+        "B": "set",
+        "C": "review",
+        "D": "reach"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 6,
+      "options": {
+        "A": "definition",
+        "B": "depiction",
+        "C": "distribution",
+        "D": "prediction"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 7,
+      "options": {
+        "A": "due to",
+        "B": "regardless of",
+        "C": "aside from",
+        "D": "along with"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 8,
+      "options": {
+        "A": "orderly",
+        "B": "rigid",
+        "C": "precise",
+        "D": "immediate"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 9,
+      "options": {
+        "A": "claims",
+        "B": "judgments",
+        "C": "reasons",
+        "D": "methods"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 10,
+      "options": {
+        "A": "instead",
+        "B": "though",
+        "C": "again",
+        "D": "indeed"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 11,
+      "options": {
+        "A": "track",
+        "B": "overlook",
+        "C": "conceal",
+        "D": "report"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 12,
+      "options": {
+        "A": "depend on",
+        "B": "approve of",
+        "C": "hold onto",
+        "D": "account for"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 13,
+      "options": {
+        "A": "share",
+        "B": "adjust",
+        "C": "confirm",
+        "D": "prepare"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 14,
+      "options": {
+        "A": "results",
+        "B": "features",
+        "C": "rules",
+        "D": "tests"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 15,
+      "options": {
+        "A": "bored",
+        "B": "anxious",
+        "C": "hungry",
+        "D": "sick"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 16,
+      "options": {
+        "A": "principle",
+        "B": "secret",
+        "C": "belief",
+        "D": "sign"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 17,
+      "options": {
+        "A": "request",
+        "B": "necessity",
+        "C": "decision",
+        "D": "wish"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 18,
+      "options": {
+        "A": "disappointing",
+        "B": "surprising",
+        "C": "restricting",
+        "D": "consuming"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 19,
+      "options": {
+        "A": "if",
+        "B": "unless",
+        "C": "until",
+        "D": "because"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    },
+    {
+      "id": 20,
+      "options": {
+        "A": "obsessing",
+        "B": "dominating",
+        "C": "puzzling",
+        "D": "triumphing"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "subType": "待补充",
+      "clue": "待补充",
+      "explanation": "解析待补充。",
+      "optionAnalysis": {},
+      "commonMistake": "待补充。",
+      "strategy": "结合句内搭配和上下文逻辑判断。"
+    }
+  ],
+  "discourseAnalysis": {
+    "mainIdea": "待补充",
+    "structure": [],
+    "logicSignals": []
+  },
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": [],
+    "phrases": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；学习解析待补充。"
+}

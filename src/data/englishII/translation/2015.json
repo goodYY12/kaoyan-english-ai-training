@@ -1,0 +1,18 @@
+{
+  "id": "2015-english2-translation",
+  "year": 2015,
+  "paper": "英语二",
+  "sourceType": "真题",
+  "sourceNote": "翻译原文和参考译文已根据公开真题页面核验。",
+  "items": [
+    {
+      "id": "2015-english2-translation-46",
+      "sourceText": "Think about driving a route that's very familiar. It could be your commute to work, a trip into town or the way home. Whichever it is, you know every twist and turn like the back of your hand. On these sorts of trips it's easy to lose concentration on the driving and pay little attention to the passing scenery. The consequence is that you perceive that the trip has taken less time than it actually has.\n This is the well-travelled road effect: People tend to underestimate the time it takes to travel a familiar route.\n The effect is caused by the way we allocate our attention. When we travel down a well-known route, because we don't have to concentrate much, time seems to flow more quickly. And afterwards, when we come to think back on it, we can't remember the journey well because we didn't pay much attention to it. So we assume it was shorter.",
+      "referenceTranslation": "想象一下你正行驶在一条非常熟悉的路上。这条路可能是你每日通勤的必经之道，可能是进城的路线，也可能是回家的途径。无论具体是哪一条，你都对沿途的每一个转弯处了如指掌。在这类行程中，驾驶者很容易分散注意力，对沿途景色视若无睹。其结果是，你会感觉旅途所花费的时间比实际更短。",
+      "keyPoints": [],
+      "phrases": [],
+      "sentenceAnalysis": [],
+      "commonMistakes": []
+    }
+  ]
+}

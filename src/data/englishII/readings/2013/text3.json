@@ -1,0 +1,92 @@
+{
+  "id": "2013-english2-text3",
+  "year": 2013,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "阅读文章",
+  "passage": "Scientists have found that although we are prone to snap overreactions, if we\ntake a moment and think about how we are likely to react, we can reduce or even\neliminate the negative effects of our quick, hard-wired responses.\n Snap decisions can be important defense mechanisms; if we are judging\nwhether someone is dangerous, our brains and bodies are hard-wired to react\nvery quickly, within milliseconds. But we need more time to assess other factors.\nTo accurately tell whether someone is sociable, studies show, we need at least a\nminute, preferably five. It takes a while to judge complex aspects of personality,\nlike neuroticism or open-mindedness.\n But snap decisions in reaction to rapid stimuli aren’t exclusive to the\ninterpersonal realm. Psychologists at the University of Toronto found that\nviewing a fast-food logo for just a few milliseconds primes us to read 20 percent\nfaster, even though reading has little to do with eating. We unconsciously\nassociate fast food with speed and impatience and carry those impulses into\nwhatever else we’re doing. Subjects exposed to fast-food flashes also tend to\nthink a musical piece lasts too long.\n Yet we can reverse such influences. If we know we will overreact to\nconsumer products or housing options when we see a happy face (one reason\ngood sales representatives and real estate agents are always smiling), we can\ntake a moment before buying. If we know female job screeners are more likely\nto reject attractive female applicants, we can help screeners understand their\nbiases—or hire outside screeners.\n John Gottman, the marriage expert, explains that we quickly “thin slice”\ninformation reliably only after we ground such snap reactions in “thick sliced”\nlong-term study. When Dr. Gottman really wants to assess whether a couple will\nstay together, he invites them to his island retreat for a much longer evaluation:\ntwo days, not two seconds.\n Our ability to mute our hard-wired reactions by pausing is what differentiates\nus from animals: dogs can think about the future only intermittently or for\na few minutes. But historically we have spent about 12 percent of our days\ncontemplating the longer term. Although technology might change the way we\nreact, it hasn’t changed our nature. We still have the imaginative capacity to rise\nabove temptation and reverse the high-speed trend.",
+  "questions": [
+    {
+      "id": "2013-english2-text3-q31",
+      "questionNumber": 31,
+      "questionText": "The time needed in making decisions may___.",
+      "options": {
+        "A": "vary according to the urgency of the situation",
+        "B": "prove the complexity of our brain reaction",
+        "C": "depend on the importance of the assessmen",
+        "D": "predetermine the accuracy of our judgment"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2013-english2-text3-q32",
+      "questionNumber": 32,
+      "questionText": "Our reaction to a fast-food logo shows that snap decisions",
+      "options": {
+        "A": "can be associative",
+        "B": "are not unconscious",
+        "C": "can be dangerous",
+        "D": "are not impulsive"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2013-english2-text3-q33",
+      "questionNumber": 33,
+      "questionText": "To reverse the negative influences of snap decisions, we should_",
+      "options": {
+        "A": "trust our first impression",
+        "B": "think before we act",
+        "C": "do as people usually do",
+        "D": "ask for expert advice"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2013-english2-text3-q34",
+      "questionNumber": 34,
+      "questionText": "John Gottman says that reliable snap reaction are based on",
+      "options": {
+        "A": "critical assessment",
+        "B": "thin sliced'study",
+        "C": "adequate information",
+        "D": "sensible explanation"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2013-english2-text3-q35",
+      "questionNumber": 35,
+      "questionText": "The author's atitude toward reversing the high-speed trend is,",
+      "options": {
+        "A": "tolerant",
+        "B": "optimistic",
+        "C": "uncertain",
+        "D": "doubtful"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}
