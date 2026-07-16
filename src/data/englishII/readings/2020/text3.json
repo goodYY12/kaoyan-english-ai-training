@@ -1,0 +1,92 @@
+{
+  "id": "2020-english2-text3",
+  "year": 2020,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "阅读文章",
+  "passage": "Madrid was hailed as a public health beacon last November when it rolled out ambitious restrictions on the most polluting cars. Seven months and one election day later, a new conservative city council suspended enforcement of the clean air zone, a first step toward its possible termination. Mayor Jose Luis Martinez-Almeida made opposition to the zone a centerpiece of his election campaign, despite its success in improving air quality. A judge has now overruled the city's decision to stop levying fines, ordering them reinstated. But with legal battles ahead, the zone's future looks uncertain at best. Madrid's back and forth on clean air is a pointed reminder of the limits to the patchwork, city-by-city approach that characterizes efforts on air pollution across Europe, Britain very much included. Among other weaknesses, the measures cities must employ when left to tackle dirty air on their own are politically contentious, and therefore vulnerable. That' because they inevitably put the costs of cleaning the air on to individual drivers -- who must pay fees or buy better vehicles -- rather than on to the car manufacturers whose cheating is the real cause of our toxic pollution. It's not hard to imagine a similar reversal happening in London. The new ultra-low emission zone (Ulez) is likely to be a big issue in next year's mayoral election. And if Sadiq Khan wins and extends it to the North and South Circular roads in 2021 as he intends, it is sure to spark intense opposition from the far larger number of motorists who will then be affected. It's not that measures such as London's Ulez are useless. Far from it. Local officials are using the levers that are available to them to safeguard residents' health in the face of a serious threat. The zones do deliver some improvements to air quality, and the science tells us that means real health benefits. But mayors and councilors can only do so much about a problem that is far bigger than any one city or town. They are acting because national governments -- Britain's and others across Europe -- have failed to do so. Restrictions that keep highly polluting cars out of certain areas -- city centers, \"school streets\", even individual roads-are a response to the absence of a larger effort to properly enforce existing regulations and require auto companies to bring their vehicles into compliance. Wales has introduced special low speed limits to minimize pollution. We're doing everything but insist that manufacturers clean up their cars. 91",
+  "questions": [
+    {
+      "id": "2020-english2-text3-q31",
+      "questionNumber": 31,
+      "questionText": "Which of the following is true about Madrid's clean air zone?",
+      "options": {
+        "A": "Its effects are questionable.",
+        "B": "It has been opposed by a judge.",
+        "C": "Its fate is yet to be decided.",
+        "D": "It needs tougher enforcement."
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2020-english2-text3-q32",
+      "questionNumber": 32,
+      "questionText": "Which is considered a weakness of the city-level measures to tackle dirty air?",
+      "options": {
+        "A": "They are biased against car manufacturers.",
+        "B": "They prove impractical for city councils.",
+        "C": "They are deemed too mild for politicians.",
+        "D": "They put too much burden on individual motorists."
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2020-english2-text3-q33",
+      "questionNumber": 33,
+      "questionText": "The author believes that the extension of London's Ulez will ______.",
+      "options": {
+        "A": "arouse strong resistance",
+        "B": "ensure Khan's electoral success",
+        "C": "improve the city's traffic",
+        "D": "discourage car manufacturing"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2020-english2-text3-q34",
+      "questionNumber": 34,
+      "questionText": "Who does the author think should have addressed the problem?",
+      "options": {
+        "A": "Local residents",
+        "B": "Mayors",
+        "C": "Councilors.",
+        "D": "National governments"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2020-english2-text3-q35",
+      "questionNumber": 35,
+      "questionText": "It can be inferred from the last paragraph that auto companies ______.",
+      "options": {
+        "A": "will raise low-emission car production",
+        "B": "should be forced to follow regulations",
+        "C": "will upgrade the design of their vehicles",
+        "D": "should be put under public supervision 92"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "真题原文与选择题答案已按公开试题及答案表交叉核对；题型与解析待补充。"
+}

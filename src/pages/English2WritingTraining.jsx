@@ -1,16 +1,16 @@
 import { useState } from "react";
 import SectionCard from "../components/SectionCard";
-import { getEnglishIIWritingByYear } from "../utils/englishIIDataAdapter";
+import { getEnglishIIWritingByYear, getEnglishIIYears } from "../utils/englishIIDataAdapter";
 import { getTrainingDraft, saveTrainingDraft } from "../utils/trainingStorage";
 
-const years = [2010, 2009, 2008, 2007];
 const modes = [
   { key: "smallWriting", label: "小作文" },
   { key: "bigWriting", label: "大作文" },
 ];
 
 export default function English2WritingTraining() {
-  const [year, setYear] = useState(2010);
+  const years = getEnglishIIYears();
+  const [year, setYear] = useState(years[0] ?? 2020);
   const [mode, setMode] = useState("smallWriting");
   const [showGuide, setShowGuide] = useState(false);
   const item = getEnglishIIWritingByYear(year);

@@ -2,12 +2,11 @@ import { useMemo, useState } from "react";
 import { Link } from "react-router";
 import EmptyState from "../components/EmptyState";
 import SectionCard from "../components/SectionCard";
-import { getEnglishIIClozeByYear } from "../utils/englishIIDataAdapter";
-
-const years = [2010, 2009, 2008, 2007];
+import { getEnglishIIClozeByYear, getEnglishIIYears } from "../utils/englishIIDataAdapter";
 
 export default function English2ClozeTraining() {
-  const [year, setYear] = useState(2010);
+  const years = useMemo(() => getEnglishIIYears(), []);
+  const [year, setYear] = useState(years[0] ?? 2020);
   const items = useMemo(() => getEnglishIIClozeByYear(year), [year]);
   const [activeId, setActiveId] = useState(null);
   const [answers, setAnswers] = useState({});

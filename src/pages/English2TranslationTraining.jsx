@@ -1,12 +1,11 @@
 import { useState } from "react";
 import SectionCard from "../components/SectionCard";
-import { getEnglishIITranslationByYear } from "../utils/englishIIDataAdapter";
+import { getEnglishIITranslationByYear, getEnglishIIYears } from "../utils/englishIIDataAdapter";
 import { getTrainingDraft, saveTrainingDraft } from "../utils/trainingStorage";
 
-const years = [2010, 2009, 2008, 2007];
-
 export default function English2TranslationTraining() {
-  const [year, setYear] = useState(2010);
+  const years = getEnglishIIYears();
+  const [year, setYear] = useState(years[0] ?? 2020);
   const [showReference, setShowReference] = useState(false);
   const item = getEnglishIITranslationByYear(year);
   const task = item?.items?.[0];

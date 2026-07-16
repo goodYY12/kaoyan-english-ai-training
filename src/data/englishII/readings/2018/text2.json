@@ -1,0 +1,92 @@
+{
+  "id": "2018-english2-text2",
+  "year": 2018,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "阅读文章",
+  "passage": "While fossil fuels — coal, oil, gas — still generate roughly 85 percent of the world's energy supply, it's clearer than ever that the future belongs to renewable sources such as wind and solar. The move to renewable is picking up momentum around the world: They now account for more than half of new power sources going on line. Some growth stems from a commitment by governments and farsighted businesses to fund cleaner energy sources. But increasingly the story is about the plummeting prices of renewables, especially wind and solar. The cost of solar panels has dropped by 80 percent and the cost of wind turbines by close to one-third in the past eight years. In many parts of the world renewable energy is already a principal energy source. In Scotland, for example, wind turbines provide enough electricity to power 95 percent of homes. While the rest of the world takes the lead, notably China and Europe, the United States is also seeing a remarkable shift. In March, for the first time, wind and solar power accounted for more than 10 percent of the power generated in the US, reported the US Energy Information Administration. President Trump has underlined fossil fuels — especially coal — as the path to economic growth. In a recent speech in Iowa, he dismissed wind power as an unreliable energy source. But that message did not play well with many in Iowa, where wind turbines dot the fields and provide 36 percent of the state's electricity generation — and where tech giants like Microsoft are being attracted by the availability of clean energy to power their data centers. The question \"what happens when the wind doesn't blow or the sun doesn't shine?\" has provided a quick put-down for skeptics. But a boost in the storage capacity of batteries is making their ability to keep power flowing around the clock more likely. The advance is driven in part by vehicle manufacturers, who are placing big bets on battery-powered electric vehicles. Although electric cars are still a rarity on roads now, this massive investment could change the picture rapidly in coming years. While there's a long way to go, the trend lines for renewable are spiking. The pace of change in energy sources appears to be speeding up — perhaps just in time to have a meaningful effect in slowing climate change. What Washington does — or doesn't do — to promote alternative energy may mean less and less at a time of a global shift in thought.",
+  "questions": [
+    {
+      "id": "2018-english2-text2-q26",
+      "questionNumber": 26,
+      "questionText": "The word \"plummeting\" ( Para.2) is closest in meaning to________.",
+      "options": {
+        "A": "changing",
+        "B": "stabilizing",
+        "C": "rising",
+        "D": "falling"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2018-english2-text2-q27",
+      "questionNumber": 27,
+      "questionText": "According to Paragraph 3, the use of renewable energy in America________.",
+      "options": {
+        "A": "has proved to be impractical",
+        "B": "is as extensive as in Europe",
+        "C": "faces many challenges",
+        "D": "is progressing notably"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2018-english2-text2-q28",
+      "questionNumber": 28,
+      "questionText": "It can be learned that in Iowa, ________.",
+      "options": {
+        "A": "wind energy has replaced fossil fuels",
+        "B": "wind is a widely used energy source",
+        "C": "tech giants are investing in clean energy",
+        "D": "there is a shortage of clean energy supply"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2018-english2-text2-q29",
+      "questionNumber": 29,
+      "questionText": "Which of the following is true about clean energy according to Paragraphs 5&6?",
+      "options": {
+        "A": "Its continuous supply is becoming a reality.",
+        "B": "It is commonly used in car manufacturing.",
+        "C": "Its sustainable exploitation will remain difficult.",
+        "D": "Its application has boosted battery storage."
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2018-english2-text2-q30",
+      "questionNumber": 30,
+      "questionText": "It can be inferred from the last paragraph that renewable energy________.",
+      "options": {
+        "A": "will bring the US closer to other countries",
+        "B": "will accelerate global environmental change",
+        "C": "is not really encouraged by the US government",
+        "D": "is not competitive enough with regard to its cost"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "真题原文与选择题答案已按公开试题及答案表交叉核对；题型与解析待补充。"
+}

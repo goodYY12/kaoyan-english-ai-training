@@ -1,0 +1,92 @@
+{
+  "id": "2016-english2-text1",
+  "year": 2016,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 1",
+  "title": "阅读文章",
+  "passage": "It's true that high-school coding classes aren't essential for learning computer science in college. Students without experience can catch up after a few introductory courses, said Tom Cortina, the assistant dean at Carnegie Mellon's School of Computer Science. However, Cortina said, early exposure is beneficial. When younger kids learn computer science, they learn that it's not just a confusing, endless string of letters and numbers – but a tool to build apps, or create artwork, or test hypotheses. It's not as hard for them to transform their thought processes as it is for older students. Breaking down problems into bite-sized chunks and using code to solve them becomes normal. Giving more children this training could increase the number of people interested in the field and help fill the jobs gap, Cortina said. Students also benefit from learning something about coding before they get to college, where introductory computer-science classes are packed to the brim, which can drive the 15.A. thus B. instead C. also D. never 16.A. rapidly B. regularly C. directly D. equally 17.A. After B. Until C. While D. Since 18.A. arrives B. jumps C. hints D. strikes 19.A. shape B. rediscover C. simplify D. share 20.A. pray for B. lean to wards C. give away D. send out less-experienced or -determined students away. The Flatiron School, where people pay to learn programming, started as one of the many coding boot camps that's become popular for adults looking for a career change. The high-schoolers get the same curriculum, but \"we try to gear lessons toward things they're interested in,\" said Victoria Friedman, an instructor. For instance, one of the apps the students are developing suggests movies based on your mood. The students in the Flatiron class probably won't drop out of high school and build the next Facebook. Programming languages have a quick turnover, so the \"Ruby on Rails\" language they learned may not even be relevant by the time they enter the job market. But the skills they learn – how to think logically through a problem and organize the results – apply to any coding language, said Deborah Seehorn, an education consultant for the state of North Carolina. Indeed, the Flatiron students might not go into IT at all. But creating a future army of coders is not the sole purpose of the classes. These kids are going to be surrounded by computers – in their pockets, in their offices, in their homes – for the rest of their lives. The younger they learn how computers think, how to coax the machine into producing what they want – the earlier they learn that they have the power to do that – the better.",
+  "questions": [
+    {
+      "id": "2016-english2-text1-q21",
+      "questionNumber": 21,
+      "questionText": "Cortina holds that early exposure to computer science makes it easier to ______.",
+      "options": {
+        "A": "complete future job training",
+        "B": "remodel the way of thinking",
+        "C": "formulate logical hypotheses",
+        "D": "perfect artwork production"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2016-english2-text1-q22",
+      "questionNumber": 22,
+      "questionText": "In delivering lessons for high-schoolers, Flatiron has considered their ______.",
+      "options": {
+        "A": "experience",
+        "B": "interest",
+        "C": "career prospects",
+        "D": "academic backgrounds 21"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2016-english2-text1-q23",
+      "questionNumber": 23,
+      "questionText": "Deborah Seehorn believes that the skills learned at Flatiron will ______.",
+      "options": {
+        "A": "help students learn other computer languages",
+        "B": "have to be upgraded when new technologies come",
+        "C": "need improving when students look for jobs",
+        "D": "enable students to make big quick money"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2016-english2-text1-q24",
+      "questionNumber": 24,
+      "questionText": "According to the last paragraph, Flatiron students are expected to ______.",
+      "options": {
+        "A": "bring forth innovative computer technologies",
+        "B": "stay longer in the information technology industry",
+        "C": "become better prepared for the digitalized world",
+        "D": "compete with a future army of programmers"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2016-english2-text1-q25",
+      "questionNumber": 25,
+      "questionText": "The word \"coax\" (Para. 6) is closest in meaning to ______.",
+      "options": {
+        "A": "persuade",
+        "C": "frighten",
+        "B": "misguide",
+        "D": "challenge"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "真题原文与选择题答案已按公开试题及答案表交叉核对；题型与解析待补充。"
+}

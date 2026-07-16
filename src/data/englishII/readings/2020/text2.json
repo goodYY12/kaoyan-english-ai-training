@@ -1,0 +1,92 @@
+{
+  "id": "2020-english2-text2",
+  "year": 2020,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "阅读文章",
+  "passage": "It is true that CEO pay has gone up-top ones may make 300 times the pay of typical workers on average, and since the mid- 1970s, CEO pay for large publicly traded American corporations has, by varying estimates, gone up by about 500%. The typical CEO of a top American corporation now makes about $18.9 million a year. The best model for understanding the growth of CEO pay is that of limited CEO talent in a world where business opportunities for the top firms are growing rapidly. The efforts of America's highest-earning 1% have been one of the more dynamic elements of the global economy. It's not popular to say, but one reason their pay has gone up so much is that CEOs really have upped their game relative to many other workers in the U.S. economy. Today's CEO, at least for major American firms, must have many more skills than simply being able to \"run the company\", CEOs must have a good sense of financial markets and maybe even how the company should trade in them. They also need better public relations skills than their predecessors, as the costs of even a minor slipup can be significant. Then there's the fact that large American companies are much more globalized than ever before, with supply chains spread across a larger number of countries. To lead in that system requires knowledge that is fairly mind-boggling. Plus, virtually all major American companies are becoming tech companies, often with their own research and development. And beyond this, major CEOs still have to do all the day-to-day work they have always done. The common idea that high CEO pay is mainly about ripping people off doesn't explain history very well. By most measures, corporate governance has become a lot tighter and more rigorous since the 1970s. Yet it is principally during this period of stronger governance that CEO pay has been high and rising. That suggests it is in the broader corporate interest to recruit top candidates for increasingly tough jobs. Furthermore, the highest CEO salaries are paid to outside candidates, not to the cozy insider picks. Another sign is that high CEO pay is not some kind of depredation at the expense of the rest of the company. And the stock market reacts positively when companies tie CEO pay to, say, stock prices, a sign that those practices build up corporate value not just for the CEO.",
+  "questions": [
+    {
+      "id": "2020-english2-text2-q26",
+      "questionNumber": 26,
+      "questionText": "Which of the following has contributed to CEO pay rise?",
+      "options": {
+        "A": "Increased business opportunities for top firms.",
+        "B": "Close cooperation among leading economics.",
+        "C": "The general pay rise with a better economy.",
+        "D": "The growth in the number of corporations. 89"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2020-english2-text2-q27",
+      "questionNumber": 27,
+      "questionText": "Compared with their predecessors, today's CEOs are required to ______.",
+      "options": {
+        "A": "establish closer ties with tech companies",
+        "B": "operate more globalized companies",
+        "C": "finance more research and development",
+        "D": "foster a stronger sense of teamwork"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2020-english2-text2-q28",
+      "questionNumber": 28,
+      "questionText": "CEO pay has been rising since the 1970s despite ______.",
+      "options": {
+        "A": "continual internal opposition",
+        "B": "conservative business strategies",
+        "C": "repeated governance warnings",
+        "D": "strict corporate governance"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2020-english2-text2-q29",
+      "questionNumber": 29,
+      "questionText": "High CEO pay can be justified by the fact that it helps ______.",
+      "options": {
+        "A": "confirm the status of CEOs",
+        "B": "increase corporate value",
+        "C": "boost the efficiency of CEOs",
+        "D": "motive inside candidates"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2020-english2-text2-q30",
+      "questionNumber": 30,
+      "questionText": "The most suitable title for this text would be ______.",
+      "options": {
+        "A": "CEO Traits: Not Easy to Define",
+        "B": "CEO Pay: Past and Present",
+        "C": "CEOs Are Not Overpaid",
+        "D": "CEOs' Challenges of Today"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "真题原文与选择题答案已按公开试题及答案表交叉核对；题型与解析待补充。"
+}

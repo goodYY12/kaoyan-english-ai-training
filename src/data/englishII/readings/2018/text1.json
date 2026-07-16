@@ -1,0 +1,92 @@
+{
+  "id": "2018-english2-text1",
+  "year": 2018,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 1",
+  "title": "阅读文章",
+  "passage": "It is curious that Stephen Koziatek feels almost as though he has to justify his efforts to give his students a better future. Mr. Koziatek is part of something pioneering. He is a teacher at a New Hampshire high school where learning is not something of books and tests and mechanical memorization, but practical. When did it become accepted wisdom that students should be able to name the 13th president of the United States but be utterly overwhelmed by a broken bike chain? As Koziatek knows, there is learning in just about everything. Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum. They can also learn geometry by assembling a bicycle. But he's also found a kind of insidious prejudice. Working with your hands is seen as almost a mark of inferiority. Schools in the family of vocational education \"have that stereotype… that it's for kids who can't make it academically,\" he says. On one hand, that viewpoint is a logical product of America's evolution. Manufacturing is not the economic engine that it once was. The job security that the US economy once offered to high school graduates has largely evaporated. More education is the new principle. We want more for our kids, and rightfully so. But the headlong push into bachelor's degrees for all — and the subtle devaluing of anything less — misses an important point: That's not the only thing the American economy needs. Yes, a bachelor's degree opens more doors. But even now, 54 percent of the jobs in the country are middle-skill jobs, such as construction and high-skill manufacturing. But only 44 percent of workers are adequately trained. In other words, at a time when the working class has turned the country on its political head, frustrated that the opportunity that once defined America is vanishing, one obvious solution is staring us in the face. There is a gap in working-class jobs, but the workers who need those jobs most aren't equipped to do them. Koziatek's Manchester School of Technology High School is trying to fill that gap. Koziatek's school is a wake-up call. When education becomes one-size-fits-all, it risks overlooking a nation's diversity of gifts.",
+  "questions": [
+    {
+      "id": "2018-english2-text1-q21",
+      "questionNumber": 21,
+      "questionText": "A broken bike chain is mentioned to show students' lack of________.",
+      "options": {
+        "A": "mechanical memorization",
+        "B": "academic training",
+        "C": "practical ability",
+        "D": "pioneering spirit"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2018-english2-text1-q22",
+      "questionNumber": 22,
+      "questionText": "There exists the prejudice that vocational education is for kids who________.",
+      "options": {
+        "A": "are financially disadvantaged",
+        "B": "are not academically successful",
+        "C": "have a stereotyped mind",
+        "D": "have no career motivation"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2018-english2-text1-q23",
+      "questionNumber": 23,
+      "questionText": "We can infer from Paragraph 5 that high school graduates________.",
+      "options": {
+        "A": "are entitled to more educational privileges",
+        "B": "are reluctant to work in manufacturing",
+        "C": "used to have more job opportunities",
+        "D": "used to have big financial concerns"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2018-english2-text1-q24",
+      "questionNumber": 24,
+      "questionText": "The headlong push into bachelor's degrees for all________.",
+      "options": {
+        "A": "helps create a lot of middle-skill jobs",
+        "B": "may narrow the gap in working-class jobs",
+        "C": "is expected to yield a better-trained workforce",
+        "D": "indicates the overvaluing of higher education"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2018-english2-text1-q25",
+      "questionNumber": 25,
+      "questionText": "The author's attitude toward Koziatek's school can be described as________.",
+      "options": {
+        "A": "supportive",
+        "B": "disappointed",
+        "C": "tolerant",
+        "D": "cautious"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "真题原文与选择题答案已按公开试题及答案表交叉核对；题型与解析待补充。"
+}
