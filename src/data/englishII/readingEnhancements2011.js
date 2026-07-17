@@ -3,10 +3,47 @@ const analysis = (sentence, core, translation, testPoint, trap, logic, strategy)
   sentenceTraining: { sentence, coreStructure: core, grammarBreakdown: "先锁定主干，再核对题干关键词与原文范围。", modifiers: "结合定位句中的修饰成分与逻辑词复盘。", translation, relationToQuestion: logic, exercises: [] },
 });
 
+const vocabulary = (items) => items.map(([word, partOfSpeech, sentence, meaning, distractor1, distractor2, distractor3], index) => {
+  const labels = ["A", "B", "C", "D"];
+  const answer = labels[index % labels.length];
+  const choices = [meaning, distractor1, distractor2, distractor3];
+  return {
+    word,
+    partOfSpeech,
+    sentence,
+    options: Object.fromEntries(labels.map((label, choiceIndex) => [label, choices[(choiceIndex - (index % labels.length) + labels.length) % labels.length]])),
+    answer,
+    meaningInContext: meaning,
+    explanation: `结合句中语境，${word} 在这里表示“${meaning}”。`,
+  };
+});
+
 export const readingEnhancements2011 = {
   "2011-english2-text1": {
     articleStructure: "P1 以 Simmons 的经历引出独立董事问责；P2 说明独立董事的理想职责；P3 用研究呈现突然离职与企业风险的关系；P4 分析董事提前离职的声誉动机及企业应对。",
     structureMap: [{ paragraph: "P1", role: "引入", summary: "由高盛独立董事争议引出话题。" }, { paragraph: "P2", role: "定义", summary: "说明独立董事应当独立、少偏见。" }, { paragraph: "P3", role: "研究证据", summary: "突然离职与公司后续负面表现相关。" }, { paragraph: "P4", role: "推论", summary: "企业需要激励机制以留住董事。" }],
+    vocabulary: vocabulary([
+      ["outside director", "n.", "Ruth Simmons joined Goldman Sachs's board as an outside director in January 2000.", "外部董事；独立董事", "执行董事", "股东", "审计师"],
+      ["apparently", "adv.", "She apparently managed both roles without attracting much criticism.", "显然；看来", "故意地", "永久地", "公开地"],
+      ["under fire", "phr.", "Ms. Simmons was under fire for having sat on Goldman's compensation committee.", "受到批评；遭到抨击", "正在升职", "获得支持", "接受培训"],
+      ["compensation", "n.", "Ms. Simmons had sat on Goldman's compensation committee.", "薪酬；补偿", "竞争", "承诺", "股份"],
+      ["payout", "n.", "How could she have let those enormous bonus payouts pass unremarked?", "支付的款项", "税收减免", "投资损失", "债务总额"],
+      ["unremarked", "adj.", "How could she have let those enormous bonus payouts pass unremarked?", "未被注意到的", "备受赞扬的", "被合法批准的", "被公开披露的"],
+      ["biased", "adj.", "Outside directors are supposed to serve as helpful, yet less biased, advisers.", "有偏见的", "独立的", "专业的", "保守的"],
+      ["reputation", "n.", "Having made their wealth and their reputations elsewhere.", "声誉；名望", "薪酬", "职责", "风险"],
+      ["independence", "n.", "They presumably have enough independence to disagree with the chief executive's proposals.", "独立性", "经验", "权力", "财富"],
+      ["proposal", "n.", "They may disagree with the chief executive's proposals.", "提议；方案", "利润", "危机", "报表"],
+      ["weather", "v.", "They should be able to give advice based on having weathered their own crises.", "经受住；熬过", "预测", "扩大", "回避"],
+      ["proxy statement", "n.", "They checked which directors stayed from one proxy statement to the next.", "委托书；股东大会文件", "财务报表", "法律诉状", "董事薪酬"],
+      ["depart", "v.", "The most likely reason for departing a board was age.", "离开；辞去", "加入", "监督", "提议"],
+      ["subsequently", "adv.", "The company will subsequently have to restate earnings.", "随后；其后", "故意地", "公开地", "偶然地"],
+      ["restate", "v.", "The company will subsequently have to restate earnings.", "重新陈述；重报", "增加", "隐瞒", "分配"],
+      ["class-action lawsuit", "n.", "The likelihood of being named in a federal class-action lawsuit also increases.", "集体诉讼", "商业合并", "董事会议", "税务审查"],
+      ["correlation", "n.", "A correlation between them leaving and subsequent bad performance is suggestive.", "相关性", "因果关系", "冲突", "补偿"],
+      ["suggestive", "adj.", "The correlation is suggestive, it does not mean that such directors are always jumping off a sinking ship.", "具有启发性但非定论的", "毫无价值的", "绝对正确的", "违法的"],
+      ["incentive", "n.", "Firms may have to create incentives.", "激励；激励措施", "限制", "处罚", "义务"],
+      ["otherwise", "adv.", "Otherwise outside directors will follow the example of Ms. Simmons.", "否则", "同样地", "尤其是", "立即"],
+    ]),
     questions: {
       "2011-english2-text1-q21": analysis("Ms. Simmons was under fire for having sat on Goldman's compensation committee; how could she have let those enormous bonus payouts pass unremarked?", "Ms. Simmons was under fire", "Simmons 因任职薪酬委员会且未关注巨额奖金而受批评。", "细节题：职责", "把奖金数额误作她本人获利。", "B 对应没有履行监督职责。", "人物评价题看批评的具体行为，不把背景事实当答案。"),
       "2011-english2-text1-q22": analysis("Outside directors are supposed to serve as helpful, yet less biased, advisers on a firm's board.", "Outside directors are supposed to serve as advisers", "独立董事应当担任有帮助且偏见较少的顾问。", "细节题：同义替换", "把 less biased 偷换为完全 unbiased，或把 adviser 偷换为 executive。", "D 与原文 independent advisers 同义。", "限定词 less 不等于完全没有；职位名要按原文核对。"),
