@@ -1,0 +1,92 @@
+{
+  "id": "2021-english2-text4",
+  "year": 2021,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 4",
+  "title": "阅读文章",
+  "passage": "We're fairly good at judging people based on first impressions, thin slices of experience ranging from a glimpse of a photo to five-minute interaction, and deliberation can be not only extraneous but intrusive. In one study of the ability she dubbed \"thin slicing,\" the late psychologist Nalini Ambady asked participants to watch silent 10-second video clips of professors and to rate the instructor's overall effectiveness. Their ratings correlated strongly with students' end-of-semester ratings. Another set of participants had to count backward from 1,000 by nines as they watched the clips, occupying their conscious working memory. Their ratings were just as accurate, demonstrating the intuitive nature of the social processing.\n Critically, another group was asked to spend a minute writing down reasons for their judgment, before giving the rating. Accuracy dropped dramatically, Ambady suspected that deliberation focused them on vivid but misleading cues, such as certain gestures or utterances, rather than letting the complex interplay of subtle signals form a holistic impression. She found similar interference when participants watched 15-second clips of pairs of people and judged whether they were strangers, friends, or dating partners.\n Other research shows we're better at detecting deception and sexual orientation from thin slices when we rely on intuition instead of reflection. \"It's as if you're driving a stick shift,\" says Judith Hall, a psychologist at Northeastern University, \"and if you start thinking about it too much, you can't remember what you're doing. But if you go on automatic pilot, you're fine. Much of our social life is like that.\"\n Thinking too much can also harm our ability to form preferences. College students' ratings of strawberry jams and college courses aligned better with experts' opinions when the students weren't asked to analyze their rationale. And people made car-buying decisions that were both objectively better and more personally satisfying when asked to focus on their feelings rather than on details, but only if the decision was complex - when they had a lot of information to process.\n Intuition's special powers are unleashed only in certain circumstances. In one study, participants completed a battery of eight tasks, including four that tapped reflective thinking (discerning rules, comprehending vocabulary) and four that tapped intuition and creativity (generating new products or figures of speech). Then they rated the degree to which they had used intuition (\"gut feeling,\" hunches,\" \"my heart\"). Use of their gut hurt their performance on the first four tasks, as expected, and helped them on the rest. Sometimes the heart is smarter than the head.",
+  "questions": [
+    {
+      "id": "2021-english2-text4-q36",
+      "questionNumber": 36,
+      "questionText": "Nalini Ambady's study deals with",
+      "options": {
+        "A": "the reliability of first impressions.",
+        "B": "people’s ability to influence others.",
+        "C": "instructor-student interaction.",
+        "D": "the power of people’s memory."
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2021-english2-text4-q37",
+      "questionNumber": 37,
+      "questionText": "In Ambady's study, rating accuracy dropped when participants",
+      "options": {
+        "A": "discussed with one another.",
+        "B": "gave the rating in limited time.",
+        "C": "watched shorter video clips.",
+        "D": "focused on specific details"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2021-english2-text4-q38",
+      "questionNumber": 38,
+      "questionText": "Judith Hall mentions driving to show that",
+      "options": {
+        "A": "deception is difficult to detect.",
+        "B": "memory can be selective.",
+        "C": "social skills must be cultivated.",
+        "D": "reflection can be distracting."
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2021-english2-text4-q39",
+      "questionNumber": 39,
+      "questionText": "When you are making complex decisions, it is advisable to",
+      "options": {
+        "A": "collect enough data.",
+        "B": "list your preferences.",
+        "C": "follow your feelings.",
+        "D": "seek expert advice."
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2021-english2-text4-q40",
+      "questionNumber": 40,
+      "questionText": "What can we learn from the last paragraph?",
+      "options": {
+        "A": "Intuition may affect reflective tasks.",
+        "B": "Generating new products takes time.",
+        "C": "Vocabulary comprehension needs creativity.",
+        "D": "Objective thinking may boost intuitiveness."
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}

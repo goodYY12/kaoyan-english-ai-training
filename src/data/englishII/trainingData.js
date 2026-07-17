@@ -2,15 +2,15 @@ import englishOneCloze from "../cloze/clozeData.json" with { type: "json" };
 import englishOneTranslations from "../translationItems.json" with { type: "json" };
 import englishOneWriting from "../writingTemplates.json" with { type: "json" };
 
-const importedClozeModules = import.meta.glob("./cloze/{2011,2012,2013,2014,2015,2016,2017,2018,2019,2020}.json", {
+const importedClozeModules = import.meta.glob("./cloze/{2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026}.json", {
   eager: true,
   import: "default",
 });
-const importedTranslationModules = import.meta.glob("./translation/{2011,2012,2013,2014,2015,2016,2017,2018,2019,2020}.json", {
+const importedTranslationModules = import.meta.glob("./translation/{2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026}.json", {
   eager: true,
   import: "default",
 });
-const importedWritingModules = import.meta.glob("./writing/{2011,2012,2013,2014,2015,2016,2017,2018,2019,2020}.json", {
+const importedWritingModules = import.meta.glob("./writing/{2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026}.json", {
   eager: true,
   import: "default",
 });

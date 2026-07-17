@@ -1,0 +1,18 @@
+{
+  "id": "2025-english2-translation",
+  "year": 2025,
+  "paper": "英语二",
+  "sourceType": "真题",
+  "sourceNote": "翻译原文和参考译文已根据公开真题页面核验。",
+  "items": [
+    {
+      "id": "2025-english2-translation-46",
+      "sourceText": "You know the moment—the conversation slows, then there's a pause. It's awkward, and so awkward that some people will panic and say anything. Do we all find such silences so stressful?\n Researchers analysed the frequency and impact of gaps greater than 2 seconds during conversations, including an overview of previous studies which indicate that the fear of awkward silences can be so extreme that people avoid talking to strangers, even though doing so is likely to be an enjoyable experience.\n During conversations with short gaps, people feel more connected to their conversation partners. But such feelings of connection markedly dip when entering a long gap. Long gaps between strangers are likely to be followed by a change in topic.\n But the opposite seems to be true for conversations between friends. Long gaps there saw increased connection. Between friends, longer gaps seem to provide natural moments for reflection and expression.",
+      "referenceTranslation": "你知道那一刻——对话慢了下来，接着出现停顿。这很尴尬，尴尬到有些人会惊慌失措，没话找话。我们所有人都觉得这样的沉默如此令人压抑吗？",
+      "keyPoints": [],
+      "phrases": [],
+      "sentenceAnalysis": [],
+      "commonMistakes": []
+    }
+  ]
+}

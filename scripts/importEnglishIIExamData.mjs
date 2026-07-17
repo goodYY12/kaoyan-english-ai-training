@@ -4,7 +4,7 @@ import path from "node:path";
 const root = process.cwd();
 const sourceDir = path.join(root, "tmp", "english2-sources", "csgrad");
 const dataDir = path.join(root, "src", "data", "englishII");
-const years = Array.from({ length: 10 }, (_, index) => index + 2011);
+const years = Array.from({ length: 16 }, (_, index) => index + 2011);
 
 function decodeHtml(value) {
   return value
@@ -70,9 +70,16 @@ function promptForBlock(block) {
 }
 
 function parseAnswerTable(raw, year) {
-  const table = between(raw, "<summary class=elegant-summary>", "</details>");
-  const values = [...table.matchAll(/<td>(\d+)<\/td><td>([A-D])<\/td>/g)];
-  const answers = Object.fromEntries(values.map((match) => [Number(match[1]), match[2]]));
+  const tableStart = raw.indexOf("<summary class=elegant-summary>");
+  const values = tableStart === -1
+    ? []
+    : [...between(raw, "<summary class=elegant-summary>", "</details>").matchAll(/<td>(\d+)<\/td><td>([A-D])<\/td>/g)];
+  const answers = values.length
+    ? Object.fromEntries(values.map((match) => [Number(match[1]), match[2]]))
+    : Object.fromEntries(Array.from({ length: 40 }, (_, index) => {
+      const number = index + 1;
+      return [number, answerForBlock(questionBlock(raw, number), number)];
+    }));
   if (Object.keys(answers).length !== 40) throw new Error(`${year}: expected 40 answer-table entries`);
   return answers;
 }
@@ -272,7 +279,7 @@ for (const year of years) {
   const translation = parseTranslation(raw, year);
   const writing = parseWriting(raw, year);
 
-  if (year <= 2014) {
+  if (year <= 2014 || year >= 2021) {
     for (const reading of readings) {
       writeJson(path.join(dataDir, "readings", String(year), `text${reading.textNumber.at(-1)}.json`), reading);
     }

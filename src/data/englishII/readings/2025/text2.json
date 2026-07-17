@@ -1,0 +1,92 @@
+{
+  "id": "2025-english2-text2",
+  "year": 2025,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "阅读文章",
+  "passage": "When it was established, the National Health Service (NHS) was visionary: offering high-qualiy, timely care to meet the dominant needs of the population it served. Nearly 75 years on, with the UK facing very different heath hallenges,.it is clear that the model is out of date.\n From life expectancy to cancer and infant mortality rates,we are lagging behind many of our peers, With more than 6.8 milio on wailist, halthcare is becoming increasingly inaccessible for those who cannot opt to pay for private treatment; and the cost of providing healthcare is increasingly squeezing out investment in other public services. As demand for healthcare continues to grow. pressures on the workforce-which is already near breaking point-will only become more acute.\n Many of the answers to the crisis in health and care are well rehearsed. We need to be much better at reucing and diverting demand on health services, rather than simply managing it. Much more needs to be invested in communities and primary care to reduce our reliance on hospials, And capacity in social care needs to be greater, to support the growing number of people living with long-term conditions.\n Yet despite two decades of srategies and a number of major health reforms, we have failed to make meaningful progress on any of these aims. That is why the Reform think ank is launching a new programme of work entile \"Reimagining health\", upported by ten former health ministers. Together,we are calling for a much more open and honest conversation about the future of health in the UK,and an \"urgent rethink\" of the hospital-centric model we retain.\n This must begin with the question of how we maximnise the health of the nation, rather than \"fi\" the NHS. It is stimated, for example,that healthcare accounts for only about 20% of health outcomes. Much more important are the places we live, work and socialise-yet there is no clear cross-government strategy for improving these social determinants of health. Worse, when policies like the national obesity strategy are scrapped, taxpayers are left wih the heavy price tag of treating the ilees, ikedabes, ta esu\n Reform wants to ask how power and resources should be distributed in our health system. What health functions should remain at the centre, and what should be given to local leaders, ofien responsible for services that rate health,and with a much better understanding of the needs of their populations?",
+  "questions": [
+    {
+      "id": "2025-english2-text2-q26",
+      "questionNumber": 26,
+      "questionText": "According to the first two paragraphs, the NHS",
+      "options": {
+        "A": "is troubled by funding deficiencies",
+        "B": "can hardly satisfy people's needs",
+        "C": "can barely retain its current employees",
+        "D": "is rivalled by private medical services"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2025-english2-text2-q27",
+      "questionNumber": 27,
+      "questionText": "One answer to the crisis in health and care is to",
+      "options": {
+        "A": "boost the efficiency of hospitals",
+        "B": "lighten the burden on social care",
+        "C": "increase resources for primary care",
+        "D": "reduce the pressure on communities"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2025-english2-text2-q28",
+      "questionNumber": 28,
+      "questionText": "\"Reimagining health\" is aimed to",
+      "options": {
+        "A": "reinforce hospital management",
+        "B": "readjust healthcare regulations",
+        "C": "restructure the health system",
+        "D": "resume suspended health reforms"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2025-english2-text2-q29",
+      "questionNumber": 29,
+      "questionText": "To maximise the nation's health, the author suggests",
+      "options": {
+        "A": "introducing relevant taxation policies",
+        "B": "paying due attention to social factors",
+        "C": "reevaluating major health outcomes",
+        "D": "enhancing the guality of health care"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2025-english2-text2-q30",
+      "questionNumber": 30,
+      "questionText": "It can be inferred that local leaders should",
+      "options": {
+        "A": "exercise their power more reasonably",
+        "B": "develop a stronger sense of responsibility",
+        "C": "play a bigger role in the health system",
+        "D": "understand people's health needs better"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}

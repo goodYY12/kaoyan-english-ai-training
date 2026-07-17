@@ -1,0 +1,92 @@
+{
+  "id": "2026-english2-text1",
+  "year": 2026,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 1",
+  "title": "阅读文章",
+  "passage": "Ask people about public libraries and a certain image springs to mind: dusty, old-fashioned, the sort of place you enjoyed as a child but, rather like a British seaside town, would you go there now? And anyway—aren’t they all closing?\n The reality is startlingly different, as I discovered when the culture department commissioned me to conduct an independent review of English public libraries, published yesterday. As I visited libraries up and down the country, I was surprised to learn there are more than twice the number of libraries (2,892) as there are branches of McDonald’s.\n Enter any one of them and you will find a hive of activity, while books are, and should always be, at the heart of any library, a multitude of other services are offered: employment advice, language classes or digital access and support.\n There are libraries with business and intellectual property centres, which can help business owners and entrepreneurs. Many have nurses on site to carry out basic health checks, with a link to the GP’s surgery, there are libraries where young people can borrow a Fifa-standard football free.\n In return for all of this, you’ll be asked for precisely nothing. There will be no charge and you will never be asked to justify or explain yourself, you will simply be welcomed in, offered help if you need it, and left alone if you do not. There is no other institution, public or private, that can say the same.\n Yet still our libraries are often overlooked and underappreciated. There is an overall decline in visits and many are struggling as local authorities come under continued financial pressure.\n The number of libraries that have closed since 2010 is disputed. An annual survey by the Chartered Institute of Public Finance and Accountancy puts it at nearly 800 across the UK; official statistics held by the Arts Council record 230 in England. It is, of course, 230 libraries too many. So if we are to protect our libraries for future generations, we must raise awareness of them and the work they do.\n The review recommends a national branding campaign to give libraries a stronger physical presence, the reintroduction of a scheme to enable members to use their card in any library in the country, and automatic memberships for children. If we don’t use them, we will end up losing them. And for those who haven’t been to a library for some time, they may be surprised by what they find.",
+  "questions": [
+    {
+      "id": "2026-english2-text1-q21",
+      "questionNumber": 21,
+      "questionText": "What was the author commissioned to do about English public libraries?",
+      "options": {
+        "A": "Document their valuable traditions.",
+        "B": "Make a plan for their expansions.",
+        "C": "Obtain reader opinions on them.",
+        "D": "Look into their current situation."
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2026-english2-text1-q22",
+      "questionNumber": 22,
+      "questionText": "According to Para.3&4, the author finds that libraries _______.",
+      "options": {
+        "A": "boast desirable book collections.",
+        "B": "keep detailed visitor records.",
+        "C": "preform diversified functions.",
+        "D": "attract mostly young readers."
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2026-english2-text1-q23",
+      "questionNumber": 23,
+      "questionText": "It is implied in Para. 5 that libraries should ________.",
+      "options": {
+        "A": "be given greater attention.",
+        "B": "impose stricter visit limits.",
+        "C": "work with private institutions.",
+        "D": "get their equipment upgraded."
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2026-english2-text1-q24",
+      "questionNumber": 24,
+      "questionText": "The statistics mentioned in P6 show ________.",
+      "options": {
+        "A": "the crisis faced by libraries.",
+        "B": "the advancement of libraries.",
+        "C": "the contributions of libraries.",
+        "D": "the flaws existing in libraries"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2026-english2-text1-q25",
+      "questionNumber": 25,
+      "questionText": "Which of the following is suggested for libraries in the last paragraph?",
+      "options": {
+        "A": "Inviting public feedback.",
+        "B": "Seeking adequate funding.",
+        "C": "Improving user convenience.",
+        "D": "Offering lifetime memberships."
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}

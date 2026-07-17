@@ -1,0 +1,92 @@
+{
+  "id": "2022-english2-text3",
+  "year": 2022,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "阅读文章",
+  "passage": "We have all encountered them, in both our personal and professional lives. Think about the times you felt tricked or frustrated by a membership or subscription that had a seamless sign-up process but was later difficult to cancel something that should be simple and transparent can be complicated, intentionally or unintentionally, in ways that impair consumer choice. These are examples of dark patterns.\n First coined in 2010 by user experience expert Harry Brignull, \"dark patterns\" is a catchall term for practices that manipulate user interfaces to influence the decision-making ability of users. Brignull identifies 12 types of common dark patterns, ranging from misdirection and hidden costs to roach motel, where a user experience seems easy and intuitive at the start, but turns difficult when the user tries to get out.\n In a 2019 study of 53,000 product pages and 11,000 websites, researchers found that about one in 10 employs these design practices. Though widely prevalent, the concept of dark patterns is still not well understood. Business and nonprofit leaders should be aware of dark patterns and try to avoid the gray areas they engender.\n Where is the line between ethical, persuasive design and dark patterns? Businesses should engage in conversations with IT, compliance, risk, and legal teams to review their privacy policy, and include in the discussion the customer/user experience designers and coders responsible for the company's user interface, as well as the marketers and advertisers responsible for sign-ups, checkout baskets, pricing, and promotions. Any or all these teams can play a role in creating or avoiding \"digital deception\".\n Lawmakers and regulators are slowly starting to address the ambiguity around dark patterns, most recently at the state level. In March, the California Attorney General announced the approval of additional regulations under the California Consumer Privacy Act (CCPA) that ensures that consumers will not be confused or misled when seeking to exercise their data privacy rights. The regulations aim to ban dark pattern-this means prohibiting companies from using confusing language or unnecessary steps such as forcing them to click through multiple screens or listen to reasons why they shouldn't opt out.\n As more states consider promulgating additional regulations, there is a need for greater accountability from within the business community. Dark patterns also be addressed on a selfregulatory basis, but only if organizations hold themselves accountable, not just to legal requirements, but also to industry best practices and standard.",
+  "questions": [
+    {
+      "id": "2022-english2-text3-q31",
+      "questionNumber": 31,
+      "questionText": "It can be learned from the first two paragraphs that dark patterns __________.",
+      "options": {
+        "A": "improve user experiences",
+        "B": "leak user information for profit",
+        "C": "undermine users' decision-making",
+        "D": "remind users of hidden costs"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2022-english2-text3-q32",
+      "questionNumber": 32,
+      "questionText": "The 2019 study on dark patterns is mentioned to show __________.",
+      "options": {
+        "A": "their major flaws",
+        "B": "their complex designs",
+        "C": "their severe damage",
+        "D": "their strong presence"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2022-english2-text3-q33",
+      "questionNumber": 33,
+      "questionText": "To handle digital deception, businesses should __________.",
+      "options": {
+        "A": "listen to customer feedback",
+        "B": "talk with relevant teams",
+        "C": "turn to independent agencies",
+        "D": "rely on professional training"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2022-english2-text3-q34",
+      "questionNumber": 34,
+      "questionText": "The additional regulations under the CCPA are intended to __________.",
+      "options": {
+        "A": "guide users through opt-out processes",
+        "B": "protect consumers from being tricked",
+        "C": "grant companies data privacy rights",
+        "D": "restrict access to problematic content"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2022-english2-text3-q35",
+      "questionNumber": 35,
+      "questionText": "According to the last paragraph, a key to coping with dark patterns is __________.",
+      "options": {
+        "A": "new legal requirements",
+        "B": "businesses' self -discipline",
+        "C": "strict regulatory standards",
+        "D": "consumers' safety awareness"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}

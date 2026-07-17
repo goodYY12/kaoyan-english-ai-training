@@ -1,0 +1,92 @@
+{
+  "id": "2023-english2-text2",
+  "year": 2023,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "阅读文章",
+  "passage": "It's easy to dismiss as absurd the federal government's ideas for plugging the chronic funding gap of our national parks. Can anyone really think it's a good idea to allow Amazon deliveries to your tent in Yosemite or food trucks to line up under the redwood trees at Sequoia National Park?\n But the government is right about one thing: U.S. national parks are in crisis. Collectively, they have a maintenance backlog of more than $12 billion. Roads, trails, restrooms, visitor centers and other infrastructure are crumbling.\n But privatizing and commercializing the campgrounds would not be a cure-all. Campgrounds are a tiny portion of the overall infrastructure backlog, and businesses in the parks hand over, on average, only about 5% of their revenues to the National Park Service.\n Moreover, increased privatization would certainly undercut one of the major reasons why 300 million visitors come to the parks each year: to enjoy nature and get a break from the commercial drumbeat that overwhelms daily life.\n The real problem is that the parks have been chronically starved of funding. We conducted a comprehensive survey examining how U.S. residents view their national parks, and we found that Americans place a very high value on them—whether or not they actually visit them. The peer-reviewed economic survey of 700 U.S. taxpayers, conducted by mail and internet, also found that people would be willing to pay a significant amount of money to make sure the parks and their programs are kept intact. Some 81% of respondents said they would be willing to pay additional taxes for the next 10 years to avoid any cuts to the national parks.\n The national parks provide great value to U.S. residents both as places to escape as symbols of nature. On top of this, they produce value from their programs, their positive impact on the climate through carbon sequestration, their contribution to our cultural and artistic life, and of course through tourism. The parks also help keep America's past alive, working with thousands of local jurisdictions around the country to protect historical sites-including Ellis Island and Gettysburg-and to bring the stories of these places to life.\n The parks do all this on a shoestring. Congress allocates only $3 billion a year to the national park system-an amount that has been flat since 2001 (in inflation-adjusted dollars) with the exception of a one-time boost in 2009 as part of the Obama stimulus package. Meanwhile, the number of annual visitors has increased by more than 50% since 1980, and now stands at 330 million visitors per year.",
+  "questions": [
+    {
+      "id": "2023-english2-text2-q26",
+      "questionNumber": 26,
+      "questionText": "What problem are U.S. national parks faced with?",
+      "options": {
+        "A": "Decline of business profits.",
+        "B": "Inadequate commercialization.",
+        "C": "Lack of transportation services.",
+        "D": "Poorly maintained infrastructure."
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2023-english2-text2-q27",
+      "questionNumber": 27,
+      "questionText": "Increased privatization of the campgrounds may",
+      "options": {
+        "A": "spoil visitor experience",
+        "B": "help preserve nature",
+        "C": "bring operational pressure",
+        "D": "boost visits to parks"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2023-english2-text2-q28",
+      "questionNumber": 28,
+      "questionText": "According to Paragraph 5, most respondents in the survey would",
+      "options": {
+        "A": "go to the national parks on a regular basis",
+        "B": "advocate a bigger budget for the national parks",
+        "C": "agree to pay extra for the national parks",
+        "D": "support the national parks' recent reforms"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2023-english2-text2-q29",
+      "questionNumber": 29,
+      "questionText": "The national parks are valuable in that they",
+      "options": {
+        "A": "lead the way in tourism",
+        "B": "have historical significance",
+        "C": "sponsor research on climate",
+        "D": "provide an income for the locals"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2023-english2-text2-q30",
+      "questionNumber": 30,
+      "questionText": "It can be concluded from the text that the national park system",
+      "options": {
+        "A": "is able to cope with staff shortages",
+        "B": "is able to meet visitors' demands",
+        "C": "is in need of a new pricing policy",
+        "D": "is in need of a funding increase"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}

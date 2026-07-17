@@ -1,0 +1,92 @@
+{
+  "id": "2026-english2-text2",
+  "year": 2026,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "阅读文章",
+  "passage": "According to our research, around one in five workers in the UK talk to AI like a friend, looking for guidance on personal and professional problems. Our data shows that engaging with AI like this can leave us feeling heard and less isolated. But, with this newfound connection, many of us share sensitive, sometimes highly confidential information, even though over a third of people don’t realise that AI platforms may not be very good at keeping our secrets...\n For business, the implications are worrying. Consider Microsoft Copilot, for example. It gains Microsoft broad rights to the data inputted or outputted by any user – rights to use this data in any way it sees fit; it can even share it with third parties. This means that any way it sees fit, it can even share it with third parties. This means that any sensitive business information could potentially be exposed to the world. Employers are taking note and taking action. According to our research, 25% have decided to either outright ban AI or regulate its use within their organisations. But even with these policies in place, some employees choose to break the rules. They have their reasons – around 63% of them report that using AI increases their productivity, and some even feel AI offers more help than their human colleagues.\n The situation presents a delicate balance between leveraging AI for its productivity gains and risking confidential data exposure. Employers need to manage AI tools with the same level of care as any other form of data sharing or storage. There's also a knowledge gap that needs to be addressed — 40% of individuals surveyed are unsure about who retains ownership over the content produced by AI. By instilling best practices in AI engagement and creating policies that evolve with the technology, business can positively shift the AI landscape.\n With AI's potential to simplify our professional lives, do the admin and enhance the work experience. It's up to us to navigate its usage cautiously so it supports us without compromising our privacy. There's no need to back away from progress, as long as we're equipped with the knowledge and tools to make sure AI remains a friend. And this is where the challenge lies. There are so many products out there, being promoted with huge advertising and marketing budgets, that it's easy to fall victim. But by building a culture of digital responsibility within our business, we can create a future where AI can help us without spilling the beans.",
+  "questions": [
+    {
+      "id": "2026-english2-text2-q26",
+      "questionNumber": 26,
+      "questionText": "According to Paragraph 1, workers’ engagement with AI can ________.",
+      "options": {
+        "A": "facilitate their career progress",
+        "B": "give them emotional support",
+        "C": "help maintain their motivation",
+        "D": "improve workplace communication"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2026-english2-text2-q27",
+      "questionNumber": 27,
+      "questionText": "Microsoft Copilot is cited to show that the use of AI may ________.",
+      "options": {
+        "A": "pose a threat to businesses",
+        "B": "generate unnecessary data",
+        "C": "promote business cooperation",
+        "D": "encourage information sharing"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2026-english2-text2-q28",
+      "questionNumber": 28,
+      "questionText": "Some employees choose to break the rules on AI due to ________.",
+      "options": {
+        "A": "easy access to AI products",
+        "B": "the desire to stay well-informed",
+        "C": "its significant role in their work",
+        "D": "the need to compete with others"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2026-english2-text2-q29",
+      "questionNumber": 29,
+      "questionText": "To positively shift the AI landscape, businesses should ________.",
+      "options": {
+        "A": "increase the transparency of their data sources",
+        "B": "prioritise the quality of AI-produced content",
+        "C": "include employee perspectives in their rules",
+        "D": "adjust their management to AI development"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2026-english2-text2-q30",
+      "questionNumber": 30,
+      "questionText": "According to the last paragraph, we may easily fall victim to AI as we ________.",
+      "options": {
+        "A": "have a limited understanding of it",
+        "B": "underestimate its economic costs",
+        "C": "tend to overemphasise its power",
+        "D": "are excessively exposed to it"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}

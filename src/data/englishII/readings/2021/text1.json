@@ -1,0 +1,92 @@
+{
+  "id": "2021-english2-text1",
+  "year": 2021,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 1",
+  "title": "阅读文章",
+  "passage": "\"Reskiling\" is something that sounds like a buzzword but is actually a requirement if we plan to have a future where a lot of would-be workers do not get left behind. We know we are moving into a period where the jobs in demand will change rapidly, as will the requirements of the jobs that remain. Research by the WEF detailed in the Harvard Business Review, finds that on average 42 per cent of the core skill'l within job roles will change by 2022, at a pace that is three times faster than on average. That is a very short timeline, so we can only imagine what the changes will be like in the future.\n The question of who should pay for reskiling is a thorny one. For individual companies, the temptation is always to let go of workers whose skills are no longer in demand and replace them with those whose skills are. That does not always happen. AT&T is often given as the gold standard of a company who decided to do a massive reskiling program rather than go with a fire-and-hire strategy, ultimately retraining 18,000 employers., Prepandemic, other companies including Amazon and Disney had also pledged to create their own plans. When the skills mismatch is in the broader economy though, the focus usually turns to government to handle. Efforts in Canada and elsewhere have been arguably languid at best, and have given us a situation where we frequently hear of employers begging for workers, even at times and in regions where unemployment is high.\n With the pandemic, unemployment is very high indeed. In February, at 3.5 per cent and 5.4 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere. As of May, those rates had spiked up to 13.3 per cent and 13.7 per cent, and although many worker shortages had disappeared, not all had done so. In the medical filed, to take an obvious example, the pandemic meant that there were still clear shortages of doctors, nurses and other medical personnel.\n Of course, it is not like you can take an unemployed waiter and train him to be a doctor in a few weeks, no matter who pays for it. But even if you cannot close that gap, maybe you can close others, and doing so would be to the benefit of all concerned. That seems to be the case in Sweden: when forced to furlough 90 per cent of their cabin staff, Scandinavian Airlines decided to start up a short retraining program that reskilled the laid-off workers to support hospital staff. The effort was a collective one and involved other companies as well as a Swedish university.",
+  "questions": [
+    {
+      "id": "2021-english2-text1-q21",
+      "questionNumber": 21,
+      "questionText": "Research by the World Economic Forum suggests",
+      "options": {
+        "A": "a controversy about the \"core skills\"",
+        "B": "an increase in full-time employment",
+        "C": "an urgent demand for new job skills",
+        "D": "a steady growth of job opportunities"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2021-english2-text1-q22",
+      "questionNumber": 22,
+      "questionText": "AT&T is cited to show",
+      "options": {
+        "A": "an immediate need for government support",
+        "B": "an alternative to the fire-and-hire strategy",
+        "C": "the characteristics of reskilling programs",
+        "D": "the importance of staff appraisal standards"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2021-english2-text1-q23",
+      "questionNumber": 23,
+      "questionText": "Efforts to resolve the skills mismatch in Canada",
+      "options": {
+        "A": "have appeared to be insufficient",
+        "B": "have driven up labour costs",
+        "C": "have proved to be inconsistent",
+        "D": "have met with fierce opposition"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2021-english2-text1-q24",
+      "questionNumber": 24,
+      "questionText": "We can learn from Paragraph 3 that there was",
+      "options": {
+        "A": "a sign of economic recovery",
+        "B": "a call for policy adjustment",
+        "C": "a change on hiring practice",
+        "D": "a lack of medical workers"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2021-english2-text1-q25",
+      "questionNumber": 25,
+      "questionText": "Scandinavian Airlines decided to",
+      "options": {
+        "A": "create job vacancies for the unemployed",
+        "B": "retrain their cabin staff for better services",
+        "C": "prepare their laid-off workers for other jobs",
+        "D": "finance their staff's college education"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}

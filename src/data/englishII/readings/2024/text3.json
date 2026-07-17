@@ -1,0 +1,92 @@
+{
+  "id": "2024-english2-text3",
+  "year": 2024,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "阅读文章",
+  "passage": "One big challenge in keeping unsafe aging drivers off the road is convincing them that it is time to turn over the key. It is a complete life-changer when someone stops-or is forced to stop-driving, said former risk manager Anne M. Menke.\n The American Medical Association advises physicians that in situation where clear evidence of substantial driving impairment implies a strong threat to patient and public safety, and where the physician’s advice to discontinue driving privileges is ignored, it is desirable and ethical to notify the Department of Motor Vehicles, Menke wrote. “Some states require physicians to report, others allow but do not mandate reports, while a few consider a report breach of confidentiality. There could be liability and penalties if a physician does not act in accordance with state laws on reporting and confidentiality ” she counseled.\n Part of the problem in keeping older drivers safe is that the difficulties are addressed piecemeal by different professions with different focuses, including gerontologists, highway administration officials, automotive engineers and others, said gerontologist Elizabeth Dugan. \"There's not a National Institute of Older Driver Studies,\" she said. \"We need better evidence on what makes drivers unsafe\" and what can help, said Dugan.\n One thing that does seem to work is requiring drivers to report in person for license renewal. Mandatory in-person renewal was associated with a 31 percent reduction in fatal crashes involving drivers 85 or older, according to one study. Passing vision tests also produced a similar decline in fatal crashes for those drivers, although there appeared to be no benefit from combining the two.\n Many old drivers don't see eye doctors or can't afford to. Primary care providers have their hands full and may not be able to follow through with patients who have trouble driving because they can't turn their heads or remember where they are going-or have gotten shorter and haven't changed their seat settings sufficiently to reach car pedals easily,\n As long as there are other cars on the roads, self-driving cars won't solve the problems of crashes, said Dugan. Avoiding dangers posed by all those human drivers would require to many algorithms, she said. But we need to do more to improve safety, said Dugan. \"If we're going to have 100-year lives, we need cars that a 90-year-old can drive comfortably.\"",
+  "questions": [
+    {
+      "id": "2024-english2-text3-q31",
+      "questionNumber": 31,
+      "questionText": "According to paragraph l, keeping unsafe aging drivers off the road__________.",
+      "options": {
+        "A": "is a new safety measure",
+        "B": "has become a disputed issue",
+        "C": "can be a toughs task to complete",
+        "D": "will be beneficial to their health"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2024-english2-text3-q32",
+      "questionNumber": 32,
+      "questionText": "The American Medial Association's advice__________.",
+      "options": {
+        "A": "has won support form driver",
+        "B": "is generally considered unrealistic",
+        "C": "is widely dismissed as unnecessary",
+        "D": "has met with different responses"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2024-english2-text3-q33",
+      "questionNumber": 33,
+      "questionText": "According to Dugan, efforts to keep older drivers safe __________.",
+      "options": {
+        "A": "have brought about big changes",
+        "B": "need to be well coordinated",
+        "C": "have gained public recognition",
+        "D": "call for relevant legal support"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2024-english2-text3-q34",
+      "questionNumber": 34,
+      "questionText": "Some older drivers have trouble driving because they tend to__________.",
+      "options": {
+        "A": "stick with bad driving habits",
+        "B": "have a weakened memory",
+        "C": "suffer from chronic pains",
+        "D": "neglect car maintenance"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2024-english2-text3-q35",
+      "questionNumber": 35,
+      "questionText": "Dugan thinks that the solution to the problems of crashes may lie__________.",
+      "options": {
+        "A": "upgrading self-driving vehicles",
+        "B": "developing senior-friendly cars",
+        "C": "renovating transport facilities",
+        "D": "adjusting the age limit for drivers"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2022-english2-translation",
+  "year": 2022,
+  "paper": "英语二",
+  "sourceType": "真题",
+  "sourceNote": "翻译原文和参考译文已根据公开真题页面核验。",
+  "items": [
+    {
+      "id": "2022-english2-translation-46",
+      "sourceText": "Directions\n In this section there is a text in English. Translate it into Chinese. Write your translation on ANSWER SHEET 2. (15 points)\n Although we try our best, sometimes our paintings rarely turn out as originally planned. Changes in the light, the limitations of your painting materials, and the lack of experience and technique mean that what you start out trying to achieve may not come to life the way that you expected.\n Although this can be frustrating and disappointing, it turns out that this can actually be good for you. Unexpected results have two benefits: you pretty quickly learn to deal with disappointment and realize that when one door closes, another opens. You also quickly learn to adapt and come up with creative solutions to the problems the painting presents and thinking outside the box will become your second nature.\n In fact, creative problem-solving skills are incredibly useful in daily life, with which you are more likely to be able to find a solution when a problem arises.",
+      "referenceTranslation": "尽管我们已竭尽全力，但有时画作还是难以达到预期效果。光线的变化、绘画材料的局限、经验和技巧的不足，都可能导致最初想要呈现的效果无法如愿实现。",
+      "keyPoints": [],
+      "phrases": [],
+      "sentenceAnalysis": [],
+      "commonMistakes": []
+    }
+  ]
+}

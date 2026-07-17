@@ -1,0 +1,92 @@
+{
+  "id": "2024-english2-text2",
+  "year": 2024,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 2",
+  "title": "阅读文章",
+  "passage": "The UK is facing a future construction crisis because of a failure to plant trees to produce wood, Confor has warned. The forestry and wood trade body has called for urgent action to reduce the country ’s reliance on timber imports and provide a stable supply of wood for future generations. Currently only 20 percent of the UK’s wood requirement is home-grown while it remains the second-largest net importer of timber in the world.\n Coming at a time of fresh incentives from the UK government for landowners to grow more trees, the trade body says these don’t go far enough and fail to promote the benefits of planting them to boost timber supplies. “Not only are we facing a carbon crisis now, but we will also be facing a future construction crisis because of failure to plant trees to produce wood. ” said Stuart Goodall, chief executive of Confor. \"For decades we have not taken responsibility for investing in our domestic wood supply, leaving us exposed to fluctuating prices and fighting for future supplies of wood as global demand rises and our own supplies fall.\"\n The UK has ideal conditions for growing wood to build low-carbon homes and is a global leader in certifying that its forests are sustainably managed, Confor says. While around three quarters of Scottish homes are built from Scottish timber, the use of home-grown wood in England is only around 25 percent.\n While productive tree planting can deliver real financial benefits to rural economies and contribute to the UK's net-zero strategy, the focus of government support continues to be on food production and the rewinding and planting of native woodland solely for biodiversity. Goodall add:“ While food production and biodiversity are clearly of critical importance, we need our land to also provide secure supplies of wood for construction, manufacturing and contribute to net zero.\n “While the UK government has stated its ambition for more tree planting, there has been little action on the ground.\" Confor is now calling for much greater impetus behind those aspirations to ensure we have enough wood to meet increasing demand.\"",
+  "questions": [
+    {
+      "id": "2024-english2-text2-q26",
+      "questionNumber": 26,
+      "questionText": "It can learned from paragraph l that UK needs to __________.",
+      "options": {
+        "A": "increase its domestic wood supply",
+        "B": "reduce its demand for timber",
+        "C": "lower its wood production costs",
+        "D": "lift its control on timber imports"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2024-english2-text2-q27",
+      "questionNumber": 27,
+      "questionText": "According to confor, the UK government's fresh incentives __________.",
+      "options": {
+        "A": "can hardly address a construction crisis",
+        "B": "are believed to come at a wrong time",
+        "C": "seem to be misleading for landowners",
+        "D": "will be too costly to put into practice"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2024-english2-text2-q28",
+      "questionNumber": 28,
+      "questionText": "The UK's exposure to fluctuating wood prices is a result of __________.",
+      "options": {
+        "A": "the government's inaction on timber imports",
+        "B": "inadequate investment in growing wood",
+        "C": "the competition among timber traders at home",
+        "D": "Wood producers' motive to maximise profits"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2024-english2-text2-q29",
+      "questionNumber": 29,
+      "questionText": "Which of the following causes the shortage of wood supply in the UK?",
+      "options": {
+        "A": "Excessive timber consumption in construction",
+        "B": "Unfavourable conditions for growing wood",
+        "C": "Outdated technologies of the wood industry",
+        "D": "Farmers' unwillingness to plant trees."
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2024-english2-text2-q30",
+      "questionNumber": 30,
+      "questionText": "What does Good all think the UK government should do?",
+      "options": {
+        "A": "Subsidise the building of low-carbon homes",
+        "B": "Pay greater attention to boosting rural economies",
+        "C": "Provide more support for productive three planting",
+        "D": "Give priority to pursuing its net-zero strategy"
+      },
+      "answer": "C",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}

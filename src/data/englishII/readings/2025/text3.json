@@ -1,0 +1,92 @@
+{
+  "id": "2025-english2-text3",
+  "year": 2025,
+  "paper": "英语二",
+  "paperType": "English II",
+  "section": "Reading Comprehension",
+  "textNumber": "Text 3",
+  "title": "阅读文章",
+  "passage": "Heat action plans, or HAPs, have been proliferating in India in the past few years. In general, an HAP spells out when and how officials should issue heat warnings and alert hospitals and other institutions. Nagpur's plan, for instance, calls for hospirals to set aside \"cold wards\" in the summer for treating heatstroke patient, and advises builders to give construction laborers a break from work on very hot days.\n But implementation of existing HAPs has been uneven, according to a report from the Center for Policy Research. Many Iack adequate funding, it found. And their triggering thresholds ofien are not customized to the local climate.In some areas, high daytime temperatures alone might serve as an adequate trigger for alerts. But in other places, nightime temperatures or humidity might be as important a gauge of risk as daytime highs.\n Mumbai's April heat stroke deaths highlighted the need for more nuanced and localized warings, researchers say. That day's high temperature of roughly 36°C was 1℃C shy of the heat wave alert threshold for coastal cities set by national meteorological authorities. But the effects of the heat were amplified by humidity-an often neglected factor in heat alert systems-and the lack of shade at the late-morning outdoor ceremony.\n To help improve HAPs,urban planner Kotharkar's team is working on a model plan that outlines best practices and could be adapted to local condions. Among other things, she says, all icshoud ceat a ueraliy wap to elp focus responses on the populations most at risk.\n Such mapping doesn't need to be complex, Kotharkar says.\"A useful map can be created by looking at even a few key parameters.\" Por eample, neighborhoods with a large elderly population or informal dwellings that cope poorly with heat could get special warnings or be bolstered with cooling centers. The Nagpur project has already created a risk and vulnerability map, which enabled Kotharkar to tell officials which neighborhoods to focus on in the event of a heat wave this summer.\n HAPs shouldn't just include short-term emergency responses, esearchers say,but also recommend medium- to long-term measures that could make communities cooler. In Nagpur, for example, Kotharkar's team has been able to advise city officials about where to plant trees to provide shade. HAPs could als guide efforts to retofit homes or modify building regulations.\"Reducing deaths in an emergency is good target to have, but it's the lowest target,\"says climate researcher Chandni Singh",
+  "questions": [
+    {
+      "id": "2025-english2-text3-q31",
+      "questionNumber": 31,
+      "questionText": "According to Paragraph 1, Nagpur's plan proposes measures to",
+      "options": {
+        "A": "tackle extreme weather",
+        "B": "ensure construction quality",
+        "C": "monitor emergency warnings",
+        "D": "address excessive workloads"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2025-english2-text3-q32",
+      "questionNumber": 32,
+      "questionText": "One problem with existing HAPs is that they",
+      "options": {
+        "A": "prove too costly to be implemented",
+        "B": "lack localized allert-issuing criteria",
+        "C": "give delayed responses to heat waves",
+        "D": "keep hospitals under great pressure"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2025-english2-text3-q33",
+      "questionNumber": 33,
+      "questionText": "Mumbai's case shows that India's heat alert systems need to",
+      "options": {
+        "A": "include other factors besides temperature",
+        "B": "take subtle weather changes into account",
+        "C": "prioritize potentially disastrous heat waves",
+        "D": "draw further support from local authorities"
+      },
+      "answer": "A",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2025-english2-text3-q34",
+      "questionNumber": 34,
+      "questionText": "Kotharkar holds that a vulnerability map can help",
+      "options": {
+        "A": "prevent the harm of high humidity",
+        "B": "target areas needing special attention",
+        "C": "expand the Nagpur project's coverage",
+        "D": "make relief plans for heat-stricken people"
+      },
+      "answer": "B",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    },
+    {
+      "id": "2025-english2-text3-q35",
+      "questionNumber": 35,
+      "questionText": "According to the last paragraph, researchers suggest that HAPs should",
+      "options": {
+        "A": "focus more on the heatstroke treatment",
+        "B": "invite wider publi participation",
+        "C": "apply for more government grants",
+        "D": "serve a broader range of purposes"
+      },
+      "answer": "D",
+      "type": "待补充",
+      "explanation": "解析待补充。",
+      "commonMistake": "待补充。"
+    }
+  ],
+  "vocabularyGroups": {
+    "coreWords": [],
+    "familiarWordsWithNewMeanings": []
+  },
+  "sourceNote": "题干、选项与答案已根据公开真题页面及其答案速对表交叉核验；题型和学习解析待补充。"
+}
