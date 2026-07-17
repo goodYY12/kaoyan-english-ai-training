@@ -36,14 +36,16 @@ for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
 }
 console.log("2011: reading OCR corrections and question choices verified");
 
-const text1Vocabulary = readingEnhancements2011["2011-english2-text1"].vocabulary;
-if (text1Vocabulary.length < 20) throw new Error("2011 Text 1: at least twenty vocabulary items are required");
-for (const item of text1Vocabulary) {
-  if (!answers.has(item.answer) || !["A", "B", "C", "D"].every((key) => item.options[key])) {
-    throw new Error(`2011 Text 1 vocabulary ${item.word}: invalid self-test choices`);
+for (const textNumber of [1, 2]) {
+  const textVocabulary = readingEnhancements2011[`2011-english2-text${textNumber}`].vocabulary;
+  if (textVocabulary.length < 20) throw new Error(`2011 Text ${textNumber}: at least twenty vocabulary items are required`);
+  for (const item of textVocabulary) {
+    if (!answers.has(item.answer) || !["A", "B", "C", "D"].every((key) => item.options[key])) {
+      throw new Error(`2011 Text ${textNumber} vocabulary ${item.word}: invalid self-test choices`);
+    }
   }
 }
-console.log("2011 Text 1: vocabulary self-test data verified");
+console.log("2011 Text 1-2: vocabulary self-test data verified");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
