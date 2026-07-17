@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { readingEnhancements2010 } from "../src/data/englishII/readingEnhancements2010.js";
+import { applyEnglishIIReadingCorrections } from "../src/data/englishII/readingCorrections2011.js";
 
 const root = process.cwd();
 const dataDir = path.join(root, "src", "data", "englishII");
@@ -18,6 +19,21 @@ for (const [readingId, reading] of enhanced2010Readings) {
   }
 }
 console.log("2010: reading analysis and vocabulary self-test data verified");
+
+for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
+  const rawReading = readJson(path.join(dataDir, "readings", "2011", `text${textNumber}.json`));
+  const reading = applyEnglishIIReadingCorrections(rawReading);
+  if (reading.questions.length !== 5) throw new Error(`2011 Text ${textNumber}: five questions are required`);
+  if (/\b(Fims|eroticism|cnormous|uremarked|hratened|returming|cheerleder)\b/i.test(reading.passage)) {
+    throw new Error(`2011 Text ${textNumber}: unresolved OCR text remains`);
+  }
+  for (const question of reading.questions) {
+    if (!question.questionText || !["A", "B", "C", "D"].every((key) => question.options[key])) {
+      throw new Error(`2011 Text ${textNumber} Q${question.questionNumber}: corrected question data is incomplete`);
+    }
+  }
+}
+console.log("2011: reading OCR corrections and question choices verified");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));

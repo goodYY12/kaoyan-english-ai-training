@@ -5,6 +5,7 @@ import translationItems from "../data/englishII/translationItems.json" with { ty
 import writingTemplates from "../data/englishII/writingTemplates.json" with { type: "json" };
 import studyGuides from "../data/englishII/studyGuides.json" with { type: "json" };
 import { readingEnhancements2010 } from "../data/englishII/readingEnhancements2010.js";
+import { applyEnglishIIReadingCorrections } from "../data/englishII/readingCorrections2011.js";
 import {
   englishIIClozeItems,
   englishIITranslationItems,
@@ -33,22 +34,23 @@ function normalizeQuestion(question, reading) {
 
 export function getEnglishIIReadings() {
   return readingData.map((reading) => {
-    const enhancement = readingEnhancements2010[reading.id] ?? {};
+    const correctedReading = applyEnglishIIReadingCorrections(reading);
+    const enhancement = readingEnhancements2010[correctedReading.id] ?? {};
     const questionEnhancements = enhancement.questions ?? {};
     const normalized = {
-      ...reading,
+      ...correctedReading,
       ...enhancement,
-      id: reading.id ?? `${reading.year}-english2-text${reading.textNumber}`,
+      id: correctedReading.id ?? `${correctedReading.year}-english2-text${correctedReading.textNumber}`,
       paper: "英语二",
       paperType: "English II",
-      title: reading.title ?? "",
-      passage: reading.passage ?? "",
+      title: correctedReading.title ?? "",
+      passage: correctedReading.passage ?? "",
       questions: [],
-      vocabulary: enhancement.vocabulary ?? reading.vocabulary ?? [],
-      vocabularyGroups: enhancement.vocabularyGroups ?? reading.vocabularyGroups ?? {},
-      readingTips: reading.readingTips ?? [],
+      vocabulary: enhancement.vocabulary ?? correctedReading.vocabulary ?? [],
+      vocabularyGroups: enhancement.vocabularyGroups ?? correctedReading.vocabularyGroups ?? {},
+      readingTips: correctedReading.readingTips ?? [],
     };
-    normalized.questions = (reading.questions ?? []).map((question) =>
+    normalized.questions = (correctedReading.questions ?? []).map((question) =>
       normalizeQuestion({ ...question, ...(questionEnhancements[question.id] ?? {}) }, normalized),
     );
     return normalized;
