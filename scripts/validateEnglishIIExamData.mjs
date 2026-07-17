@@ -36,7 +36,7 @@ for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
 }
 console.log("2011: reading OCR corrections and question choices verified");
 
-for (const textNumber of [1, 2]) {
+for (const textNumber of [1, 2, 3]) {
   const textVocabulary = readingEnhancements2011[`2011-english2-text${textNumber}`].vocabulary;
   if (textVocabulary.length < 20) throw new Error(`2011 Text ${textNumber}: at least twenty vocabulary items are required`);
   for (const item of textVocabulary) {
@@ -45,7 +45,7 @@ for (const textNumber of [1, 2]) {
     }
   }
 }
-console.log("2011 Text 1-2: vocabulary self-test data verified");
+console.log("2011 Text 1-3: vocabulary self-test data verified");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
