@@ -47,6 +47,16 @@ for (const textNumber of [1, 2, 3, 4]) {
 }
 console.log("2011 Text 1-4: vocabulary self-test data verified");
 
+const verified2012ReadingAnswers = ["ACABD", "ABDCC", "CBADD", "DDBDA"];
+for (const [index, expectedAnswers] of verified2012ReadingAnswers.entries()) {
+  const reading = readJson(path.join(dataDir, "readings", "2012", `text${index + 1}.json`));
+  const actualAnswers = reading.questions.map((question) => question.answer).join("");
+  if (actualAnswers !== expectedAnswers) {
+    throw new Error(`2012 Text ${index + 1}: expected ${expectedAnswers}, received ${actualAnswers}`);
+  }
+}
+console.log("2012: verified reading answer keys confirmed");
+
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }
