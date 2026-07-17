@@ -73,9 +73,9 @@
       "questionNumber": 40,
       "questionText": "The author thinks that the influence of hard times on society is",
       "options": {
-        "A": "trivial",
+        "A": "certain",
         "B": "positive",
-        "C": "certain",
+        "C": "trivial",
         "D": "destructive"
       },
       "answer": "A",

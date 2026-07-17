@@ -13,10 +13,10 @@
       "questionNumber": 31,
       "questionText": "It can be learned from paragraph 1 that the biotech companies would like",
       "options": {
-        "A": "genes to be patentable",
-        "B": "the BIO to issue a warning",
-        "C": "their executives to be active",
-        "D": "judges to rule out gene patenting"
+        "A": "their executives to be active",
+        "B": "judges to rule out gene patenting",
+        "C": "genes to be patentable",
+        "D": "the BIO to issue a warning"
       },
       "answer": "C",
       "type": "待补充",
@@ -43,8 +43,8 @@
       "questionNumber": 33,
       "questionText": "According to Hans Saue, companies are eager to win patents for",
       "options": {
-        "A": "discovering gene interactions",
-        "B": "establishing disease correlations",
+        "A": "establishing disease correlations",
+        "B": "discovering gene interactions",
         "C": "drawing pictures of genes",
         "D": "identifying human DNA"
       },
