@@ -58,7 +58,7 @@ for (const [index, expectedAnswers] of verified2012ReadingAnswers.entries()) {
 }
 console.log("2012: verified reading answer keys confirmed");
 
-for (const textNumber of [1, 2, 3]) {
+for (const textNumber of [1, 2, 3, 4]) {
   const enhancedReading = readingEnhancements2012[`2012-english2-text${textNumber}`];
   if (enhancedReading.vocabulary.length < 20 || Object.keys(enhancedReading.questions).length !== 5) {
     throw new Error(`2012 Text ${textNumber}: analysis or vocabulary self-test data is incomplete`);
@@ -69,7 +69,7 @@ for (const textNumber of [1, 2, 3]) {
     }
   }
 }
-console.log("2012 Text 1-3: reading analysis and vocabulary self-test data verified");
+console.log("2012 Text 1-4: reading analysis and vocabulary self-test data verified");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
