@@ -48,7 +48,7 @@ for (const textNumber of [1, 2, 3, 4]) {
 }
 console.log("2011 Text 1-4: vocabulary self-test data verified");
 
-const verified2012ReadingAnswers = ["ACABD", "ABDCC", "CBADD", "DDBDA"];
+const verified2012ReadingAnswers = ["ACABD", "ABACC", "CBACD", "DDBDA"];
 for (const [index, expectedAnswers] of verified2012ReadingAnswers.entries()) {
   const reading = readJson(path.join(dataDir, "readings", "2012", `text${index + 1}.json`));
   const actualAnswers = reading.questions.map((question) => question.answer).join("");
@@ -58,16 +58,18 @@ for (const [index, expectedAnswers] of verified2012ReadingAnswers.entries()) {
 }
 console.log("2012: verified reading answer keys confirmed");
 
-const enhanced2012Text1 = readingEnhancements2012["2012-english2-text1"];
-if (enhanced2012Text1.vocabulary.length < 20 || Object.keys(enhanced2012Text1.questions).length !== 5) {
-  throw new Error("2012 Text 1: analysis or vocabulary self-test data is incomplete");
-}
-for (const item of enhanced2012Text1.vocabulary) {
-  if (!answers.has(item.answer) || !["A", "B", "C", "D"].every((key) => item.options[key])) {
-    throw new Error(`2012 Text 1 vocabulary ${item.word}: invalid self-test choices`);
+for (const textNumber of [1, 2]) {
+  const enhancedReading = readingEnhancements2012[`2012-english2-text${textNumber}`];
+  if (enhancedReading.vocabulary.length < 20 || Object.keys(enhancedReading.questions).length !== 5) {
+    throw new Error(`2012 Text ${textNumber}: analysis or vocabulary self-test data is incomplete`);
+  }
+  for (const item of enhancedReading.vocabulary) {
+    if (!answers.has(item.answer) || !["A", "B", "C", "D"].every((key) => item.options[key])) {
+      throw new Error(`2012 Text ${textNumber} vocabulary ${item.word}: invalid self-test choices`);
+    }
   }
 }
-console.log("2012 Text 1: reading analysis and vocabulary self-test data verified");
+console.log("2012 Text 1-2: reading analysis and vocabulary self-test data verified");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));

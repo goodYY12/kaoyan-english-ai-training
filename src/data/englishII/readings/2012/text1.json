@@ -43,10 +43,10 @@
       "questionNumber": 23,
       "questionText": "According to Paragraph 3,one problem with the policy is that it may",
       "options": {
-        "A": "result in students indifference to their report cards",
-        "B": "undermine the authority of state tests",
-        "C": "restrict teachers'power in education",
-        "D": "discourage students from doing homework"
+        "A": "discourage students from doing homework",
+        "B": "result in students' indifference to their report cards",
+        "C": "undermine the authority of state tests",
+        "D": "restrict teachers' power in education"
       },
       "answer": "A",
       "type": "待补充",
@@ -73,10 +73,10 @@
       "questionNumber": 25,
       "questionText": "A suitable title for this text could be",
       "options": {
-        "A": "A Faulty Approach to Homework",
+        "A": "Wrong Interpretation of an Educational Policy",
         "B": "A Welcomed Policy for Poor Students",
         "C": "Thorny Questions about Homework",
-        "D": "Wrong Interpretation of an Educational Policy"
+        "D": "A Faulty Approach to Homework"
       },
       "answer": "D",
       "type": "待补充",
