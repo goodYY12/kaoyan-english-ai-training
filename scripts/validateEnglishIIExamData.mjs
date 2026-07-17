@@ -1,10 +1,23 @@
 import fs from "node:fs";
 import path from "node:path";
+import { readingEnhancements2010 } from "../src/data/englishII/readingEnhancements2010.js";
 
 const root = process.cwd();
 const dataDir = path.join(root, "src", "data", "englishII");
 const years = Array.from({ length: 16 }, (_, index) => index + 2011);
 const answers = new Set(["A", "B", "C", "D"]);
+
+const enhanced2010Readings = Object.entries(readingEnhancements2010);
+if (enhanced2010Readings.length !== 4) throw new Error("2010: four English II reading enhancements are required");
+for (const [readingId, reading] of enhanced2010Readings) {
+  if (reading.vocabulary.length < 20) throw new Error(`${readingId}: at least twenty vocabulary items are required`);
+  for (const [questionId, question] of Object.entries(reading.questions)) {
+    if (!question.examinerThinking?.sourceSentence || !question.sentenceTraining?.sentence) {
+      throw new Error(`${questionId}: analysis fields are missing`);
+    }
+  }
+}
+console.log("2010: reading analysis and vocabulary self-test data verified");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
