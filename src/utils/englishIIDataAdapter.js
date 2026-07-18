@@ -9,6 +9,7 @@ import { readingEnhancements2011 } from "../data/englishII/readingEnhancements20
 import { readingEnhancements2012 } from "../data/englishII/readingEnhancements2012.js";
 import { readingEnhancements2013 } from "../data/englishII/readingEnhancements2013.js";
 import { applyEnglishIIReadingCorrections } from "../data/englishII/readingCorrections2011.js";
+import { applyEnglishIIReadingCorrections2013 } from "../data/englishII/readingCorrections2013.js";
 import {
   englishIIClozeItems,
   englishIITranslationItems,
@@ -37,7 +38,7 @@ function normalizeQuestion(question, reading) {
 
 export function getEnglishIIReadings() {
   return readingData.map((reading) => {
-    const correctedReading = applyEnglishIIReadingCorrections(reading);
+    const correctedReading = applyEnglishIIReadingCorrections2013(applyEnglishIIReadingCorrections(reading));
     const enhancement = readingEnhancements2010[correctedReading.id]
       ?? readingEnhancements2011[correctedReading.id]
       ?? readingEnhancements2012[correctedReading.id]
