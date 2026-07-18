@@ -7,6 +7,7 @@ import studyGuides from "../data/englishII/studyGuides.json" with { type: "json"
 import { readingEnhancements2010 } from "../data/englishII/readingEnhancements2010.js";
 import { readingEnhancements2011 } from "../data/englishII/readingEnhancements2011.js";
 import { readingEnhancements2012 } from "../data/englishII/readingEnhancements2012.js";
+import { readingEnhancements2013 } from "../data/englishII/readingEnhancements2013.js";
 import { applyEnglishIIReadingCorrections } from "../data/englishII/readingCorrections2011.js";
 import {
   englishIIClozeItems,
@@ -40,6 +41,7 @@ export function getEnglishIIReadings() {
     const enhancement = readingEnhancements2010[correctedReading.id]
       ?? readingEnhancements2011[correctedReading.id]
       ?? readingEnhancements2012[correctedReading.id]
+      ?? readingEnhancements2013[correctedReading.id]
       ?? {};
     const questionEnhancements = enhancement.questions ?? {};
     const normalized = {

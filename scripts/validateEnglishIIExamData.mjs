@@ -4,6 +4,7 @@ import { readingEnhancements2010 } from "../src/data/englishII/readingEnhancemen
 import { applyEnglishIIReadingCorrections } from "../src/data/englishII/readingCorrections2011.js";
 import { readingEnhancements2011 } from "../src/data/englishII/readingEnhancements2011.js";
 import { readingEnhancements2012 } from "../src/data/englishII/readingEnhancements2012.js";
+import { readingEnhancements2013 } from "../src/data/englishII/readingEnhancements2013.js";
 
 const root = process.cwd();
 const dataDir = path.join(root, "src", "data", "englishII");
@@ -70,6 +71,12 @@ for (const textNumber of [1, 2, 3, 4]) {
   }
 }
 console.log("2012 Text 1-4: reading analysis and vocabulary self-test data verified");
+
+const enhanced2013Text1 = readingEnhancements2013["2013-english2-text1"];
+if (enhanced2013Text1.vocabulary.length < 20 || Object.keys(enhanced2013Text1.questions).length !== 5) {
+  throw new Error("2013 Text 1: analysis or vocabulary self-test data is incomplete");
+}
+console.log("2013 Text 1: reading analysis and vocabulary self-test data verified");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
