@@ -95,6 +95,17 @@ if (enhanced2014Text1.vocabulary.length < 20 || Object.keys(enhanced2014Text1.qu
 }
 console.log("2014 Text 1: verified answers, reading analysis and vocabulary self-test data verified");
 
+const verified2014Text2Answers = "ACBAD";
+const reading2014Text2 = readJson(path.join(dataDir, "readings", "2014", "text2.json"));
+if (reading2014Text2.questions.map((question) => question.answer).join("") !== verified2014Text2Answers) {
+  throw new Error("2014 Text 2: verified answer key does not match");
+}
+const enhanced2014Text2 = readingEnhancements2014["2014-english2-text2"];
+if (enhanced2014Text2.vocabulary.length < 20 || Object.keys(enhanced2014Text2.questions).length !== 5) {
+  throw new Error("2014 Text 2: analysis or vocabulary self-test data is incomplete");
+}
+console.log("2014 Text 2: verified answers, reading analysis and vocabulary self-test data verified");
+
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }
