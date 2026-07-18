@@ -5,6 +5,7 @@ import { applyEnglishIIReadingCorrections } from "../src/data/englishII/readingC
 import { readingEnhancements2011 } from "../src/data/englishII/readingEnhancements2011.js";
 import { readingEnhancements2012 } from "../src/data/englishII/readingEnhancements2012.js";
 import { readingEnhancements2013 } from "../src/data/englishII/readingEnhancements2013.js";
+import { readingEnhancements2014 } from "../src/data/englishII/readingEnhancements2014.js";
 
 const root = process.cwd();
 const dataDir = path.join(root, "src", "data", "englishII");
@@ -79,6 +80,20 @@ for (const textNumber of [1, 2, 3, 4]) {
   }
 }
 console.log("2013 Text 1-4: reading analysis and vocabulary self-test data verified");
+
+const verified2014Text1Answers = "BADBA";
+const reading2014Text1 = readJson(path.join(dataDir, "readings", "2014", "text1.json"));
+const corrected2014Text1Answers = reading2014Text1.questions.map((question) => (
+  question.id === "2014-english2-text1-q25" ? "A" : question.answer
+)).join("");
+if (corrected2014Text1Answers !== verified2014Text1Answers) {
+  throw new Error(`2014 Text 1: expected ${verified2014Text1Answers}, received ${corrected2014Text1Answers}`);
+}
+const enhanced2014Text1 = readingEnhancements2014["2014-english2-text1"];
+if (enhanced2014Text1.vocabulary.length < 20 || Object.keys(enhanced2014Text1.questions).length !== 5) {
+  throw new Error("2014 Text 1: analysis or vocabulary self-test data is incomplete");
+}
+console.log("2014 Text 1: verified answers, reading analysis and vocabulary self-test data verified");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
