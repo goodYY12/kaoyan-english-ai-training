@@ -6,6 +6,7 @@ import { readingEnhancements2011 } from "../src/data/englishII/readingEnhancemen
 import { readingEnhancements2012 } from "../src/data/englishII/readingEnhancements2012.js";
 import { readingEnhancements2013 } from "../src/data/englishII/readingEnhancements2013.js";
 import { readingEnhancements2014 } from "../src/data/englishII/readingEnhancements2014.js";
+import { readingEnhancements2015 } from "../src/data/englishII/readingEnhancements2015.js";
 
 const root = process.cwd();
 const dataDir = path.join(root, "src", "data", "englishII");
@@ -127,6 +128,17 @@ if (enhanced2014Text4.vocabulary.length < 20 || Object.keys(enhanced2014Text4.qu
   throw new Error("2014 Text 4: analysis or vocabulary self-test data is incomplete");
 }
 console.log("2014 Text 4: verified answers, reading analysis and vocabulary self-test data verified");
+
+const verified2015Text1Answers = "ACDCA";
+const reading2015Text1 = readJson(path.join(dataDir, "readings", "2015", "text1.json"));
+if (reading2015Text1.questions.map((question) => question.answer).join("") !== verified2015Text1Answers) {
+  throw new Error("2015 Text 1: verified answer key does not match");
+}
+const enhanced2015Text1 = readingEnhancements2015["2015-english2-text1"];
+if (enhanced2015Text1.vocabulary.length < 20 || Object.keys(enhanced2015Text1.questions).length !== 5) {
+  throw new Error("2015 Text 1: analysis or vocabulary self-test data is incomplete");
+}
+console.log("2015 Text 1: verified answers, reading analysis and vocabulary self-test data verified");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));

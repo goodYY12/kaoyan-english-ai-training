@@ -6,6 +6,7 @@ import { readingEnhancements2011 } from "../src/data/englishII/readingEnhancemen
 import { readingEnhancements2012 } from "../src/data/englishII/readingEnhancements2012.js";
 import { readingEnhancements2013 } from "../src/data/englishII/readingEnhancements2013.js";
 import { readingEnhancements2014 } from "../src/data/englishII/readingEnhancements2014.js";
+import { readingEnhancements2015 } from "../src/data/englishII/readingEnhancements2015.js";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const enhancements = {
@@ -14,6 +15,7 @@ const enhancements = {
   ...readingEnhancements2012,
   ...readingEnhancements2013,
   ...readingEnhancements2014,
+  ...readingEnhancements2015,
 };
 
 for (let year = 2010; year <= 2026; year += 1) {
