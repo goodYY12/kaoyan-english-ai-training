@@ -72,13 +72,13 @@ for (const textNumber of [1, 2, 3, 4]) {
 }
 console.log("2012 Text 1-4: reading analysis and vocabulary self-test data verified");
 
-for (const textNumber of [1, 2]) {
+for (const textNumber of [1, 2, 3]) {
   const enhancedReading = readingEnhancements2013[`2013-english2-text${textNumber}`];
   if (enhancedReading.vocabulary.length < 20 || Object.keys(enhancedReading.questions).length !== 5) {
     throw new Error(`2013 Text ${textNumber}: analysis or vocabulary self-test data is incomplete`);
   }
 }
-console.log("2013 Text 1-2: reading analysis and vocabulary self-test data verified");
+console.log("2013 Text 1-3: reading analysis and vocabulary self-test data verified");
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
