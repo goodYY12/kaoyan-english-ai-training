@@ -106,6 +106,17 @@ if (enhanced2014Text2.vocabulary.length < 20 || Object.keys(enhanced2014Text2.qu
 }
 console.log("2014 Text 2: verified answers, reading analysis and vocabulary self-test data verified");
 
+const verified2014Text3Answers = "BADDC";
+const reading2014Text3 = readJson(path.join(dataDir, "readings", "2014", "text3.json"));
+if (reading2014Text3.questions.map((question) => question.answer).join("") !== verified2014Text3Answers) {
+  throw new Error("2014 Text 3: verified answer key does not match");
+}
+const enhanced2014Text3 = readingEnhancements2014["2014-english2-text3"];
+if (enhanced2014Text3.vocabulary.length < 20 || Object.keys(enhanced2014Text3.questions).length !== 5) {
+  throw new Error("2014 Text 3: analysis or vocabulary self-test data is incomplete");
+}
+console.log("2014 Text 3: verified answers, reading analysis and vocabulary self-test data verified");
+
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
 }

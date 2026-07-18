@@ -16,9 +16,25 @@ Epley found no significant gender difference in responses. Nor was there any evi
 
 Knowing the results of Epley's study, it makes sense that many people hate photographs of themselves so viscerally: on one level, they don't even recognise the person in the picture as themselves. Facebook, therefore, is a self-enhancer's paradise, where people can share only the most flattering photos, the cream of their wit, style, beauty, intellect and lifestyle. It's not that people's profiles are dishonest, says Catalina Toma of Wisconsin-Madison University, "but they portray an idealized version of themselves."`;
 
+const text3Passage = `The concept of man versus machine is at least as old as the industrial revolution, but this phenomenon tends to be most acutely felt during economic downturns and fragile recoveries. And yet, it would be a mistake to think we are right now simply experiencing the painful side of a boom-and-bust cycle. Certain jobs have gone away for good, outmoded by machines. Since technology has such an insatiable appetite for eating up human jobs, this phenomenon will continue to restructure our economy in ways we can't immediately foresee.
+
+When there is exponential improvement in the price and performance of technology, jobs that were once thought to be immune from automation suddenly become threatened. This argument has attracted a lot of attention, via the success of the book Race Against the Machine, by Erik Brynjolfsson and Andrew McAfee, who both hail from MIT's Center for Digital Business.
+
+This is a powerful argument, and a scary one. And yet, John Hagel, author of The Power of Pull and other books, says Brynjolfsson and McAfee miss the reason why these jobs are so vulnerable to technology in the first place.
+
+Hagel says we have designed jobs in the U.S. that tend to be "tightly scripted" and "highly standardized" ones that leave no room for "individual initiative or creativity." In short, these are the types of jobs that machines can perform much better at than human beings. That is how we have put a giant target sign on the backs of American workers, Hagel says.
+
+It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th-century notion of work, Hagel says. In our rapidly changing economy, we more than ever need people in the workplace who can take initiative and exercise their imagination "to respond to unexpected events." That's not something machines are good at. They are designed to perform very predictable activities.
+
+As Hagel notes, Brynjolfsson and McAfee indeed touched on this point in their book. We need to reframe race against the machine as race with the machine. In other words, we need to look at the ways in which machines can augment human labor rather than replace it. So then the problem is not really about technology, but rather, "how do we innovate our institutions and our work practices?"`;
+
 export function applyEnglishIIReadingCorrections2014(reading) {
   if (reading?.id === "2014-english2-text2") {
     return { ...reading, title: "Why We See Ourselves as Better Than Average", passage: text2Passage };
+  }
+
+  if (reading?.id === "2014-english2-text3") {
+    return { ...reading, title: "Race Against or With the Machine?", passage: text3Passage };
   }
 
   if (reading?.id !== "2014-english2-text1") return reading;
