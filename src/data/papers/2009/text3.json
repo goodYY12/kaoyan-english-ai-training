@@ -28,7 +28,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（作者观点），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "newlinespread1.26 The relationship between formal education and economic growth in poor countries is widely misunderstood by economists and politicians alike.",
         "testPoint": "作者观点",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查作者观点。结合解析资料和原文P1，正确项为 D：has been overestimated。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -62,7 +62,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "newlinespread1.26 The relationship between formal education and economic growth in poor countries is widely misunderstood by economists and politicians alike.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 B：takes efforts of generations。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -96,7 +96,7 @@
       "location": "P2",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P2",
+        "sourceSentence": "Ironically, the first evidence for this idea appeared in the United States.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 B：the Japanese workforce is more productive。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -130,7 +130,7 @@
       "location": "P3",
       "thinkingMethod": "先根据题干判断题型（例证），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P3",
+        "sourceSentence": "More recently, while examining housing construction, the researchers discovered that illiterate, non-English-speaking Mexican workers in Houston, Texas, consistently met best-practice labor productivity standards despite the complexity of the building industry's work.",
         "testPoint": "例证",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查例证。结合解析资料和原文P3，正确项为 C：when people on longer went hungry。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -164,7 +164,7 @@
       "location": "P最后一段",
       "thinkingMethod": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P最后一段",
+        "sourceSentence": "As education improved, humanity's productivity potential increased as well.",
         "testPoint": "态度题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查态度题。结合解析资料和原文P最后一段，正确项为 C：follows improved productivity。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -222,7 +222,7 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。 待补充20待补充",
   "sources": [
     {
       "name": "公开答案详解PDF",

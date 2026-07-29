@@ -28,7 +28,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "Bankers have been blaming themselves for their troubles in public.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 A：follow unfavorable asset evaluation rules。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -62,7 +62,7 @@
       "location": "P2",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P2",
+        "sourceSentence": "Unfortunately, banks' lobbying now seems to be working.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 D：the weakening of its independence。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -96,7 +96,7 @@
       "location": "P4",
       "thinkingMethod": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P4",
+        "sourceSentence": "European ministers instantly demanded that the International Accounting Standards Board (IASB) do likewise.",
         "testPoint": "态度题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查态度题。结合解析资料和原文P4，正确项为 C：act on their own in rule-setting。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -130,7 +130,7 @@
       "location": "P5",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P5",
+        "sourceSentence": "It was banks that were on the wrong planet, with accounts that vastly overvalued assets.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P5，正确项为 B：exaggerated the real value of their assets。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -164,7 +164,7 @@
       "location": "P最后一段",
       "thinkingMethod": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P最后一段",
+        "sourceSentence": "Today they argue that market prices overstate losses, because they largely reflect the temporary illiquidity of markets, not the likely extent of bad debts.",
         "testPoint": "态度题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查态度题。结合解析资料和原文P最后一段，正确项为 D：All in all, this clearly seems to be a market in which big retailers could profitably apply their gigantic scale, existing infrastructure and proven skills in the management of product ranges, logistics, and marketing intelligence. Retailers that master the intricacies of wholesaling in Europe may well expect to rake in substantial profits thereby. At least, that is how it looks as a whole. Closer inspection reveals important differences among the biggest national markets, especially in their customer segments and wholesale structures, as well as the competitive dynamics of individual food and drink categories. Big retailers must understand these differences before they can identify the segments of European wholesaling in which their particular abilities might unseat smaller but entrenched competitors. New skills and unfamiliar business models are needed too. E. Despite variations in detail, wholesale markets in the countries that have been closely examined - France, Germany, Italy, and Spain - are made out of the same building blocks. Demand comes mainly from two sources: independent mom-and-pop grocery stores which, unlike large retail chains, are too small to buy straight from producers, and food service operators that cater to consumers when they don't eat at home. Such food service operators range from snack machines to large institutional catering ventures, but most of these businesses are known in the trade as \"horeca\": hotels, restaurants, and cafes. Overall, Europe's wholesale market for food and drink is growing at the same sluggish pace as the retail market, but the figures, when added together, mask two opposing trends. F. For example, wholesale food and drink sales come to $268 billion in France, Germany, Italy, Spain, and the United Kingdom in 2000 - more than 40 percent of retail sales. Moreover, average overall margins are higher in wholesale than in retail; wholesale demand from the food service sector is growing quickly as more Europeans eat out more often; and changes in the competitive dynamics of this fragmented industry are at last making it feasible for wholesalers to consolidate. G. However, none of these requirements should deter large retailers (and even some large food producers and existing wholesalers) from trying their hand, for those that master the intricacies of wholesaling in Europe stand to reap considerable gains.。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -222,7 +222,7 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。 待补充20待补充",
   "sources": [
     {
       "name": "公开答案详解PDF",

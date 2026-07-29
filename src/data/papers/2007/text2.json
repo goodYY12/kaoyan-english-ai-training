@@ -28,7 +28,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "For the past several years, the Sunday newspaper supplement *Parade* has featured a column called \"Ask Marilyn.\" People are invited to query Marilyn vos Savant, who at age 10 had tested at a mental level of someone about 23 years old; that gave her an IQ of 228 - the highest score ever recorded.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 D：Choosing words or graphs similar to the given ones.。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -62,7 +62,7 @@
       "location": "P3",
       "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P3",
+        "sourceSentence": "The defining term of intelligence in humans still seems to be the IQ score, even though IQ tests are not given as often as they used to be.",
         "testPoint": "推理题",
         "trap": "干扰项常过度推理或把可能性改写成确定结论。",
         "correctLogic": "本题考查推理题。结合解析资料和原文P3，正确项为 C：The test contents and formats for adults and children may be different.。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -96,7 +96,7 @@
       "location": "P3",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P3",
+        "sourceSentence": "The defining term of intelligence in humans still seems to be the IQ score, even though IQ tests are not given as often as they used to be.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P3，正确项为 A：the scores are obtained through different computational procedures。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -130,7 +130,7 @@
       "location": "P最后一段",
       "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P最后一段",
+        "sourceSentence": "Superhigh scores like vos Savant's are no longer possible, because scoring is now based on a statistical population distribution among age peers, rather than simply dividing the mental age by the chronological age and multiplying by 100.",
         "testPoint": "推理题",
         "trap": "干扰项常过度推理或把可能性改写成确定结论。",
         "correctLogic": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 A：test scores may not be reliable indicators of one's ability。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -164,7 +164,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（态度题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "For the past several years, the Sunday newspaper supplement *Parade* has featured a column called \"Ask Marilyn.\" People are invited to query Marilyn vos Savant, who at age 10 had tested at a mental level of someone about 23 years old; that gave her an IQ of 228 - the highest score ever recorded.",
         "testPoint": "态度题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查态度题。结合解析资料和原文P1，正确项为 B：Skeptical.。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -257,7 +257,7 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。 待补充20待补充",
   "sources": [
     {
       "name": "公开答案详解PDF",

@@ -28,7 +28,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "In his book *The Tipping Point*, Malcolm Gladwell argues that \"social epidemics\" are driven in large part by the acting of a tiny minority of special individuals, often called influentials, who are unusually informed, persuasive, or well-connected.",
         "testPoint": "主旨题",
         "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
         "correctLogic": "本题考查主旨题。结合解析资料和原文P1，正确项为 B：discuss influentials' function in spreading ideas。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -62,7 +62,7 @@
       "location": "P2",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P2",
+        "sourceSentence": "The supposed importance of influentials derives from a plausible-sounding but largely untested theory called the \" two-step flow of communication\": Information flows from the media to the influentials and from them to everyone else.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 D：requires solid evidence for its validity。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -96,7 +96,7 @@
       "location": "P3",
       "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P3",
+        "sourceSentence": "In their recent work, however, some researchers have come up with the finding that influentials have far less impact on social epidemics than is generally supposed.",
         "testPoint": "推理题",
         "trap": "干扰项常过度推理或把可能性改写成确定结论。",
         "correctLogic": "本题考查推理题。结合解析资料和原文P3，正确项为 A：the power of influence goes with social interactions。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -130,7 +130,7 @@
       "location": "P4",
       "thinkingMethod": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P4",
+        "sourceSentence": "The researchers' argument stems from a simple observing about social influence: With the exception of a few celebrities like Oprah Winfrey - whose outsize presence is primarily a function of media, not interpersonal, influence - even the most influential members of a population simply don't interact with that many others.",
         "testPoint": "词义题",
         "trap": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
         "correctLogic": "本题考查词义题。结合解析资料和原文P4，正确项为 C：are influenced and then influence others。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -164,7 +164,7 @@
       "location": "P4",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P4",
+        "sourceSentence": "The researchers' argument stems from a simple observing about social influence: With the exception of a few celebrities like Oprah Winfrey - whose outsize presence is primarily a function of media, not interpersonal, influence - even the most influential members of a population simply don't interact with that many others.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P4，正确项为 C：The readiness to be influenced.。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -215,7 +215,7 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。 待补充20待补充",
   "sources": [
     {
       "name": "公开答案详解PDF",

@@ -28,7 +28,7 @@
       "location": "P2",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P2",
+        "sourceSentence": "In just one generation, millions of mothers have gone to work, transforming basic family economics.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 C：they are more vulnerable to changes in family economics。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -62,7 +62,7 @@
       "location": "P3",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P3",
+        "sourceSentence": "During the same period, families have been asked to absorb much more risk in their retirement income.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P3，正确项为 B：less secured payments。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -96,7 +96,7 @@
       "location": "P3",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P3",
+        "sourceSentence": "During the same period, families have been asked to absorb much more risk in their retirement income.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P3，正确项为 D：increase the families' investment risk。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -130,7 +130,7 @@
       "location": "P最后一段",
       "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P最后一段",
+        "sourceSentence": "The financial fallout has begun, and the political fallout may not be far behind.",
         "testPoint": "推理题",
         "trap": "干扰项常过度推理或把可能性改写成确定结论。",
         "correctLogic": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 C：financial problems may bring about political problems。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -158,16 +158,16 @@
       "answer": "B",
       "type": "主旨题",
       "questionType": "主旨题",
-      "explanation": "本题考查主旨题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 B：The Middle Class on the Cliff。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "explanation": "全文围绕中产阶级不断承接医疗、养老、教育等金融风险展开，结尾把这种变化概括为风险被整体转移到其“already overburdened shoulders”上。B 中 on the cliff 比喻中产阶级处于危险边缘，能覆盖全文的焦虑与压力。A 只说警觉，力度不足；C 把矛盾误写成中产内部冲突；D 的 ruins 表示已经彻底毁灭，超过原文程度。",
       "trapAnalysis": "干扰项常抓局部细节，但不能概括全文或段落中心。",
       "commonMistake": "容易把举例或局部信息当成全文中心。",
-      "location": "TODO: 定位句待人工核对",
+      "location": "末段：financial risk ... onto their already overburdened shoulders",
       "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "TODO: 定位句待人工核对",
+        "sourceSentence": "From the middle-class family perspective, much of this, understandably, looks far less like an opportunity to exercise more financial responsibility, and a good deal more like a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders.",
         "testPoint": "主旨题",
         "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
-        "correctLogic": "本题考查主旨题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 B：The Middle Class on the Cliff。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "correctLogic": "文章主线是中产阶级承担的金融风险加速增加，B 的 cliff 概括了“风险临界、处境危险”的全文态度。",
         "wrongOptionAnalysis": {
           "A": "待补充",
           "B": "待补充",
@@ -257,7 +257,7 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。 待补充20待补充",
   "sources": [
     {
       "name": "公开答案详解PDF",

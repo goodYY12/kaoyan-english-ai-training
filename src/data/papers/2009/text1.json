@@ -28,7 +28,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "Habits are a funny thing.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 C：mechanical。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -56,16 +56,16 @@
       "answer": "D",
       "type": "细节题",
       "questionType": "细节题",
-      "explanation": "本题考查细节题。结合解析资料和原文P2，正确项为 D：guided。其他选项主要与原文范围、逻辑或表达重点不符。",
+  "explanation": "本题问的是习惯的形成能否被人为影响。原文在说明习惯形成机制时指出，人们可以通过有意识地安排线索与重复行为来塑造习惯，因此 D guided（被引导、被培养）准确概括了该观点。A predicted 只表示预测，B regulated 偏向外部规章管理，C traced 表示追踪，三项都没有表达“主动塑造形成过程”的核心含义。",
       "trapAnalysis": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
       "commonMistake": "容易定位不准或没有识别原文和选项的同义替换。",
       "location": "P2",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P2",
+        "sourceSentence": "So it seems paradoxical to talk about habits in the same context as creativity and innovation.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
-        "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 D：guided。其他选项主要与原文范围、逻辑或表达重点不符。",
+    "correctLogic": "题干的关键是 formation of habit，而不是对习惯结果的观察。原文说明可通过线索和重复行为影响习惯的形成，故 D guided 概括为“形成过程可被引导”。A 是可预测，B 是受制度调控，C 是可追踪，均没有对应原文的主动培养含义。",
         "wrongOptionAnalysis": {
           "A": "待补充",
           "B": "待补充",
@@ -90,16 +90,16 @@
       "answer": "A",
       "type": "词义题",
       "questionType": "词义题",
-      "explanation": "本题考查词义题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 A：tracks。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "explanation": "ruts 原义是车轮反复碾压形成的车辙。原文把旧习惯比作“worn into the brain”的旧车辙，并说新习惯会形成平行路径来绕开这些 old roads，因此这里取比喻义“路径、轨道”，选 A tracks。B series 只是系列；C characteristics 是特征；D connections 是连接关系，均不能和 pathways / roads 构成同义复现。",
       "trapAnalysis": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
       "commonMistake": "容易脱离上下文，只按熟悉义选答案。",
-      "location": "TODO: 定位句待人工核对",
+      "location": "P4：those ruts of procedure are worn into the brain ... parallel pathways ... bypass those old roads",
       "thinkingMethod": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "TODO: 定位句待人工核对",
+        "sourceSentence": "The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought.",
         "testPoint": "词义题",
         "trap": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
-        "correctLogic": "本题考查词义题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 A：tracks。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "correctLogic": "ruts、pathways 与 roads 属于同一“道路”隐喻系统，A tracks 是最贴切的语境义。",
         "wrongOptionAnalysis": {
           "A": "待补充",
           "B": "待补充",
@@ -130,7 +130,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "Habits are a funny thing.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P1，正确项为 D：curiosity activates creative minds。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -164,7 +164,7 @@
       "location": "P最后一段",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P最后一段",
+        "sourceSentence": "The current emphasis on standardized testing highlights analysis and procedure, meaning that few of us inherently use our innovative and collaborative modes of thought.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P最后一段，正确项为 A：prevents new habits from being formed。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -236,7 +236,7 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。 待补充20待补充",
   "sources": [
     {
       "name": "公开答案详解PDF",

@@ -28,7 +28,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "If you were to examine the birth certificates of every soccer player in 2006's World Cup tournament, you would most likely find a noteworthy quirk: elite soccer players are more likely to have been born in the earlier months of the year than in the late months.",
         "testPoint": "主旨题",
         "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
         "correctLogic": "本题考查主旨题。结合解析资料和原文P1，正确项为 C：introduce the topic of what makes expert performance.。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -56,16 +56,16 @@
       "answer": "B",
       "type": "词义题",
       "questionType": "词义题",
-      "explanation": "本题考查词义题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 B：craze。其他选项主要与原文范围、逻辑或表达重点不符。",
+      "explanation": "mania 出现在 soccer-mad parents 与 the annual peak of soccer mania 的语境中。soccer-mad 已提示人们对足球处于强烈痴迷状态，mania 与之同义，表示一阵广泛而强烈的狂热，故选 B craze。A fun 和 D excitement 语气太弱，C hysteria 指失控的歇斯底里，贬义和强度都超过原文。",
       "trapAnalysis": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
       "commonMistake": "容易脱离上下文，只按熟悉义选答案。",
-      "location": "TODO: 定位句待人工核对",
+      "location": "P2：soccer-mad parents ... at the annual peak of soccer mania",
       "thinkingMethod": "先根据题干判断题型（词义题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "TODO: 定位句待人工核对",
+        "sourceSentence": "Here are a few guesses: a) certain astrological signs confer superior soccer skills; b) winter-born babies tend to have higher oxygen capacity, which increases soccer stamina; c) soccer-mad parents are more likely to conceive children in springtime, at the annual peak of soccer mania; d) none of the above.",
         "testPoint": "词义题",
         "trap": "干扰项容易用单词常见义误导，需回到上下文判断语境义。",
-        "correctLogic": "本题考查词义题。结合解析资料和原文TODO: 定位句待人工核对，正确项为 B：craze。其他选项主要与原文范围、逻辑或表达重点不符。",
+        "correctLogic": "soccer-mad 与 soccer mania 构成上下文同义复现；mania 表示对足球的狂热，B craze 最准确。",
         "wrongOptionAnalysis": {
           "A": "待补充",
           "B": "待补充",
@@ -96,7 +96,7 @@
       "location": "P3",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P3",
+        "sourceSentence": "Anders Ericsson, a 58-year-old psychology professor at Florida State University, says he believes strongly in \"none of the above.\" Ericsson grew up in Sweden, and studied nuclear engineering until he realized he would have more opportunity to conduct his own research if he switched to psychology.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P3，正确项为 A：depends on meaningful processing of information。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -130,7 +130,7 @@
       "location": "P最后一段",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P最后一段",
+        "sourceSentence": "Ericsson and his colleagues have thus taken to studying expert performers in a wide range of pursuits, including soccer.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P最后一段，正确项为 D：high achievers owe their success mostly to nurture。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -164,7 +164,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "If you were to examine the birth certificates of every soccer player in 2006's World Cup tournament, you would most likely find a noteworthy quirk: elite soccer players are more likely to have been born in the earlier months of the year than in the late months.",
         "testPoint": "主旨题",
         "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
         "correctLogic": "本题考查主旨题。结合解析资料和原文P1，正确项为 C：\"Practice makes perfect.\"。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -257,7 +257,7 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。 待补充20待补充",
   "sources": [
     {
       "name": "公开答案详解PDF",

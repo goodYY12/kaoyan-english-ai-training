@@ -28,7 +28,7 @@
       "location": "P1",
       "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P1",
+        "sourceSentence": "In the early 1960s Wilt Chamberlain was one of the only three players in the National Basketball Association (NBA) listed at over seven feet.",
         "testPoint": "主旨题",
         "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
         "correctLogic": "本题考查主旨题。结合解析资料和原文P1，正确项为 A：illustrate the change of height of NBA players。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -62,7 +62,7 @@
       "location": "P2",
       "thinkingMethod": "先根据题干判断题型（细节题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P2",
+        "sourceSentence": "The trend in sports, though, may be obscuring an unrecognized reality: Americans have generally stopped growing.",
         "testPoint": "细节题",
         "trap": "干扰项常见方式是偷换概念、扩大缩小范围或忽略同义替换。",
         "correctLogic": "本题考查细节题。结合解析资料和原文P2，正确项为 C：Living standards.。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -96,7 +96,7 @@
       "location": "P2",
       "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P2",
+        "sourceSentence": "The trend in sports, though, may be obscuring an unrecognized reality: Americans have generally stopped growing.",
         "testPoint": "推理题",
         "trap": "干扰项常过度推理或把可能性改写成确定结论。",
         "correctLogic": "本题考查推理题。结合解析资料和原文P2，正确项为 B：Human height is conditioned by the upright posture.。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -130,7 +130,7 @@
       "location": "P最后一段",
       "thinkingMethod": "先根据题干判断题型（推理题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P最后一段",
+        "sourceSentence": "And if you need to predict human height in the near future to design a piece of equipment, Gordon says that by and large, \"you could use today's data and feel fairly confident.\"",
         "testPoint": "推理题",
         "trap": "干扰项常过度推理或把可能性改写成确定结论。",
         "correctLogic": "本题考查推理题。结合解析资料和原文P最后一段，正确项为 D：the existing data of human height will still be applicable。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -164,7 +164,7 @@
       "location": "P2",
       "thinkingMethod": "先根据题干判断题型（主旨题），再回原文定位，最后检查选项是否存在范围、态度或逻辑偷换。",
       "examinerThinking": {
-        "sourceSentence": "P2",
+        "sourceSentence": "The trend in sports, though, may be obscuring an unrecognized reality: Americans have generally stopped growing.",
         "testPoint": "主旨题",
         "trap": "干扰项常抓局部细节，但不能概括全文或段落中心。",
         "correctLogic": "本题考查主旨题。结合解析资料和原文P2，正确项为 C：Americans have reached their genetic growth limit。其他选项主要与原文范围、逻辑或表达重点不符。",
@@ -257,7 +257,7 @@
   },
   "longSentences": [],
   "articleStructure": "待补充",
-  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。",
+  "notes": "解析已按资料整理为短版训练解析；未能可靠定位的内容保留TODO。 待补充20待补充",
   "sources": [
     {
       "name": "公开答案详解PDF",
