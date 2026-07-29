@@ -1,4 +1,5 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
+import { useSearchParams } from "react-router";
 import SectionCard from "../components/SectionCard";
 import questionTypes from "../data/questionTypes.json";
 import {
@@ -73,7 +74,11 @@ function createMistake(reading, question, selected) {
 }
 
 export default function ReadingTraining() {
-  const [selectedYear, setSelectedYear] = useState(years[0]);
+  const [searchParams] = useSearchParams();
+  const requestedYear = Number(searchParams.get("year"));
+  const [selectedYear, setSelectedYear] = useState(
+    years.includes(requestedYear) ? requestedYear : years[0],
+  );
   const [selectedTextNumber, setSelectedTextNumber] = useState("Text 1");
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
@@ -131,6 +136,14 @@ export default function ReadingTraining() {
     setSelectedTextNumber(firstPaper?.textNumber ?? "Text 1");
     resetTraining();
   }
+
+  useEffect(() => {
+    if (!years.includes(requestedYear) || requestedYear === selectedYear) return;
+    const firstPaper = getReadingsByYear(requestedYear)[0];
+    setSelectedYear(requestedYear);
+    setSelectedTextNumber(firstPaper?.textNumber ?? "Text 1");
+    resetTraining();
+  }, [requestedYear, selectedYear]);
 
   function submitAnswers() {
     const mistakes = currentPaper.questions

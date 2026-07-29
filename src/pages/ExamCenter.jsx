@@ -157,7 +157,7 @@ function getModuleCards(year) {
   const writing = getWritingByYear(year);
 
   return [
-    { title: "阅读训练", to: "/reading", ...getReadingStatus(readings) },
+    { title: "阅读训练", to: `/reading?year=${year}`, ...getReadingStatus(readings) },
     { title: "完形专项", to: "/cloze", ...getClozeStatus(clozeItems) },
     { title: "翻译训练", to: "/translation", ...getTranslationStatus(translation) },
     { title: "写作训练", to: "/writing", ...getWritingStatus(writing) },
