@@ -81,6 +81,7 @@ import text2007_4 from "../data/papers/2007/text4.json" with { type: "json" };
 import clozeData from "../data/cloze/clozeData.json" with { type: "json" };
 import translationItems from "../data/translationItems.json" with { type: "json" };
 import writingTemplates from "../data/writingTemplates.json" with { type: "json" };
+import { readingQuestionCorrections } from "../data/readingQuestionCorrections.js";
 
 const rawReadings = [
   text2026_1,
@@ -185,11 +186,12 @@ export function normalizeQuestion(question, reading) {
   const type = question.type ?? question.questionType ?? "待补充";
   const commonMistake = question.commonMistake ?? question.wrongReason ?? "待补充";
 
+  const id = question.id ?? `${year}-${textNumber.toLowerCase().replace(" ", "")}-q${questionNumber}`;
+  const correction = readingQuestionCorrections[id];
+
   return {
     ...question,
-    id:
-      question.id ??
-      `${year}-${textNumber.toLowerCase().replace(" ", "")}-q${questionNumber}`,
+    id,
     questionNumber,
     questionText: question.questionText ?? question.question ?? "待补充",
     question: question.question ?? question.questionText ?? "待补充",
@@ -204,6 +206,7 @@ export function normalizeQuestion(question, reading) {
     location: question.location ?? question.examinerThinking?.sourceSentence ?? "待补充",
     examinerThinking: question.examinerThinking ?? null,
     sourceSentenceAnalysis: question.sourceSentenceAnalysis ?? null,
+    ...correction,
   };
 }
 

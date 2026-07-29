@@ -94,6 +94,26 @@ test("recognizes imported readings with answer keys", () => {
   assert.equal(hasReadingData(getReadingsByYear(2026)[0]), true);
 });
 
+test("repairs reading options contaminated by later exam sections", () => {
+  const expected = new Map([
+    [2008, "military experience"],
+    [2009, "came from different intellectual backgrounds"],
+    [2015, "Moral awareness matters in editing a newspaper."],
+    [2020, "France Leads the Charge on Digital Tax"],
+    [2021, "Congress needs to take action to ensure net neutrality."],
+  ]);
+
+  for (const [year, answerText] of expected) {
+    const text4 = getReadingsByYear(year).find((reading) => reading.textNumber === "Text 4");
+    const question = text4.questions.find((item) => item.questionNumber === 40);
+    assert.equal(question.options[question.answer], answerText);
+    for (const option of Object.values(question.options)) {
+      assert.ok(option.length < 180);
+      assert.doesNotMatch(option, /(?:---|\*\*Part|Directions:)/i);
+    }
+  }
+});
+
 test("normalizes old and new question fields", () => {
   const question = normalizeQuestion(
     {
