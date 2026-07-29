@@ -2,6 +2,7 @@ import { useState } from "react";
 import SectionCard from "../components/SectionCard";
 import { getExamYears, getWritingByYear, hasWritingData } from "../utils/dataAdapter";
 import { getTrainingDraft, saveTrainingDraft } from "../utils/trainingStorage";
+import WritingAiReview from "../components/WritingAiReview";
 
 const essayTypes = [
   { key: "smallWriting", label: "小作文" },
@@ -147,6 +148,13 @@ export default function WritingTraining() {
               rows={10}
               placeholder="在这里输入你的作文，内容会自动暂存在本机浏览器..."
               className="mt-5 w-full resize-y rounded-2xl border border-slate-200 p-4 text-sm leading-6 outline-none focus:border-blue-400 focus:ring-4 focus:ring-blue-100"
+            />
+            <WritingAiReview
+              paper="英语一"
+              essayKey={essayKey}
+              essayType={task.type}
+              prompt={task.prompt}
+              content={content}
             />
             <button
               type="button"

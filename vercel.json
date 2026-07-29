@@ -5,6 +5,10 @@
   "outputDirectory": "dist",
   "rewrites": [
     {
+      "source": "/api/evaluate-writing",
+      "destination": "/api/evaluate-writing"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
