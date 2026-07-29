@@ -23,6 +23,17 @@ export const readingQuestionCorrections = {
     },
     answer: "C",
   },
+  "2010-text4-q40": {
+    questionText: "The author's attitude towards standard-setters is one of ____.",
+    question: "The author's attitude towards standard-setters is one of ____.",
+    options: {
+      A: "satisfaction",
+      B: "skepticism",
+      C: "objectiveness",
+      D: "sympathy",
+    },
+    answer: "D",
+  },
   "2015-text4-q40": {
     questionText: "Which of the following is suggested in the last paragraph?",
     question: "Which of the following is suggested in the last paragraph?",
@@ -33,6 +44,28 @@ export const readingQuestionCorrections = {
       D: "Journalists need stricter industrial regulations.",
     },
     answer: "C",
+  },
+  "2018-text4-q40": {
+    questionText: "Which of the following would be the best title for the text?",
+    question: "Which of the following would be the best title for the text?",
+    options: {
+      A: "The USPS Starts to Miss Its Good Old Days",
+      B: "The Postal Service: Keep Away from My Cheese",
+      C: "The USPS: Chronic Illness Requires a Quick Cure",
+      D: "The Postal Service Needs More than a Band-Aid",
+    },
+    answer: "D",
+  },
+  "2019-text4-q40": {
+    questionText: "In dealing with the Supreme Court decision Thursday, the author ____.",
+    question: "In dealing with the Supreme Court decision Thursday, the author ____.",
+    options: {
+      A: "gives a factual account of it and discusses its consequences",
+      B: "describes the long and complicated process of its making",
+      C: "presents its main points with conflicting views on them",
+      D: "cites some cases related to it and analyzes their implications",
+    },
+    answer: "A",
   },
   "2020-text4-q40": {
     questionText: "Which of the following might be the best title for this text?",
