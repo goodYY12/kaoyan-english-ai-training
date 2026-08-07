@@ -157,6 +157,25 @@ test("2018-2020 imports preserve four-text structure without inventing passages"
   }
 });
 
+test("2018 reading and the flagged 2020 Text 1 question use verified answer keys", () => {
+  const expected2018Answers = [
+    ["D", "C", "A", "D", "B"],
+    ["D", "A", "B", "C", "A"],
+    ["B", "C", "D", "D", "B"],
+    ["B", "A", "A", "C", "D"],
+  ];
+
+  for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
+    const url = new URL(`./papers/2018/text${textNumber}.json`, import.meta.url);
+    const paper = JSON.parse(readFileSync(url, "utf8"));
+    assert.deepEqual(paper.questions.map((question) => question.answer), expected2018Answers[textNumber - 1]);
+  }
+
+  const text2020_1 = JSON.parse(readFileSync(new URL("./papers/2020/text1.json", import.meta.url), "utf8"));
+  assert.equal(text2020_1.questions.find((question) => question.questionNumber === 24)?.answer, "B");
+  assert.equal(text1.questions.find((question) => question.questionNumber === 24)?.answer, "B");
+});
+
 test("2019 answer-analysis PDF contributes complete question choices and keys", () => {
   for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
     const url = new URL(`./papers/2019/text${textNumber}.json`, import.meta.url);

@@ -8,7 +8,12 @@ import {
 } from "../utils/englishIIDataAdapter";
 
 function passageParagraphs(passage) {
-  return String(passage ?? "").split(/\n\s*\n/).map((item) => item.trim()).filter(Boolean);
+  const text = String(passage ?? "").trim();
+  const blocks = text.split(/\n\s*\n/).map((item) => item.trim()).filter(Boolean);
+
+  // Imported English II papers use one line per paragraph, while some older
+  // sources use blank lines. Support both formats without changing the data.
+  return (blocks.length > 1 ? blocks : text.split(/\n+/)).map((item) => item.trim()).filter(Boolean);
 }
 
 function highlightWord(sentence, word) {
@@ -128,9 +133,9 @@ export default function English2ReadingTraining() {
         <div className="mt-4 flex flex-wrap gap-2">{papers.map((item) => <button key={item.id} type="button" onClick={() => selectPaper(item.id)} className={`rounded-xl border px-4 py-2 text-sm font-semibold ${paper.id === item.id ? "border-blue-600 bg-blue-50 text-blue-700" : "border-slate-200 text-slate-600 hover:border-blue-200"}`}>{item.textNumber}</button>)}</div>
       </SectionCard>
 
-      <div className="grid gap-6 xl:grid-cols-[minmax(0,1.1fr)_minmax(26rem,0.9fr)]">
+      <div className="grid gap-6 xl:grid-cols-[minmax(0,1.2fr)_minmax(30rem,1fr)]">
         <SectionCard title={`${paper.year} 英语二 ${paper.textNumber} | ${paper.title || "阅读文章"}`} description={paper.topic ? `话题：${paper.topic}` : "文章阅读"}>
-          <div className="max-h-[72vh] space-y-5 overflow-y-auto rounded-2xl bg-slate-50 p-5 text-[15px] leading-8 text-slate-700">
+          <div className="max-h-[76vh] space-y-5 overflow-y-auto rounded-2xl bg-slate-50 p-5 text-base leading-8 text-slate-700 lg:p-6">
             {passageParagraphs(paper.passage).map((paragraph, index) => <p key={index}><span className="mr-2 rounded bg-blue-100 px-2 py-1 text-xs font-bold text-blue-700">P{index + 1}</span>{paragraph}</p>)}
           </div>
         </SectionCard>
