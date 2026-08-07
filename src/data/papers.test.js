@@ -176,6 +176,22 @@ test("2018 reading and the flagged 2020 Text 1 question use verified answer keys
   assert.equal(text1.questions.find((question) => question.questionNumber === 24)?.answer, "B");
 });
 
+test("2010-2018 reading questions retain verified answer explanations", () => {
+  for (let year = 2010; year <= 2018; year += 1) {
+    for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
+      const url = new URL(`./papers/${year}/text${textNumber}.json`, import.meta.url);
+      const paper = JSON.parse(readFileSync(url, "utf8"));
+
+      for (const question of paper.questions) {
+        assert.match(question.answer, /^[A-D]$/);
+        assert.ok(question.explanation.length >= 80);
+        assert.equal(question.explanation.includes("待补充"), false);
+        assert.equal(question.explanation.includes("TODO"), false);
+      }
+    }
+  }
+});
+
 test("2019 answer-analysis PDF contributes complete question choices and keys", () => {
   for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
     const url = new URL(`./papers/2019/text${textNumber}.json`, import.meta.url);

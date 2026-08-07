@@ -19,15 +19,20 @@
         "C": "an example of bankers' investments",
         "D": "a handsome reward for researchers"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：C。根据题干中关键词专有名词“TheFundamentalPhysicsPrize”，我们可以迅速定位到文章第一段。选 项A“企业家财富的象征”，以entrepreneurs为关键词定位对应的原文“Many,liketheFundamentalPhysicsPrize, arefundedfromthetelephone-number-sizedbankaccountsofInternetentrepreneurs.”也就是说像基础物理学奖一样 的许多奖项，是由银行账户如电话号码一般长的互联网企业家提供资金设立的，而不是企业家财富的象征，故 选项A错误；选项B“可能替代诺贝尔奖的奖项”，以“theNobelPrizes”为关键词定位对应原文“astringoflucrative awardsforresearchershavejoinedtheNobelPrizesinrecentyears.”就是说“一系列报酬丰厚的奖项加入了诺贝尔 奖行列。”很明显原文是“join（加入）”而并非选项中的“replacement（代替）”，故排除B；选项C“对研 究者的慷慨奖励”对应原文“theywanttousetheirwealthtodrawattentiontothosewhohavesucceededinscience” 即他们想通过自己的财富让人们关注那些在科学领域有所成就的人，因此C为正确选项；而选项D“银行家投 资的一个例",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：C。根据题干中关键词专有名词“TheFundamentalPhysicsPrize”，我们可以迅速定位到文章第一段。选 项A“企业家财富的象征”，以entrepreneurs为关键词定位对应的原文“Many,liketheFundamentalPhysicsPrize, arefundedfromthetelephone-number-sizedbankaccountsofInternetentrepreneurs.”也就是说像基础物理学奖一样 的许多奖项，是由银行账户如电话号码一般长的互联网企业家提供资金设立的，而不是企业家财富的象征，故 选项A错误；选项B“可能替代诺贝尔奖的奖项”，以“theNobelPrizes”为关键词定位对应原文“astringoflucrative awardsforresearchershavejoinedtheNobelPrizesinrecentyears.”就是说“一系列报酬丰厚的奖项加入了诺贝尔 奖行列。”很明显原文是“join（加入）”而并非选项中的“replacement（代替）”，故排除B；选项C“对研 究者的慷慨奖励”对应原文“theywanttousetheirwealthtodrawattentiontothosewhohavesucceededinscience” 即他们想通过自己的财富让人们关注那些在科学领域有所成就的人，因此C为正确选项；而选项D“银行家投 资的一个例",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +47,19 @@
         "D": "peer-review-led research"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：B。根据题干关键词“critics”可回文定位到文章的第二三段。选项A“以利益为导向的科学家”，文中 并未提及此相关信息；选项B“新奖项的创立者”对应原文“Thenewawardsareanexerciseinself-promotionfor thosebehindthem,sayscientists”，也就是说“科学家们称，这些新的奖项其实只是对其背后企业家的自我宣传”， 很明显原文中的those指代的是提供资金的人，所以选项B为正确答案。 而选项C“以成就为基础的体系”和D“同行评审研究”对应的原文是“Theycoulddistorttheachievement-based",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：B。根据题干关键词“critics”可回文定位到文章的第二三段。选项A“以利益为导向的科学家”，文中 并未提及此相关信息；选项B“新奖项的创立者”对应原文“Thenewawardsareanexerciseinself-promotionfor thosebehindthem,sayscientists”，也就是说“科学家们称，这些新的奖项其实只是对其背后企业家的自我宣传”， 很明显原文中的those指代的是提供资金的人，所以选项B为正确答案。 而选项C“以成就为基础的体系”和D“同行评审研究”对应的原文是“Theycoulddistorttheachievement-based",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +73,20 @@
         "C": "legitimate concerns over the new prizes",
         "D": "the demonstration of research findings"
       },
-      "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "A",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：A。根据题干中的专有名词“theHiggsboson”可快速回文定位到原文第四段。从原文来看，即例子前半 句的内容“ButtheNobelFoundation’slimitofthreerecipientsperprize,eachofwhommuststillbeliving,haslong beenoutgrownbythecollaborativenatureofmodernresearch”，就是说，但诺贝尔奖也存在很大局限性，比如一 个奖项最多只能有三位获得者，而且必须健在。而现代科学研究是多人合作式的，所以这项规定很早之前就不 合时宜了。而后面谈及希格斯玻色子的发现这一例子正是为了例证这一观点。所以选项A“现代研究的共同努 力”中的joint（共同的）正是原文中collaborative（合作）的同义替换，所以A为正确答案。 而选项B“获奖者地位的争议”是文中并未提及的信息；选项C“研究发现的展示”是例子本身；选项D“对 新奖项的合理关注”对应原文“Time,ratherthanintention,hasgiventhemlegitimacy”，原文表述的是诺贝尔奖 的合理性，而不是新奖项，故排除。 34.根据文章第四段，关于诺贝尔奖下列哪一项是正确的？ [A]历史上对它们从未有过怀疑。 [B]它们是最具代表性的荣誉。 [C]它们的合理性一直备受争议。 [D]它们的持久性使其得到公正的对待。 【答案】D 【考点】",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：A。根据题干中的专有名词“theHiggsboson”可快速回文定位到原文第四段。从原文来看，即例子前半 句的内容“ButtheNobelFoundation’slimitofthreerecipientsperprize,eachofwhommuststillbeliving,haslong beenoutgrownbythecollaborativenatureofmodernresearch”，就是说，但诺贝尔奖也存在很大局限性，比如一 个奖项最多只能有三位获得者，而且必须健在。而现代科学研究是多人合作式的，所以这项规定很早之前就不 合时宜了。而后面谈及希格斯玻色子的发现这一例子正是为了例证这一观点。所以选项A“现代研究的共同努 力”中的joint（共同的）正是原文中collaborative（合作）的同义替换，所以A为正确答案。 而选项B“获奖者地位的争议”是文中并未提及的信息；选项C“研究发现的展示”是例子本身；选项D“对 新奖项的合理关注”对应原文“Time,ratherthanintention,hasgiventhemlegitimacy”，原文表述的是诺贝尔奖 的合理性，而不是新奖项，故排除。 34.根据文章第四段，关于诺贝尔奖下列哪一项是正确的？ [A]历史上对它们从未有过怀疑。 [B]它们是最具代表性的荣誉。 [C]它们的合理性一直备受争议。 [D]它们的持久性使其得到公正的对待。 【答案】D 【考点】",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +100,20 @@
         "C": "They are the most representative honor.",
         "D": "History has never cast doubt on them."
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "D",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "正确答案：D。根据题干内容回文定位到第四段，选项A“历史上对它们从未有过怀疑”，文中未提及doubt的相关 信息；同样地，选项B“它们是最具代表性的荣誉”中honor也是文中未提及的信息；而选项C“它们的合理 性一直备受争议”对应原文“Time,ratherthanintention,hasgiventhemlegitimacy”，即诺贝尔奖的合理性不是 其设立的初衷，而在于时间。很明显选项C与原文意思相反，故排除； 选项D“它们的持久性使其得到公正的对待”，同样定位到该段末句，其中endurance和justice分别是原文中 time和legitimacy的同义替换，所以选项D为正确答案。 35.作者认为新的奖项是_______。 [A]对文化研究不利 [B]尽管有批评，但还是可接受的 [C]遭受不好的改变 [D]不值得公众关注 【答案】B 【考点】观点态度 【解析】这道题问的是作者的观点态度，从整个文章结构来看，不难发现作者在最后一段明确了自己的观点态 度，因此我们快速定位到文章最后一段。本文最后一段出现了大量表示感情色彩的词，somescientistsmay complainabout；mostresearcherswouldaccept；itissurelyagoodthing；Itisfairtocriticizeandquestionthe mechanism；Itiswisetotakesuchgiftswithgr",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。以原文明示信息为边界进行一步推断，警惕过度引申。",
+      "commonMistake": "容易把文中的可能性表述推成绝对结论。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "以原文明示信息为边界进行一步推断，警惕过度引申。",
+      "examinerThinking": {
+        "testPoint": "推理题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。以原文明示信息为边界进行一步推断，警惕过度引申。",
+        "correctLogic": "正确答案：D。根据题干内容回文定位到第四段，选项A“历史上对它们从未有过怀疑”，文中未提及doubt的相关 信息；同样地，选项B“它们是最具代表性的荣誉”中honor也是文中未提及的信息；而选项C“它们的合理 性一直备受争议”对应原文“Time,ratherthanintention,hasgiventhemlegitimacy”，即诺贝尔奖的合理性不是 其设立的初衷，而在于时间。很明显选项C与原文意思相反，故排除； 选项D“它们的持久性使其得到公正的对待”，同样定位到该段末句，其中endurance和justice分别是原文中 time和legitimacy的同义替换，所以选项D为正确答案。 35.作者认为新的奖项是_______。 [A]对文化研究不利 [B]尽管有批评，但还是可接受的 [C]遭受不好的改变 [D]不值得公众关注 【答案】B 【考点】观点态度 【解析】这道题问的是作者的观点态度，从整个文章结构来看，不难发现作者在最后一段明确了自己的观点态 度，因此我们快速定位到文章最后一段。本文最后一段出现了大量表示感情色彩的词，somescientistsmay complainabout；mostresearcherswouldaccept；itissurelyagoodthing；Itisfairtocriticizeandquestionthe mechanism；Itiswisetotakesuchgiftswithgr",
+        "nextTimeStrategy": "以原文明示信息为边界进行一步推断，警惕过度引申。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -107,15 +127,20 @@
         "C": "subject to undesirable changes",
         "D": "unworthy of public attention ---"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "B",
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "正确答案：B。这道题问的是作者的观点态度，从整个文章结构来看，不难发现作者在最后一段明确了自己的观点态 度，因此我们快速定位到文章最后一段。本文最后一段出现了大量表示感情色彩的词，somescientistsmay complainabout；mostresearcherswouldaccept；itissurelyagoodthing；Itisfairtocriticizeandquestionthe mechanism；Itiswisetotakesuchgiftswithgratitudeandgrace.从以上这些词句，尤其是最后一句“怀着感恩之 心接受这份馈赠才是明智之举”，可以明显看出作者是支持的态度，所以选项B为正确答案。 而选项A“对文化研究不利”、C“遭受不好的改变”、D“不值得公众关注”均是消极负面的态度，故排除。",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。",
+      "commonMistake": "容易忽略转折和评价词，误判作者立场。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。",
+      "examinerThinking": {
+        "testPoint": "态度题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。",
+        "correctLogic": "正确答案：B。这道题问的是作者的观点态度，从整个文章结构来看，不难发现作者在最后一段明确了自己的观点态 度，因此我们快速定位到文章最后一段。本文最后一段出现了大量表示感情色彩的词，somescientistsmay complainabout；mostresearcherswouldaccept；itissurelyagoodthing；Itisfairtocriticizeandquestionthe mechanism；Itiswisetotakesuchgiftswithgratitudeandgrace.从以上这些词句，尤其是最后一句“怀着感恩之 心接受这份馈赠才是明智之举”，可以明显看出作者是支持的态度，所以选项B为正确答案。 而选项A“对文化研究不利”、C“遭受不好的改变”、D“不值得公众关注”均是消极负面的态度，故排除。",
+        "nextTimeStrategy": "重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],

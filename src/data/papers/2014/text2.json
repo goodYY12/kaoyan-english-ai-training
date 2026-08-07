@@ -20,14 +20,19 @@
         "D": "the attraction of financial rewards"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：D。根据题干关键词“students”和“takeuplawastheirprofession”，我们可以迅速定位到原文第二段第 二句“Thebestlawyersmadeskyscrapers-fullofmoney,temptingevermorestudentstopileintolawschools.”即律 师界的精英们收入丰厚，从而吸引更多的学生进入法学院。很明显吸引学生学法律的是money，即可直接得出 正确答案为D。 选项A“客户不断增长的需求”，文中并未提及相关信息，属于无中生有。选项B“通货膨胀不断增长的压力”， 定位到原文中出现inflation的句子“Duringthedecadebeforetheeconomiccrisis,spendingonlegalservicesin Americagrewtwiceasfastasinflation.”即经济危机前十年间，美国法律服务方面开销的增长速度是通货膨胀时 期的两倍。这里的inflation（通货膨胀）只是作为一个对比时期，与选项表述的毫无关联。而选项C“在大公 司就职的愿景”，回文定位“Butmostlawgraduatesnevergetabig-firmjob.”即“然而，大多数法律专业的毕业 生并未能获得在大公司工作的机会。”选项表述的意思与原文正好相反，故排除。 27.在美国大多数州，下列哪一项增加了法律教育的成本？ [A]本科阶段学习高额",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：D。根据题干关键词“students”和“takeuplawastheirprofession”，我们可以迅速定位到原文第二段第 二句“Thebestlawyersmadeskyscrapers-fullofmoney,temptingevermorestudentstopileintolawschools.”即律 师界的精英们收入丰厚，从而吸引更多的学生进入法学院。很明显吸引学生学法律的是money，即可直接得出 正确答案为D。 选项A“客户不断增长的需求”，文中并未提及相关信息，属于无中生有。选项B“通货膨胀不断增长的压力”， 定位到原文中出现inflation的句子“Duringthedecadebeforetheeconomiccrisis,spendingonlegalservicesin Americagrewtwiceasfastasinflation.”即经济危机前十年间，美国法律服务方面开销的增长速度是通货膨胀时 期的两倍。这里的inflation（通货膨胀）只是作为一个对比时期，与选项表述的毫无关联。而选项C“在大公 司就职的愿景”，回文定位“Butmostlawgraduatesnevergetabig-firmjob.”即“然而，大多数法律专业的毕业 生并未能获得在大公司工作的机会。”选项表述的意思与原文正好相反，故排除。 27.在美国大多数州，下列哪一项增加了法律教育的成本？ [A]本科阶段学习高额",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +46,20 @@
         "C": "Pursuing a bachelor's degree in another major.",
         "D": "Receiving training by professional associations."
       },
-      "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "B",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "正确答案：B。根据题干问题及关键词thecostsoflegaleducation，我们可以回文定位到第三段。原文“afour-year undergraduatedegreeinsomeunrelatedsubject,thenathree-yearlawdegreeatoneof200lawschoolsauthorizedby theAmericanBarAssociationandanexpensivepreparationforthebarexam.”即首先进行一些不相干学科的四年本 科学位学习，然后在美国律师协会认可的200所法学院之一进行三年的法律学位学习，同时还要准备巨额的律 师资格考试。选项B“Pursuingabachelor’sdegreeinanothermajor”正是对原文中“afour-yearundergraduatedegree insomeunrelatedsubject”的同义替换，故为正确答案。 而选项A“本科阶段学习高额的学费”，原文并未提及本科阶段学习费用的相关信息，故排除。选项C“律师",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。以原文明示信息为边界进行一步推断，警惕过度引申。",
+      "commonMistake": "容易把文中的可能性表述推成绝对结论。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "以原文明示信息为边界进行一步推断，警惕过度引申。",
+      "examinerThinking": {
+        "testPoint": "推理题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。以原文明示信息为边界进行一步推断，警惕过度引申。",
+        "correctLogic": "正确答案：B。根据题干问题及关键词thecostsoflegaleducation，我们可以回文定位到第三段。原文“afour-year undergraduatedegreeinsomeunrelatedsubject,thenathree-yearlawdegreeatoneof200lawschoolsauthorizedby theAmericanBarAssociationandanexpensivepreparationforthebarexam.”即首先进行一些不相干学科的四年本 科学位学习，然后在美国律师协会认可的200所法学院之一进行三年的法律学位学习，同时还要准备巨额的律 师资格考试。选项B“Pursuingabachelor’sdegreeinanothermajor”正是对原文中“afour-yearundergraduatedegree insomeunrelatedsubject”的同义替换，故为正确答案。 而选项A“本科阶段学习高额的学费”，原文并未提及本科阶段学习费用的相关信息，故排除。选项C“律师",
+        "nextTimeStrategy": "以原文明示信息为边界进行一步推断，警惕过度引申。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +73,20 @@
         "C": "the stern exam for would-be lawyers",
         "D": "non-professionals' sharp criticism"
       },
-      "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：C。根据题干关键词“reform”进行回文定位到原文第四段“Reformingthesystemwouldhelpbothlawyersand theircustomers.Sensibleideashavebeenaroundforalongtime,butthestate-levelbodiesthatgoverntheprofession havebeentooconservativetoimplementthem.”即这一体系改革有益于律师和他们的客户。改革的合理建议很早 之前就已形成，但是负责律师行业的州一级管理部门过于保守而并未实施。选项C“律师行业监管部门的僵化” 明显为正确答案。 选项A“非专业人士的尖锐批评”是原文未提及的信息；选项B“律师和客户们的强烈反对”，对应原文“Reforming thesystemwouldhelpbothlawyersandtheircustomers.”也就是说这一改革有益于律师和客户，选项表达的意思 与原文正好相反；而选项D“对于准律师的严格考试”，对应原文“Ifthebarexamistrulyasternenoughtestfor awould-belawyer,thosewhocansititearliershouldbeallowedtodoso.”即如果律师资格考试对准律师而言是极 为严格的，那就应该允许有能力提前参加考试的学生参加考试。很明显“严格的考试”并不是",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：C。根据题干关键词“reform”进行回文定位到原文第四段“Reformingthesystemwouldhelpbothlawyersand theircustomers.Sensibleideashavebeenaroundforalongtime,butthestate-levelbodiesthatgoverntheprofession havebeentooconservativetoimplementthem.”即这一体系改革有益于律师和他们的客户。改革的合理建议很早 之前就已形成，但是负责律师行业的州一级管理部门过于保守而并未实施。选项C“律师行业监管部门的僵化” 明显为正确答案。 选项A“非专业人士的尖锐批评”是原文未提及的信息；选项B“律师和客户们的强烈反对”，对应原文“Reforming thesystemwouldhelpbothlawyersandtheircustomers.”也就是说这一改革有益于律师和客户，选项表达的意思 与原文正好相反；而选项D“对于准律师的严格考试”，对应原文“Ifthebarexamistrulyasternenoughtestfor awould-belawyer,thosewhocansititearliershouldbeallowedtodoso.”即如果律师资格考试对准律师而言是极 为严格的，那就应该允许有能力提前参加考试的学生参加考试。很明显“严格的考试”并不是",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +100,20 @@
         "C": "aggravates the ethical situation in the trade",
         "D": "prevents lawyers from gaining due profits"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：D。根据题干的关键词“restrictive”（限制性的）及专有名词theguild-likeownershipstructure（同业公会 所有权结构），我们可以定位到原文第五段。选项A“防止律师获得应有的收益”是原文未提及的信息，故排 除；选项B“防止律师在律师事务所参股”对应原文“ExceptintheDistrictofColumbia,non-lawyersmaynotown anyshareofalawfirm.”也就是说除哥伦比亚特区外，非职业律师不得在律师事务所参股。可明显看出选项与 原文意思相反，故排除；选项C“使该行业的职业道德状况恶化”对应原文“butopponentsofchangeamongthe regulatorsinsistthatkeepingoutsidersoutofalawfirmisolateslawyersfromthepressuretomakemoneyratherthan serveclientsethically.”原文意思是“但监管部门中反对革新的人员坚持认为，不让外行参股律师事务所可以免 除律师为了赚钱而不能以良好的职业道德服务客户的压力。”很明显选项与原文意思相反，故排除。 而选项D正好与原文“ExceptintheDistrictofColumbia,non-lawyersmaynotownanyshareofalawfirm.（除哥 伦比亚特区外，非职业律师不得在",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：D。根据题干的关键词“restrictive”（限制性的）及专有名词theguild-likeownershipstructure（同业公会 所有权结构），我们可以定位到原文第五段。选项A“防止律师获得应有的收益”是原文未提及的信息，故排 除；选项B“防止律师在律师事务所参股”对应原文“ExceptintheDistrictofColumbia,non-lawyersmaynotown anyshareofalawfirm.”也就是说除哥伦比亚特区外，非职业律师不得在律师事务所参股。可明显看出选项与 原文意思相反，故排除；选项C“使该行业的职业道德状况恶化”对应原文“butopponentsofchangeamongthe regulatorsinsistthatkeepingoutsidersoutofalawfirmisolateslawyersfromthepressuretomakemoneyratherthan serveclientsethically.”原文意思是“但监管部门中反对革新的人员坚持认为，不让外行参股律师事务所可以免 除律师为了赚钱而不能以良好的职业道德服务客户的压力。”很明显选项与原文意思相反，故排除。 而选项D正好与原文“ExceptintheDistrictofColumbia,non-lawyersmaynotownanyshareofalawfirm.（除哥 伦比亚特区外，非职业律师不得在",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -108,14 +128,19 @@
         "D": "the role of undergraduate studies in America's legal education ---"
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "主旨题",
+      "questionType": "主旨题",
+      "explanation": "正确答案：C。从文章整体结构来把握主旨大意。文章首先提出了美国法律行业的问题：巨额的法律服务费用。接着 具体深入地分析了产生这种现象的原因，最后提出解决问题的方法策略。所以只要清楚把握文章结构，就可以",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。先把握首段、转折句与尾段，避免用局部细节代替全文主旨。",
+      "commonMistake": "容易把一个局部事实当成全文主旨。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "先把握首段、转折句与尾段，避免用局部细节代替全文主旨。",
+      "examinerThinking": {
+        "testPoint": "主旨题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。先把握首段、转折句与尾段，避免用局部细节代替全文主旨。",
+        "correctLogic": "正确答案：C。从文章整体结构来把握主旨大意。文章首先提出了美国法律行业的问题：巨额的法律服务费用。接着 具体深入地分析了产生这种现象的原因，最后提出解决问题的方法策略。所以只要清楚把握文章结构，就可以",
+        "nextTimeStrategy": "先把握首段、转折句与尾段，避免用局部细节代替全文主旨。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],

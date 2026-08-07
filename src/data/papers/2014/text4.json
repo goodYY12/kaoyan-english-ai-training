@@ -20,14 +20,19 @@
         "D": "Tolerant"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "正确答案：A。根据题干要求，可定位到文章第一段。在一段首句中提到报告值得称道（deservepraise），但紧接着 下一句话锋一转，点出了作者对AAAS报告的评论及真正的态度。 在第二句中出现的带有作者强烈感情色彩的词“regrettably”和“however”，明显是对前文praise的否定，并 且在最后出现moreharmthangood（弊大于利），因此我们可以明确得出作者对该报告持否定的态度，所以选 项A“批判性的”为正确答案。 选项B“欣赏的”与原文意思明显相反；选项C“鄙视的”和选项D“容忍的”都是文中未出现的信息，故排 除。 37.国会有影响力的人物要求美国人文和科学研究院对如何________做出报告。 [A]保护个人的教育权利 [B]定义政府在教育中的角色 [C]保持人们对自由教育的兴趣 [D]在自由教育方面保持领先地位 【答案】D 【考点】事实细节 【解析】根据题干关键词，可定位到第二段第一句。题干中的“InfluentialfiguresintheCongress”对应原文的 “leadingcongressionalDemocratsandRepublicans”，题干中的“required”对应原文的“asking”，依据题干问 题答案出自于“…maintainnationalexcellenceinhumanitiesandsocialscientificscholarshipandeducation.",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。",
+      "commonMistake": "容易忽略转折和评价词，误判作者立场。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。",
+      "examinerThinking": {
+        "testPoint": "态度题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。",
+        "correctLogic": "正确答案：A。根据题干要求，可定位到文章第一段。在一段首句中提到报告值得称道（deservepraise），但紧接着 下一句话锋一转，点出了作者对AAAS报告的评论及真正的态度。 在第二句中出现的带有作者强烈感情色彩的词“regrettably”和“however”，明显是对前文praise的否定，并 且在最后出现moreharmthangood（弊大于利），因此我们可以明确得出作者对该报告持否定的态度，所以选 项A“批判性的”为正确答案。 选项B“欣赏的”与原文意思明显相反；选项C“鄙视的”和选项D“容忍的”都是文中未出现的信息，故排 除。 37.国会有影响力的人物要求美国人文和科学研究院对如何________做出报告。 [A]保护个人的教育权利 [B]定义政府在教育中的角色 [C]保持人们对自由教育的兴趣 [D]在自由教育方面保持领先地位 【答案】D 【考点】事实细节 【解析】根据题干关键词，可定位到第二段第一句。题干中的“InfluentialfiguresintheCongress”对应原文的 “leadingcongressionalDemocratsandRepublicans”，题干中的“required”对应原文的“asking”，依据题干问 题答案出自于“…maintainnationalexcellenceinhumanitiesandsocialscientificscholarshipandeducation.",
+        "nextTimeStrategy": "重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +46,20 @@
         "C": "keep a leading position in liberal education",
         "D": "safeguard individuals' rights to education"
       },
-      "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "D",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：D。根据题干关键词，可定位到第二段第一句。题干中的“InfluentialfiguresintheCongress”对应原文的 “leadingcongressionalDemocratsandRepublicans”，题干中的“required”对应原文的“asking”，依据题干问 题答案出自于“…maintainnationalexcellenceinhumanitiesandsocialscientificscholarshipandeducation.”比对四 个选项，D项中的“leading”对应原文的“excellence”，“liberal”对应原文的“humanities”，由此可见D项是 对原文意思的同义置换为正确答案。 选项A“保护个人的教育权利”，文中并未提及有关教育权利的信息，故排除；选项B“定义政府在教育中的",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：D。根据题干关键词，可定位到第二段第一句。题干中的“InfluentialfiguresintheCongress”对应原文的 “leadingcongressionalDemocratsandRepublicans”，题干中的“required”对应原文的“asking”，依据题干问 题答案出自于“…maintainnationalexcellenceinhumanitiesandsocialscientificscholarshipandeducation.”比对四 个选项，D项中的“leading”对应原文的“excellence”，“liberal”对应原文的“humanities”，由此可见D项是 对原文意思的同义置换为正确答案。 选项A“保护个人的教育权利”，文中并未提及有关教育权利的信息，故排除；选项B“定义政府在教育中的",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {

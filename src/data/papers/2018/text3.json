@@ -20,14 +20,19 @@
         "D": "It put both sides into a dangerous situation."
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：B。细节题。根据题干中的NHS,DeepMind和agreement回文定位第一段第四句“Itisagainstthatbackground that the information commissioner, has issued her damning verdict against the Royal Free hospital trust under the NHS, whichhandedovertoDeepMindtherecordsof1.6millionpatientsin2015onthebasisofavagueagreementwhichtookfar too little accountofthe patients’rights andtheir expectations of privacy”。根据a vague agreementwhich tookfar too little accountofthepatients’rightsandtheirexpectationsofprivacy这一部分的语义信息，说明NHS与DeepMind之间的协议 没有充分考虑到病人的权利与隐私。这句话的言外之意就是协议未能充分关注病人的权利。故确定答案为选项B， 其中failedto是tookfartoolittleaccount的同义改写。 32、【答案】[C]necessaryadjustments. 【解析",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：B。细节题。根据题干中的NHS,DeepMind和agreement回文定位第一段第四句“Itisagainstthatbackground that the information commissioner, has issued her damning verdict against the Royal Free hospital trust under the NHS, whichhandedovertoDeepMindtherecordsof1.6millionpatientsin2015onthebasisofavagueagreementwhichtookfar too little accountofthe patients’rights andtheir expectations of privacy”。根据a vague agreementwhich tookfar too little accountofthepatients’rightsandtheirexpectationsofprivacy这一部分的语义信息，说明NHS与DeepMind之间的协议 没有充分考虑到病人的权利与隐私。这句话的言外之意就是协议未能充分关注病人的权利。故确定答案为选项B， 其中failedto是tookfartoolittleaccount的同义改写。 32、【答案】[C]necessaryadjustments. 【解析",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +47,19 @@
         "D": "sincere apologies"
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：C。细节题。根据题干中的NHStrust, 以及Denham’sverdict回文定位第二段第二句“TheNHStrusthasmended itsways.” 根据第二句的语义信息，NHStrust针对Denham’sverdict已经调整了其与DeepMind的协议内容，故通过 同义替换，可确定正确答案为C。 33、【答案】[D]thevalueofdatacomesfromtheprocessingofit. 【解析】推理题。根据题干，此题定位在第二段最后一句but之后的转折句。“Butthisdistinctionmissesthepoint thatitisprocessingandaggregation,notthemerepossessionofbits,thatgivesdatavalue”. 这种区分忽视了一个点：是处 理和收集赋予数据意义，而不是拥有数据。 选项中的 “processing”和原文中的“processing”原词复现。 选项中的“the valueofdata”对应原文中的“datavalue”。因此，D项为正确答案。 34、【答案】[D]themonopolyofbigdatabytechgiants. 【解析】细节题。根据题干此题定位在文中最后一段的第四句。“Whatmattersisthattheywillbelongtoaprivate monopolywhichdeveloped",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：C。细节题。根据题干中的NHStrust, 以及Denham’sverdict回文定位第二段第二句“TheNHStrusthasmended itsways.” 根据第二句的语义信息，NHStrust针对Denham’sverdict已经调整了其与DeepMind的协议内容，故通过 同义替换，可确定正确答案为C。 33、【答案】[D]thevalueofdatacomesfromtheprocessingofit. 【解析】推理题。根据题干，此题定位在第二段最后一句but之后的转折句。“Butthisdistinctionmissesthepoint thatitisprocessingandaggregation,notthemerepossessionofbits,thatgivesdatavalue”. 这种区分忽视了一个点：是处 理和收集赋予数据意义，而不是拥有数据。 选项中的 “processing”和原文中的“processing”原词复现。 选项中的“the valueofdata”对应原文中的“datavalue”。因此，D项为正确答案。 34、【答案】[D]themonopolyofbigdatabytechgiants. 【解析】细节题。根据题干此题定位在文中最后一段的第四句。“Whatmattersisthattheywillbelongtoaprivate monopolywhichdeveloped",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +74,19 @@
         "D": "the value of data comes from the processing of it"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：D。推理题。根据题干，此题定位在第二段最后一句but之后的转折句。“Butthisdistinctionmissesthepoint thatitisprocessingandaggregation,notthemerepossessionofbits,thatgivesdatavalue”. 这种区分忽视了一个点：是处 理和收集赋予数据意义，而不是拥有数据。 选项中的 “processing”和原文中的“processing”原词复现。 选项中的“the valueofdata”对应原文中的“datavalue”。因此，D项为正确答案。 34、【答案】[D]themonopolyofbigdatabytechgiants. 【解析】细节题。根据题干此题定位在文中最后一段的第四句。“Whatmattersisthattheywillbelongtoaprivate monopolywhichdevelopedthemusingpublicresources.”重要的是这些进步属于一个私人垄断企业，而私人垄断企来使 用公共资源进行研发。而这正真正的担忧所在。因此，选项D为正确答案,themonopolyofbigdatabytechgiants对 应原文中的aprivatemonopoly。 35、【答案】[B]cautious 【解析】态度题。本题考查作者对本文主题“将人工智能应用于医疗健康”的态度。根据顺序性原则定位在最后",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：D。推理题。根据题干，此题定位在第二段最后一句but之后的转折句。“Butthisdistinctionmissesthepoint thatitisprocessingandaggregation,notthemerepossessionofbits,thatgivesdatavalue”. 这种区分忽视了一个点：是处 理和收集赋予数据意义，而不是拥有数据。 选项中的 “processing”和原文中的“processing”原词复现。 选项中的“the valueofdata”对应原文中的“datavalue”。因此，D项为正确答案。 34、【答案】[D]themonopolyofbigdatabytechgiants. 【解析】细节题。根据题干此题定位在文中最后一段的第四句。“Whatmattersisthattheywillbelongtoaprivate monopolywhichdevelopedthemusingpublicresources.”重要的是这些进步属于一个私人垄断企业，而私人垄断企来使 用公共资源进行研发。而这正真正的担忧所在。因此，选项D为正确答案,themonopolyofbigdatabytechgiants对 应原文中的aprivatemonopoly。 35、【答案】[B]cautious 【解析】态度题。本题考查作者对本文主题“将人工智能应用于医疗健康”的态度。根据顺序性原则定位在最后",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +101,19 @@
         "D": "the monopoly of big data by tech giants"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：D。细节题。根据题干此题定位在文中最后一段的第四句。“Whatmattersisthattheywillbelongtoaprivate monopolywhichdevelopedthemusingpublicresources.”重要的是这些进步属于一个私人垄断企业，而私人垄断企来使 用公共资源进行研发。而这正真正的担忧所在。因此，选项D为正确答案,themonopolyofbigdatabytechgiants对 应原文中的aprivatemonopoly。 35、【答案】[B]cautious 【解析】态度题。本题考查作者对本文主题“将人工智能应用于医疗健康”的态度。根据顺序性原则定位在最后 一段。该段倒数第三句话指出“我们目前依然处于这一改革的前期，并且任何小的选择都会对未来产生深远的影响”， 其中“still”一词，以及“small”(小)和“gigantic”(巨大的)对比，都体现出了作者对待整个事件是小心谨慎的态度，因此[B] cautious为正确答案。 词汇难点： assessment 评定，评估 privacy 隐私 damning 证据确凿的 commissioner 委员，专员 acknowledge 承认 vague 含糊的 verdict 裁决 potential 潜力 mendone’sway 改过自新 ensure 确保 consent 同意 possession 拥有 angle 角度；立",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：D。细节题。根据题干此题定位在文中最后一段的第四句。“Whatmattersisthattheywillbelongtoaprivate monopolywhichdevelopedthemusingpublicresources.”重要的是这些进步属于一个私人垄断企业，而私人垄断企来使 用公共资源进行研发。而这正真正的担忧所在。因此，选项D为正确答案,themonopolyofbigdatabytechgiants对 应原文中的aprivatemonopoly。 35、【答案】[B]cautious 【解析】态度题。本题考查作者对本文主题“将人工智能应用于医疗健康”的态度。根据顺序性原则定位在最后 一段。该段倒数第三句话指出“我们目前依然处于这一改革的前期，并且任何小的选择都会对未来产生深远的影响”， 其中“still”一词，以及“small”(小)和“gigantic”(巨大的)对比，都体现出了作者对待整个事件是小心谨慎的态度，因此[B] cautious为正确答案。 词汇难点： assessment 评定，评估 privacy 隐私 damning 证据确凿的 commissioner 委员，专员 acknowledge 承认 vague 含糊的 verdict 裁决 potential 潜力 mendone’sway 改过自新 ensure 确保 consent 同意 possession 拥有 angle 角度；立",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -108,14 +128,19 @@
         "D": "contemptuous ---"
       },
       "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：B。态度题。本题考查作者对本文主题“将人工智能应用于医疗健康”的态度。根据顺序性原则定位在最后 一段。该段倒数第三句话指出“我们目前依然处于这一改革的前期，并且任何小的选择都会对未来产生深远的影响”， 其中“still”一词，以及“small”(小)和“gigantic”(巨大的)对比，都体现出了作者对待整个事件是小心谨慎的态度，因此[B] cautious为正确答案。 词汇难点： assessment 评定，评估 privacy 隐私 damning 证据确凿的 commissioner 委员，专员 acknowledge 承认 vague 含糊的 verdict 裁决 potential 潜力 mendone’sway 改过自新 ensure 确保 consent 同意 possession 拥有 angle 角度；立场 aggregation 聚集 analysis 分析 identifiable 可识别的 feudalism 封建主义 monopoly 垄断 curb 仰制，约束 generate 产生 revolution 革命 algorithm 演算法 surveillance 监视 consequence 后果 gigantic 巨大的 maladapted 不适合的 难句分析： 1. It is against that background that the information commissione",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：B。态度题。本题考查作者对本文主题“将人工智能应用于医疗健康”的态度。根据顺序性原则定位在最后 一段。该段倒数第三句话指出“我们目前依然处于这一改革的前期，并且任何小的选择都会对未来产生深远的影响”， 其中“still”一词，以及“small”(小)和“gigantic”(巨大的)对比，都体现出了作者对待整个事件是小心谨慎的态度，因此[B] cautious为正确答案。 词汇难点： assessment 评定，评估 privacy 隐私 damning 证据确凿的 commissioner 委员，专员 acknowledge 承认 vague 含糊的 verdict 裁决 potential 潜力 mendone’sway 改过自新 ensure 确保 consent 同意 possession 拥有 angle 角度；立场 aggregation 聚集 analysis 分析 identifiable 可识别的 feudalism 封建主义 monopoly 垄断 curb 仰制，约束 generate 产生 revolution 革命 algorithm 演算法 surveillance 监视 consequence 后果 gigantic 巨大的 maladapted 不适合的 难句分析： 1. It is against that background that the information commissione",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],

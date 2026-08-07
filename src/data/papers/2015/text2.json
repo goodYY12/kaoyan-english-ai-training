@@ -19,15 +19,20 @@
         "C": "check suspects' phone contents without being authorized",
         "D": "prohibit suspects from using their mobile phones"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：C。根据题干关键词TheSupremeCourt回文定位到第一段的第二句话，“TheSupremeCourtwillnow considerwhetherpolicecansearchforthecontentsofamobilephonewithoutawarrantifthephoneisonorarounda personduringanarrest”,一一比对选项，原文中的“policecansearchforthecontentsofamobilephonewithouta warrant”与选项C“checksuspects’phonecontentswithoutbeingauthorized”是同义替换，故正确，同时可排除 A，D两项；B项干扰性最强，只有一字之差，文中提到的是“searchthecontentsofamobilephone”而选项B 中是“mobilephone”，故排除B项。 27.【答案】A 【考点】观点态度 【解析】根据题干关键词“California’sargument”，可以定位到文章第四段第一句“Theyshouldstartbydiscarding California’slameargument…”。由第四段第一句话中的“discard（抛弃）”和“lame（没有说服力的）”可以看出作 者对于California’sargument是不支持的态度，因此选项Adisapprov",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：C。根据题干关键词TheSupremeCourt回文定位到第一段的第二句话，“TheSupremeCourtwillnow considerwhetherpolicecansearchforthecontentsofamobilephonewithoutawarrantifthephoneisonorarounda personduringanarrest”,一一比对选项，原文中的“policecansearchforthecontentsofamobilephonewithouta warrant”与选项C“checksuspects’phonecontentswithoutbeingauthorized”是同义替换，故正确，同时可排除 A，D两项；B项干扰性最强，只有一字之差，文中提到的是“searchthecontentsofamobilephone”而选项B 中是“mobilephone”，故排除B项。 27.【答案】A 【考点】观点态度 【解析】根据题干关键词“California’sargument”，可以定位到文章第四段第一句“Theyshouldstartbydiscarding California’slameargument…”。由第四段第一句话中的“discard（抛弃）”和“lame（没有说服力的）”可以看出作 者对于California’sargument是不支持的态度，因此选项Adisapprov",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +47,19 @@
         "D": "cautiousness"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "态度题",
+      "questionType": "态度题",
+      "explanation": "正确答案：A。根据题干关键词“California’sargument”，可以定位到文章第四段第一句“Theyshouldstartbydiscarding California’slameargument…”。由第四段第一句话中的“discard（抛弃）”和“lame（没有说服力的）”可以看出作 者对于California’sargument是不支持的态度，因此选项Adisapproval（不赞成）正确。选项B indifference（漠不关心）不正确，因为如果作者对一个话题不关心的话，他就不会提出来了；选项Ctolerance （容忍）表示在不赞成的基础上允许其存在，而原文直言“theyshouldstartbydiscarding...”，由此可知，作者认 为California’sargument应该被抛弃而不是让其继续存在，所以不正确；选项Dcautiousness（小心，谨慎）在 文章中并未体现出来，故不正确。",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。",
+      "commonMistake": "容易忽略转折和评价词，误判作者立场。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。",
+      "examinerThinking": {
+        "testPoint": "态度题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。",
+        "correctLogic": "正确答案：A。根据题干关键词“California’sargument”，可以定位到文章第四段第一句“Theyshouldstartbydiscarding California’slameargument…”。由第四段第一句话中的“discard（抛弃）”和“lame（没有说服力的）”可以看出作 者对于California’sargument是不支持的态度，因此选项Adisapproval（不赞成）正确。选项B indifference（漠不关心）不正确，因为如果作者对一个话题不关心的话，他就不会提出来了；选项Ctolerance （容忍）表示在不赞成的基础上允许其存在，而原文直言“theyshouldstartbydiscarding...”，由此可知，作者认 为California’sargument应该被抛弃而不是让其继续存在，所以不正确；选项Dcautiousness（小心，谨慎）在 文章中并未体现出来，故不正确。",
+        "nextTimeStrategy": "重点观察转折、评价词和尾段立场，不要只根据某个事实下结论。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -64,14 +74,19 @@
         "D": "going through one's wallet"
       },
       "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：A。根据题干关键词theauthorbelieves和“exploringone’sphonecontentsiscomparableto”可回文定位到文章 第四段第三句“Butexploringone’ssmartphoneismorelikeenteringhisorherhome”，选项Agettingintoone’s residence（进入某人的住宅）语义与之一致，其中，gettinginto与entering对应，one’sresidence与hisorherhome 对应，故A选项为正确答案。根据上述分析，可知选项Bhandlingone’shistoricalrecords（处理某人的历史记录） 和选项Cscanningone’scorrespondence（浏览某人的信件）不正确。选项Dgoingthroughone’swallet的干扰力 度最大，来源于文章第四段的第一句exploringthecontentsofasmartphone...issimilartogoingthroughasuspect’s purse，但是这句话是California’sargument的内容，而不是作者的看法，所以不正确。 29.【答案】C 【考点】推理判断 【解析】根据题干信息Inparagraph5and6回文定位到第5段和第6段。第5段第一句话明确指出Americans shouldtakestepstopro",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：A。根据题干关键词theauthorbelieves和“exploringone’sphonecontentsiscomparableto”可回文定位到文章 第四段第三句“Butexploringone’ssmartphoneismorelikeenteringhisorherhome”，选项Agettingintoone’s residence（进入某人的住宅）语义与之一致，其中，gettinginto与entering对应，one’sresidence与hisorherhome 对应，故A选项为正确答案。根据上述分析，可知选项Bhandlingone’shistoricalrecords（处理某人的历史记录） 和选项Cscanningone’scorrespondence（浏览某人的信件）不正确。选项Dgoingthroughone’swallet的干扰力 度最大，来源于文章第四段的第一句exploringthecontentsofasmartphone...issimilartogoingthroughasuspect’s purse，但是这句话是California’sargument的内容，而不是作者的看法，所以不正确。 29.【答案】C 【考点】推理判断 【解析】根据题干信息Inparagraph5and6回文定位到第5段和第6段。第5段第一句话明确指出Americans shouldtakestepstopro",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -85,15 +100,20 @@
         "C": "citizens' privacy is not effectively protected",
         "D": "phones are used to store sensitive information"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "C",
+      "type": "推理题",
+      "questionType": "推理题",
+      "explanation": "正确答案：C。根据题干信息Inparagraph5and6回文定位到第5段和第6段。第5段第一句话明确指出Americans shouldtakestepstoprotecttheirdigitalprivacy，说明探讨的是美国民众的数据隐私问题。第6段主要探讨警察是 否应该被当局赋予更大的权利来检查公众的手机内容，这个问题与第5段的内容是紧密相关的，公众被检查自 己的手机内容，那么他们手机内的数据隐私就会被公开。由此可推知作者的顾虑主要是围绕保护公众的隐私展 开，因此答案为C。 选项Aprinciplesarehardtobeclearlyexpressed（原则难以得到清晰地表达）在原文中并未提到，不正确；选项 Bthecourtisgivingpolicelessroomforaction（法院给警察更少的行动空间）不正确，原文说thecourtmaywant toallowroomforpoliceto...，说明thecourt是想给警察空间，而不是减少空间，与原文信息相反；选项Dphones areusedtostoresensitiveinformation（电话被用来储存敏感信息）与原文第5段第2句话所表述的信息一致，但 这只是细节信息，不能将第5段和第6段的信息囊括起来，所以属于以偏概全，不正确。 30.【答案】B 【考点】事实细节 【解析】根据题干关键词OrinKerr可以回文定位到文章最后一段。作者引用Orin",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。以原文明示信息为边界进行一步推断，警惕过度引申。",
+      "commonMistake": "容易把文中的可能性表述推成绝对结论。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "以原文明示信息为边界进行一步推断，警惕过度引申。",
+      "examinerThinking": {
+        "testPoint": "推理题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。以原文明示信息为边界进行一步推断，警惕过度引申。",
+        "correctLogic": "正确答案：C。根据题干信息Inparagraph5and6回文定位到第5段和第6段。第5段第一句话明确指出Americans shouldtakestepstoprotecttheirdigitalprivacy，说明探讨的是美国民众的数据隐私问题。第6段主要探讨警察是 否应该被当局赋予更大的权利来检查公众的手机内容，这个问题与第5段的内容是紧密相关的，公众被检查自 己的手机内容，那么他们手机内的数据隐私就会被公开。由此可推知作者的顾虑主要是围绕保护公众的隐私展 开，因此答案为C。 选项Aprinciplesarehardtobeclearlyexpressed（原则难以得到清晰地表达）在原文中并未提到，不正确；选项 Bthecourtisgivingpolicelessroomforaction（法院给警察更少的行动空间）不正确，原文说thecourtmaywant toallowroomforpoliceto...，说明thecourt是想给警察空间，而不是减少空间，与原文信息相反；选项Dphones areusedtostoresensitiveinformation（电话被用来储存敏感信息）与原文第5段第2句话所表述的信息一致，但 这只是细节信息，不能将第5段和第6段的信息囊括起来，所以属于以偏概全，不正确。 30.【答案】B 【考点】事实细节 【解析】根据题干关键词OrinKerr可以回文定位到文章最后一段。作者引用Orin",
+        "nextTimeStrategy": "以原文明示信息为边界进行一步推断，警惕过度引申。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -107,15 +127,20 @@
         "C": "California's argument violates principles of the Constitution",
         "D": "principles of the Constitution should never be altered ---"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：B。根据题干关键词OrinKerr可以回文定位到文章最后一段。作者引用OrinKerr这个人的比较是为了说 明相关的论点。分析最后一段结构可知，最后一段的第三句和第四句都是在阐述该例子本身，所以相关论点应 该往前面找，即是第二句话“New,disruptivetechnologysometimesdemandsnovelapplicationsoftheConstitution’s protection”,选项B与之同义替换，其中，reinterpretation和novelapplications对应，其他部分与原文完全一致。 结合上述分析，同时可以排除选项AtheConstitutionshouldbeimplementedflexibly（宪法应该灵活执行），其 范围过大；选项CCalifornia’sargumentviolatesprinciplesoftheConstitution（加利福利亚州的观点违背了宪法原 则）的干扰来自于第7段第1句话，但是原文只是说明作者认为法官不应该全面吸收加利福利亚州的观点，并 未提到其是否违背宪法，所以不正确；选项DprinciplesoftheConstitutionshouldneverbealtered（宪法的原则 不应该被改变）与原文语义相反，不正确。",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：B。根据题干关键词OrinKerr可以回文定位到文章最后一段。作者引用OrinKerr这个人的比较是为了说 明相关的论点。分析最后一段结构可知，最后一段的第三句和第四句都是在阐述该例子本身，所以相关论点应 该往前面找，即是第二句话“New,disruptivetechnologysometimesdemandsnovelapplicationsoftheConstitution’s protection”,选项B与之同义替换，其中，reinterpretation和novelapplications对应，其他部分与原文完全一致。 结合上述分析，同时可以排除选项AtheConstitutionshouldbeimplementedflexibly（宪法应该灵活执行），其 范围过大；选项CCalifornia’sargumentviolatesprinciplesoftheConstitution（加利福利亚州的观点违背了宪法原 则）的干扰来自于第7段第1句话，但是原文只是说明作者认为法官不应该全面吸收加利福利亚州的观点，并 未提到其是否违背宪法，所以不正确；选项DprinciplesoftheConstitutionshouldneverbealtered（宪法的原则 不应该被改变）与原文语义相反，不正确。",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],

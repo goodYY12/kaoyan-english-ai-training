@@ -19,15 +19,20 @@
         "C": "motivate the unemployed to report voluntarily",
         "D": "guarantee jobseekers' legitimate right to benefits"
       },
-      "answer": "B",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "C",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：C。此题考查英国财政大臣乔治•奥斯本提出新方案的目的，根据题干人名关键词定位到文章第一段，原 文提到“OnlyifthejoblessarriveatthejobcentrewithaCV,registerforonlinejobsearch,andstartlookingforwork willtheybeeligibleforbenefit”，即只有失业人员带上简历、网上注册并开始找工作了，才能获得福利。很明显 要获得救济福利更难而并非容易。因此排除B；而选项A“促使失业人员自愿进行报告”，原文是“theyshould reportweeklyratherthanfortnightly”，即他们应该每周报告一次，文章只提及了报告的时间频率，并未涉及是 否自愿的问题，该选项中的“自愿”属于无中生有；选项D“保证求职者获取救助金的合法权利”，文章同样 并未提及如何保证获得福利的相关信息，因此排除。 选项C“鼓励求职者积极找工作”，同样对应原文“OnlyifthejoblessarriveatthejobcentrewithaCV,registerfor onlinejobsearch,andstartlookingforworkwilltheybeeligibleforbenefit”，说明只有积极找工作才能获得失业救 助福利，即鼓励找工作，该项属于原文的同义替换。 22.文章第二段第三行的词组“tosignon”的意思最可",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：C。此题考查英国财政大臣乔治•奥斯本提出新方案的目的，根据题干人名关键词定位到文章第一段，原 文提到“OnlyifthejoblessarriveatthejobcentrewithaCV,registerforonlinejobsearch,andstartlookingforwork willtheybeeligibleforbenefit”，即只有失业人员带上简历、网上注册并开始找工作了，才能获得福利。很明显 要获得救济福利更难而并非容易。因此排除B；而选项A“促使失业人员自愿进行报告”，原文是“theyshould reportweeklyratherthanfortnightly”，即他们应该每周报告一次，文章只提及了报告的时间频率，并未涉及是 否自愿的问题，该选项中的“自愿”属于无中生有；选项D“保证求职者获取救助金的合法权利”，文章同样 并未提及如何保证获得福利的相关信息，因此排除。 选项C“鼓励求职者积极找工作”，同样对应原文“OnlyifthejoblessarriveatthejobcentrewithaCV,registerfor onlinejobsearch,andstartlookingforworkwilltheybeeligibleforbenefit”，说明只有积极找工作才能获得失业救 助福利，即鼓励找工作，该项属于原文的同义替换。 22.文章第二段第三行的词组“tosignon”的意思最可",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -41,15 +46,20 @@
         "C": "to register for an allowance from the government",
         "D": "to attend a governmental job-training program"
       },
-      "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "A",
+      "type": "词义题",
+      "questionType": "词义题",
+      "explanation": "正确答案：A。要准确理解该词的含义，需要依赖于上下文线索。根据题干，迅速定位该词所在的原句“Thosefirstfew daysshouldbespentlookingforwork,notlookingtosignon”，上下找对应关系，下一句出现“We’redoingthese thingsbecauseweknowtheyhelppeoplestayoffbenefitsandhelpthoseonbenefitsgetintoworkfaster.”我们之所以 做这些事情，是因为我们知道这些政策有助于人们远离救助金，同时可以帮助那些依赖救助金的人更快地找到 工作。signon很明显与如何获得救助金有关，即对应选项A“登记获得政府提供的津贴”。 其它三项与词组所在段落的上下文无关，故排除。 23.什么促使财政大臣推动了该方案？ [A]确保所有人过上更好生活的愿望。 [B]保护失业者的渴望。 [C]极力主张对申请人慷慨。 [D]确保纳税人的公平的热情。 【答案】D 【考点】事实细节",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用所在句的上下文逻辑判断语境义，不要按常见词义直接选。",
+      "commonMistake": "容易望文生义，没有根据上下文判断词义。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用所在句的上下文逻辑判断语境义，不要按常见词义直接选。",
+      "examinerThinking": {
+        "testPoint": "词义题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用所在句的上下文逻辑判断语境义，不要按常见词义直接选。",
+        "correctLogic": "正确答案：A。要准确理解该词的含义，需要依赖于上下文线索。根据题干，迅速定位该词所在的原句“Thosefirstfew daysshouldbespentlookingforwork,notlookingtosignon”，上下找对应关系，下一句出现“We’redoingthese thingsbecauseweknowtheyhelppeoplestayoffbenefitsandhelpthoseonbenefitsgetintoworkfaster.”我们之所以 做这些事情，是因为我们知道这些政策有助于人们远离救助金，同时可以帮助那些依赖救助金的人更快地找到 工作。signon很明显与如何获得救助金有关，即对应选项A“登记获得政府提供的津贴”。 其它三项与词组所在段落的上下文无关，故排除。 23.什么促使财政大臣推动了该方案？ [A]确保所有人过上更好生活的愿望。 [B]保护失业者的渴望。 [C]极力主张对申请人慷慨。 [D]确保纳税人的公平的热情。 【答案】D 【考点】事实细节",
+        "nextTimeStrategy": "用所在句的上下文逻辑判断语境义，不要按常见词义直接选。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -97,15 +107,20 @@
         "C": "insulted",
         "D": "guilty"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：B。根据题干，我们回到原文第三段，原文中“Losingajobishurting”；“Itisfinanciallyterrifying, psychologicallyembarrassingandyouknowthatsupportisminimalandextraordinarilyhardtoget.”；“Worse,the crucialincometofeedyourselfandyourfamilyandpaythebillshasdisappeared.”，原文中hurting，terrifying， embarrassing，minimal，hardtoget，worse，disappeared等均是一些表示负面情绪的词，就奠定了整段内容的基 调，因此我们看选项，很容易得出选项B“心神不安的”正是原文出现的一些词汇的同义替换。而其它三个选 项“受侮辱的”、“激愤的”、“内疚有罪的”均与原文所表达的沮丧、心神不安的心情不符合，故排除。 25.作者最有可能赞成下列哪一项？ [A]失业救助不应该是有条件的。 [B]英国的社会福利体系助长了求职者的懒惰。 [C]求职者的津贴满足了他们的实际需求。 [D]奥斯本的改革将降低失业风险。 【答案】A 【考点】推理判断 【解析】原文最后一段句首出现了明显表示作者思想感情的转折词“but”。选项B“英国的社会福利体系助长 了求职者的懒惰”回归原文“…toindulgeyour",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：B。根据题干，我们回到原文第三段，原文中“Losingajobishurting”；“Itisfinanciallyterrifying, psychologicallyembarrassingandyouknowthatsupportisminimalandextraordinarilyhardtoget.”；“Worse,the crucialincometofeedyourselfandyourfamilyandpaythebillshasdisappeared.”，原文中hurting，terrifying， embarrassing，minimal，hardtoget，worse，disappeared等均是一些表示负面情绪的词，就奠定了整段内容的基 调，因此我们看选项，很容易得出选项B“心神不安的”正是原文出现的一些词汇的同义替换。而其它三个选 项“受侮辱的”、“激愤的”、“内疚有罪的”均与原文所表达的沮丧、心神不安的心情不符合，故排除。 25.作者最有可能赞成下列哪一项？ [A]失业救助不应该是有条件的。 [B]英国的社会福利体系助长了求职者的懒惰。 [C]求职者的津贴满足了他们的实际需求。 [D]奥斯本的改革将降低失业风险。 【答案】A 【考点】推理判断 【解析】原文最后一段句首出现了明显表示作者思想感情的转折词“but”。选项B“英国的社会福利体系助长 了求职者的懒惰”回归原文“…toindulgeyour",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {

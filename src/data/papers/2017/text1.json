@@ -19,15 +19,20 @@
         "C": "highlight the necessity of upgrading major U.S. airports",
         "D": "emphasize the importance of privacy protection"
       },
-      "answer": "A",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：B。根据题干关键词定位到文章第二段句ThecrashofEgyptAirFlight804,whichterroristsmayhavedownedover theMediterraneanSea,providesanothertragicreminderofwhy.（埃及航空804号航班坠毁的悲剧再一次提醒了人们安 检的重要性，该航班可能是在地中海上空被恐怖分子击落的。）这里相当于举例，目的是证明论点，因此正确答案 的位置很有可能在定位句的上一句，即第二段：Americansarewillingtotoleratetime-consumingsecurityproceduresin returnforincreasedsafety.也即提及此事的目的是为了解释美国人愿意容忍目前耗时的安检程序，以换取更高的安全 性。故选项B为正确答案。 22.Whichofthefollowingcontributionsto 以下哪一项是导致主要机场旅客长时间排队的原因？ longwaitsatmajorairports?",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：B。根据题干关键词定位到文章第二段句ThecrashofEgyptAirFlight804,whichterroristsmayhavedownedover theMediterraneanSea,providesanothertragicreminderofwhy.（埃及航空804号航班坠毁的悲剧再一次提醒了人们安 检的重要性，该航班可能是在地中海上空被恐怖分子击落的。）这里相当于举例，目的是证明论点，因此正确答案 的位置很有可能在定位句的上一句，即第二段：Americansarewillingtotoleratetime-consumingsecurityproceduresin returnforincreasedsafety.也即提及此事的目的是为了解释美国人愿意容忍目前耗时的安检程序，以换取更高的安全 性。故选项B为正确答案。 22.Whichofthefollowingcontributionsto 以下哪一项是导致主要机场旅客长时间排队的原因？ longwaitsatmajorairports?",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -42,14 +47,19 @@
         "D": "Frequent unexpected secret checks."
       },
       "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：C。根据题干关键词定位到文章第三段句 Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and low oil prices, have resulted in long waits at major airports such as Chicago’s O’HareInternational.（从那以后机场便加强了安保措施，而且经济状况改善和低油价使得航空旅行人数增加，导致了 旅客在芝加哥奥黑而国际机场等主要机场的等待时间漫长。）本句中的haveresultedin相当于题干中的contributesto， 由此句可知有两个原因导致长时间排队：一个是enhancedsecuritymeasuressincethen（从那以后机场便加强了安保措 施），另一个是ariseinairlinetravel（航空旅行人数增加），后者相当于选项C，故该项正确。 23.Theword“expedited”(Line4,Para.5) 第五段第三行中expedited一词的意思最接近 isclosestinmeaningto___________. [A]quieter. 更安静的。 [B]faster. 更快的。 [C]wider. 更宽的。 [D]cheaper. 更便宜的",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：C。根据题干关键词定位到文章第三段句 Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and low oil prices, have resulted in long waits at major airports such as Chicago’s O’HareInternational.（从那以后机场便加强了安保措施，而且经济状况改善和低油价使得航空旅行人数增加，导致了 旅客在芝加哥奥黑而国际机场等主要机场的等待时间漫长。）本句中的haveresultedin相当于题干中的contributesto， 由此句可知有两个原因导致长时间排队：一个是enhancedsecuritymeasuressincethen（从那以后机场便加强了安保措 施），另一个是ariseinairlinetravel（航空旅行人数增加），后者相当于选项C，故该项正确。 23.Theword“expedited”(Line4,Para.5) 第五段第三行中expedited一词的意思最接近 isclosestinmeaningto___________. [A]quieter. 更安静的。 [B]faster. 更快的。 [C]wider. 更宽的。 [D]cheaper. 更便宜的",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -63,15 +73,20 @@
         "C": "wider",
         "D": "faster"
       },
-      "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "B",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：B。解决此类题目的关键是结合上下文猜测该单词的含义。文章在前四段说明美国机场安检存在效率地下的问 ? 下列哪一项最适合作为本文的标题？ [A]GettingStuckinSecurityLines 受困于安检队伍 [B]PreCheck—aBelatedSolution 预检------一项迟来的解决方案 [C]LessScreeningforMoreSafety 以更少的安检程序保障更高的安全性 [D]UnderusedPreCheckLanes 未充分利用的预检通道 关键词：besttitle。 【答案】A 【解析】解答此类题目的思路为：做完前四道题，大体猜出文章的中心，然后再通读各段首句，验证文章的中心。 文章在前面的段落说明了美国机场安检出现的问题——排队时间长，然后在后面的段落提出了解决措施——让更多 的人加入预检程序，随后又说明了该程序的缺陷，提到问题还没有得到最终解决。选项A刚好能体现此信息，故该 项正确。 Text2 一、文章总体分析及构架 文章出自2015年7月ScientificAmerican《科学美国人》，标题HowtoResolvetheFightoverTelescopesonMauna Kea《如何解决在冒纳凯阿火山上建造望远镜的相关争议》主题是对选择冒纳凯阿火山作为“30米望远镜”台址的 讨论，题材为社会科学。 文章主要讲了在古代的夏威夷天文学家的地位很高。接下来语意一转，讲如今人们在争论是否",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：B。解决此类题目的关键是结合上下文猜测该单词的含义。文章在前四段说明美国机场安检存在效率地下的问 ? 下列哪一项最适合作为本文的标题？ [A]GettingStuckinSecurityLines 受困于安检队伍 [B]PreCheck—aBelatedSolution 预检------一项迟来的解决方案 [C]LessScreeningforMoreSafety 以更少的安检程序保障更高的安全性 [D]UnderusedPreCheckLanes 未充分利用的预检通道 关键词：besttitle。 【答案】A 【解析】解答此类题目的思路为：做完前四道题，大体猜出文章的中心，然后再通读各段首句，验证文章的中心。 文章在前面的段落说明了美国机场安检出现的问题——排队时间长，然后在后面的段落提出了解决措施——让更多 的人加入预检程序，随后又说明了该程序的缺陷，提到问题还没有得到最终解决。选项A刚好能体现此信息，故该 项正确。 Text2 一、文章总体分析及构架 文章出自2015年7月ScientificAmerican《科学美国人》，标题HowtoResolvetheFightoverTelescopesonMauna Kea《如何解决在冒纳凯阿火山上建造望远镜的相关争议》主题是对选择冒纳凯阿火山作为“30米望远镜”台址的 讨论，题材为社会科学。 文章主要讲了在古代的夏威夷天文学家的地位很高。接下来语意一转，讲如今人们在争论是否",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -86,14 +101,19 @@
         "D": "an unreasonable price for enrollment"
       },
       "answer": "D",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：D。根据题干关键词定位到文章第六段句：It has not gotten anywhere close to that, and one big reason is sticker shock.：Passengersmustpay$85everyfiveyearstoprocesstheirbackgroundchecks.冒号之后的信息具体解释了预检程 序的问题之一：乘客必须每五年支付85美元进行背景调查。由此可知，收费不合理是其中一个问题所在。选项D 刚好体现此内容，故为正确答案。 25.Whichofthefollowingwouldbethebesttitleforthetext?",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：D。根据题干关键词定位到文章第六段句：It has not gotten anywhere close to that, and one big reason is sticker shock.：Passengersmustpay$85everyfiveyearstoprocesstheirbackgroundchecks.冒号之后的信息具体解释了预检程 序的问题之一：乘客必须每五年支付85美元进行背景调查。由此可知，收费不合理是其中一个问题所在。选项D 刚好体现此内容，故为正确答案。 25.Whichofthefollowingwouldbethebesttitleforthetext?",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     },
     {
@@ -107,15 +127,20 @@
         "C": "Getting Stuck in Security Lines",
         "D": "Underused PreCheck Lanes ---"
       },
-      "answer": "C",
-      "type": "待补充",
-      "questionType": "待补充",
-      "explanation": "待补充",
-      "trapAnalysis": "待补充",
-      "commonMistake": "待补充",
+      "answer": "A",
+      "type": "细节题",
+      "questionType": "细节题",
+      "explanation": "正确答案：A。解答此类题目的思路为：做完前四道题，大体猜出文章的中心，然后再通读各段首句，验证文章的中心。 文章在前面的段落说明了美国机场安检出现的问题——排队时间长，然后在后面的段落提出了解决措施——让更多 的人加入预检程序，随后又说明了该程序的缺陷，提到问题还没有得到最终解决。选项A刚好能体现此信息，故该 项正确。 Text2 一、文章总体分析及构架 文章出自2015年7月ScientificAmerican《科学美国人》，标题HowtoResolvetheFightoverTelescopesonMauna Kea《如何解决在冒纳凯阿火山上建造望远镜的相关争议》主题是对选择冒纳凯阿火山作为“30米望远镜”台址的 讨论，题材为社会科学。 文章主要讲了在古代的夏威夷天文学家的地位很高。接下来语意一转，讲如今人们在争论是否应在冒纳凯阿火 山上建造“30米望远镜”，反对者提出了自己的观点，甚至把矛头指向了天文学家。作者在最后两段肯定了天文学， 并在结尾处明确表示他支持在冒纳凯阿火山上建造望远镜。 二、快速审题 26. Queen Liliuokalani’s remark in Paragraph 1 第一段中利留卡女王的话所表明的内容 indicates 27. Mauna Kea is deemed as an ideal astronomical site 冒纳凯阿火山被认为是理想天文台台址的原因 dueto 28. The co",
+      "trapAnalysis": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "commonMistake": "容易只抓到题干词，忽略原文的限定和同义替换。",
       "location": "待补充",
-      "thinkingMethod": "待补充",
-      "examinerThinking": null,
+      "thinkingMethod": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+      "examinerThinking": {
+        "testPoint": "细节题",
+        "trap": "干扰项常将局部信息、绝对化表述或非等价改写作为混淆。用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。",
+        "correctLogic": "正确答案：A。解答此类题目的思路为：做完前四道题，大体猜出文章的中心，然后再通读各段首句，验证文章的中心。 文章在前面的段落说明了美国机场安检出现的问题——排队时间长，然后在后面的段落提出了解决措施——让更多 的人加入预检程序，随后又说明了该程序的缺陷，提到问题还没有得到最终解决。选项A刚好能体现此信息，故该 项正确。 Text2 一、文章总体分析及构架 文章出自2015年7月ScientificAmerican《科学美国人》，标题HowtoResolvetheFightoverTelescopesonMauna Kea《如何解决在冒纳凯阿火山上建造望远镜的相关争议》主题是对选择冒纳凯阿火山作为“30米望远镜”台址的 讨论，题材为社会科学。 文章主要讲了在古代的夏威夷天文学家的地位很高。接下来语意一转，讲如今人们在争论是否应在冒纳凯阿火 山上建造“30米望远镜”，反对者提出了自己的观点，甚至把矛头指向了天文学家。作者在最后两段肯定了天文学， 并在结尾处明确表示他支持在冒纳凯阿火山上建造望远镜。 二、快速审题 26. Queen Liliuokalani’s remark in Paragraph 1 第一段中利留卡女王的话所表明的内容 indicates 27. Mauna Kea is deemed as an ideal astronomical site 冒纳凯阿火山被认为是理想天文台台址的原因 dueto 28. The co",
+        "nextTimeStrategy": "用题干关键词回原文定位，对比选项与原文的范围、语气与因果关系。"
+      },
       "sourceSentenceAnalysis": null
     }
   ],
