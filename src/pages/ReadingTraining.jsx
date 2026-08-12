@@ -320,8 +320,11 @@ export default function ReadingTraining() {
           className="lg:sticky lg:top-4 lg:self-start"
         >
           <div className="max-h-[72vh] overflow-y-auto rounded-3xl border border-slate-100 bg-gradient-to-b from-slate-50 to-white p-5 text-[15px] leading-8 text-slate-700 md:p-6 lg:max-h-[calc(100vh-11rem)]">
-            {currentPaper.passage.split("\n\n").map((paragraph) => (
-              <p key={paragraph} className="mb-5 indent-6 last:mb-0">{paragraph}</p>
+            {currentPaper.passage.split(/\n\s*\n/).filter(Boolean).map((paragraph, index) => (
+              <p key={`${index}-${paragraph.slice(0, 24)}`} className="mb-5 last:mb-0">
+                <span className="mr-2 rounded bg-blue-100 px-2 py-1 text-xs font-bold text-blue-700">P{index + 1}</span>
+                <span className="indent-6">{paragraph}</span>
+              </p>
             ))}
           </div>
           <div className="mt-4 rounded-2xl border border-indigo-100 bg-indigo-50/60 p-4">

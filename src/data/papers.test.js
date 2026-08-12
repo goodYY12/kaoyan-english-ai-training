@@ -192,6 +192,14 @@ test("2010-2018 reading questions retain verified answer explanations", () => {
   }
 });
 
+test("2025 reading passages preserve paragraph boundaries", () => {
+  for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
+    const url = new URL(`./papers/2025/text${textNumber}.json`, import.meta.url);
+    const paper = JSON.parse(readFileSync(url, "utf8"));
+    assert.ok(paper.passage.split(/\n\s*\n/).filter(Boolean).length >= 5);
+  }
+});
+
 test("2019 answer-analysis PDF contributes complete question choices and keys", () => {
   for (let textNumber = 1; textNumber <= 4; textNumber += 1) {
     const url = new URL(`./papers/2019/text${textNumber}.json`, import.meta.url);
